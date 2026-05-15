@@ -1,0 +1,141 @@
+{
+  "name": "OndoTv.w3u",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Paraguay_%281813-1840%29.svg/960px-Flag_of_Paraguay_%281813-1840%29.svg.png",
+  "author": "ENZO799-ui",
+  "url": "",
+  "info": "HOLA, ESTA ES MI 1RA LISTA W3U FUNCIONAL, ESPERO QUE LO DISFRUTEN, GRACIAS",
+  "groups": [
+    {
+      "name": "🇵🇾PARAGUAY🇵🇾",
+      "stations": [
+        {
+          "name": "SNT",
+          "image": "https://i.postimg.cc/JnzDhhpC/snt.png",
+          "url": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8"
+        },
+        {
+          "name": "TELEFUTURO",
+          "image": "https://i.imgur.com/6lVrFvb.png",
+          "url": "https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion"
+        },
+        {
+          "name": "TRECE",
+          "image": "https://i.imgur.com/cgIv5QK.png",
+          "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8"
+        },
+        {
+          "name": "UNICANAL",
+          "image": "https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp",
+          "url": "https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8"
+        },
+        {
+          "name": "MEGA TV",
+          "image": "https://i.postimg.cc/TYw8PvGR/mega-tv-py.png",
+          "url": "https://www.desde-paraguay.com/mega.m3u8"
+        },
+        {
+          "name": "PARAGUAY TV",
+          "image": "https://i.imgur.com/fkK7i8g.png",
+          "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8"
+        },
+        {
+          "name": "CANAL PRO",
+          "image": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/pro.png",
+          "url": "https://www.desde-paraguay.com/pro.m3u8"
+        },
+        {
+          "name": "NPY",
+          "image": "https://i.imgur.com/pUEkaiW.png",
+          "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion"
+        },
+        {
+          "name": "C9N",
+          "image": "https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png",
+          "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8"
+        },
+        {
+          "name": "GEN TV",
+          "image": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/gen.png?4",
+          "url": "https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion"
+        },
+        {
+          "name": "LA TELE",
+          "image": "https://i.imgur.com/Qcf6Qev.png",
+          "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion"
+        },
+        {
+          "name": "POPU TV",
+          "image": "https://i.imgur.com/UqCogyZ.png",
+          "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion"
+        },
+        {
+          "name": "HEI NOW",
+          "image": "https://i.imgur.com/oMHiGRN.png",
+          "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion"
+        },
+        {
+          "name": "E40",
+          "image": "https://i.ibb.co/jz9XkvP/e40.png",
+          "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion"
+        },
+        {
+          "name": "Mi Tv",
+          "image": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",
+          "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist.m3u8?admin=nacion"
+        },
+        {
+          "name": "Venus Media",
+          "image": "https://i.imgur.com/XwmUbfp.png",
+          "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8"
+        },
+        {
+          "name": "Ñanduti TV",
+          "image": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1020.png?4",
+          "url": "https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8"
+        },
+        {
+          "name": "Union TV",
+          "image": "https://i.imgur.com/No9YzNC.png",
+          "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
+        },
+        {
+          "name": "Educanal",
+          "image": "https://i.imgur.com/857OkFf.png",
+          "url": "https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8"
+        },
+        {
+          "name": "RCC",
+          "image": "https://i.imgur.com/qdjBnRl.png",
+          "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion"
+        },
+        {
+          "name": "America Paraguay",
+          "image": "https://i.imgur.com/rCEu3fM.png",
+          "url": "https://www.dailymotion.com/video/x9lh4mu"
+        },
+        {
+          "name": "A24 Paraguay",
+          "image": "https://i.imgur.com/LnXQkIU.png",
+          "url": "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/a24.playlist.m3u8"
+        },
+        {
+          "name": "TIGO EVENTOS PY",
+          "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
+          "url": "http://45.170.130.224:8000/play/a04i/index.m3u8"
+        },
+        {
+          "name": "FLOW EVENTOS PY",
+          "image": "https://i.postimg.cc/4dwrVjq5/flow.png",
+          "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_cenc/Eventos_PY.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"K9/DDyp1keEH2MhEWMOV3Q\",\"k\":\"3O4NZCC2tZf7oV08RBGnHg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "FLOW EVENTOS 2 PY",
+          "image": "https://i.postimg.cc/4dwrVjq5/flow.png",
+          "url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_cenc/Eventos2_PY.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CQDOZrgt4P0Hqo8SpI8pog\",\"k\":\"5VVtumiP2mNzdKtch9fNpg\"}],\"type\":\"temporary\"}"
+        }
+      ]
+    },
