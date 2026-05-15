@@ -309,7 +309,7 @@
         },
         {
           "name": "XITE RAP GAME",
-          "image": "ghttps://i.imgur.com/UaRyaoW.png",
+          "image": "https://i.imgur.com/UaRyaoW.png",
           "url": "http://cors.tundracast.com:2000/https://amg01243-xite-amg01243c8-tcl-us-6477.playouts.now.amagi.tv/playlist.m3u8"
         },
         {
@@ -324,7 +324,7 @@
         },
         {
           "name": "XITE COUNTRY TODAY",
-          "image": "",
+          "image": "https://i.imgur.com/fkK7i8g.png",
           "url": "https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8"
         },
         {
@@ -558,17 +558,17 @@
           }
         },
         {
-          "name": "RETRO  PLUS SEÑAL 1",
+          "name": "RETRO PLUS SEÑAL 1",
           "image": "https://i.postimg.cc/nzGHPFxc/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png",
           "url": "https://video06.logicahost.com.br/retropluslive01/retropluslive01/playlist.m3u8"
         },
         {
-          "name": "RETRO  PLUS SEÑAL 2",
+          "name": "RETRO PLUS SEÑAL 2",
           "image": "https://i.postimg.cc/nzGHPFxc/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png",
           "url": "https://video06.logicahost.com.br/retropluslive02/retropluslive02/playlist.m3u8"
         },
         {
-          "name": "RADIO  CAPITAL",
+          "name": "RADIO CAPITAL",
           "image": "https://i.postimg.cc/4xkSmztV/Radio-Capital-logo-2020-svg.png",
           "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8"
         },
@@ -634,4 +634,6 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"aC82tXNvRWCVHKFLgNKVJA\",\"k\":\"Osy3KQZ6ObO4FD8bRHudJQ\"}],\"type\":\"temporary\"}"
         }
       ]
-    },
+    }
+  ]
+}
