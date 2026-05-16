@@ -213,60 +213,6 @@
           "name": "SONY ONE BLACKLIST",
           "image": "https://i.postimg.cc/g095cfnw/sony-one-blacklist.png",
           "url": "https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "PACK UNIVERSAL+",
-      "stations": [
-        {
-          "name": "UNIVERSAL REALITY",
-          "image": "https://i.postimg.cc/qqHHTYmN/unreality.png",
-          "url": "https://1252-tbx.vrioott.com/universalreality/manifest.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vertex-plus.es/licence/UNIVERSALREALITY.DGO.json",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "UNIVERSAL CINEMA",
-          "image": "https://i.postimg.cc/hGL89fxm/uncinema.png",
-          "url": "https://1253-tbx.vrioott.com/universalcinema/manifest.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vertex-plus.es/licence/UNIVERSALCINEMA.DGO.json",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "UNIVERSAL COMEDY",
-          "image": "https://i.postimg.cc/XYR8QbXB/uncomedy.png",
-          "url": "https://1252-tbx.vrioott.com/universalcomedy/manifest.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vertex-plus.es/licence/UNIVERSALCOMEDY.DGO.json",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "UNIVERSAL PREMIERE",
-          "image": "https://i.postimg.cc/CLM6qSfF/unpremiere.png",
-          "url": "https://1256-tbx.vrioott.com/universalpremiereeste/manifest.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vertex-plus.es/licence/UNIVERSALPREMIERE.DGO.json",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "UNIVERSAL CRIME",
-          "image": "https://i.postimg.cc/cCFhmt8d/uncrime.png",
-          "url": "https://1254-tbx.vrioott.com/universalcrimeeste/manifest.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vertex-plus.es/licence/UNIVERSALCRIME.DGO.json",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
           }
         }
       ]
@@ -274,6 +220,98 @@
     {
       "name": "🎵MUSICALES🎵",
       "stations": [
+        {
+          "name": "Stingray iConcerts",
+          "image": "https://i.postimg.cc/2ygd92x5/stingray-iconcerts.png",
+          "url": "https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8"
+          }
+        },
+        {
+          "name": "Stingray Classica",
+          "image": "https://i.postimg.cc/Fzk3S0Xx/stingray-classica.png",
+          "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Juicebox",
+          "image": "https://i.postimg.cc/MZcjG0DV/stingray-juicebox.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-JUICEBOX-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2tfZTIahmgFUnlqvY375Zw\",\"k\":\"IPmlV7WON5gDcLvccYpETg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Stingray Hits!",
+          "image": "https://i.postimg.cc/mZFt4LLJ/stingray-hits.png",
+          "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/SKY-STINGRAY-HITS-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"HC79hNjC2ur6r2tsw45D6Q\",\"k\":\"lzu4DG0uq0G4PaDr6nynEA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Stingray Retro",
+          "image": "https://i.postimg.cc/4yC4ycft/stingray-retro.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/STINGRAY-RETRO-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"IcQ0I77EM8UpCIJGcOoRyQ\",\"k\":\"fYVOSbdQxw8pup7RXmsZKg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Telehit",
+          "image": "https://i.ibb.co/5Y4C401/telehit.png",
+          "url": "https://aca-live4-ott.izzigo.tv/15/out/u/dash/TELEHIT-SD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"btNsX30HdeIfB0jdF1ILyQ\",\"k\":\"ZUJWzFk59tUClptPu8Ryhg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Telehit Musica",
+          "image": "https://i.ibb.co/p4243Nf/Telehit-M-sica.png",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-SD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rn2BC9S4nTFIdXf772t0eg\",\"k\":\"GrRZ2xus9jkX3w01oRB8lA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Telehit Musica Plus",
+          "image": "https://i.postimg.cc/G36X3gB3/telehit-musica-plus.png",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-PLUS-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1kgNed0+aM0/0vDlcROqdA\",\"k\":\"CDs82P1kLkq3rGAf3FO9bA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "TeleRitmo",
+          "image": "https://i.postimg.cc/bwscY8fp/tele-ritmo.png",
+          "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/TELERITMO-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"LPI5j6kD8wCWKgdxUSqT8Q\",\"k\":\"80Xhs1w1f6cTfnMlBZ2VsQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Bandamax",
+          "image": "https://i.ibb.co/0D7TMmZ/Bandamax.png",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"0BS0x/ItSQ9W4tfT/hJcFQ\",\"k\":\"aYZK1LmNBun88kMO1ntsMw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
         {
           "name": "VEVO 2K",
           "image": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png",
