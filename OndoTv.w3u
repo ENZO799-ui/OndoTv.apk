@@ -151,9 +151,7 @@
         {
           "name": "A24 Paraguay",
           "image": "https://i.postimg.cc/3rPWMK45/america24.png",
-          "url": "http://cdn.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_cenc/A24_PY.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"guh/rBwzkVrV00T/rBu7tA\",\"k\":\"22C/qgF4BxpVcubm/7Ru0w\"}],\"type\":\"temporary\"}"
+          "url": "https://www.youtube.com/c/A24com/live"
         },
         {
           "name": "TIGO EVENTOS PY",
