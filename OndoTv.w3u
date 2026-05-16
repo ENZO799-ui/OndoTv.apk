@@ -177,6 +177,309 @@
       ]
     },
     {
+      "name": "DEPORTES NORTE [MX]",
+      "stations": [
+        {
+          "name": "ESPN MX",
+          "image": "https://i.postimg.cc/TPKcqwGz/espn.png",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"OLY/mqp7fHqCLI4UyKchLg\",\"k\":\"1rH0WlnS2sGnMMf1bHSXGg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "ESPN 2 MX",
+          "image": "https://i.postimg.cc/4NXb2ws3/espn-2.png",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"pJEUlX0VXKyy4CevFEULlA\",\"k\":\"D+1lmah0CHminxpJ7G1IKg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "ESPN 3 MX",
+          "image": "https://i.postimg.cc/hGQ9Q51B/espn-3.png",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"3DwaCD6uWTYxtbUBni77eA\",\"k\":\"aGk/tm3DHKhk2FTNF2xExg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "ESPN 4 MX",
+          "image": "https://i.postimg.cc/d36dKPw6/espn-4.png",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"obgJm2Ryarx3I+F4KbQ6VQ\",\"k\":\"kIqT/kGs8HU4yIwbMCd2Vg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "SPACE",
+          "image": "https://i.postimg.cc/yNPgTC2x/space-hd.png",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/SPACE-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"z/Y2oGNPRoM9DM2dUiVJkw\",\"k\":\"sx2iojNkkDs2lFVlhVbHTA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Canal 5",
+          "image": "https://i.ibb.co/V310Z0q/canal5.png",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/CANAL-5-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"V493wuD7ezGxZ2t1tX/pIg\",\"k\":\"bl7iZrES5YoOJ+Q4SwPtdg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "NU9VE Nacional",
+          "image": "https://i.postimg.cc/brhs1y8K/nu9ve-nacional.png",
+          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/NUEVE-RDF-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"prYlF8pLtZ2e8LiIYWp2Wg\",\"k\":\"8YwIC6ydB05KW2QdV2cGXw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Las Estrellas",
+          "image": "https://i.postimg.cc/Bt996SPz/las-estrellas.png",
+          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/LAS-ESTRELLAS-RDF-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"3cmZlUHa1nn0yteLCn5CRw\",\"k\":\"upUUOStZDXwfOwwGoQ48iA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Azteca 7",
+          "image": "https://www.izzigo.tv/images/ch/18/LOGO/m/0",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"zo+G0vDRY4V0I3raisLoKg\",\"k\":\"ZCdy6/GDLx8vpYy36Pz9BQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "TUDN",
+          "image": "https://i.postimg.cc/gJPNzpFs/tudn.png",
+          "url": "https://streaming.alwaysdata.net/tudn.php"
+          }
+        },
+        {
+          "name": "Sky Sports 16",
+          "image": "https://i.postimg.cc/G2YVKzdm/sky-sport-16.png",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"y4Dh59dZjq+Ysdu+bcFO6Q\",\"k\":\"EDrlXHlIyh0VnWdDYZ0mxA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Sky Sports 21",
+          "image": "https://i.postimg.cc/W1yjByM9/sky-sport-21.png",
+          "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"mZCQMjicbuQcPS8+yCn4BA\",\"k\":\"QfvFdcjvHNrB3KmQyaDfnQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Sky Sports 24",
+          "image": "https://i.postimg.cc/zXq6wnM1/sky-sport-24.png",
+          "url": "https://aca-live4-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2NWCPZKp75MGpMxL1jS0tA\",\"k\":\"35+9qg756QW3X0aS8hOvGQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Sky Sports",
+          "image": "https://i.postimg.cc/yYv7PxWH/sky-sport.png",
+          "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"M1UR398NA7wG8f3q1YcLWg\",\"k\":\"GgIvszrT3k1FebBJZlUUiA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Sky Sports F1 H265",
+          "image": "https://i.postimg.cc/851ytp78/sky-sport-f1.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rn8WGR4q36rNm1Nu1Yopig\",\"k\":\"MxmzylzW8K8vPUvZp2MKiw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Sky Sports F1",
+          "image": "https://i.postimg.cc/851ytp78/sky-sport-f1.png",
+          "url": "https://vod-cua-orbit3-s1.izzigo.tv/out/u/startover/dash/F1-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qDncWojOYtofzHungWGrwg\",\"k\":\"MKLw1ECNOKpZaPCKeEw3rQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Sky Live Event 1",
+          "image": "https://i.postimg.cc/Nf7YBs3z/sky-sport-event-1.png",
+          "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"o2NqUSJ/ozjN3fWJLYpiHA\",\"k\":\"FETuPE0IvzlFS5FPeXlo6w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Sky Live Event 2",
+          "image": "https://i.postimg.cc/6QTNrd8J/sky-sport-event-2.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/SKY-LIVE-EVENT-2-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"HSIJh7E6WUsUTRu7a+3VaA\",\"k\":\"sXeOTCIAo6iFlXUAsT9TNQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Sky Live Event 4",
+          "image": "https://i.ibb.co/sJFN5k78/sky-sport-event-4.webp",
+          "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qTGy6VNpX/sM/ThXPpe6Mw\",\"k\":\"Td2ZzE+xaNfw4gvooyhxAA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozila",
+            "Referer": "https://www.izzigo.tv/"
+          }
+        },
+        {
+          "name": "Sky Live Event 5",
+          "image": "https://i.ibb.co/6352xxv/sky-sport-event-5.webp",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"bInoTFLq4EKLfSyOiHpI7A\",\"k\":\"dYoUhPkgoPGqc+ldXyviJQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozila",
+            "Referer": "https://www.izzigo.tv/"
+          }
+        },
+        {
+          "name": "GOLF CHANNEL LATIN AMERICA",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/6885621707734.png",
+          "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/GOLF-CHANNEL-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"uN95fgcbDvHxojjIrBitLQ\",\"k\":\"plvOKc9LtTkMaG6gy7vEzQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "NFL NETWORK",
+          "image": "https://i.postimg.cc/xdnppLvX/NFL.png",
+          "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/NFL-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"sSt213aFOk8BV4aut2htOA\",\"k\":\"1pUXj0sr5MLO9TXLTKVX/w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Basket Americas",
+          "image": "https://i.postimg.cc/G2HhmWFH/basket-americas.png",
+          "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/BASKET-AMERICAS-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"M3ffmj4853NXk1Qd60lleg\",\"k\":\"31W33w9dP9s0/1aXeqcznQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Latin American Sports",
+          "image": "https://i.postimg.cc/T36wJHx3/LAS.png",
+          "url": "https://aca-live4-ott.izzigo.tv/14/out/u/dash/LATIN-AMERICAN-SPORTS-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"khO/v3wC4b6tp129OJYIpQ\",\"k\":\"qKSL1AoaYuYlioXmg6f6eA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Beisbol Latino TV",
+          "image": "https://i.postimg.cc/sxvRGbKM/beisbol-latino.png",
+          "url": "https://aca-live4-ott.izzigo.tv/14/out/u/dash/BEISBOL-LATINO-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Xb8UiIvZmnsBo8mwOGwp7Q\",\"k\":\"HuX2BCspLPs2blsuwn7PIg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Hi Sports",
+          "image": "https://i.postimg.cc/nhxDp91D/hi-sports.png",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/HI-SPORTS-SD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"8pZq1TPlKhnD3tHHueQDcA\",\"k\":\"LguyDj7bPOf8DWFrP/KHSA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "ITV Deportes",
+          "image": "https://i.postimg.cc/Pr8hcbyv/itv-deportes.png",
+          "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/ITV-DEPORTES-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"TQXFIMQOXkDdu9oEHR4oEQ\",\"k\":\"9+JI3B0ybxcsYhiVyQM4oA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "AYM SPORTS",
+          "image": "https://i.postimg.cc/282gDssm/aym-sports.png",
+          "url": "https://aca-live4-ott.izzigo.tv/14/out/u/dash/AYM-SPORTS-TV-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"EVBeSY3DVxyBjDUNNlY9+w\",\"k\":\"HcobI3me8Gzk+FGjlotzuA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Adrenalina Sports Network",
+          "image": "https://i.postimg.cc/3x24hrK1/adrenalina-sports.webp",
+          "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/ADRENALINA-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"beCma1KEAcA3jFWXEvdGQw\",\"k\":\"+aJAzqdfWFrdhAU3WtHXhw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Mexico Al Aire Libre",
+          "image": "https://i.postimg.cc/442NjxTV/mx-al-aire-libre.png",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/MEXICO-AL-AIRE-LIBRE-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"EhNLGt6eLFW+FEoSFujl+g\",\"k\":\"EMSaq9lFGMzUuMP3/Sus2w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+        }
+      ]
+    },
+    {
       "name": "PACK SONY ONE",
       "stations": [
         {
