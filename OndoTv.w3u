@@ -271,7 +271,7 @@
         },
         {
           "name": "TUDN",
-          "image": "https://i.imgur.com/oT5CAvd.png",
+          "image": "https://i.postimg.cc/gJPNzpFs/tudn.png",
           "url": "https://streaming.alwaysdata.net/tudn.php"
         },
         {
@@ -475,46 +475,7 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"EhNLGt6eLFW+FEoSFujl+g\",\"k\":\"EMSaq9lFGMzUuMP3/Sus2w\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
-        }
-      ]
-    },
-    {
-      "name": "PACK SONY ONE",
-      "stations": [
-        {
-          "name": "SONY ONE CINEMA",
-          "image": "https://i.ibb.co/sFFngk7/sony-one-cinema.png",
-          "url": "https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8"
-        },
-        {
-          "name": "SONY ONE EXITOS",
-          "image": "https://i.postimg.cc/26NfJ14K/sony-one-exitos.png",
-          "url": "https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8"
-        },
-        {
-          "name": "SONY ONE HITS ACCION",
-          "image": "https://i.postimg.cc/QCbscjKn/sony-one-hits-accion.png",
-          "url": "https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8"
-        },
-        {
-          "name": "SONY ONE SERIES THRILLER",
-          "image": "https://i.postimg.cc/KzW8RGL7/sony-one-series-thriller.png",
-          "url": "https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8"
-        },
-        {
-          "name": "SONY ONE SERIES COMEDIA",
-          "image": "https://i.postimg.cc/MZRnvBPv/sony-one-series-comedia.png",
-          "url": "https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8"
-        },
-        {
-          "name": "SONY ONE HITS COMEDIA",
-          "image": "https://i.postimg.cc/q7nP8p9X/sony-one-hits-comedia.png",
-          "url": "https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8"
-        },
-        {
-          "name": "SONY ONE BLACKLIST",
-          "image": "https://i.postimg.cc/g095cfnw/sony-one-blacklist.png",
-          "url": "https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8"
+          }
         }
       ]
     },
