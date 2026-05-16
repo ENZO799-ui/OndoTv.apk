@@ -719,6 +719,50 @@
       "name": "🎵MUSICALES🎵",
       "stations": [
         {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"DxvhDQUZ4MRTEF8BMZ_kBw\",\"k\":\"mXbZG_zcfdIUjTaviQJ3Yg\"}],\"type\":\"temporary\"}",
+          "name": "Mi MÃºsica RomÃ¡ntica",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png",
+          "url": "https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"0oj8LaAznJz6F4vkoHxM0g\",\"k\":\"wOJbXTC2gpsVJm6EgHoMpg\"}],\"type\":\"temporary\"}",
+          "name": "Mi MÃºsica ReggaetÃ³n",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/160/160/0/0/11385912076761.png",
+          "url": "https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"IkbHR-X04dwFUFDReGGJNQ\",\"k\":\"xsKmaTvsBZ687XiNCdJx8w\"}],\"type\":\"temporary\"}",
+          "name": "Mi MÃºsica Hits",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png",
+          "url": "https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"xvCysBQgB7hiTeDC1TliyA\",\"k\":\"Rrj7cT_dCaHFW4W2-K2cnA\"}],\"type\":\"temporary\"}",
+          "name": "Mi MÃºsica K-Pop",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
           "name": "Stingray iConcerts",
           "image": "https://i.postimg.cc/2ygd92x5/stingray-iconcerts.png",
           "url": "https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8"
