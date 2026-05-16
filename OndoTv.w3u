@@ -177,6 +177,242 @@
       ]
     },
     {
+      "name": "🇦🇷ARGENTINA (SOLO SD)🇦🇷",
+      "stations": [
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"tWUYBrQvCHxYMysFLecnxQ\",\"k\":\"EZAbNcw-Wqc2GfZNAsOKDw\"}],\"type\":\"temporary\"}",
+          "name": "America",
+          "image": "https://www.sensa.com.ar/images/logo_sensa_nav.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"axdTiBDx3USF8XTcwgSHLA\",\"k\":\"PVuXN3JDPOB8iZmqZZ6kjA\"}],\"type\":\"temporary\"}",
+          "name": "TV Publica",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"fB9Q4_USFr3R78yZ06JyFw\",\"k\":\"NEHJMCd9gkQCqv7kRrqPkA\"}],\"type\":\"temporary\"}",
+          "name": "El nueve",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"m7VPzP-t3TiRboXAjemMyQ\",\"k\":\"0G9QnEGOtvGy_Ct2ZEUyiw\"}],\"type\":\"temporary\"}",
+          "name": "Telefe",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"57BcenN7fwpdVxuR3qomlw\",\"k\":\"QHmsIFtUSxwpTuFWiQb_WA\"}],\"type\":\"temporary\"}",
+          "name": "El Trece",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"w9tpHH5FILey3IIquQVUWg\",\"k\":\"7ioevm_MLvOwGUPN2SVsxg\"}],\"type\":\"temporary\"}",
+          "name": "Net TV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/160/160/0/0/30595173074646.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"HX0WCUd9Cw1RpbfRU55l6w\",\"k\":\"kLYbP6V36re1PvbxyuuCvw\"}],\"type\":\"temporary\"}",
+          "name": "Bravo TV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/2561/CH_LOGO/160/160/0/0/23653274077154.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"AUdxxKkduA6W8DjsCs_DBA\",\"k\":\"43-mliZZI6YILeFXZiqrcw\"}],\"type\":\"temporary\"}",
+          "name": "Ciudad Magazine",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/367/CH_LOGO/160/160/0/0/917545880726.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"JOyu0gIlo2etj96bboJs1g\",\"k\":\"FNv8AHo_VkjSwwB18DeoMA\"}],\"type\":\"temporary\"}",
+          "name": "Canal Rural",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/59/CH_LOGO/160/160/0/0/446602280711.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"aOd4g4nRi_pJ2vgSxYGjsA\",\"k\":\"tO8W8xMl4k0WOQ6nSwiFEg\"}],\"type\":\"temporary\"}",
+          "name": "Chacra TV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/591/CH_LOGO/160/160/0/0/44952019073840.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7ZNs1ctZ7u6Drdr7RGZipA\",\"k\":\"3Ut66yvAAEaIgylueuSgmw\"}],\"type\":\"temporary\"}",
+          "name": "A24",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vRdn_jVU8ShSIrVhAQXA6Q\",\"k\":\"g51bHux-tw1oweFTH8DW1A\"}],\"type\":\"temporary\"}",
+          "name": "C5N",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"s1rsxVS4Wal88RuJJzGvHw\",\"k\":\"Ol2hp8alzG5Ii9u78JEy_w\"}],\"type\":\"temporary\"}",
+          "name": "Canal 26",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GU8GghgOFH95KAeNzHigGQ\",\"k\":\"3fwIVF50pr2IcPEYnNG-wA\"}],\"type\":\"temporary\"}",
+          "name": "Cronica",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"oAIBC1BoVFmd_7uLkEjsfA\",\"k\":\"Fg7t-FIp2pGafF7sT774CQ\"}],\"type\":\"temporary\"}",
+          "name": "La Nacion+",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"S06-PGjEyVx2OQludsIz0A\",\"k\":\"DEjNXjKYt2KgmazcBaUYKg\"}],\"type\":\"temporary\"}",
+          "name": "TN",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GJQikHLMrC0PahAdYY0DnQ\",\"k\":\"mn6oSN8gK_IqxRvaRIKkwg\"}],\"type\":\"temporary\"}",
+          "name": "Canal E",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/2562/CH_LOGO/160/160/0/0/11035030078196.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rwVmxQ5zPDEb36ZzapXOUA\",\"k\":\"5N_RKZMJezw1rUdWLWG0zg\"}],\"type\":\"temporary\"}",
+          "name": "El Destape",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/4126/CH_LOGO/160/160/0/0/49015720078226.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Kx1kO0KQi9opJxN883R-Gg\",\"k\":\"nM2QUqmijAUJaZboLAgOsw\"}],\"type\":\"temporary\"}",
+          "name": "Cine.AR",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/160/160/0/0/98997452071605.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"nmvGzZtgAjj4nXX_sCy4Ug\",\"k\":\"8QKUmqFtGnQdD6MNxg-cvQ\"}],\"type\":\"temporary\"}",
+          "name": "Encuentro",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/122/CH_LOGO/160/160/0/0/1011215007477.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7SW122AzDn6hTjvwB9sHlw\",\"k\":\"mzeNWfeOBOaXypWLHdacpw\"}],\"type\":\"temporary\"}",
+          "name": "Argentinisima Satelital",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/4027/CH_LOGO/160/160/0/0/480102480757.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        }
+      ]
+    },
+    {
       "name": "DEPORTES NORTE [MX]",
       "stations": [
         {
