@@ -312,7 +312,7 @@
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"tWUYBrQvCHxYMysFLecnxQ\",\"k\":\"EZAbNcw-Wqc2GfZNAsOKDw\"}],\"type\":\"temporary\"}",
           "name": "America",
-          "image": "https://www.sensa.com.ar/images/logo_sensa_nav.png",
+          "image": "https://www.americatv.com.ar/css-custom/354/images/main-logo.svg",
           "url": "https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?",
           "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
