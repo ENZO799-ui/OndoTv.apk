@@ -4,7 +4,42 @@
   "author": "ENZO799-ui",
   "url": "https://raw.githubusercontent.com/ENZO799-ui/OndoTv.apk/refs/heads/main/OndoTv.w3u",
   "info": "HOLA, ESTA ES MI 1RA LISTA W3U FUNCIONAL, ESPERO QUE LO DISFRUTEN, GRACIAS",
-  "stationList": [
+  "groups": [
+    {
+      "name": "Canales latam VPN AR",
+      "image": "https://cdn-icons-png.flaticon.com/512/4483/4483683.png",
+      "url": "https://azzplay.pages.dev/lsts/ar.w3u"
+    },
+    {
+      "name": "Deportes GLOBALES",
+      "image": "https://img.icons8.com/bubbles/1200/football2.jpg",
+      "url": "https://azzplay.pages.dev/lsts/deportescloud.w3u"
+    },
+    {
+      "name": "MX (no vpn)",
+      "image": "https://images.icon-icons.com/2088/PNG/96/mx_icon_128060.png",
+      "url": "https://azzplay.pages.dev/lsts/mx.w3u"
+    },
+    {
+      "name": "Canales server 2",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
+      "url": "https://azzplay.pages.dev/lsts/ar2.w3u"
+    },
+    {
+      "name": "Canales server 3",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
+      "url": "https://azzplay.pages.dev/lsts/ar3.w3u"
+    },
+    {
+      "name": "LISTA GLOBAL",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
+      "url": "https://azzplay.pages.dev/lsts/global.w3u"
+    },
+    {
+      "name": "Canales latam GLOBALES",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
+      "url": "https://azzplay.pages.dev/lsts/tvx.w3u"
+    },
     {
       "name": "🇵🇾TIGO SPORTS🇵🇾",
       "stations": [
