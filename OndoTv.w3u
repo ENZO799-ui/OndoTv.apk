@@ -7,18 +7,8 @@
   "groups": [
     {
       "name": "Canales latam VPN AR",
-      "image": "https://cdn-icons-png.flaticon.com/512/4483/4483683.png",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
       "url": "https://azzplay.pages.dev/lsts/ar.w3u"
-    },
-    {
-      "name": "Deportes GLOBALES",
-      "image": "https://img.icons8.com/bubbles/1200/football2.jpg",
-      "url": "https://azzplay.pages.dev/lsts/deportescloud.w3u"
-    },
-    {
-      "name": "MX (no vpn)",
-      "image": "https://images.icon-icons.com/2088/PNG/96/mx_icon_128060.png",
-      "url": "https://azzplay.pages.dev/lsts/mx.w3u"
     },
     {
       "name": "Canales server 2",
@@ -29,6 +19,16 @@
       "name": "Canales server 3",
       "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
       "url": "https://azzplay.pages.dev/lsts/ar3.w3u"
+    },
+    {
+      "name": "Deportes GLOBALES",
+      "image": "https://img.icons8.com/bubbles/1200/football2.jpg",
+      "url": "https://azzplay.pages.dev/lsts/deportescloud.w3u"
+    },
+    {
+      "name": "Canales latam VPN US-MX",
+      "image": "https://images.icon-icons.com/2088/PNG/96/mx_icon_128060.png",
+      "url": "https://azzplay.pages.dev/lsts/mx.w3u"
     },
     {
       "name": "LISTA GLOBAL",
