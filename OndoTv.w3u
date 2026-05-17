@@ -848,6 +848,46 @@
       "name": "🎵MUSICALES🎵",
       "stations": [
         {
+          "name": "MTV LIVE",
+          "image": "https://is.gd/h4WXiH?.png",
+          "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_MTV_LIVE/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "name": "MTV Biggest Pop",
+          "image": "https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8"
+        },
+        {
+          "name": "MTV Spankin' New",
+          "image": "https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8"
+        },
+        {
+          "name": "MTV Flow Latino",
+          "image": "https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8"
+        },
+        {
+          "name": "MTV CLASSICS",
+         "image": "https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8"
+        },
+        {
+          "name": "MTV ROCKS",
+          "image": "https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8"
+        },
+        {
+          "name": "STINGRAY TIKTOK RADIO",
+          "image": "https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8"
+        },
+        {
+          "name": "CONCERT CHANNEL",
+          "image": "https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8"
+        },
+        {
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"DxvhDQUZ4MRTEF8BMZ_kBw\",\"k\":\"mXbZG_zcfdIUjTaviQJ3Yg\"}],\"type\":\"temporary\"}",
           "name": "Mi Musica Romantica",
@@ -891,15 +931,24 @@
             "Referer": "https://webclient.ctcplus.com.ar/"
           }
         },
-        {
-          "name": "Stingray iConcerts",
-          "image": "https://i.postimg.cc/2ygd92x5/stingray-iconcerts.png",
-          "url": "https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8"
+          "name": "Holidayscapes",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20251230T035626SQUARE.png",
+          "url": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8"
         },
         {
-          "name": "Stingray Classica",
-          "image": "https://i.postimg.cc/Fzk3S0Xx/stingray-classica.png",
-          "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+          "name": "Conciertos Por Stingray",
+          "image": "https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8"
+        },
+        {
+          "name": "Stingray Qello Concerts",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500024YB_20260421T141917SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Classic Rock",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20250630T232430SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
         },
         {
           "name": "Stingray Juicebox",
@@ -930,6 +979,166 @@
           "headers": {
             "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
           }
+        },
+        {
+          "name": "Stingray Classica",
+          "image": "https://i.postimg.cc/Fzk3S0Xx/stingray-classica.png",
+          "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray CMusic",
+          "image": "https://i.imgur.com/3UppN5P.png",
+          "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray DJAZZ",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20240826T191202SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Movie Music",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700003DP_20260421T141750SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Easy Listening",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20260421T143139SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Flashback 70s",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20260421T143136SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Hit List",
+          "image": "https://i.imgur.com/lgpIwId.png",
+          "url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Holiday Hits",
+          "image": "https://i.imgur.com/4xVVKH8.png",
+          "url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Hot Country",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20251230T035621SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": " Karaoke Por Stingray",
+          "image": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8"
+        },
+        {
+          "name": "Stingray Karaoke US",
+          "image": "https://i.imgur.com/9TLTLS3.png",
+          "url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Hip Hop",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20260421T141910SQUARE.png",
+          "url": "https://jmp2.uk/stvp-USBD3500010MT"
+        },
+        {
+          "name": "Stingray Euro Hits",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700002UF_20260421T143051SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Soft Hits",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700007GV_20260421T143101SQUARE.png",
+          "url": "https://jmp2.uk/stvp-US4700007GV"
+        },
+        {
+          "name": "Stingray Jukebox Oldies",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700006XL_20260421T143057SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Country Greats",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700005EA_20260421T143054SQUARE.png",
+          "url": "https://jmp2.uk/stvp-US4700005EA"
+        },
+        {
+          "name": "Stingray Hot Country",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20251230T035621SQUARE.png",
+          "url": "https://jmp2.uk/stvp-USBD3300021KV"
+        },
+        {
+          "name": "Stingray Greatest Hits",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20251230T035623SQUARE.png",
+          "url": "https://jmp2.uk/stvp-USBD3500022DN"
+        }
+        {
+          "name": "Stingray Naturescape",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20250630T232500SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Nothin' But 90s",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20260421T143145SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Pop Adult",
+          "image": "https://i.imgur.com/H2ugC9L.png",
+          "url": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Remember the 80s",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20260421T143132SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Rock Alternative",
+          "image": "https://i.imgur.com/mt8ulVX.png",
+          "url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Romance Latino",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20260421T141914SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Smooth Jazz",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20260421T143142SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Soul Storm",
+          "image": "https://i.imgur.com/dU1KC3f.png",
+          "url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray The Spa",
+          "image": "https://i.imgur.com/ywAN923.png",
+          "url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Today's KPOP",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20250630T232451SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Today's Latin Pop",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20260421T141859SQUARE.png",
+          "url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray Urban Beat",
+          "image": "https://i.imgur.com/Os3kRRP.png",
+          "url": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8"
+        },
+        {
+          "name": "Stingray iConcerts",
+          "image": "https://i.postimg.cc/2ygd92x5/stingray-iconcerts.png",
+          "url": "https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8"
+        },
+        {
+          "name": "Stingray Classica",
+          "image": "https://i.postimg.cc/Fzk3S0Xx/stingray-classica.png",
+          "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
         },
         {
           "name": "Telehit",
