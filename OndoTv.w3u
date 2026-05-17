@@ -869,7 +869,7 @@
         },
         {
           "name": "MTV CLASSICS",
-         "image": "https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png",
+          "image": "https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png",
           "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8"
         },
         {
@@ -894,7 +894,7 @@
           "image": "https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png",
           "url": "https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd?",
           "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
             "Referer": "https://webclient.ctcplus.com.ar/"
           }
         },
@@ -905,7 +905,7 @@
           "image": "https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/160/160/0/0/11385912076761.png",
           "url": "https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd?",
           "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
             "Referer": "https://webclient.ctcplus.com.ar/"
           }
         },
@@ -916,7 +916,7 @@
           "image": "https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png",
           "url": "https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?",
           "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
             "Referer": "https://webclient.ctcplus.com.ar/"
           }
         },
@@ -927,10 +927,11 @@
           "image": "https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png",
           "url": "https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?",
           "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
             "Referer": "https://webclient.ctcplus.com.ar/"
           }
         },
+        {
           "name": "Holidayscapes",
           "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20251230T035626SQUARE.png",
           "url": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8"
@@ -1069,7 +1070,7 @@
           "name": "Stingray Greatest Hits",
           "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20251230T035623SQUARE.png",
           "url": "https://jmp2.uk/stvp-USBD3500022DN"
-        }
+        },
         {
           "name": "Stingray Naturescape",
           "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20250630T232500SQUARE.png",
@@ -1134,11 +1135,6 @@
           "name": "Stingray iConcerts",
           "image": "https://i.postimg.cc/2ygd92x5/stingray-iconcerts.png",
           "url": "https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8"
-        },
-        {
-          "name": "Stingray Classica",
-          "image": "https://i.postimg.cc/Fzk3S0Xx/stingray-classica.png",
-          "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
         },
         {
           "name": "Telehit",
@@ -1390,17 +1386,6 @@
           "name": "XITE COUNTRY TODAY",
           "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20260421T141848SQUARE.png",
           "url": "https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8"
-        },
-        {
-          "name": "MUSIC BOX SEXY",
-          "image": "https://i.postimg.cc/CLPZ0ZN3/music-box-sexy.png",
-          "url": "https://dash2.antik.sk/stream/hisi_mb_sexy/playlist_cbcs.mpd",
-          "license_type": "widevine",
-          "license_key": "https://drm.antik.sk/widevine/key",
-          "headers": {
-            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
-            "Referer": "https://webtv.sk/"
-          }
         },
         {
           "name": "MUSIC BOX HITS",
