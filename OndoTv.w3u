@@ -953,7 +953,7 @@
         },
         {
           "name": "Stingray Juicebox",
-          "image": "https://i.postimg.cc/MZcjG0DV/stingray-juicebox.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Stingray_Juicebox.svg",
           "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-JUICEBOX-HD-H265/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2tfZTIahmgFUnlqvY375Zw\",\"k\":\"IPmlV7WON5gDcLvccYpETg\"}],\"type\":\"temporary\"}",
@@ -963,7 +963,7 @@
         },
         {
           "name": "Stingray Hits!",
-          "image": "https://i.postimg.cc/mZFt4LLJ/stingray-hits.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Stingray_Hits.svg",
           "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/SKY-STINGRAY-HITS-HD-H265/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"HC79hNjC2ur6r2tsw45D6Q\",\"k\":\"lzu4DG0uq0G4PaDr6nynEA\"}],\"type\":\"temporary\"}",
@@ -973,7 +973,7 @@
         },
         {
           "name": "Stingray Retro",
-          "image": "https://i.postimg.cc/4yC4ycft/stingray-retro.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Stingray_RETRO.svg",
           "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/STINGRAY-RETRO-HD-H265/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"IcQ0I77EM8UpCIJGcOoRyQ\",\"k\":\"fYVOSbdQxw8pup7RXmsZKg\"}],\"type\":\"temporary\"}",
@@ -983,7 +983,7 @@
         },
         {
           "name": "Stingray Classica",
-          "image": "https://i.postimg.cc/Fzk3S0Xx/stingray-classica.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stingray_Classica_Logo_10.2019.svg/3840px-Stingray_Classica_Logo_10.2019.svg.png",
           "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
         },
         {
@@ -1148,7 +1148,7 @@
         },
         {
           "name": "Telehit Musica",
-          "image": "https://i.ibb.co/p4243Nf/Telehit-M-sica.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Telehit_M%C3%BAsica_logo.png/250px-Telehit_M%C3%BAsica_logo.png",
           "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-SD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rn2BC9S4nTFIdXf772t0eg\",\"k\":\"GrRZ2xus9jkX3w01oRB8lA\"}],\"type\":\"temporary\"}",
@@ -1157,8 +1157,8 @@
           }
         },
         {
-          "name": "Telehit Musica Plus",
-          "image": "https://i.postimg.cc/G36X3gB3/telehit-musica-plus.png",
+          "name": "Telehit Plus",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png",
           "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-PLUS-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1kgNed0+aM0/0vDlcROqdA\",\"k\":\"CDs82P1kLkq3rGAf3FO9bA\"}],\"type\":\"temporary\"}",
@@ -1169,7 +1169,7 @@
         },
         {
           "name": "TeleRitmo",
-          "image": "https://i.postimg.cc/bwscY8fp/tele-ritmo.png",
+          "image": "https://i.imgur.com/9s380Bz.png",
           "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/TELERITMO-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"LPI5j6kD8wCWKgdxUSqT8Q\",\"k\":\"80Xhs1w1f6cTfnMlBZ2VsQ\"}],\"type\":\"temporary\"}",
