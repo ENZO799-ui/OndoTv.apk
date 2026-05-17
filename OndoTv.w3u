@@ -56,6 +56,11 @@
           "url": "https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion"
         },
         {
+          "name": "MONUMENTAL",
+          "image": "https://i.imgur.com/kEcOYML.png",
+          "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion"
+        },
+        {
           "name": "TRECE",
           "image": "https://i.imgur.com/cgIv5QK.png",
           "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8"
@@ -74,6 +79,16 @@
           "name": "PARAGUAY TV",
           "image": "https://i.imgur.com/fkK7i8g.png",
           "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8"
+        },
+        {
+          "name": "RADIO NACIONAL DEL PARAGUAY",
+          "image": "",
+          "url": ""
+        },
+        {
+          "name": "RED DIGITAL",
+          "image": "https://i.imgur.com/3jj0MQP.jpg",
+          "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8"
         },
         {
           "name": "CANAL PRO",
@@ -166,6 +181,11 @@
           "url": "https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8"
         },
         {
+          "name": "ÑANDEJARA ÑE´E TV",
+          "image": "https://i.postimg.cc/VLn9kH7Z/nande-jara.png",
+          "url": "https://rds3gen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8"
+        },
+        {
           "name": "Union TV",
           "image": "https://i.imgur.com/No9YzNC.png",
           "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
@@ -179,6 +199,46 @@
           "name": "RCC",
           "image": "https://i.imgur.com/qdjBnRl.png",
           "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion"
+        },
+        {
+          "name": "TV CHAQUEÑA",
+          "image": "https://i.postimg.cc/wTZxC8bG/tv-chaquena.png",
+          "url": "https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8"
+        },
+        {
+          "name": "TVAIRE CORONEL OVIEDO",
+          "image": "https://i.postimg.cc/LX4WNDTj/tva.png",
+          "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8"
+        },
+        {
+          "name": "CÁRITAS TV",
+          "image": "https://i.postimg.cc/P5nLVXQ2/caritas-tv.png",
+          "url": "https://rds3gen.desdeparaguay.net/caritastv/caritastv/chunklist.m3u8"
+        },
+        {
+          "name": "GOTV",
+          "image": "https://i.ibb.co/jkvYVyz/Captura.png",
+          "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
+        },
+        {
+          "name": "BRUNO MASI TV",
+          "image": "https://i.ibb.co/pK5SNMT/bruno-masi-tv.png",
+          "url": "https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
+        },
+        {
+          "name": "RTV PARANÁ",
+          "image": "https://i.postimg.cc/gcHT1f58/rtv.png",
+          "url": "https://video.hostingcaaguazu.com:19360/rtvhd/rtvhd.m3u8"
+        },
+        {
+          "name": "MOTOR SUR MEDIA",
+          "image": "https://i.postimg.cc/q761GQm6/motor-sur-media.png",
+          "url": "https://video.hostingcaaguazu.com:19360/motorsurtv/motorsurtv.m3u8"
+        },
+        {
+          "name": "FARRA TV",
+          "image": "https://i.imgur.com/bXWzstH.png",
+          "url": "https://stream.farra.com.py/live/farra_low.m3u8"
         },
         {
           "name": "America Paraguay",
