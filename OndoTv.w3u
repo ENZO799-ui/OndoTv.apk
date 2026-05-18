@@ -538,6 +538,292 @@
       ]
     },
     {
+      "name": "Deportes",
+      "stations": [
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GQTE2EapnpQJAxdL26t08A\",\"k\":\"CKTKlyzQN6H-BCUVwxC_4Q\"}],\"type\":\"temporary\"}",
+          "name": "DeporTV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BJgygsL6gZoI-gOhP-T9vg\",\"k\":\"R4CiQ0DqlXxKJ7JX4rbsTA\"}],\"type\":\"temporary\"}",
+          "name": "Claro Sports",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/160/160/0/0/61680399078962.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"utlK0JF1GorfA2n4DKg9Fw\",\"k\":\"vkOmiQOpIFYdwU2vGSKdlw\"}],\"type\":\"temporary\"}",
+          "name": "Sensa Deportes",
+          "image": "https://i.postimg.cc/fT506CJ1/https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/84523092279291.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"U9DPbB1JwW9RgPhuGHCwDw\",\"k\":\"frZ0O19EtSuifIginIx64g\"}],\"type\":\"temporary\"}",
+          "name": "TyC Sports",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"tIBFm7QlXd_ZQHish334Aw\",\"k\":\"PeASFJHrer_aKecf7MEVTA\"}],\"type\":\"temporary\"}",
+          "name": "TyC Sports",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/TYCSports/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BJgygsL6gZoI-gOhP-T9vg\",\"k\":\"R4CiQ0DqlXxKJ7JX4rbsTA\"}],\"type\":\"temporary\"}",
+          "name": "Sensa Eventos",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png",
+          "url": "https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"bSQ-vXpXvqS0sFKuE_TAUQ\",\"k\":\"XBklh53oc9Q7fCWSWQJTmw\"}],\"type\":\"temporary\"}",
+          "name": "ESPN",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"aovWSW0kRDAcnU0P7KnXWw\",\"k\":\"P9GWdwG6KJdykYe2AJTBWA\"}],\"type\":\"temporary\"}",
+          "name": "ESPN 2",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"iDYlIFm3k6eRc4ONwRhv8Q\",\"k\":\"qhb5DlHOVlLauTg05DTKqA\"}],\"type\":\"temporary\"}",
+          "name": "ESPN 3",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"A0ZT00E_I-hySdH7fmg1mg\",\"k\":\"oNa4SfF8Qw6cwC0Hc5pOSg\"}],\"type\":\"temporary\"}",
+          "name": "ESPN 4",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GmG2RP3GhWi1vj4mKQQVZA\",\"k\":\"oWcs37XeZHBxURKPgR2mZw\"}],\"type\":\"temporary\"}",
+          "name": "FOX Sports",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"bsHFYg9cFVPTI4mIcU5xsg\",\"k\":\"uJF7EuhR38e7ijuDI0izvg\"}],\"type\":\"temporary\"}",
+          "name": "FOX Sports 2",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"x_h-UcVqh6Wcq37Jj9Bi2w\",\"k\":\"w_DX0GfjhZAKDm1MjkBqaA\"}],\"type\":\"temporary\"}",
+          "name": "FOX Sports 3",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"-acMKU6nU0a5kaYcVf8djw\",\"k\":\"cBLrbNdSmY7lz75oUXSR9Q\"}],\"type\":\"temporary\"}",
+          "name": "AmÃ©rica Sports",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/368/CH_LOGO/160/160/0/0/446218910784.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rRvldSmACFkQAQrbnXJTLQ\",\"k\":\"is-qy2ALOCv-GJYpZDVc5g\"}],\"type\":\"temporary\"}",
+          "name": "Garage TV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1481/CH_LOGO/160/160/0/0/3411412507358.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vnHYEH3pYTGfxqR9nxx5rQ\",\"k\":\"AgcaHJhGMYxgSA1Ahr6Omw\"}],\"type\":\"temporary\"}",
+          "name": "Golf TV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/7391790707734.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4HCnQmuMscq19jmWt712aQ\",\"k\":\"HBQOBxWybHIylCq4fSMpZA\"}],\"type\":\"temporary\"}",
+          "name": "PX Sports",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/160/160/0/0/70671934073582.png",
+          "url": "https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"-JQ9EU4lFRyK5PYSNR1aXw\",\"k\":\"fzTJpwyDYCDLwyc8Qn_ydw\"}],\"type\":\"temporary\"}",
+          "name": "ESPN Premium",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"-JQ9EU4lFRyK5PYSNR1aXw\",\"k\":\"fzTJpwyDYCDLwyc8Qn_ydw\"}],\"type\":\"temporary\"}",
+          "name": "ESPN Premium",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/160/160/0/0/50191211073985.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CP6Ju0GsX0glu6o1izRYxw\",\"k\":\"weqF2U-4D2TVN0dSnkiKdQ\"}],\"type\":\"temporary\"}",
+          "name": "TNT Sports Premium",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"wmNxB56JIG1j4UVIk-iBtg\",\"k\":\"raw8Ozd05BHW5Jck9-oO4w\"}],\"type\":\"temporary\"}",
+          "name": "TNT Sports Premium",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        }
+      ]
+    },
+    {
+      "name": "DIRECTV SPORTS PACK",
+      "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+      "stations": [
+        {
+          "name": "DSports",
+          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RbvVgvIg9Dj4lkUNgwaj8g\",\"k\":\"WCxrp/ZLvA8tkcawwmV2DA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+          }
+        },
+        {
+          "name": "DSports",
+          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"p9EdN6H3YR7ojU24gBcfMg\",\"k\":\"aPltYYsLlWsAjERYlqJaeQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+          }
+        },
+        {
+          "name": "DSports2",
+          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+          "url": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"A/Etaj2/06b6fdf2QX4MEQ\",\"k\":\"6ge4es3y5FvoJM3koc81BA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+          }
+        },
+        {
+          "name": "DSports+",
+          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+          "url": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"g/gcTMFEOZFUPeTiLup1hg\",\"k\":\"3f18plPW81VD2O2zxojiDw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+          }
+        }
+      ]
+    },
+    {
       "name": "DEPORTES NORTE [MX]",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEAO5oRlxrxyB_zGeylSJIP541y-6IQgUHg&s",
       "stations": [
