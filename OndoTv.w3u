@@ -42,6 +42,7 @@
     },
     {
       "name": "🇵🇾TIGO SPORTS🇵🇾",
+      "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
       "stations": [
         {
           "name": "EVENTO 1 HD",
@@ -78,6 +79,7 @@
     },
     {
       "name": "🇵🇾PARAGUAY🇵🇾",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Rm3PvLydpxUHNmjNqViEVmjgdKWvMlXwTA&s",
       "stations": [
         {
           "name": "SNT",
@@ -307,6 +309,7 @@
     },
     {
       "name": "🇦🇷ARGENTINA🇦🇷",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSYqKpRLbw-DH9E4npkCCAGt4dYicbp4zByw&s",
       "stations": [
         {
           "license_type": "clearkey",
@@ -543,6 +546,7 @@
     },
     {
       "name": "DEPORTES NORTE [MX]",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEAO5oRlxrxyB_zGeylSJIP541y-6IQgUHg&s",
       "stations": [
         {
           "name": "ESPN MX",
@@ -636,7 +640,7 @@
         },
         {
           "name": "TUDN",
-          "image": "https://i.postimg.cc/gJPNzpFs/tudn.png",
+          "image": "https://i.imgur.com/oT5CAvd.png",
           "url": "https://streaming.alwaysdata.net/tudn.php"
         },
         {
@@ -846,6 +850,7 @@
     },
     {
       "name": "🎵MUSICALES🎵",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsmyFD1mZW7W7Fq33FOG7VVNaZFnN-tzxfjg&s",
       "stations": [
         {
           "name": "MTV LIVE",
