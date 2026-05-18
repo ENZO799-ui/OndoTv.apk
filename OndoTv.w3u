@@ -951,7 +951,7 @@
         },
         {
           "name": "Stingray Juicebox",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Stingray_Juicebox.svg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Stingray_Juicebox.jpg",
           "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-JUICEBOX-HD-H265/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2tfZTIahmgFUnlqvY375Zw\",\"k\":\"IPmlV7WON5gDcLvccYpETg\"}],\"type\":\"temporary\"}",
