@@ -538,7 +538,8 @@
       ]
     },
     {
-      "name": "Deportes",
+      "name": "DEPORTES SUR [AR]",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEAO5oRlxrxyB_zGeylSJIP541y-6IQgUHg&s",
       "stations": [
         {
           "license_type": "clearkey",
@@ -552,14 +553,9 @@
           }
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BJgygsL6gZoI-gOhP-T9vg\",\"k\":\"R4CiQ0DqlXxKJ7JX4rbsTA\"}],\"type\":\"temporary\"}",
           "name": "Claro Sports",
           "image": "https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/160/160/0/0/61680399078962.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
+          "url": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8",
           }
         },
         {
@@ -686,7 +682,7 @@
         {
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"-acMKU6nU0a5kaYcVf8djw\",\"k\":\"cBLrbNdSmY7lz75oUXSR9Q\"}],\"type\":\"temporary\"}",
-          "name": "AmÃ©rica Sports",
+          "name": "America Sports",
           "image": "https://geo.edge.pontiscloud.com:9002/images/368/CH_LOGO/160/160/0/0/446218910784.png",
           "url": "https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd?",
           "headers": {
@@ -752,7 +748,7 @@
         {
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CP6Ju0GsX0glu6o1izRYxw\",\"k\":\"weqF2U-4D2TVN0dSnkiKdQ\"}],\"type\":\"temporary\"}",
-          "name": "TNT Sports Premium",
+          "name": "TNT Sports",
           "image": "https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png",
           "url": "https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd?",
           "headers": {
@@ -1124,6 +1120,115 @@
           "headers": {
             "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
           }
+        }
+      ]
+    },
+    {
+      "name": "OTROS DEPORTES",
+      "stations": [
+        {
+          "name": "NBC",
+          "image": "https://i.ibb.co/ZdhGKSh/nbc.png",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(khnl)/master.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"AEUqzTbyJIOyIwjwR5lIVA\",\"k\":\"l3iqMEw8g4WAx8Rdo0vEWw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "TELEMUNDO USA",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kasa)/master.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CmUFBLovP4ScKQtmpCXy2Q\",\"k\":\"+YCdGzfG7e2QtPX7zH7aJg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "TELEMUNDO PR",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
+          "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+        },
+        {
+          "name": "UNIVERSO WEST",
+          "image": "https://i.imgur.com/RZ8pIKe.png",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-west)/master.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Bp80lTgPPSWowDR3Bn99Gw\",\"k\":\"fZ2/gTRTXhZl6RT7cTTORw\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "UNIVERSO EAST",
+          "image": "https://i.imgur.com/RZ8pIKe.png",
+          "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8"
+        },
+        {
+          "name": "TELEMUNDO DEPORTES AHORA",
+          "image": "https://i.postimg.cc/MZ0nr8Hx/telemundo-deportes-ahora-now.png",
+          "url": "https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_[PLATFORM]_telemundodeportesahora_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=es&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.channelId=99951459&ads._fw_ifa_type=[IFA_TYPE]"
+        },
+        {
+          "name": "beIN SPORTS XTRA",
+          "image": "https://i.postimg.cc/28mCwNYc/beis-sports-xtra-n.png",
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785"
+        },
+        {
+          "name": "Cazé TV BR",
+          "image": "https://i.ibb.co/W3XpzQy/cazetv.png",
+          "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+        },
+        {
+          "name": "N SPORTS BR",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp",
+          "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8"
+        },
+        {
+          "name": "PLUTO FUTBOL",
+          "image": "https://i.imgur.com/yJlY9Rr.png",
+          "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8"
+        },
+        {
+          "name": "PLUTO DEPORTES",
+          "image": "https://i.imgur.com/0pDy6f4.png",
+          "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
+        },
+        {
+          "name": "CBS SPORTS GOLAZO!",
+          "image": "https://i.imgur.com/eMjutHS.png",
+          "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8"
+        },
+        {
+          "name": "CBS SPORTS HQ",
+          "image": "https://i.imgur.com/q8BENJg.png",
+          "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8"
+        },
+        {
+          "name": "FIFA+",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+          "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8"
+        },
+        {
+          "name": "CLARO SPORTS MX",
+          "image": "https://i.imgur.com/61tSA6a.png",
+          "url": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8"
+        },
+        {
+          "name": "CLARO SPORTS CH",
+          "image": "https://i.imgur.com/n0kd17r.png",
+          "url": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8"
+        },
+        {
+          "name": "REAL MADRID TV",
+          "image": "https://i.imgur.com/5pMo7dL.png",
+          "url": "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8"
+        },
+        {
+          "name": "TOP BARCA",
+          "image": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg",
+          "url": "https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8"
+        },
+        {
+          "name": "TENNIS CHANNEL",
+          "image": "https://i.imgur.com/tsljAnY.png",
+          "url": "https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8"
         }
       ]
     },
