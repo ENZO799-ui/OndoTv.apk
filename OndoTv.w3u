@@ -59,13 +59,6 @@
           "license_key": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
         },
         {
-          "name": "EVENTOS 3 HD",
-          "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
-          "url": "https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=JVMDxRwC4M6u54XZGwnSrlZY/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://magisvideo.com/KEYFLOW/TIGO3.json"
-        },
-        {
           "name": "En Vivo",
           "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
           "url": "http://45.170.130.224:8000/play/a04i/index.m3u8"
