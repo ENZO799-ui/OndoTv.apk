@@ -1549,6 +1549,36 @@
           "url": "https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8"
         },
         {
+          "name": "TRACE URBAN",
+          "image": "https://i.imgur.com/DLIbUMx.png",
+          "url": "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8"
+        },
+        {
+          "name": "TRACE HITS",
+          "image": "https://i.imgur.com/Vvxz6KX.png",
+          "url": "https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8"
+        },
+        {
+          "name": "TRACE LATINA",
+          "image": "https://i.imgur.com/CUVAi4u.png",
+          "url": "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8"
+        },
+        {
+          "name": "TRACE GOSPEL",
+          "image": "https://i.imgur.com/X0UmU3K.png",
+          "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8"
+        },
+        {
+          "name": "TRACE BRASIL",
+          "image": "https://i.imgur.com/DFBocPu.png",
+          "url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "TRACE UK",
+          "image": "https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png",
+          "url": "https://channels.trace.plus/Traceprod/UK_FAST/abr.m3u8"
+        },
+        {
           "name": "COOL SUMMER",
           "image": "https://i.ibb.co/7k7VVLd/cool-summer.png",
           "url": "https://d3mza6qljp67l5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rpc4qub3zg7qt/csts.m3u8"
