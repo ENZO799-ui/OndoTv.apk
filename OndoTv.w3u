@@ -555,8 +555,7 @@
         {
           "name": "Claro Sports",
           "image": "https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/160/160/0/0/61680399078962.png",
-          "url": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8",
-          }
+          "url": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8"
         },
         {
           "license_type": "clearkey",
@@ -1122,7 +1121,7 @@
           }
         }
       ]
- },
+    },
     {
       "name": "OTROS DEPORTES",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEAO5oRlxrxyB_zGeylSJIP541y-6IQgUHg&s",
