@@ -538,6 +538,315 @@
       ]
     },
     {
+      "name": "PACK HBO",
+      "image": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/800/542/0/0/228799490721.png",
+      "stations": [
+        {
+          "name": "HBO",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/800/542/0/0/228799490721.png",
+          "url": "https://aca-live4-ott.izzigo.tv/7/out/u/dash/HBO-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Am2yipZrHQIsvqqIFuVSWw\",\"k\":\"7T+IXyiBAtneF4ve87fkUQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "HBO 2",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/800/542/0/0/36093751072127.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO2-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"jO6TlJWIB1clprNSikFa4Q\",\"k\":\"qyv2T/OgVOVlJ7zpXJCfgg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "HBO Family",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/800/542/0/0/7354519807335.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-FAMILY-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Iwps+l5/1GZbFbbdzLlkWQ\",\"k\":\"k5w/Ybn7ITUY5Jwk7O6rhQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "HBO Mundi",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/800/542/0/0/61157416071448.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-MUNDI-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"lrI3C9zJrLbKoM/VqjXc9A\",\"k\":\"tzKgKRiqMuc55DlS23aMxg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "HBO Plus",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/800/542/0/0/10237380072165.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-PLUS-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vPIbC2hd9pUQsnCfGL79Fw\",\"k\":\"GfiCFvUt4hFJzaKMMB9dlg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "HBO Pop",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/800/542/0/0/68908128073927.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-POP-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BKtM79J78mNSYfpxSviD1g\",\"k\":\"WhKC7oCYJrmypWNpcHMNpg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "HBO Signature",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/800/542/0/0/3657655307500.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-SIGNATURE-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"y9ocs4RVjY7G/TzDhButhw\",\"k\":\"DrpZDP/FZe1I7mGXDIvy3A\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "HBO Xtreme",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/800/542/0/0/6041444607334.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-XTREME-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"q/MEKQvsfJgucGsfrlkq6g\",\"k\":\"c+HQHMhruIwYT7yjEpKXfw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        }
+      ]
+    },
+    {
+      "name": "CINE & SERIES",
+      "image": "",
+      "stations": [
+        {
+          "name": "Cinecanal",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png",
+          "url": "https://aca-live4-ott.izzigo.tv/14/out/u/dash/CINECANAL-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"XofSTte1RXaJVUj/pl6rHQ\",\"k\":\"Hl18nmckivOOSOxW0iQVBw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Cinemax",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/800/542/0/0/60951863073142.png",
+          "url": "https://aca-live4-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"+m0bUt2YbY+qucymrbiHSw\",\"k\":\"YCIlm6ntsf5mtFB7UeHBLw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Comedy Central",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/400/400/0/0/33860159072069.png",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/COMEDY-CENTRAL-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"KmG3p5EgZKzGKgamriKsXA\",\"k\":\"W/s3TWRHA1UPBjdTK8oEkQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "AXN",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/800/542/0/0/77211152071862.png",
+          "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"l21wPLlSAqgIlyxyJUT64Q\",\"k\":\"Vid1sXBALG4jCf9pueSOgg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "FX",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/800/542/0/0/35224800072040.png?worldtv2",
+          "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/FX-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"jOHsPiQCoXDL4Tt5zpuzDw\",\"k\":\"gv3P3jLMAmc1R+WLUOK1rg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Sony Channel",
+          "image": "https://i.postimg.cc/vTK3N70T/sony-channel.png",
+          "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/SONY-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"R7jREYBHxH/515T8psmZeg\",\"k\":\"l6+Cmy3QN/uFVQuFsHV2hQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Sony Movies",
+          "image": "https://i.ibb.co/HFpZ6CC/sony-movies.png",
+          "url": "https://aca-live4-ott.izzigo.tv/14/out/u/dash/SONY-MOVIES-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1sCypabXqnL29282BzZM6g\",\"k\":\"KXcrRQOTFG6NG1YQf1Fjog\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "SPACE",
+          "image": "https://i.postimg.cc/yNPgTC2x/space-hd.png",
+          "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/SPACE-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"AQxFfZZ9WqLFfHJ/3dxe0w\",\"k\":\"XiFMFwUsxIQW5nb/cS4Z8w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "TNT",
+          "image": "https://i.postimg.cc/5NP3RrN2/tnt.png",
+          "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/TNT-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"N5cdR8nmTXWEBY78/cQksw\",\"k\":\"mUTs2kjvPWMlzPiasyvvgw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "TNT Series",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/117/CH_LOGO/400/400/0/0/18783550073421.png|worldtv2",
+          "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/TNT-SERIES-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"jHw8egWBKlJF1kwOztCKQQ\",\"k\":\"5WxN7fpsUfYXzHydLWH3qA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "UNIVERSAL TV",
+          "image": "https://i.postimg.cc/GpZq6zN8/universal-tv.jpg",
+          "url": "https://aca-live4-ott.izzigo.tv/7/out/u/dash/UNIVERSAL-CHANNEL-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"SiunlgFaljahbYZC32G3jA\",\"k\":\"Sl+9WC5V1gd7M7G/M5XD/w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Studio Universal",
+          "image": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
+          "url": "https://aca-live4-ott.izzigo.tv/7/out/u/dash/STUDIO-UNIVERSAL-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"buDD9kBWMpGYX+A2bc7tZQ\",\"k\":\"INz80DDEuqDgpzFhnhoBhw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Golden",
+          "image": "https://i.ibb.co/s1yPj71/worldtv2.png",
+          "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/GOLDEN-SD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vA5MffsQ1IM1dXIAAYDMpQ\",\"k\":\"JHNROC/Nch8ocsS9oVxSRQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Golden Multiplex",
+          "image": "https://i.ibb.co/BTjfF3p/golden-multiplex.png",
+          "url": "https://aca-live4-ott.izzigo.tv/14/out/u/dash/GOLDEN-MULTIPLEX/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"8jYBmXvAJOqWtrnR4riz/A\",\"k\":\"Uhos/dP2SalUNCLcQfpMoA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Golden Edge",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/800/542/0/0/86179590071069.png",
+          "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"mKqQy2ILlyoNDWalHNrKVg\",\"k\":\"bovVM3g1btf1ED2R77XlTg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Golden Plus",
+          "image": "https://i.postimg.cc/J4hMqVDX/golden-plus.png",
+          "url": "https://aca-live4-ott.izzigo.tv/14/out/u/dash/GOLDEN-PLUS-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"NVWCTuagnWcaI2Lzf1o5uQ\",\"k\":\"8kDlteiifKhVDyOlU0UakA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Golden Premier",
+          "image": "https://i.ibb.co/6D60Brn/golden-premier.png",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/GOLDEN-PREMIER-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"NPo1yDI8Ecu4PLOBvlW9ZA\",\"k\":\"AszGrgfZl729i5eGXWm7NQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Golden Premier 2",
+          "image": "https://i.postimg.cc/DZFK4t3Q/golden-premier-2.png",
+          "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/GOLDEN-PREMIER-2HR-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"cXMkwsTmaUut2s/V+9OiDw\",\"k\":\"qsvs+38dpEGkIKWCQAEC2g\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "De Peli­cula",
+          "image": "https://i.ibb.co/DCxcBBw/DPel-cula-2021.png",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"IIAS0VS/USjcBEM8IuAGmA\",\"k\":\"0XkTZxpxgh7X5MSTfNL7pQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "De Pelicula Plus",
+          "image": "https://i.postimg.cc/4ddtMWbg/DPelicula-Plus.png",
+          "url": "https://aca-live4-ott.izzigo.tv/14/out/u/dash/DE-PELICULA-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"cKOrHqPEXdVw2ipmCuXu2g\",\"k\":\"Cp2w4I0Lc35qZOyu1SXUyw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        }
+      ]
+    },
+    {
       "name": "DEPORTES SUR [AR]",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEAO5oRlxrxyB_zGeylSJIP541y-6IQgUHg&s",
       "stations": [
