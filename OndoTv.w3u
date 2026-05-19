@@ -1790,7 +1790,7 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEAO5oRlxrxyB_zGeylSJIP541y-6IQgUHg&s",
       "stations": [
         {
-          "name": "NBC",
+          "name": "NBC WEST",
           "image": "https://i.ibb.co/ZdhGKSh/nbc.png",
           "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(khnl)/master.mpd",
           "license_type": "clearkey",
@@ -1800,11 +1800,27 @@
           }
         },
         {
-          "name": "TELEMUNDO USA",
+          "name": "NBC EAST",
+          "image": "https://i.ibb.co/ZdhGKSh/nbc.png",
+          "url": "http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8"
+          }
+        },
+        {
+          "name": "TELEMUNDO WEST",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
           "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kasa)/master.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CmUFBLovP4ScKQtmpCXy2Q\",\"k\":\"+YCdGzfG7e2QtPX7zH7aJg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "TELEMUNDO EAST",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
+          "url": "http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8"
+        },
+        {
+          "name": "USA Network",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+          "url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8"
         },
         {
           "name": "TELEMUNDO PR",
