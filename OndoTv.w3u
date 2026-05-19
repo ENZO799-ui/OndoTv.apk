@@ -542,6 +542,92 @@
       ]
     },
     {
+      "name": "🇵🇪PERU🇵🇪",
+      "image": "https://cdn-icons-png.flaticon.com/512/197/197563.png",
+      "stations": [
+        {
+          "name": "WILLAX TV",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/10/02/1746820089545/b0e2b4bee465_480_270.png",
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8?uid=15217254"
+        },
+        {
+          "name": "LATINA TV",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835839459/7f9e192ef8c6_480_270.png",
+          "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"
+        },
+        {
+          "name": "LATINA CLASICOS",
+          "image": "https://i.imgur.com/q0dAWyj.png",
+          "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8"
+        },
+        {
+          "name": "LATINA NOTICIAS",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767642827546/13744dd4b044_480_270.png",
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/playlist.m3u8?uid=15217254"
+        },
+        {
+          "name": "PBO",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830230313/be8c9945376d_480_270.jpg",
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8?uid=15217254"
+        },
+        {
+          "name": "AMERICA PE",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647022587/1ba320c1d650_480_270.png",
+          "url": "https://live-evg20.tv360.bitel.com.pe/O4VRRDDrEQhEhVwOi7BTrA/1779311154/bitel/America-udp/playlist.m3u8?uid=15217254"
+        },
+        {
+          "name": "EXITOSA TV",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835719280/34cd78cef450_480_270.png",
+          "url": "https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8?uid=15217254"
+        },
+        {
+          "name": "TVPE",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735836160517/87e21cb164e6_480_270.png",
+          "url": "https://live-evg20.tv360.bitel.com.pe/SBCy2Gx2_YMwPP8SOKmtpw/1779311556/bitel/TVPeru-UDP_abr/playlist.m3u8?uid=15217254"
+        },
+        {
+          "name": "ATV",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641816820/388b9af6aaae_480_270.png",
+          "url": "https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8"
+        },
+        {
+          "name": "ATV+",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829811800/84e17b3b3eaf_480_270.png",
+          "url": "https://live-evg20.tv360.bitel.com.pe/kucpsGsSfWEpquBXVmC3Kg/1779311607/bitel/Atv+-UDP_abr/playlist.m3u8?uid=15217254"
+        },
+        {
+          "name": "ATV SUR",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895367519/57dbdf5188f3_480_270.png",
+          "url": "https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/playlist.m3u8?uid=15217254"
+        },
+        {
+          "name": "LA TELE PE",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895378330/a71e8fedf788_480_270.png",
+          "url": "https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8?uid=15217254"
+        },
+        {
+          "name": "KARIBEÑA TV",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/02/173809307073/82d4175843c5_480_270.jpg",
+          "url": "https://live-evg16.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=15217254"
+        },
+        {
+          "name": "GLOBAL",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829804503/8dfc28d8c469_480_270.png",
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8?uid=15217254"
+        },
+        {
+          "name": "NATIVA TV",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/173583565692/7885cf39a6b2_480_270.png",
+          "url": "https://live-evg5.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8?uid=15217254"
+        },
+        {
+          "name": "L1 MAX",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/03/176738742342/83d49ffca6d7_480_270.jpg",
+          "url": "https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8"
+        }
+      ]
+    },
+    {
       "name": "PACK HBO",
       "image": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/800/542/0/0/228799490721.png",
       "stations": [
