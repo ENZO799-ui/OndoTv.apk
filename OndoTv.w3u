@@ -860,7 +860,18 @@
       "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/kids-logo-design-template-46b9961baa65f413cdc04949d473531a_screen.jpg?ts=1618238434",
       "stations": [
         {
-          "name": "Tooncast",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_ZBOBL1APPqXt0gvP---oQ\",\"k\":\"YA8FUR6edD2N4FY4DiQxDw\"}],\"type\":\"temporary\"}",
+          "name": "Tooncast LA",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/160/160/0/0/5456596307880.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "Tooncast MX",
           "image": "https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/800/542/0/0/5456596307880.png? worldtv2",
           "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/TOONCAST-SD/default.mpd",
           "license_type": "clearkey",
@@ -871,7 +882,29 @@
           }
         },
         {
-          "name": "Discovery Kids",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BwZgxKB6tkT7pi2rBzBtQw\",\"k\":\"Z4brVjN6MY_OC3-czPlkeA\"}],\"type\":\"temporary\"}",
+          "name": "ZooMoo",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1812/CH_LOGO/160/160/0/0/10249036073271.png",
+          "url": "https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"TYsyIKww5cgUjUvMIl76Wg\",\"k\":\"62kY3-EX_EBTlqnDmGoEUA\"}],\"type\":\"temporary\"}",
+          "name": "Discovery Kids LA",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/67/CH_LOGO/160/160/0/0/43430600073531.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "Discovery Kids MX",
           "image": "https://geo.edge.pontiscloud.com:9002/images/67/CH_LOGO/800/542/0/0/43430600073531.png? worldtv2",
           "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd",
           "license_type": "clearkey",
@@ -882,7 +915,18 @@
           }
         },
         {
-          "name": "Disney Channel",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"cNkbFJNaNZnwLl2rce8h3A\",\"k\":\"gD6RUuna9xe3cjmal4Agdg\"}],\"type\":\"temporary\"}",
+          "name": "Disney Channel LA",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/50/CH_LOGO/160/160/0/0/77798092074367.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "Disney Channel MX",
           "image": "https://geo.edge.pontiscloud.com:9002/images/50/CH_LOGO/800/542/0/0/77798092074367.png? worldtv2",
           "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd",
           "license_type": "clearkey",
@@ -893,9 +937,92 @@
           }
         },
         {
-          "name": "Disney Jr.",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GGVJRJU7Jai2OSciqD22Uw\",\"k\":\"QL9qnwW78OBnFe1XB_Dt0g\"}],\"type\":\"temporary\"}",
+          "name": "Disney Jr. LA",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/4140286707756.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "Disney Jr. MX",
           "image": "https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/800/542/0/0/4140286707756.png? worldtv2",
-          "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+          "url": "https://aca-live4-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1B0q6bDYdboS6XxaPz7sgg\",\"k\":\"OkQ4kuGtEVjG/Sv5yRRutg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1GMhABNUiJJcHX6YlaJrmQ\",\"k\":\"HaR49oe4UMYcmvYZhdl8Fw\"}],\"type\":\"temporary\"}",
+          "name": "Nickelodeon",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/160/160/0/0/70239189071229.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BA77SsgAgIXQnBfbYCsk-g\",\"k\":\"GUC4gRTeE9RgyxljJuY4pw\"}],\"type\":\"temporary\"}",
+          "name": "Nick Jr.",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/160/160/0/0/61362740071226.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"x-_mO79oKkEk-zTAHregpw\",\"k\":\"SGZ1Ebhmjflvo6uqYj5PaQ\"}],\"type\":\"temporary\"}",
+          "name": "Cartoon Network",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"zxXVoPkyn4FXedSn3XYPvA\",\"k\":\"zQCoo_ahZ5VNT2ePqyMj2g\"}],\"type\":\"temporary\"}",
+          "name": "Cartoonito",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/481/CH_LOGO/160/160/0/0/1490409807453.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"t2e6v4bNlLuFQIQhPA_0fA\",\"k\":\"BIR8YpnNe0jr2pJ-lXwWfA\"}],\"type\":\"temporary\"}",
+          "name": "Paka Paka",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/160/160/0/0/46888977071492.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"pHv7niRvO4QFwSJfrnPang\",\"k\":\"pIZfuHQrRUH2SsNzcOkCpg\"}],\"type\":\"temporary\"}",
+          "name": "PLIM PLIM TV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/3983/CH_LOGO/160/160/0/0/96726193078010.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/PlimPlim/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
         },
         {
           "name": "DreamWorks",
@@ -925,12 +1052,34 @@
         },
         {
           "name": "BabyFirst",
-          "image": "https://i.postimg.cc/Y2ZLY9Vy/babyfirst.png",
           "url": "https://aca-live4-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd",
+          "image": "https://i.postimg.cc/Y2ZLY9Vy/babyfirst.png",  
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Mg4csjzxWqj0Gp7dUrqmVQ\",\"k\":\"Y8XleuKivH2rPGfKwabJVg\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"XPbacmLdt0wvNw3tYFb0bA\",\"k\":\"eBCRJVZasXR_UR9-d-O7rw\"}],\"type\":\"temporary\"}",
+          "name": "Baby TV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/160/160/0/0/2335855007695.png",
+          "url": "https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"OWc5g_S6IvD4DAk0zgQkyA\",\"k\":\"zZ80mMtjzHLRMXsUpnq5PA\"}],\"type\":\"temporary\"}",
+          "name": "Canal Infantil",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1804/CH_LOGO/160/160/0/0/25045866075258.png",
+          "url": "https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
           }
         }
       ]
