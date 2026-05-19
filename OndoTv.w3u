@@ -672,6 +672,11 @@
           }
         },
         {
+          "name": "FMH MOVIES",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647925198/61855627a413_480_270.png",
+          "url": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/playlist.m3u8?uid=15217254"
+        },
+        {
           "name": "AXN",
           "image": "https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/800/542/0/0/77211152071862.png",
           "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd",
@@ -912,6 +917,11 @@
           "headers": {
             "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
           }
+        },
+        {
+          "name": "FMH KIDS",
+          "image": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767646286241/475e92e49a55_480_270.png",
+          "url": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/playlist.m3u8?uid=15217254"
         },
         {
           "name": "BabyFirst",
@@ -1429,6 +1439,11 @@
       "name": "DIRECTV SPORTS PACK",
       "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
       "stations": [
+        {
+          "name": "DSports Radio",
+          "image": "https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png",
+          "url": "https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac"
+        },
         {
           "name": "DSports",
           "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
