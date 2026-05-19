@@ -1277,6 +1277,16 @@
           "url": "https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8"
         },
         {
+          "name": "Sky One",
+          "image": "https://i.postimg.cc/tg23Y682/sky-one.png",
+          "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/SKY-ONE-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"S2a/tT5ZgKgqECKkWEEOFw\",\"k\":\"iDjnrWG/5Cn2uBATB40w0Q\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"DxvhDQUZ4MRTEF8BMZ_kBw\",\"k\":\"mXbZG_zcfdIUjTaviQJ3Yg\"}],\"type\":\"temporary\"}",
           "name": "Mi Musica Romantica",
