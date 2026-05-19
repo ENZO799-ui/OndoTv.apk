@@ -308,7 +308,7 @@
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"tWUYBrQvCHxYMysFLecnxQ\",\"k\":\"EZAbNcw-Wqc2GfZNAsOKDw\"}],\"type\":\"temporary\"}",
           "name": "America",
-          "image": "https://www.americatv.com.ar/css-custom/354/images/main-logo.svg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
           "url": "https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?",
           "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
@@ -346,6 +346,16 @@
           "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
             "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "Telefe Internacional",
+          "image": "https://i.imgur.com/HNcCX3h.png",
+          "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/TELEFE-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9AwHrBRP5UkD1rDRS6kKlQ\",\"k\":\"OvXVovguqGPAkVlYLJCSpg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
           }
         },
         {
@@ -525,15 +535,9 @@
           }
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7SW122AzDn6hTjvwB9sHlw\",\"k\":\"mzeNWfeOBOaXypWLHdacpw\"}],\"type\":\"temporary\"}",
           "name": "Argentinisima Satelital",
           "image": "https://geo.edge.pontiscloud.com:9002/images/4027/CH_LOGO/160/160/0/0/480102480757.png",
-          "url": "https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "url": "https://stream1.sersat.com/hls/argentinisima.m3u8"
         }
       ]
     },
@@ -633,7 +637,7 @@
     },
     {
       "name": "CINE & SERIES",
-      "image": "",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/012/657/549/small/illustration-negative-film-reel-roll-tapes-for-movie-cinema-video-logo-vector.jpg",
       "stations": [
         {
           "name": "Cinecanal",
@@ -840,6 +844,356 @@
           "url": "https://aca-live4-ott.izzigo.tv/14/out/u/dash/DE-PELICULA-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"cKOrHqPEXdVw2ipmCuXu2g\",\"k\":\"Cp2w4I0Lc35qZOyu1SXUyw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        }
+      ]
+    },
+    {
+      "name": "INFANTILES",
+      "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/kids-logo-design-template-46b9961baa65f413cdc04949d473531a_screen.jpg?ts=1618238434",
+      "stations": [
+        {
+          "name": "Tooncast",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/800/542/0/0/5456596307880.png? worldtv2",
+          "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/TOONCAST-SD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"XJQYxXKegiT5mUDPW2wMRQ\",\"k\":\"M2zX79HXoYKdDz0iwsjcCg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Discovery Kids",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/67/CH_LOGO/800/542/0/0/43430600073531.png? worldtv2",
+          "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"kgHAeTG3TDfE4wqelrZMMA\",\"k\":\"jhzk8bEYX2TkL5l0y60UQg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Disney Channel",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/50/CH_LOGO/800/542/0/0/77798092074367.png? worldtv2",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"8EfqGr3KbwMRdFTE3gttWw\",\"k\":\"sDjIyPEUxWiVbUKOgK441w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Disney Jr.",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/800/542/0/0/4140286707756.png? worldtv2",
+          "url": "https://aca-live4-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1B0q6bDYdboS6XxaPz7sgg\",\"k\":\"OkQ4kuGtEVjG/Sv5yRRutg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "DreamWorks",
+          "image": "https://i.ibb.co/10jGH2z/dreamworks.png",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/DREAM-WORKS-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"olXhOE2z6c5+A0noqpufdw\",\"k\":\"QEzE+0X4LJp9/9PSSWzKIA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Edye TV",
+          "image": "https://www.izzigo.tv/images/ch/1993/LOGO/m/0",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"aVfRsmjeUtcKaa0oeWCDng\",\"k\":\"AK61g6/DIefHWpWwgMcEQQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "BabyFirst",
+          "image": "https://i.postimg.cc/Y2ZLY9Vy/babyfirst.png",
+          "url": "https://aca-live4-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Mg4csjzxWqj0Gp7dUrqmVQ\",\"k\":\"Y8XleuKivH2rPGfKwabJVg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        }
+      ]
+    },
+    {
+      "name": "CULTURA",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/012/657/549/small/illustration-negative-film-reel-roll-tapes-for-movie-cinema-video-logo-vector.jpg",
+      "stations": [
+        {
+          "name": "CURIOSITY CHANNEL",
+          "image": "https://www.izzigo.tv/images/ch/1593/LOGO/m/0",
+          "url": "https://aca-live4-ott.izzigo.tv/7/out/u/dash/CURIOSITY-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"0a/vG2xPKG6/3B3ODhdKFw\",\"k\":\"yCXt55x/Y6qcFoRPZ+4rRQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "History",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/HISTORY-CHANNEL-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"EmTjZnYWtSBgAoviVATWpA\",\"k\":\"RwcgphUhV6XTxd6J3huQnA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Maussan Tv",
+          "image": "https://www.izzigo.tv/images/ch/2006/LOGO/m/0",
+          "url": "https://aca-live-ott.izzigo.tv/out/u/dash/CDMX1/MAUSSAN-TV-SD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RFmHAp9ooV1y90ncaVTaHg\",\"k\":\"sLTAaBs3GVAUbb0DzmOy1w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Discovery H&H",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/65/CH_LOGO/800/542/0/0/11000383072218.png?worldtv2",
+          "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"B2X2duMLG5g4YjC1Lu01GA\",\"k\":\"MmJm0WKW47vh38wnSFPa2w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Discovery Science",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/DISCOVERY-SCIENCE-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"tqHfzgbK9GPSm5H8iQuq0Q\",\"k\":\"TOUMLuA6T77F3b9XvI5siw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Discovery Channel",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/400/400/0/0/24951383073066.png",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/DISCOVERY-CHANNEL-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"fyxtikYoD+Ur8jxe/2uavA\",\"k\":\"hfRdIw79aXN12ns3PmggUw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "National Geographic",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/400/400/0/0/83674247072710.png",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/NAT-GEO-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"FXwPsr/cMjUh1Sq0O3+hMQ\",\"k\":\"bErze2q8csvNkap3FpaDNg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        }
+      ]
+    },
+    {
+      "name": "NOVELAS y VARIEDADES",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/012/657/549/small/illustration-negative-film-reel-roll-tapes-for-movie-cinema-video-logo-vector.jpg",
+      "stations": [
+        {
+          "name": "TV Globo",
+          "image": "https://i.ibb.co/S5V0kxb/tv-globo.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/TV-GLOBO-SD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"p73q/j6gWL4AKnRtt4fEkA\",\"k\":\"c7DmW5aCV9qq5GHIZfKBdw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Telefe",
+          "image": "https://i.postimg.cc/bw3SVmgw/telefe-int.png",
+          "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/TELEFE-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9AwHrBRP5UkD1rDRS6kKlQ\",\"k\":\"OvXVovguqGPAkVlYLJCSpg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Antena 3",
+          "image": "https://i.ibb.co/bRbxkWF/antena3-int.png",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ANTENA-3-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"XNUiIOX9k4D+MCB+NlhaHA\",\"k\":\"23VtwcRmQTCpjbSIiRetVw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Azteca 7",
+          "image": "https://i.imgur.com/UtFXjIn.png",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"zo+G0vDRY4V0I3raisLoKg\",\"k\":\"ZCdy6/GDLx8vpYy36Pz9BQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Azteca Uno",
+          "image": "https://i.imgur.com/rRxgBtI.png",
+          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/AZTECA-UNO-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"bAFDXtToOZlvQPjuCJZTJA\",\"k\":\"dOt7VFEORj6lHcz/gKU/Pg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Azteca Internacional",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",
+          "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
+        },
+        {
+          "name": "Kanal D Drama",
+          "image": "https://i.imgur.com/WIeZMKT.png",
+          "url": "https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "PLUTO.TV NOVELAS",
+          "image": "https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8"
+        },
+        {
+          "name": "AZ CORAZÓN",
+          "image": "https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8"
+        },
+        {
+          "name": "PLUTO.TV NOVELAS CONTINENTALES",
+          "image": "https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8"
+        },
+        {
+          "name": "PLUTO.TV NOVELAS DE MEXICO",
+          "image": "https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8"
+        },
+        {
+          "name": "SIN ##### NO HAY PARAÍSO",
+          "image": "https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8"
+        },
+        {
+          "name": "LA SELECC10N",
+          "image": "https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8"
+        },
+        {
+          "name": "PLUTO.TV NOVELAS DE VENEZUELA",
+          "image": "https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8"
+        },
+        {
+          "name": "PLUTO.TV AMOR Y MENTIRA",
+          "image": "https://images.pluto.tv/channels/698a45156dc3c71eb1ba6599/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8"
+        },
+        {
+          "name": "Canal 5",
+          "image": "https://i.ibb.co/V310Z0q/canal5.png",
+          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"KowtUIg3f1H4Jdhx5Wi+GQ\",\"k\":\"61qNtkyhmSOJZy7blEfHEQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Las Estrellas",
+          "image": "https://i.postimg.cc/Bt996SPz/las-estrellas.png",
+          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/LAS-ESTRELLAS-RDF-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"3cmZlUHa1nn0yteLCn5CRw\",\"k\":\"upUUOStZDXwfOwwGoQ48iA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Televisa Monterrey",
+          "image": "https://i.postimg.cc/d0gqJXkD/4-monterrey.png",
+          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/XEFB-CANAL-34-LOCAL-MTY-SD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"o3jf5iUeMwPFk04X1+Fa9A\",\"k\":\"XHRoRDiawbaYp2fDXw7k8w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Televisa Guadalajara",
+          "image": "https://i.postimg.cc/ncZDsvKy/4-guadalajara.png",
+          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/ZAP1/CANAL-4-GDL-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"JAJeT1z6xJcRnsq8U8UBNg\",\"k\":\"XJZ7YrQgvegD8wGP/EXLnA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "MTV",
+          "image": "https://i.ibb.co/HqPNtN1/mtv.png?worldtv2",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/MTV-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rBG6dT/KvFa5ZeGAH/jfGQ\",\"k\":\"ZKeFLMdzdRWsccAX8D/dMg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "E! Entertainment",
+          "image": "https://i.postimg.cc/02nDpBGh/e.png?worldtv2",
+          "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/E-Entertainment-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ZqXYljCj4iY/Y/QiIaTz6A\",\"k\":\"NiuNSqKJBC5HPtBkpyJhGw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Lifetime",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/313/CH_LOGO/800/542/0/0/30883628072788.png?worldtv2",
+          "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/LIFETIME-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ZWGAG3WrJYGfx+3jZTdd9w\",\"k\":\"NVWzRMVCBNXwKnU9NU0vjA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "name": "Unicable",
+          "image": "https://i.ibb.co/z2BBVfR/unicable.png",
+          "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/UNICABLE-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9JyAmpnQRUmBrmcA0lug+w\",\"k\":\"GZm1+/0Fi8GirPPTzbenjQ\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
           }
