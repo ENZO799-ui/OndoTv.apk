@@ -632,7 +632,7 @@
       "image": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/800/542/0/0/228799490721.png",
       "stations": [
         {
-          "name": "HBO",
+          "name": "HBO LA",
           "image": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/800/542/0/0/228799490721.png",
           "url": "https://aca-live4-ott.izzigo.tv/7/out/u/dash/HBO-HD-H265/default.mpd",
           "license_type": "clearkey",
@@ -643,7 +643,18 @@
           }
         },
         {
-          "name": "HBO 2",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"3q0CP3qBY0M5rmOZkMFReg\",\"k\":\"upcCIrRGbGHQ3szGerNEUg\"}],\"type\":\"temporary\"}",
+          "name": "HBO MX",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "HBO 2 LA",
           "image": "https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/800/542/0/0/36093751072127.png",
           "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO2-HD-H265/default.mpd",
           "license_type": "clearkey",
@@ -654,29 +665,18 @@
           }
         },
         {
-          "name": "HBO Family",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/800/542/0/0/7354519807335.png",
-          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-FAMILY-HD-H265/default.mpd",
           "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Iwps+l5/1GZbFbbdzLlkWQ\",\"k\":\"k5w/Ybn7ITUY5Jwk7O6rhQ\"}],\"type\":\"temporary\"}",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"-WK3bDaT2v7gEXRjRLXoIw\",\"k\":\"Gshj8WM9_C09sGnz3ZqBRQ\"}],\"type\":\"temporary\"}",
+          "name": "HBO 2 MX",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/160/160/0/0/93371734072127.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd?",
           "headers": {
-            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
-            "Referer": "https://www.izzigo.tv/webclient/"
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
           }
         },
         {
-          "name": "HBO Mundi",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/800/542/0/0/61157416071448.png",
-          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-MUNDI-HD-H265/default.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"lrI3C9zJrLbKoM/VqjXc9A\",\"k\":\"tzKgKRiqMuc55DlS23aMxg\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
-            "Referer": "https://www.izzigo.tv/webclient/"
-          }
-        },
-        {
-          "name": "HBO Plus",
+          "name": "HBO Plus LA",
           "image": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/800/542/0/0/10237380072165.png",
           "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-PLUS-HD-H265/default.mpd",
           "license_type": "clearkey",
@@ -687,7 +687,74 @@
           }
         },
         {
-          "name": "HBO Pop",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"xvOG20LAg6griWkGTrmQfQ\",\"k\":\"3Ekpac5rnLOQml1Zoz-I2g\"}],\"type\":\"temporary\"}",
+          "name": "HBO Plus MX",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "HBO Family LA",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/800/542/0/0/7354519807335.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-FAMILY-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Iwps+l5/1GZbFbbdzLlkWQ\",\"k\":\"k5w/Ybn7ITUY5Jwk7O6rhQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"xvOG20LAg6griWkGTrmQfQ\",\"k\":\"3Ekpac5rnLOQml1Zoz-I2g\"}],\"type\":\"temporary\"}",
+          "name": "HBO Family MX",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vqXaRPSafjDSGm4KL93CJQ\",\"k\":\"AYWyCb9Q4qGxz9QW21F33g\"}],\"type\":\"temporary\"}",
+          "name": "HBO Mundi LA",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "HBO Mundi MX",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/800/542/0/0/61157416071448.png",
+          "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-MUNDI-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"lrI3C9zJrLbKoM/VqjXc9A\",\"k\":\"tzKgKRiqMuc55DlS23aMxg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1c8a2ce8CiAFFTWv9jpcBA\",\"k\":\"AZ6g3lkKAThfUK4_4JDRng\"}],\"type\":\"temporary\"}",
+          "name": "HBO Pop LA",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/160/160/0/0/68908128073927.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "HBO Pop MX",
           "image": "https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/800/542/0/0/68908128073927.png",
           "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-POP-HD-H265/default.mpd",
           "license_type": "clearkey",
@@ -698,7 +765,18 @@
           }
         },
         {
-          "name": "HBO Signature",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"v0i6ieA7QeUogqfhVfrNnA\",\"k\":\"UBA9ioGdT67U5E3GzZCAZg\"}],\"type\":\"temporary\"}",
+          "name": "HBO Signature LA",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "HBO Signature MX",
           "image": "https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/800/542/0/0/3657655307500.png",
           "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-SIGNATURE-HD-H265/default.mpd",
           "license_type": "clearkey",
@@ -709,7 +787,18 @@
           }
         },
         {
-          "name": "HBO Xtreme",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"M9SCPtLK5VwZ-gp8IPpCNQ\",\"k\":\"pkxNVe2yAEaALnYzLIqnXg\"}],\"type\":\"temporary\"}",
+          "name": "HBO Xtreme LA",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "HBO Xtreme MX",
           "image": "https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/800/542/0/0/6041444607334.png",
           "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-XTREME-HD-H265/default.mpd",
           "license_type": "clearkey",
@@ -717,6 +806,455 @@
           "headers": {
             "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
             "Referer": "https://www.izzigo.tv/webclient/"
+          }
+        }
+      ]
+    },
+    {
+      "name": "PACK UNIVERSAL+",
+      "stations": [
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"TKR5uolj8TLHAe76oPsrWg\",\"k\":\"vtI1GU2l4YEIwS74GzJKgA\"}],\"type\":\"temporary\"}",
+          "name": "Universal Premiere",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"amXnf7Xyg4svl8d4zFcawg\",\"k\":\"vB8osexhntfaIvyagNOjXQ\"}],\"type\":\"temporary\"}",
+          "name": "Universal Cinema",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"lM2rhnP-IxqN5XJZ6sVSKw\",\"k\":\"ESXRVGSXcMwSJ3BTG4-LMA\"}],\"type\":\"temporary\"}",
+          "name": "Universal Comedy",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"etHP6O28NbW6saZqXOKYsw\",\"k\":\"JXlK4d8emQjUOhAkgefTEQ\"}],\"type\":\"temporary\"}",
+          "name": "Universal Crime",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"37y-ZWs0iE2PjcxX0txR-A\",\"k\":\"0-LAMAO0Q8zt0w1kQvvdQA\"}],\"type\":\"temporary\"}",
+          "name": "Universal Reality",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ENTRETENIMIENTO",
+      "stations": [
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"en7PDDRpXdTiU1dLC4VEHg\",\"k\":\"5lGOC136Xg3CaKWxYQaBGw\"}],\"type\":\"temporary\"}",
+          "name": "Volver",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/365/CH_LOGO/160/160/0/0/371516250745.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Oh52YRnD-wOwlcjn8OYxOQ\",\"k\":\"A5MjZOH_araM3CwZaa7mpQ\"}],\"type\":\"temporary\"}",
+          "name": "USA",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/160/160/0/0/81694330078327.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"R2rltnt60pesZDOG0tqiKQ\",\"k\":\"DvdQCd4S7-gz2vqXqjAnLA\"}],\"type\":\"temporary\"}",
+          "name": "Adult Swim",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/160/160/0/0/32013737078382.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"c2vvGXulxzIDrdecjo0nmg\",\"k\":\"fwN9xYNTBfIqcgbXnU1dsg\"}],\"type\":\"temporary\"}",
+          "name": "A&E",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/160/160/0/0/95118087071584.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"aPx4y2_lgMNdJp2oekcesA\",\"k\":\"K9YjIgokfZXWkAzqYSdp3w\"}],\"type\":\"temporary\"}",
+          "name": "AMC",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"goxHPLGSyquo4dn8Y9pNdQ\",\"k\":\"y2AIYemCLv7qXS29DBV8RQ\"}],\"type\":\"temporary\"}",
+          "name": "AXN",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rOo0pNrfeJagKAsISW1J1Q\",\"k\":\"brYaO_NBHGT4m1lOV9SHxg\"}],\"type\":\"temporary\"}",
+          "name": "Cinecanal",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/160/160/0/0/53485573073445.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dobj7j5gbmaU5uOfy8motw\",\"k\":\"zQ-lm7caOYhDSZ_ruFnDQQ\"}],\"type\":\"temporary\"}",
+          "name": "Cine Familiar",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1805/CH_LOGO/160/160/0/0/38183247075481.png",
+          "url": "https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"w8tzIIFdActB_bDp1b0pFQ\",\"k\":\"fIkmawzGD6NBlHT8lsGJJw\"}],\"type\":\"temporary\"}",
+          "name": "Cine Hispano",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1806/CH_LOGO/160/160/0/0/47205068074564.png",
+          "url": "https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"gS-JywAk02megy1y5PDrtg\",\"k\":\"hR10ls0afgMSWyttO0HJIg\"}],\"type\":\"temporary\"}",
+          "name": "Cine Premium",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1807/CH_LOGO/160/160/0/0/30781400075257.png",
+          "url": "https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Oz2J8OCZ91C6tPjC68TH7A\",\"k\":\"EUMT9zTnqOhLDKbRa9ZSyw\"}],\"type\":\"temporary\"}",
+          "name": "Cinemax",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/160/160/0/0/60951863073142.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7tmhk7PGFnuCMDDXiNdxpA\",\"k\":\"0h2uun5RPZ87pxTe7d0GMA\"}],\"type\":\"temporary\"}",
+          "name": "Comedy Central",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/160/160/0/0/33860159072069.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Y56SSbY7cx52IZU9J6pTkw\",\"k\":\"zgnLP0vK1cH-vhCJO2ukkQ\"}],\"type\":\"temporary\"}",
+          "name": "De Peli­cula",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/316/CH_LOGO/160/160/0/0/2880757007137.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VFMYAHTAqOz-KiHgzV8sGw\",\"k\":\"EVD9k0krqGCfuU0KMIezpQ\"}],\"type\":\"temporary\"}",
+          "name": "DHE",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/63/CH_LOGO/160/160/0/0/76775190072352.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vxMk6rJjty9dg3OpZ45ndA\",\"k\":\"E3XNM5B3KwO1E23OFkG6hA\"}],\"type\":\"temporary\"}",
+          "name": "Eurochannel",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/2563/CH_LOGO/160/160/0/0/1274320207337.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"AcYpXj_Jg1JCeUHcEBVgWg\",\"k\":\"usnJc0DfC4E6nwjFSID-tA\"}],\"type\":\"temporary\"}",
+          "name": "Europa Europa",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/160/160/0/0/8622092407184.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"u7jIGCKhYo9JhsY3nKVAag\",\"k\":\"tmEmW6raUyTrgmIkpPNYvQ\"}],\"type\":\"temporary\"}",
+          "name": "FX",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"bsvRMt5yciTBYavYBlsN-w\",\"k\":\"dfrx7KPO9yCOGd43nQpSnQ\"}],\"type\":\"temporary\"}",
+          "name": "Golden",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/281/CH_LOGO/160/160/0/0/7149423107401.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ICyFeclN9QbBocVO9JoMYA\",\"k\":\"hx-EkB81gM-nJzKTSCpmxQ\"}],\"type\":\"temporary\"}",
+          "name": "Golden Edge",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/160/160/0/0/86179590071069.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"otaoYxHCGiwPbpDVj9flkA\",\"k\":\"tWB-OJHo-0wMyC2PgqvlaQ\"}],\"type\":\"temporary\"}",
+          "name": "Golden Plus",
+          "image": "https://i.postimg.cc/L4QXnxHV/golden-plus.png",
+          "url": "https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(GOLDEN_HD)/manifest.mpd?",
+          "headers": {
+            "Referer": "https://pylocalliveclarovideo.akamaized.net/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ucqzIxaz2KrgRSdVzr2q3Q\",\"k\":\"NeYYaYSRaAQ6RARfLX_4Qg\"}],\"type\":\"temporary\"}",
+          "name": "Kanal D Drama",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1803/CH_LOGO/160/160/0/0/91513859074694.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"akjpI98LF4O_oOgqPFH8IA\",\"k\":\"EiZ2kGJW-wFU2EGTaQnFew\"}],\"type\":\"temporary\"}",
+          "name": "Morbido TV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1816/CH_LOGO/160/160/0/0/38444071074991.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/Morbido/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RAD3WN293IG375orMiUWJQ\",\"k\":\"qiRI68Y6UDS5uObo0V93DQ\"}],\"type\":\"temporary\"}",
+          "name": "Noveli­sima",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/160/160/0/0/68355397076898.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"iahoWZrw-gNopUfaFhEgHg\",\"k\":\"176Umylt7MqNai1TXAV9xg\"}],\"type\":\"temporary\"}",
+          "name": "Paramount Network",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/318/CH_LOGO/160/160/0/0/87610940072910.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"JYtFXu521kBvh90C3cc12Q\",\"k\":\"3YqtdMef6DnMFC0P9mlEcw\"}],\"type\":\"temporary\"}",
+          "name": "Sony Channel",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_XUW506vv2-WZKlGUUnxeQ\",\"k\":\"aqKTXRf9Th6JY-y-9O24Kw\"}],\"type\":\"temporary\"}",
+          "name": "Space",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"eDlmk7FyFYF2wzwo8ufAuA\",\"k\":\"HiUREoGaNO1pG8OIHGTqTQ\"}],\"type\":\"temporary\"}",
+          "name": "Star Channel",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"OgeyIPjxQqDvhmL_oK3uTw\",\"k\":\"6IhG0EDNFXso_9odRKXPiQ\"}],\"type\":\"temporary\"}",
+          "name": "Studio Universal",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/160/160/0/0/223329100777.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GM_ietrS5ETcD1CjI4oXQA\",\"k\":\"oOJfGL6U1usclzMRETXARw\"}],\"type\":\"temporary\"}",
+          "name": "TCM",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"oUi1h7s0_pul51K5XQ81Fw\",\"k\":\"_75Snarobits-gJak3_3pA\"}],\"type\":\"temporary\"}",
+          "name": "TL Novelas",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"kC8fhXwwCBskmuNY4S-bgg\",\"k\":\"__jLDZO1eEXBzLpFj1GXDQ\"}],\"type\":\"temporary\"}",
+          "name": "TNT",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"igJvw9RDRUzxquSGtojKmg\",\"k\":\"dmXC9ueR1E8Efl_6knOCqg\"}],\"type\":\"temporary\"}",
+          "name": "TNT Novelas",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/114/CH_LOGO/160/160/0/0/98175226078201.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"LRXy0vj4H7rNgjkfWImqOg\",\"k\":\"l8elApUAqB038rcNYnb8mg\"}],\"type\":\"temporary\"}",
+          "name": "TNT Series",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/117/CH_LOGO/160/160/0/0/68097404073421.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"fGzDa5w_RPN7cTrUBIPghQ\",\"k\":\"zq7PcLmXgJZ9l7nq9uKtXw\"}],\"type\":\"temporary\"}",
+          "name": "Universal TV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/160/160/0/0/9929073907327.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"DNFvnq3lvdq0H9PVn4BLyw\",\"k\":\"iF3JOwaS4u_jdEmkpWFz7w\"}],\"type\":\"temporary\"}",
+          "name": "Warner TV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
           }
         }
       ]
