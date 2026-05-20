@@ -2212,6 +2212,7 @@
     },
     {
       "name": "DEPORTES BRASIL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuoeH4jprGvbrizIDaPcZmkP3anewq-3JOw&s",
       "stations": [
         {
           "name": "BAND",
@@ -2413,6 +2414,14 @@
           "headers": {
             "User-Agent": "2.18.4 (Linux;Android 15) ExoPlayerLib/2.18.4",
             "Referer": "https://streamrdc.xyz/"
+          }
+        },
+        {
+          "name": "N Sports",
+          "image": "https://i.postimg.cc/8P9QK5mB/xsports-branco-3.png",
+          "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e8f0afbd0dc24b80ac2737ef1d36210e/playlist.m3u8",
+          "headers": {
+            "User-Agent": "2.18.4 (Linux;Android 15) ExoPlayerLib/2.18.4"
           }
         }
       ]
