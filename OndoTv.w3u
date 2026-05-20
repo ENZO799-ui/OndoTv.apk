@@ -2397,7 +2397,8 @@
           "headers": {
             "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
             "Referer": "https://embedcanais.com/"
-          },
+          }
+        },
         {
           "name": "COMBATE",
           "image": "https://i.ibb.co/3m7DrqY/combate.png",
