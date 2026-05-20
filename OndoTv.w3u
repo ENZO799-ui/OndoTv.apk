@@ -812,6 +812,7 @@
     },
     {
       "name": "PACK UNIVERSAL+",
+      "image": "https://cinematusa.com/wp-content/uploads/2022/03/logo_universal.png",
       "stations": [
         {
           "license_type": "clearkey",
@@ -872,6 +873,7 @@
     },
     {
       "name": "ENTRETENIMIENTO",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStKTE0Q4G4cxr_IXoUDvAsWfUN95gT7KITZg&s",
       "stations": [
         {
           "license_type": "clearkey",
