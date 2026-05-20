@@ -3447,11 +3447,6 @@
         {
           "name": "CMC TV",
           "image": "https://media.tvup.cloud/canales/color_lg_5b1e8713dd713247dee47267.png",
-          "url": "http://cors.tundracast.com:2000/https://cmc-ono.amagi.tv/playlist.m3u8"
-        },
-        {
-          "name": "CMC USA",
-          "image": "https://i.postimg.cc/65BkhL87/cmc-usa.png",
           "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/chunklist.m3u8"
         },
         {
@@ -3539,18 +3534,26 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4HixXtdw7HH4A8DsxD3gMw\",\"k\":\"cBC8zaVE900bQlxM69CC1A\"}],\"type\":\"temporary\"}"
         },
         {
-          "name": "QUIERO MUSICA TV",
-          "image": "https://i.ibb.co/4mXYMzX/quiero.png",
-          "url": "https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_cenc/Quiero_HD.mpd",
           "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"o1SwyCo6cgxKb1LtWhGQ9A\",\"k\":\"RadtzITwWM+ryLlY1zA7KA\"}],\"type\":\"temporary\"}"
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1ihF8B0lepH9c9YnUYKNwQ\",\"k\":\"tgBTnmmKcH3iPlfUzbmdmg\"}],\"type\":\"temporary\"}",
+          "name": "Quiero Musica TV",
+          "image": "https://i.imgur.com/RO9Dz3X.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
         },
         {
-          "name": "ALLEGRO",
-          "image": "https://i.ibb.co/ts85rN6/allegro.png",
-          "url": "https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_cenc/AllegroHD.mpd",
           "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"5V5huBuZLWwhRmiR1yFX6Q\",\"k\":\"Vm00G/cgmoiXbnXCCtesog\"}],\"type\":\"temporary\"}"
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"U9ywXvHwu9IJOwwv6OVaXg\",\"k\":\"0vuaT4JEqa8ZiTvgMsQ9Pw\"}],\"type\":\"temporary\"}",
+          "name": "Allegro",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/3602/CH_LOGO/160/160/0/0/14066743073439.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/Allegro/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
         },
         {
           "name": "VORTERIX",
@@ -3560,11 +3563,46 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6r4sIjUMJsfwrYSzSTLwjQ\",\"k\":\"OfoGg27A+B2N2bbgGjBw4w\"}],\"type\":\"temporary\"}"
         },
         {
-          "name": "HTV",
-          "image": "https://i.ibb.co/vx3jZrFW/Htv-logo-svg.png",
-          "url": "https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_cenc/HTV.mpd",
           "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2uzvX+MvTOCDxqDGknVdag\",\"k\":\"1CJ/JDiam6dykyFLk+sNfQ\"}],\"type\":\"temporary\"}"
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"UGEpH1RxQ7QLir7f3_WRdA\",\"k\":\"-woXh0mcvCLC7K8bQ91Npw\"}],\"type\":\"temporary\"}",
+          "name": "HTV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/160/160/0/0/4926258407115.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/HTV/live_dash_cld/HTV.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"YHW9AwS9QIEqqioROzC-JA\",\"k\":\"mMhfrizgIBdXOiP60JqN-g\"}],\"type\":\"temporary\"}",
+          "name": "El FolklÃ³rico",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/4061/CH_LOGO/160/160/0/0/46266908079132.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "Billboard TV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/160/160/0/0/12050400077728.png",
+          "url": "https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BJgygsL6gZoI-gOhP-T9vg\",\"k\":\"R4CiQ0DqlXxKJ7JX4rbsTA\"}],\"type\":\"temporary\"}",
+          "name": "CREA TV",
+          "image": "https://i.postimg.cc/qvPBY6X9/https://geo.edge.pontiscloud.com:9002/images/2539/CH_LOGO/160/160/0/0/61169282279262.png",
+          "url": "https://cdn.sensa.com.ar/output/SMT7/VtxD/output.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
         },
         {
           "name": "CANAL DE LA MUSICA",
