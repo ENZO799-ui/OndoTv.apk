@@ -2216,7 +2216,7 @@
       "stations": [
         {
           "name": "BAND",
-          "image": "https://i.ibb.co/WpzKSZb8/band.png",
+          "image": "https://i.imgur.com/SOfcdFf.png",
           "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
           "headers": {
             "User-Agent": "2.18.4 (Linux;Android 15) ExoPlayerLib/2.18.4",
@@ -2234,7 +2234,7 @@
         },
         {
           "name": "GE TV",
-          "image": "https://i.postimg.cc/pV8m3tZk/getv.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GE_TV.svg/960px-Logo_GE_TV.svg.png",
           "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
@@ -2242,12 +2242,12 @@
         },
         {
           "name": "CAZE TV LIVE",
-          "image": "https://i.postimg.cc/vmw9KWM3/s151990-lw-h8-aa-SL170-FMpng.png",
+          "image": "https://i.ibb.co/W3XpzQy/cazetv.png",
           "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
         },
         {
           "name": "CAZE TV 1",
-          "image": "https://i.postimg.cc/vmw9KWM3/s151990-lw-h8-aa-SL170-FMpng.png",
+          "image": "https://i.ibb.co/W3XpzQy/cazetv.png",
           "url": "https://otte-azion.live.pv-cdn.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"NEde2rmRrV6SVIrr1xBBCg\",\"k\":\"UBsgnMzTI6wAv1rBW0BstA\"}],\"type\":\"temporary\"}",
@@ -2258,7 +2258,7 @@
         },
         {
           "name": "CAZE TV 2",
-          "image": "https://i.postimg.cc/28xPyx9W/Cazetv2-SL170-FMpng.png",
+          "image": "https://i.ibb.co/W3XpzQy/cazetv.png",
           "url": "https://otte-azion.live.pv-cdn.net/gru-nitro/live/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"l1LvclkO9EH/o3MeBIb7wA\",\"k\":\"22Pse58RNIt8xoCKVMmUVw\"}],\"type\":\"temporary\"}",
@@ -2269,7 +2269,7 @@
         },
         {
           "name": "CAZE TV 3",
-          "image": "https://i.postimg.cc/g0BpJKjb/Caze-TV3-SL170-FMpng.png",
+          "image": "https://i.ibb.co/W3XpzQy/cazetv.png",
           "url": "https://abbfz7naaaaaaaamd5dynhpgv3rkb.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Cinjt9wmztgBFNqZJm6mNg\",\"k\":\"nx5ANFRf7ZC1znqPiSXmIQ\"}],\"type\":\"temporary\"}",
@@ -2313,7 +2313,7 @@
         },
         {
           "name": "PREMIERE",
-          "image": "https://i.postimg.cc/Gt4Ht2d8/91Gia-Azh7GL-UR688-387-FMpng.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VrecF4KzDmtvyXOw6P1BBA\",\"k\":\"+jiqqGWlftp8d0RGl7qO0w\"}],\"type\":\"temporary\"}",
@@ -2324,7 +2324,7 @@
         },
         {
           "name": "PREMIERE 2",
-          "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
           "url": "https://otte-azion.live.pv-cdn.net/gru-nitro/live/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ncQEYMkwh66oTWMV8I7LZA\",\"k\":\"9pyNRiT93/TKib0LMb3Epw\"}],\"type\":\"temporary\"}",
@@ -2335,7 +2335,7 @@
         },
         {
           "name": "PREMIERE 3",
-          "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
           "url": "https://otte-azion.live.pv-cdn.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"0j90M3mKZSp9T2eR2eEDbA\",\"k\":\"SULuvVmLVyfFzEhMxitS6A\"}],\"type\":\"temporary\"}",
@@ -2346,7 +2346,7 @@
         },
         {
           "name": "PREMIERE 4",
-          "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
           "url": "https://otte-azion.live.pv-cdn.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4jNlwq2XhwyHFxK3Pw1hlQ\",\"k\":\"WHCccUMgu4YtvQcnDfgclA\"}],\"type\":\"temporary\"}",
@@ -2357,7 +2357,7 @@
         },
         {
           "name": "PREMIERE 5",
-          "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
           "url": "https://otte-azion.live.pv-cdn.net/gru-nitro/live/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"My9i6zyugk6YpBJNopp9MQ\",\"k\":\"0WmM2j0ED5BRElphdFtZaw\"}],\"type\":\"temporary\"}",
@@ -2368,7 +2368,7 @@
         },
         {
           "name": "PREMIERE 6",
-          "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
           "url": "https://abc3orwaaaaaaaame6555h3b6af44.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VhuqiWdsicHQR+GFK6AcCQ\",\"k\":\"qMFXgm398SmaMpt34qtqGg\"}],\"type\":\"temporary\"}",
@@ -2379,7 +2379,7 @@
         },
         {
           "name": "PREMIERE 7",
-          "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
           "url": "https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"nuNSqsftjuHLQs/fMiscsA\",\"k\":\"BT1jX8kOF1iBvvJs0p83Hg\"}],\"type\":\"temporary\"}",
@@ -2390,7 +2390,7 @@
         },
         {
           "name": "PREMIERE 8",
-          "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
           "url": "https://otte-azion.live.pv-cdn.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GfuEZBNllM4MZv41ieiO9A\",\"k\":\"ag78SoKh4Ifwk8Pl3j4qPg\"}],\"type\":\"temporary\"}",
@@ -2401,7 +2401,7 @@
         },
         {
           "name": "COMBATE",
-          "image": "https://i.ibb.co/3m7DrqY/combate.png",
+          "image": "https://i.imgur.com/ZPYK5jr.png",
           "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=combate",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
@@ -2410,7 +2410,7 @@
         },
         {
           "name": "UFC FIGHT PASS",
-          "image": "https://i.postimg.cc/hjV8f98m/UFC-FIGHT-PASS.png",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFPnxqZSsc-ofqRC7mWTovgQ8MDhgnjzYO3g&s",
           "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=ufcfightpass",
           "headers": {
             "User-Agent": "2.18.4 (Linux;Android 15) ExoPlayerLib/2.18.4",
@@ -2420,10 +2420,15 @@
         {
           "name": "N Sports",
           "image": "https://i.postimg.cc/8P9QK5mB/xsports-branco-3.png",
-          "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e8f0afbd0dc24b80ac2737ef1d36210e/playlist.m3u8",
+          "url": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp",
           "headers": {
             "User-Agent": "2.18.4 (Linux;Android 15) ExoPlayerLib/2.18.4"
           }
+        },
+        {
+          "name": "N SPORTS ROKU",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp",
+          "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8"
         }
       ]
     },
