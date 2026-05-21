@@ -1605,6 +1605,14 @@
           }
         },
         {
+          "name": "Clan ES",
+          "image": "https://i.postimg.cc/cL8vJm6W/clan-2026-worldtv2.png",
+          "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
+          }
+        },
+        {
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"TYsyIKww5cgUjUvMIl76Wg\",\"k\":\"62kY3-EX_EBTlqnDmGoEUA\"}],\"type\":\"temporary\"}",
           "name": "Discovery Kids LA",
@@ -1630,7 +1638,7 @@
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"cNkbFJNaNZnwLl2rce8h3A\",\"k\":\"gD6RUuna9xe3cjmal4Agdg\"}],\"type\":\"temporary\"}",
           "name": "Disney Channel LA",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+          "image": "https://i.ibb.co/vdfh1bd/disney-channel.png",
           "url": "https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd?",
           "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
@@ -1639,7 +1647,7 @@
         },
         {
           "name": "Disney Channel MX",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+          "image": "https://i.ibb.co/vdfh1bd/disney-channel.png",
           "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"8EfqGr3KbwMRdFTE3gttWw\",\"k\":\"sDjIyPEUxWiVbUKOgK441w\"}],\"type\":\"temporary\"}",
@@ -1756,6 +1764,11 @@
           "headers": {
             "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
           }
+        },
+        {
+          "name": "CANELA KIDS",
+          "image": "https://i.postimg.cc/6QCpWYqK/canela-kids.webp",
+          "url": "https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8"
         },
         {
           "name": "FMH KIDS",
