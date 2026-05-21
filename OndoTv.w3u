@@ -1641,12 +1641,12 @@
           }
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1GMhABNUiJJcHX6YlaJrmQ\",\"k\":\"HaR49oe4UMYcmvYZhdl8Fw\"}],\"type\":\"temporary\"}",
           "name": "Nickelodeon",
-          "image": "https://i.ibb.co/TxV7nwLw/20260420-172534.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd?",
-          "headers": {
+          "image": "https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/400/400/0/0/70239189071229.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd",
+          "license_type": "widevine",
+          "license_key": "https://mrpw.pt.verspective.net/?deviceId=YzE2YzAyM2YtMzg2YS00YzhmLTllYmUtOGY0NTU3YmFiZDQ5\",  \"headers\": {    \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36\",    \"Referer\":\"https://player.sensa.com.ar/&webtoken=1.0\"  }}",
+        "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
             "Referer": "https://webclient.ctcplus.com.ar/"
           }
@@ -1663,12 +1663,12 @@
           }
         },
         {
+          "name": "Cartoon Network",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/400/400/0/0/18422580072845.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"x-_mO79oKkEk-zTAHregpw\",\"k\":\"SGZ1Ebhmjflvo6uqYj5PaQ\"}],\"type\":\"temporary\"}",
-          "name": "Cartoon Network",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd?",
-          "headers": {
+        "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
             "Referer": "https://webclient.ctcplus.com.ar/"
           }
@@ -2745,7 +2745,7 @@
         },
         {
           "name": "SPACE",
-          "image": "https://i.postimg.cc/yNPgTC2x/space-hd.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",
           "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/SPACE-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"z/Y2oGNPRoM9DM2dUiVJkw\",\"k\":\"sx2iojNkkDs2lFVlhVbHTA\"}],\"type\":\"temporary\"}",
@@ -2765,8 +2765,8 @@
         },
         {
           "name": "NU9VE Nacional",
-          "image": "https://i.postimg.cc/brhs1y8K/nu9ve-nacional.png",
-          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/CDMX1/NUEVE-RDF-HD/default.mpd",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/960px-Nueve_%282018_logo%29.png",
+          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/NUEVE-RDF-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"prYlF8pLtZ2e8LiIYWp2Wg\",\"k\":\"8YwIC6ydB05KW2QdV2cGXw\"}],\"type\":\"temporary\"}",
           "headers": {
@@ -2775,13 +2775,18 @@
         },
         {
           "name": "Las Estrellas",
-          "image": "https://i.postimg.cc/Bt996SPz/las-estrellas.png",
+          "image": "https://i.imgur.com/g5ShxZ7.png",
           "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/LAS-ESTRELLAS-RDF-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"3cmZlUHa1nn0yteLCn5CRw\",\"k\":\"upUUOStZDXwfOwwGoQ48iA\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
           }
+        },
+        {
+          "name": "Las Estrellas 2",
+          "image": "https://i.imgur.com/g5ShxZ7.png",
+          "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
         },
         {
           "name": "Azteca 7",
@@ -2795,6 +2800,16 @@
         },
         {
           "name": "TUDN",
+          "image": "https://i.postimg.cc/gJPNzpFs/tudn.png",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"AQ77FyQdL1DIDTylIYdw9A\",\"k\":\"7P7Cegoa1ABEiCY8M7Uenw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "TUDN UNIVISION",
           "image": "https://i.imgur.com/oT5CAvd.png",
           "url": "https://streaming.alwaysdata.net/tudn.php"
         },
@@ -2811,7 +2826,7 @@
         },
         {
           "name": "FOX SPORTS MX",
-          "image": "https://i.postimg.cc/dQ6T3FcG/fs-mx.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"L72qO+oNAyOuARsxjR23Fg\",\"k\":\"hybvfq9bnc4V+2qp+AvVPw\"}],\"type\":\"temporary\"}",
@@ -2822,7 +2837,7 @@
         },
         {
           "name": "FOX SPORTS 2 MX",
-          "image": "https://i.postimg.cc/GmW4Vhvw/fs2-mx.png",
+          "image": "https://i.imgur.com/oG7HzEf.png",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"iDb7BNYtxkyfijnvhkDV6w\",\"k\":\"1PBc5WxSMbfN9TRVvqWGIQ\"}],\"type\":\"temporary\"}",
@@ -2833,7 +2848,7 @@
         },
         {
           "name": "FOX SPORTS 3 MX",
-          "image": "https://i.postimg.cc/L585LqF2/fs3-mx.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"EcjBwu8Dhc8eZNRLucOjlQ\",\"k\":\"V2lzD/vcSy/YlFkp2azgYw\"}],\"type\":\"temporary\"}",
@@ -2844,7 +2859,7 @@
         },
         {
           "name": "FOX SPORTS PREMIUM MX",
-          "image": "https://i.postimg.cc/DZKbJyzw/fsp.png",
+          "image": "https://i.imgur.com/3lOZWeD.png",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"nzJ9JMZvvYThWrXJ6tfHpA\",\"k\":\"g4NxhVKcDEBI+BOGwtNkJg\"}],\"type\":\"temporary\"}",
@@ -2855,7 +2870,7 @@
         },
         {
           "name": "FS1",
-          "image": "https://i.postimg.cc/qM94jmQL/fs1.png",
+          "image": "https://i.imgur.com/O9BapV9.png",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VGbr1wcEvetlfwq/PFyk7w\",\"k\":\"vdebctjkjtSDqmI8w4qKFg\"}],\"type\":\"temporary\"}",
@@ -2866,7 +2881,7 @@
         },
         {
           "name": "FS2",
-          "image": "https://i.postimg.cc/66f3DKxT/fs2.png",
+          "image": "https://i.imgur.com/LHtxKI8.png",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CUU86CDWX7xnXeMYX55FTA\",\"k\":\"mM/5YAmV+jgcdv2s88ftrg\"}],\"type\":\"temporary\"}",
@@ -2876,8 +2891,8 @@
           }
         },
         {
-          "name": "NBC SPORTS PEACOCK",
-          "image": "https://i.postimg.cc/sXLGTmh7/nbc-sports-now.png",
+          "name": "NBC SPORTS NETWORK",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/960px-NBCSN_logo_%28flat%29.svg.png",
           "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(nbcsportspeacock)/master.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"AEWQEbJlJKZzsM7VTO8Kiw\",\"k\":\"sx3tDopMrVo2tr4G2udvKA\"}],\"type\":\"temporary\"}",
@@ -2886,8 +2901,13 @@
           }
         },
         {
+          "name": "NBC SPORTS NOW",
+          "image": "https://i.imgur.com/EzNf2Yx.png",
+          "url": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8"
+        },
+        {
           "name": "Sky Sports 16",
-          "image": "https://i.postimg.cc/G2YVKzdm/sky-sport-16.png",
+          "image": "https://i.imgur.com/SuTOqKi.png",
           "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"y4Dh59dZjq+Ysdu+bcFO6Q\",\"k\":\"EDrlXHlIyh0VnWdDYZ0mxA\"}],\"type\":\"temporary\"}",
@@ -2907,7 +2927,7 @@
         },
         {
           "name": "Sky Sports 24",
-          "image": "https://i.postimg.cc/zXq6wnM1/sky-sport-24.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/960px-Sky_Sport_24_-_Logo_2020.svg.png",
           "url": "https://aca-live4-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2NWCPZKp75MGpMxL1jS0tA\",\"k\":\"35+9qg756QW3X0aS8hOvGQ\"}],\"type\":\"temporary\"}",
@@ -2917,7 +2937,7 @@
         },
         {
           "name": "Sky Sports",
-          "image": "https://i.postimg.cc/yYv7PxWH/sky-sport.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sky_Sport_-_Logo_2026.svg/960px-Sky_Sport_-_Logo_2026.svg.png",
           "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"M1UR398NA7wG8f3q1YcLWg\",\"k\":\"GgIvszrT3k1FebBJZlUUiA\"}],\"type\":\"temporary\"}",
@@ -2927,7 +2947,7 @@
         },
         {
           "name": "Sky Sports F1 H265",
-          "image": "https://i.postimg.cc/851ytp78/sky-sport-f1.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png",
           "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rn8WGR4q36rNm1Nu1Yopig\",\"k\":\"MxmzylzW8K8vPUvZp2MKiw\"}],\"type\":\"temporary\"}",
@@ -2937,7 +2957,7 @@
         },
         {
           "name": "Sky Sports F1",
-          "image": "https://i.postimg.cc/851ytp78/sky-sport-f1.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png",
           "url": "https://vod-cua-orbit3-s1.izzigo.tv/out/u/startover/dash/F1-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qDncWojOYtofzHungWGrwg\",\"k\":\"MKLw1ECNOKpZaPCKeEw3rQ\"}],\"type\":\"temporary\"}",
@@ -2947,7 +2967,7 @@
         },
         {
           "name": "Sky Live Event 1",
-          "image": "https://i.postimg.cc/Nf7YBs3z/sky-sport-event-1.png",
+          "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
           "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"o2NqUSJ/ozjN3fWJLYpiHA\",\"k\":\"FETuPE0IvzlFS5FPeXlo6w\"}],\"type\":\"temporary\"}",
@@ -2957,7 +2977,7 @@
         },
         {
           "name": "Sky Live Event 2",
-          "image": "https://i.postimg.cc/6QTNrd8J/sky-sport-event-2.png",
+          "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
           "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/SKY-LIVE-EVENT-2-HD-H265/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"HSIJh7E6WUsUTRu7a+3VaA\",\"k\":\"sXeOTCIAo6iFlXUAsT9TNQ\"}],\"type\":\"temporary\"}",
@@ -2966,8 +2986,8 @@
           }
         },
         {
-          "name": "Sky Live Event 4",
-          "image": "https://i.ibb.co/sJFN5k78/sky-sport-event-4.webp",
+          "name": "Sky Live Event 3",
+          "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
           "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qTGy6VNpX/sM/ThXPpe6Mw\",\"k\":\"Td2ZzE+xaNfw4gvooyhxAA\"}],\"type\":\"temporary\"}",
@@ -2977,8 +2997,8 @@
           }
         },
         {
-          "name": "Sky Live Event 5",
-          "image": "https://i.ibb.co/6352xxv/sky-sport-event-5.webp",
+          "name": "Sky Live Event 4",
+          "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
           "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"bInoTFLq4EKLfSyOiHpI7A\",\"k\":\"dYoUhPkgoPGqc+ldXyviJQ\"}],\"type\":\"temporary\"}",
@@ -3190,13 +3210,17 @@
         },
         {
           "name": "beIN SPORTS XTRA",
-          "image": "https://i.postimg.cc/13rnHrb6/beis-sports-xtra.png",
+          "image": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
           "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
           }
         },
-
+        {
+          "name": "beIN SPORTS XTRA Ñ",
+          "image": "https://i.imgur.com/V562tpO.png",
+          "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
+        },
         {
           "name": "beIN SPORTS 1 AU",
           "image": "https://i.postimg.cc/PxVwNGgX/be-IN-SPORTS1-ENGLISH-Digital-Mono.png",
