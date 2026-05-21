@@ -2766,7 +2766,7 @@
         {
           "name": "NU9VE Nacional",
           "image": "https://i.postimg.cc/brhs1y8K/nu9ve-nacional.png",
-          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/NUEVE-RDF-HD/default.mpd",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/CDMX1/NUEVE-RDF-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"prYlF8pLtZ2e8LiIYWp2Wg\",\"k\":\"8YwIC6ydB05KW2QdV2cGXw\"}],\"type\":\"temporary\"}",
           "headers": {
