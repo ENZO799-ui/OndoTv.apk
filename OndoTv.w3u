@@ -2632,14 +2632,6 @@
         {
           "name": "N Sports",
           "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp",
-          "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e8f0afbd0dc24b80ac2737ef1d36210e/playlist.m3u8",
-          "headers": {
-            "User-Agent": "2.18.4 (Linux;Android 15) ExoPlayerLib/2.18.4"
-          }
-        },
-        {
-          "name": "N SPORTS ROKU",
-          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp",
           "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8"
         }
       ]
