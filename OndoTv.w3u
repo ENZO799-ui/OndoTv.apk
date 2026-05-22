@@ -2175,6 +2175,17 @@
           }
         },
         {
+          "name": "History 2",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/400/400/0/0/16627153073621.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RUpMVw-LZiB2zk8akx07Bg\",\"k\":\"LnIz4ijX2KID4H4rCFhAGQ\"}],\"type\":\"temporary\"}",
+        "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
           "name": "Maussan Tv",
           "image": "https://www.izzigo.tv/images/ch/2006/LOGO/m/0",
           "url": "https://aca-live-ott.izzigo.tv/out/u/dash/CDMX1/MAUSSAN-TV-SD/default.mpd",
@@ -2196,6 +2207,28 @@
           }
         },
         {
+          "name": "Discovery Turbo",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/262/CH_LOGO/400/400/0/0/2118831607492.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"aQLVDsA20wFGsSuSf0Nj1A\",\"k\":\"1A3F624Pj71Yq33WuRFDtQ\"}],\"type\":\"temporary\"}",
+        "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "Investigation Discovery",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/400/400/0/0/6146615007111.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9BPKa0lVurfYmj0ku_jJiw\",\"k\":\"WBaGE0NANc65jhiBX5dDbA\"}],\"type\":\"temporary\"}",
+        "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
           "name": "Discovery Science",
           "image": "https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png",
           "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/DISCOVERY-SCIENCE-HD/default.mpd",
@@ -2207,13 +2240,79 @@
           }
         },
         {
-          "name": "Discovery Channel",
+          "name": "Discovery TLC",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/363/CH_LOGO/400/400/0/0/46230374071624.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vtB8f7vGowJLqopEwFLdWQ\",\"k\":\"pjLerWmBVrPyCDB2qhkrVw\"}],\"type\":\"temporary\"}",
+        "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "Discovery Theater",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/400/400/0/0/72670030071181.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"p1O6bmsxPxKb1lkTZGgPBw\",\"k\":\"8_jhp2M7JiyjeujDXzzR4g\"}],\"type\":\"temporary\"}",
+        "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "Discovery World",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/400/400/0/0/24981309071389.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"uUkBxpJocGg8W668Y0lmUw\",\"k\":\"8E2iTNfrpt_dDWbqKi_rJA\"}],\"type\":\"temporary\"}",
+        "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "Discovery SD",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/400/400/0/0/24951383073066.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dOyYazOIxi9fp8VR4iXQuA\",\"k\":\"kyeCHeXqzlUIz1c3eMjDww\"}],\"type\":\"temporary\"}",
+        "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "Discovery HD",
           "image": "https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/400/400/0/0/24951383073066.png",
           "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/DISCOVERY-CHANNEL-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"fyxtikYoD+Ur8jxe/2uavA\",\"k\":\"hfRdIw79aXN12ns3PmggUw\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "Animal Planet",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/400/400/0/0/93120001074605.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2-pWgpeMVZPX-fMro_vQAA\",\"k\":\"mSdUCV8FDVMWPAWf9OgVcQ\"}],\"type\":\"temporary\"}",
+        "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "Sun Channel",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/484/CH_LOGO/400/400/0/0/8882809507771.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/SUN/live_dash_cld/SUN.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"audXhym96dLzQgkBQRA2hw\",\"k\":\"-wCbs33Y-5jikT9rdit55Q\"}],\"type\":\"temporary\"}",
+        "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
           }
         },
         {
@@ -3526,16 +3625,58 @@
           }
         },
         {
-          "name": "TELEMUNDO USA",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
-          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kasa)/master.mpd",
+          "name": "Telemundo Area de la Bai­a",
+          "image": "https://i.ibb.co/8d3prMM/telemundo.png",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(ksts)/master.mpd",
           "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CmUFBLovP4ScKQtmpCXy2Q\",\"k\":\"+YCdGzfG7e2QtPX7zH7aJg\"}],\"type\":\"temporary\"}"
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"+naiy0FUO8ihsuv4dCiZNA\",\"k\":\"/ykuPRFZUPcMbYxVIUGlIA\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "Telemundo Chicago",
+          "image": "https://i.ibb.co/8d3prMM/telemundo.png",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wsns)/master.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"fWu5+G4TPkyzNEC0k7a2cg\",\"k\":\"WErShdy559Qs8+k/HMP+EQ\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "Telemundo Orlando",
+          "image": "https://i.ibb.co/8d3prMM/telemundo.png",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wtmo)/master.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"laUqEV7RNOiB0Ofc3UI7Pg\",\"k\":\"Wsti4kLf3x2n0EGmAOxi/Q\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "Telemundo Miami",
+          "image": "https://i.ibb.co/8d3prMM/telemundo.png",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wscv)/master.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7VqsNpGzOgKshthPiGqKBg\",\"k\":\"ayz23RUEFrdY0ij8OJgEcw\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "Telemundo Nueva York",
+          "image": "https://i.ibb.co/8d3prMM/telemundo.png",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wnju)/master.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"xx/nvILwN8avIf0pnWNBsA\",\"k\":\"EyI8mIhv9D08Xyce60V8xg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "Telemundo Los Angeles",
+          "image": "https://i.ibb.co/8d3prMM/telemundo.png",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"znqzAi51MweZf1iv4AG6xA\",\"k\":\"ctYxpm5jXGCCmg/ncFUWwQ\"}],\"type\":\"temporary\"}"
         },
         {
           "name": "TELEMUNDO PR",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
           "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+        },
+        {
+          "name": "Universo EAST",
+          "image": "https://i.imgur.com/RZ8pIKe.png",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"lrZ/oJFAMpqJt6Hq0TTtow\",\"k\":\"xhjTLFbNxsrYMw65hQfKPw\"}],\"type\":\"temporary\"}"
         },
         {
           "name": "UNIVERSO WEST",
@@ -3545,14 +3686,123 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Bp80lTgPPSWowDR3Bn99Gw\",\"k\":\"fZ2/gTRTXhZl6RT7cTTORw\"}],\"type\":\"temporary\"}"
         },
         {
-          "name": "UNIVERSO EAST",
+          "name": "UNIVERSO HD",
           "image": "https://i.imgur.com/RZ8pIKe.png",
           "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8"
+        },
+        {
+          "name": "Galavision ESTE",
+          "image": "https://i.postimg.cc/76P207Ts/galavision-2024.png",
+          "url": "http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/dash.mpd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Galavision OESTE",
+          "image": "https://i.postimg.cc/76P207Ts/galavision-2024.png",
+          "url": "http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/dash.mpd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Unimas NY",
+          "image": "https://i.postimg.cc/BQzB3h1J/unimas-logo.png",
+          "url": "http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/dash.mpd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Unimas LA",
+          "image": "https://i.postimg.cc/BQzB3h1J/unimas-logo.png",
+          "url": "http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/dash.mpd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Univision LA",
+          "image": "https://i.postimg.cc/SRrJTp9J/univision-34-la.png",
+          "url": "http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/dash.mpd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Univision NY",
+          "image": "https://i.postimg.cc/nzfdJ3gV/univ-ny-0-1x1.png",
+          "url": "http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/dash.mpd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Univision ATL",
+          "image": "https://i.postimg.cc/WbVS1nfF/univ-atlan-0-1x1.png",
+          "url": "http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/dash.mpd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Univision MIA-FTL",
+          "image": "https://i.postimg.cc/k506Ds9x/univision-23-fl.png",
+          "url": "http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/dash.mpd",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Univision",
+          "image": "https://i.postimg.cc/zD95z3V6/univision.png",
+          "url": "https://cdn-live.mundogo.cl/univision/univision.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://archive.org/download/9_20260209_20260209_2252/88.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "USA EAST",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+          "url": "https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-oneapp-dash-primary-v1/Content/Channel/4e41f6af-4b86-2aac-c351-c1250b14b344/DASH_ENC/master_5m.mpd?aws.sessionId=4bd064c7-cf13-4eb7-a0ba-a9672b3cbc24",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"b+S1Z+ybRnqIigiWAMk/VQ\",\"k\":\"uGEiZUUcjEYvtrVa06a22A\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+            "Referer": "https://www.usanetwork.com/",
+            "Origin": "https://www.usanetwork.com"
+          }
+        },
+        {
+          "name": "USA WEST",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+          "url": "https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-oneapp-dash-secondary-v1/Content/Channel/6770a110-2c6e-47fd-2fe3-1dc29b64f5b6/DASH_ENC/master_5m.mpd?aws.sessionId=c3fb30b2-ae4b-4a0e-ae00-b776f820d0bd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"b+S1Z+ybRnqIigiWAMk/VQ\",\"k\":\"uGEiZUUcjEYvtrVa06a22A\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+            "Referer": "https://www.usanetwork.com/",
+            "Origin": "https://www.usanetwork.com"
+          }
         },
         {
           "name": "TELEMUNDO DEPORTES AHORA",
           "image": "https://i.postimg.cc/MZ0nr8Hx/telemundo-deportes-ahora-now.png",
           "url": "https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_[PLATFORM]_telemundodeportesahora_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=es&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.channelId=99951459&ads._fw_ifa_type=[IFA_TYPE]"
+        },
+        {
+          "name": "FOX",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUo4Idr7rD6IFueJARbXWdd5f7EzttEJ9bQ&s",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"jsLmJIq+LhDhbkOcm4X/2A\",\"k\":\"8SGwFcKlGXgoNV+2qHTClw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+          }
         },
         {
           "name": "FOX TUBI",
@@ -3752,6 +4002,18 @@
           "name": "TOP BARCA",
           "image": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg",
           "url": "https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8"
+        },
+        {
+          "name": "TNT SPORTS 1 UK",
+          "image": "https://i.ibb.co/M2XfypX/tnt1.png",
+          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"KUtXYc78ItDGMSk54T2CeA\",\"k\":\"UhSPEELSOISfCngT8dqKew\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/",
+            "Origin": "https://www.primevideo.com"
+          }
         },
         {
           "name": "TNT SPORTS 2 UK",
