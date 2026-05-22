@@ -517,19 +517,20 @@
         },
         {
           "name": "FLOW EVENTOS PY",
-          "image": "https://i.postimg.cc/4dwrVjq5/flow.png",
+          "image": "https://i.ibb.co/YLjMyFx/evento30hd.png",
           "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_cenc/Eventos_PY.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"K9/DDyp1keEH2MhEWMOV3Q\",\"k\":\"3O4NZCC2tZf7oV08RBGnHg\"}],\"type\":\"temporary\"}"
         },
         {
           "name": "FLOW EVENTOS 2 PY",
-          "image": "https://i.postimg.cc/4dwrVjq5/flow.png",
+          "image": "https://i.ibb.co/C0xQZQ3/evento230hd.png",
           "url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_cenc/Eventos2_PY.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CQDOZrgt4P0Hqo8SpI8pog\",\"k\":\"5VVtumiP2mNzdKtch9fNpg\"}],\"type\":\"temporary\"}"
         }
       ]
+    },
     {
       "name": "🇵🇾FLOW|PARAGUAY🇵🇾",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Rm3PvLydpxUHNmjNqViEVmjgdKWvMlXwTA&s",
@@ -584,7 +585,7 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"jfDxoeBenGpDjiOofJ0G6g\",\"k\":\"XfdNN0oqiocUY+fEOPo7pw\"}],\"type\":\"temporary\"}"
         },
         {
-          "name": "5 DÃAS",
+          "name": "5 DIAS",
           "image": "https://i.postimg.cc/Pxk4fSfR/5dias.png",
           "url": "https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_cenc/5_Dias_PY.mpd",
           "license_type": "clearkey",
@@ -612,14 +613,14 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"j2b+FXNbKxs9XrNkbKpAXg\",\"k\":\"QEuT/XtJmxBhyacU4c2y0A\"}],\"type\":\"temporary\"}"
         },
         {
-          "name": "TV CÃMARA",
+          "name": "TV CAMARA",
           "image": "https://i.ibb.co/ZdsYJGJ/tvcamara.png",
           "url": "https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_cenc/TV_Camara.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"k1dwSt5ETcOyO+iYZa8vWA\",\"k\":\"PQPgp52Pe3qiiXw9JL1Lag\"}],\"type\":\"temporary\"}"
         },
         {
-          "name": "PARAVISIÃ“N",
+          "name": "PARAVISIÓN",
           "image": "https://i.postimg.cc/FHtwjZfc/paravision.png",
           "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_cenc/PARAVISION_C4.mpd",
           "license_type": "clearkey",
@@ -668,14 +669,14 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"g1r313vRNiG6BEq5MeXonw\",\"k\":\"dT7ZiYWzSKt788Ciskkw6w\"}],\"type\":\"temporary\"}"
         },
         {
-          "name": "Ã‘anduti TV",
+          "name": "Ñanduti TV",
           "image": "https://i.ibb.co/3TJQVdt/nandutitv.png",
           "url": "https://cdn.cvattv.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_cenc/Nanduti_Py.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RsPYxCu5eZ5d5XkuP7Rd5A\",\"k\":\"rtBv0pLSeKpGTaRHUrnDEw\"}],\"type\":\"temporary\"}"
         },
         {
-          "name": "UniÃ³n TV",
+          "name": "Union TV",
           "image": "https://i.postimg.cc/Y2ds5L9T/union-tv.png",
           "url": "https://cdn.cvattv.com.ar/live/c7eds/UnionTV/SA_Live_dash_cenc/UnionTV.mpd",
           "license_type": "clearkey",
@@ -696,7 +697,7 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2Eea4qfMk56DgsiFGSdCXQ\",\"k\":\"0fifxpSABkWukm2cXxOh9g\"}],\"type\":\"temporary\"}"
         },
         {
-          "name": "AmÃ©rica Paraguay",
+          "name": "America Paraguay",
           "image": "https://i.ibb.co/cNXpgSJ/america.png",
           "url": "http://cdn.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_cenc/America_PY.mpd",
           "license_type": "clearkey",
@@ -711,14 +712,14 @@
         },
         {
           "name": "FLOW EVENTOS PY",
-          "image": "https://i.postimg.cc/4dwrVjq5/flow.png",
+          "image": "https://i.ibb.co/YLjMyFx/evento30hd.png",
           "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_cenc/Eventos_PY.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"K9/DDyp1keEH2MhEWMOV3Q\",\"k\":\"3O4NZCC2tZf7oV08RBGnHg\"}],\"type\":\"temporary\"}"
         },
         {
           "name": "FLOW EVENTOS 2 PY",
-          "image": "https://i.postimg.cc/4dwrVjq5/flow.png",
+          "image": "https://i.ibb.co/C0xQZQ3/evento230hd.png",
           "url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_cenc/Eventos2_PY.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CQDOZrgt4P0Hqo8SpI8pog\",\"k\":\"5VVtumiP2mNzdKtch9fNpg\"}],\"type\":\"temporary\"}"
