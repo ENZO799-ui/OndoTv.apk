@@ -1056,10 +1056,11 @@
     },
     {
       "name": "INTERNACIONAL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VewDlI9FBpmGCCtPDesBWGlyyDpMxqJZWA&s",
       "stations": [
         {
           "name": "TVE",
-          "image": "https://i.postimg.cc/sx9zMMSL/tve-2026.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg",
           "url": "https://aca-live4-ott.izzigo.tv/15/out/u/dash/TVE-SD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6ca/+bcUGh4okGGoM0w0yw\",\"k\":\"xkT1eyU8moHXI/4lLFMHmg\"}],\"type\":\"temporary\"}",
@@ -1120,7 +1121,7 @@
         },
         {
           "name": "Sky One",
-          "image": "https://i.postimg.cc/tg23Y682/sky-one.png",
+          "image": "https://i.imgur.com/09ULZIq.png",
           "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/SKY-ONE-HD-H265/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"S2a/tT5ZgKgqECKkWEEOFw\",\"k\":\"iDjnrWG/5Cn2uBATB40w0Q\"}],\"type\":\"temporary\"}",
