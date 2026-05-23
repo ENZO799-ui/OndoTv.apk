@@ -3727,6 +3727,16 @@
           }
         },
         {
+          "name": "beIN SPORTS Ñ",
+          "image": "https://i.imgur.com/J5aurrb.png",
+          "url": "https://la14hd.com/vivo/canales.php?stream=beinsportes",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://la14hd.com/vivo/canales.php?stream=beinsportes",
+            "Origin": "https://la14hd.com"
+          }
+        },
+        {
           "name": "beIN SPORTS XTRA",
           "image": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
           "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
@@ -3838,6 +3848,16 @@
           "name": "PLUTO DEPORTES",
           "image": "https://i.imgur.com/0pDy6f4.png",
           "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
+        },
+        {
+          "name": "CBS SPORTS",
+          "image": "https://i.imgur.com/A8CnA8g.png",
+          "url": "https://la14hd.com/vivo/canales.php?stream=cbs_sports_network",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://la14hd.com/vivo/canales.php?stream=cbs_sports_network",
+            "Origin": "https://la14hd.com"
+          }
         },
         {
           "name": "CBS SPORTS GOLAZO!",
