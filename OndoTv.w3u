@@ -1055,6 +1055,82 @@
       ]
     },
     {
+      "name": "INTERNACIONAL",
+      "stations": [
+        {
+          "name": "TVE",
+          "image": "https://i.postimg.cc/sx9zMMSL/tve-2026.png",
+          "url": "https://aca-live4-ott.izzigo.tv/15/out/u/dash/TVE-SD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6ca/+bcUGh4okGGoM0w0yw\",\"k\":\"xkT1eyU8moHXI/4lLFMHmg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "ARIRANG HD",
+          "image": "https://i.imgur.com/Jdy3WNm.png",
+          "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8"
+        },
+        {
+          "name": "TELESUR",
+          "image": "https://i.imgur.com/P50VjRX.png",
+          "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
+        },
+        {
+          "name": "TELESUR SUB ENGLISH",
+          "image": "https://i.imgur.com/P50VjRX.png",
+          "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8"
+        },
+        {
+          "name": "DW",
+          "image": "https://i.imgur.com/8MRNFb9.png",
+          "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8"
+        },
+        {
+          "name": "FRANCE 24",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/1813/CH_LOGO/400/400/0/0/85662193074124.png",
+          "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/FRANCE-24-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"YZgVMap8QOz9BxZvb4fQmw\",\"k\":\"a5DLB2zpGinaHhl6i2mV3Q\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "EURONEWS",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/960px-Euronews_2016_logo.svg.png",
+          "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=j3Z4oxuHXXK"
+        },
+        {
+          "name": "BBC NEWS",
+          "image": "https://i.ibb.co/g7qY9zb/BBC-World-News-2022-Boxed-svg.png",
+          "url": "https://aca-live4-ott.izzigo.tv/15/out/u/dash/BBC-NEWS-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"8lTfhijZqlSegoDfjoRIFw\",\"k\":\"L01PCc7jFIJPpwLlpZpDzw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "UCL",
+          "image": "https://i.imgur.com/BzQphbw.png",
+          "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
+        },
+        {
+          "name": "Sky One",
+          "image": "https://i.postimg.cc/tg23Y682/sky-one.png",
+          "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/SKY-ONE-HD-H265/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"S2a/tT5ZgKgqECKkWEEOFw\",\"k\":\"iDjnrWG/5Cn2uBATB40w0Q\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        }
+      ]
+    },
+    {
       "name": "PACK HBO",
       "image": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/800/542/0/0/228799490721.png",
       "stations": [
@@ -2631,6 +2707,11 @@
             "Referer": "https://streamtp10.com/global1.php?stream=winsports",
             "Origin": "https://streamtp10.com"
           }
+        },
+        {
+          "name": "Win sports plus",
+          "image": "https://images.seeklogo.com/logo-png/64/1/win-sports-logo-png_seeklogo-644046.png",
+          "url": "https://la14hd.com/vivo/canales.php?stream=winsportsplus"
         },
         {
           "name": "Dsports",
