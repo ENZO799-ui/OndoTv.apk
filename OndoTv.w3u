@@ -2314,8 +2314,8 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEAO5oRlxrxyB_zGeylSJIP541y-6IQgUHg&s",
       "stations": [
         {
-          "name": "ESPN 1",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
+          "name": "ESPN",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
           "url": "https://streamtp10.com/global1.php?stream=espn",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
@@ -2325,7 +2325,7 @@
         },
         {
           "name": "ESPN 2",
-          "image": "https://images.seeklogo.com/logo-png/4/1/espn-2-logo-png_seeklogo-49202.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
           "url": "https://streamtp10.com/global1.php?stream=espn2",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
@@ -2335,7 +2335,7 @@
         },
         {
           "name": "ESPN 3",
-          "image": "https://logodix.com/logo/1599250.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
           "url": "https://streamtp10.com/global1.php?stream=espn3",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
@@ -2345,7 +2345,7 @@
         },
         {
           "name": "ESPN 4",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163",
           "url": "https://streamtp10.com/global1.php?stream=espn4",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
@@ -2355,7 +2355,7 @@
         },
         {
           "name": "ESPN 5",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3180/3180WHORIZONTAL.jpg?size=290x163",
           "url": "https://streamtp10.com/global1.php?stream=espn5",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
@@ -2365,7 +2365,7 @@
         },
         {
           "name": "ESPN 6",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3899/3899WHORIZONTAL.jpg?size=290x163",
           "url": "https://streamtp10.com/global1.php?stream=espn6",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
@@ -2375,7 +2375,7 @@
         },
         {
           "name": "ESPN 7",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3463/3463WHORIZONTAL.jpg?size=290x163",
           "url": "https://streamtp10.com/global1.php?stream=espn7",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
@@ -2538,7 +2538,7 @@
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"bSQ-vXpXvqS0sFKuE_TAUQ\",\"k\":\"XBklh53oc9Q7fCWSWQJTmw\"}],\"type\":\"temporary\"}",
           "name": "ESPN",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
           "url": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?",
           "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
@@ -2549,7 +2549,7 @@
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"aovWSW0kRDAcnU0P7KnXWw\",\"k\":\"P9GWdwG6KJdykYe2AJTBWA\"}],\"type\":\"temporary\"}",
           "name": "ESPN 2",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
           "url": "https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd?",
           "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
@@ -2560,7 +2560,7 @@
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"iDYlIFm3k6eRc4ONwRhv8Q\",\"k\":\"qhb5DlHOVlLauTg05DTKqA\"}],\"type\":\"temporary\"}",
           "name": "ESPN 3",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
           "url": "https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?",
           "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
@@ -2571,7 +2571,7 @@
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"A0ZT00E_I-hySdH7fmg1mg\",\"k\":\"oNa4SfF8Qw6cwC0Hc5pOSg\"}],\"type\":\"temporary\"}",
           "name": "ESPN 4",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163",
           "url": "https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?",
           "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
@@ -2976,7 +2976,7 @@
       "stations": [
         {
           "name": "ESPN MX",
-          "image": "https://i.postimg.cc/TPKcqwGz/espn.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
           "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"OLY/mqp7fHqCLI4UyKchLg\",\"k\":\"1rH0WlnS2sGnMMf1bHSXGg\"}],\"type\":\"temporary\"}",
@@ -2986,7 +2986,7 @@
         },
         {
           "name": "ESPN 2 MX",
-          "image": "https://i.postimg.cc/4NXb2ws3/espn-2.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
           "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"pJEUlX0VXKyy4CevFEULlA\",\"k\":\"D+1lmah0CHminxpJ7G1IKg\"}],\"type\":\"temporary\"}",
@@ -2996,7 +2996,7 @@
         },
         {
           "name": "ESPN 3 MX",
-          "image": "https://i.postimg.cc/hGQ9Q51B/espn-3.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
           "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"3DwaCD6uWTYxtbUBni77eA\",\"k\":\"aGk/tm3DHKhk2FTNF2xExg\"}],\"type\":\"temporary\"}",
@@ -3006,7 +3006,7 @@
         },
         {
           "name": "ESPN 4 MX",
-          "image": "https://i.postimg.cc/d36dKPw6/espn-4.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163",
           "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"obgJm2Ryarx3I+F4KbQ6VQ\",\"k\":\"kIqT/kGs8HU4yIwbMCd2Vg\"}],\"type\":\"temporary\"}",
