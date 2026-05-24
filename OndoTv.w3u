@@ -3699,13 +3699,13 @@
         },
         {
           "name": "FOX TUBI",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsg5Mhyv1ic0vowNu8DKcxwKvF0HrFRD2iqQ&s",
-          "url": "https://mega.z5cable.com/bpk-tv/fox_mas_hd/default/index.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"UXEMnCJ6RjeZFGbs4bNVDg\",\"k\":\"gxv64eFvTMLNpdYg5tHpag\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
-          }
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qVKfmwp8YJ8wct17HSC0-bVFeGFWPLJhKw&s",
+          "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist576p.m3u8"
+        },
+        {
+          "name": "FOX XTRA TUBI",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qVKfmwp8YJ8wct17HSC0-bVFeGFWPLJhKw&s",
+          "url": "https://aegis-cloudfront-1.tubi.video/0b3b6122-078c-4c89-ae5e-f548b9b1e382/playlist720p.m3u8"
         },
         {
           "name": "FOX DEPORTES",
