@@ -2474,6 +2474,36 @@
           }
         },
         {
+          "name": "DSPORTS +",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",
+          "url": "la14hd.com/vivo/canales.php?stream=dsportsplus",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "la14hd.com/vivo/canales.php?stream=dsportsplus",
+            "Origin": "https://la14hd.com"
+          }
+        },
+        {
+          "name": "LIGA1 MAX",
+          "image": "https://i.imgur.com/eRmXneK.png",
+          "url": "https://la14hd.com/vivo/canales.php?stream=liga1max",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://la14hd.com/vivo/canales.php?stream=liga1max",
+            "Origin": "https://la14hd.com"
+          }
+        },
+        {
+          "name": "MOVISTAR DEPORTES",
+          "image": "https://i.imgur.com/Zt3iE86.png",
+          "url": "https://la14hd.com/vivo/canales.php?stream=movistar",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://la14hd.com/vivo/canales.php?stream=movistar",
+            "Origin": "https://la14hd.com"
+          }
+        },
+        {
           "name": "TNT SPORTS",
           "image": "https://images.seeklogo.com/logo-png/48/1/tnt-sports-logo-png_seeklogo-486966.png",
           "url": "https://la14hd.com/vivo/canales.php?stream=tntsports",
@@ -2637,7 +2667,7 @@
       ]
     },
     {
-      "name": "DEPORTES SUR [AR]",
+      "name": "DEPORTES SUR",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEAO5oRlxrxyB_zGeylSJIP541y-6IQgUHg&s",
       "stations": [
         {
@@ -2839,6 +2869,26 @@
           "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
             "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
+          "name": "GOLTV",
+          "image": "https://i.imgur.com/pypul3s.png",
+          "url": "https://la14hd.com/vivo/canales.php?stream=goltv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://la14hd.com/vivo/canales.php?stream=goltv",
+            "Origin": "https://la14hd.com"
+          }
+        },
+        {
+          "name": "LIGAPRO EVENTOS",
+          "image": "https://i.imgur.com/Wj5ZaJw.png",
+          "url": "https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro",
+            "Origin": "https://la14hd.com"
           }
         },
         {
@@ -3216,6 +3266,16 @@
           }
         },
         {
+          "name": "CALIENTE TV",
+          "image": "",
+          "url": "https://la14hd.com/vivo/canales.php?stream=calientetv",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://la14hd.com/vivo/canales.php?stream=calientetv",
+            "Origin": "https://la14hd.com"
+          }
+        },
+        {
           "name": "SPACE",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",
           "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/SPACE-HD/default.mpd",
@@ -3272,7 +3332,7 @@
         },
         {
           "name": "TUDN",
-          "image": "https://i.postimg.cc/gJPNzpFs/tudn.png",
+          "image": "https://i.imgur.com/oT5CAvd.png",
           "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"AQ77FyQdL1DIDTylIYdw9A\",\"k\":\"7P7Cegoa1ABEiCY8M7Uenw\"}],\"type\":\"temporary\"}",
@@ -3363,7 +3423,7 @@
           }
         },
         {
-          "name": "NBC SPORTS NETWORK",
+          "name": "NBC SPORTS PEACOCK",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/960px-NBCSN_logo_%28flat%29.svg.png",
           "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(nbcsportspeacock)/master.mpd",
           "license_type": "clearkey",
@@ -3376,6 +3436,26 @@
           "name": "NBC SPORTS NOW",
           "image": "https://i.imgur.com/EzNf2Yx.png",
           "url": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8"
+        },
+        {
+          "name": "LALIGA TV",
+          "image": "https://i.imgur.com/ilay5Jr.png",
+          "url": "https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga",
+            "Origin": "https://la14hd.com"
+          }
+        },
+        {
+          "name": "BUNDESLIGA TV",
+          "image": "https://i.imgur.com/UXtjFtd.png",
+          "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga_mx",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga_mx",
+            "Origin": "https://la14hd.com"
+          }
         },
         {
           "name": "Sky Sports 16",
@@ -3594,6 +3674,16 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"beCma1KEAcA3jFWXEvdGQw\",\"k\":\"+aJAzqdfWFrdhAU3WtHXhw\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "TVC DEPORTES",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png",
+          "url": "https://la14hd.com/vivo/canales.php?stream=tvc_deportes",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://la14hd.com/vivo/canales.php?stream=tvc_deportes",
+            "Origin": "https://la14hd.com"
           }
         },
         {
