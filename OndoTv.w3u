@@ -4639,6 +4639,17 @@
           }
         },
         {
+          "name": "MUSIC BOX SEXY",
+          "image": "https://i.postimg.cc/CLPZ0ZN3/music-box-sexy.png",
+          "url": "https://dash2.antik.sk/stream/hisi_mb_sexy/playlist_cbcs.mpd",
+          "license_type": "widevine",
+          "license_key": "https://drm.antik.sk/widevine/key",
+          "headers": {
+            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
+            "Referer": "https://webtv.sk/"
+          }
+        },
+        {
           "name": "FREETV BANDA",
           "image": "https://i.postimg.cc/1Xz8HGWF/freetvbanda.png",
           "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8"
