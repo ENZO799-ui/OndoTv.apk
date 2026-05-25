@@ -3056,7 +3056,7 @@
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VbRzkM+eSZfa5trIXgV4dQ\",\"k\":\"+jnoVVQ8XXDzBgDVnl5MGw\"}],\"type\":\"temporary\"}"
         }
-        {
+        ,{
           "name": "PX SPORTS (VPN AR)",
           "image": "https://i.ibb.co/LQPW5ny/pxsports-orig.png",
           "url": "https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_cenc/PX_Sports.mpd",
