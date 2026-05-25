@@ -2948,6 +2948,124 @@
       ]
     },
     {
+      "name": "DEPORTE ARGENTINA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEAO5oRlxrxyB_zGeylSJIP541y-6IQgUHg&s",
+      "stations": [
+        {
+          "name": "ESPN (VPN AR)",
+          "image": "https://i.ibb.co/s37NZCT/espn-1B.png",
+          "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_cenc/ESPN2HD.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6IS3EasRG+uKe6HnvL3Jvw\",\"k\":\"y4nuOWFZnj5kilqtYIlfNA\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "ESPN SUR (VPN AR)",
+          "image": "https://i.ibb.co/s37NZCT/espn-1B.png",
+          "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_cenc/ESPN_UY.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Y2Lh82/LfuPEfevZFAM2rQ\",\"k\":\"m6HUbFucejEwpdq79xVRdQ\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "ESPN 2 (VPN AR)",
+          "image": "https://i.ibb.co/RCMYFsv/espn-2B.png",
+          "url": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_cenc/ESPN2_Arg.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ZaW/o8enLd5gvpsMdAbI/A\",\"k\":\"C0Cun3inusO1fsv3LTwIHg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "ESPN 2 SUR (VPN AR)",
+          "image": "https://i.ibb.co/RCMYFsv/espn-2B.png",
+          "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_cenc/ESPN2_UY.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"DYIBABRHcv7Z84uDZQ+n4Q\",\"k\":\"3tjMR7KbDrCwqH3yLnIYRw\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "ESPN 3 (VPN AR)",
+          "image": "https://i.ibb.co/TLcGvdv/espn-3B.png",
+          "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_cenc/ESPN3.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9Mn5fio2/qsOUHfytEy8Tg\",\"k\":\"F0PNA9/jc2ssldqRp4OvOA\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "ESPN 3 SUR (VPN AR)",
+          "image": "https://i.ibb.co/TLcGvdv/espn-3B.png",
+          "url": "https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_cenc/ESPN3_Uy-Py.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7VOHHcUNzcWaYnHbPIxRsw\",\"k\":\"DCHchinj8ub+nvqLgNxEfg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "ESPN 4 (VPN AR)",
+          "image": "https://i.ibb.co/pJK6xQ0/espn-4B.png",
+          "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_cenc/ESPNHD.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"zI1EQG7WvxiYrZ96LWTyng\",\"k\":\"+4XQWWh6sPxngFgGIE7b3w\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "ESPN 5 (VPN AR)",
+          "image": "https://i.ibb.co/6bvjxGP/espn-5B.png",
+          "url": "https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_cenc/ESPN4.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"JPKz50Hw2emo1Rb6/zi93A\",\"k\":\"u9P9AvsQThRjrFKKE/Z+Sg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "ESPN 6 (VPN AR)",
+          "image": "https://i.ibb.co/CsyhPz4/espn-6B.png",
+          "url": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_cenc/FoxSports3_UY.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"X8e2YuacD7+NOWkRZrHJGQ\",\"k\":\"iRV83SXfJdVvHszO44UIiA\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "ESPN 7 (VPN AR)",
+          "image": "https://i.ibb.co/LSQFzkw/espn-7B.png",
+          "url": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_cenc/FoxSports2_UY.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"X8e2YuacD7+NOWkRZrHJGQ\",\"k\":\"iRV83SXfJdVvHszO44UIiA\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "ESPN PREMIUM HD (VPN AR)",
+          "image": "https://i.ibb.co/LrNsJsP/espnpremium.png",
+          "url": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_cenc/Fox_Sports_Premiun_HD.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"TCMNvH9qS/pq0Kpz/3kjdA\",\"k\":\"QYanwqFfWQqTmYhv6uxCVw\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "TNT SPORTS PREMIUM HD (VPN AR)",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png",
+          "url": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_cenc/TNT_Sports_HD.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vID6PaaW5QP5QP3l9oGhxQ\",\"k\":\"6kbk6fETLo3XH7d/fVUFig\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "FOX SPORTS (VPN AR)",
+          "image": "https://static.flow.com.ar/images/-/-/0/0/5772683307979.png",
+          "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_cenc/FoxSports.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"y8Kgx6ON8KozM81xhB07DQ\",\"k\":\"qsYbcw4qwd8j8ehy51QcGw\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "FOX SPORTS 2 (VPN AR)",
+          "image": "https://static.flow.com.ar/images/-/-/0/0/68625850072785.png",
+          "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_cenc/FoxSports2HD.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"yY3f/EcP5EmuGo1kkhFpdg\",\"k\":\"UIbTcOhAAQIyz0UysW4Zfw\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "FOX SPORTS 3 (VPN AR)",
+          "image": "https://static.flow.com.ar/images/-/-/0/0/33795984072366.png",
+          "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_cenc/FoxSports3HD.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VbRzkM+eSZfa5trIXgV4dQ\",\"k\":\"+jnoVVQ8XXDzBgDVnl5MGw\"}],\"type\":\"temporary\"}"
+        }
+        {
+          "name": "PX SPORTS (VPN AR)",
+          "image": "https://i.ibb.co/LQPW5ny/pxsports-orig.png",
+          "url": "https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_cenc/PX_Sports.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"k5MyHa7xRj/H4uBgKY24Ug\",\"k\":\"vmvJHheBb2fmJZa+1GPFrQ\"}],\"type\":\"temporary\"}"
+        },
+      ]
+    },
+    {
       "name": "DEPORTES BRASIL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuoeH4jprGvbrizIDaPcZmkP3anewq-3JOw&s",
       "stations": [
