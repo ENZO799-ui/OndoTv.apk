@@ -3062,7 +3062,7 @@
           "url": "https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_cenc/PX_Sports.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"k5MyHa7xRj/H4uBgKY24Ug\",\"k\":\"vmvJHheBb2fmJZa+1GPFrQ\"}],\"type\":\"temporary\"}"
-        },
+        }
       ]
     },
     {
