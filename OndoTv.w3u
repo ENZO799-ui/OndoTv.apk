@@ -3750,6 +3750,16 @@
           }
         },
         {
+          "name": "ESPN DEPORES",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
+          "url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
+            "Origin": "https://la14hd.com"
+          }
+        },
+        {
           "name": "beIN SPORTS US",
           "image": "https://i.postimg.cc/Tw1nb6qt/bein-sports.png",
           "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
