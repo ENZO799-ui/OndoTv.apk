@@ -4509,6 +4509,50 @@
           }
         },
         {
+          "name": "MTV HITS",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/250px-MTV_Hits_2021.svg.png",
+          "url": "https://dash2.antik.sk/stream/hisi_mb_hits/playlist_cbcs.mpd",
+          "license_type": "widevine",
+          "license_key": "https://drm.antik.sk/widevine/key",
+          "headers": {
+            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
+            "Referer": "https://webtv.sk/"
+          }
+        },
+        {
+          "name": "CLUB MTV",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/250px-Club_MTV_2021_logo.svg.png",
+          "url": "https://dash2.antik.sk/stream/hisi_mb_dance/playlist_cbcs.mpd",
+          "license_type": "widevine",
+          "license_key": "https://drm.antik.sk/widevine/key",
+          "headers": {
+            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
+            "Referer": "https://webtv.sk/"
+          }
+        },
+        {
+          "name": "MTV CLASSIC",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/960px-MTV_Classic_2021.svg.png",
+          "url": "https://dash2.antik.sk/stream/hisi_mb_classics/playlist_cbcs.mpd",
+          "license_type": "widevine",
+          "license_key": "https://drm.antik.sk/widevine/key",
+          "headers": {
+            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
+            "Referer": "https://webtv.sk/"
+          }
+        },
+        {
+          "name": "MTV BASE",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MTV_Base_UK_2021.svg/960px-MTV_Base_UK_2021.svg.png",
+          "url": "https://dash2.antik.sk/stream/hisi_mb_sexy/playlist_cbcs.mpd",
+          "license_type": "widevine",
+          "license_key": "https://drm.antik.sk/widevine/key",
+          "headers": {
+            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
+            "Referer": "https://webtv.sk/"
+          }
+        },
+        {
           "name": "VEVO 2K",
           "image": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png",
           "url": "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8"
@@ -4708,50 +4752,7 @@
           "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20260421T141848SQUARE.png",
           "url": "https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8"
         },
-        {
-          "name": "MUSIC BOX HITS",
-          "image": "https://i.postimg.cc/zBFBc3vh/music-box-hits.png",
-          "url": "https://dash2.antik.sk/stream/hisi_mb_hits/playlist_cbcs.mpd",
-          "license_type": "widevine",
-          "license_key": "https://drm.antik.sk/widevine/key",
-          "headers": {
-            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
-            "Referer": "https://webtv.sk/"
-          }
-        },
-        {
-          "name": "MUSIC BOX DANCE",
-          "image": "https://i.postimg.cc/2jTydqP6/music-box-dance.png",
-          "url": "https://dash2.antik.sk/stream/hisi_mb_dance/playlist_cbcs.mpd",
-          "license_type": "widevine",
-          "license_key": "https://drm.antik.sk/widevine/key",
-          "headers": {
-            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
-            "Referer": "https://webtv.sk/"
-          }
-        },
-        {
-          "name": "MUSIC BOX CLASSIC",
-          "image": "https://i.postimg.cc/d0MVQGT4/music-box-classic.png",
-          "url": "https://dash2.antik.sk/stream/hisi_mb_classics/playlist_cbcs.mpd",
-          "license_type": "widevine",
-          "license_key": "https://drm.antik.sk/widevine/key",
-          "headers": {
-            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
-            "Referer": "https://webtv.sk/"
-          }
-        },
-        {
-          "name": "MUSIC BOX SEXY",
-          "image": "https://i.postimg.cc/CLPZ0ZN3/music-box-sexy.png",
-          "url": "https://dash2.antik.sk/stream/hisi_mb_sexy/playlist_cbcs.mpd",
-          "license_type": "widevine",
-          "license_key": "https://drm.antik.sk/widevine/key",
-          "headers": {
-            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
-            "Referer": "https://webtv.sk/"
-          }
-        },
+
         {
           "name": "FREETV BANDA",
           "image": "https://i.postimg.cc/1Xz8HGWF/freetvbanda.png",
