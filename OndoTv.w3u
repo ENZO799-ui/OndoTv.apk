@@ -1547,6 +1547,11 @@
           }
         },
         {
+          "name": "AMC Ñ",
+          "image": "https://i.imgur.com/L1h6W5Q.png",
+          "url": "https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8"
+        },
+        {
           "name": "FX",
           "image": "https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/800/542/0/0/35224800072040.png?worldtv2",
           "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/FX-HD/default.mpd",
@@ -4009,6 +4014,11 @@
             "Referer": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
             "Origin": "https://la14hd.com"
           }
+        },
+        {
+          "name": "FUBO SPORTS NETWORK",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c003630ad52514b4aea174660c1ef25e.webp",
+          "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8"
         },
         {
           "name": "beIN SPORTS US",
