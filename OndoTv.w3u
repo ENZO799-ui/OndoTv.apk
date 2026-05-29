@@ -4242,6 +4242,13 @@
           }
         },
         {
+          "name": "TNT SPORTS 5 UK",
+          "image": "https://i.postimg.cc/sxQ0rjgd/descarga-38.jpg",
+          "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60c0d9b41475e01db4ffb91ed557fbcc&key=36ee40e58948ca15e3caba8d47b8f34b"
+        },
+        {
           "name": "Premier Sports 1",
           "image": "https://i.postimg.cc/m2ChRY5V/Premier-Sports-1-II.png",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
