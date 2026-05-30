@@ -127,6 +127,42 @@
       ]
     },
     {
+      "name": "DISNEY+ EVENTOS 2",
+      "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+      "stations": [
+        {
+          "name": "DISNEY EVENT  1",
+          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+          "url": "https://la14hd.com/vivo/canales.php?stream=disney1",
+          "license_type": "webvideo"
+        },
+        {
+          "name": "DISNEY EVENT  2",
+          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+          "url": "https://la14hd.com/vivo/canales.php?stream=disney2",
+          "license_type": "webvideo"
+        },
+        {
+          "name": "DISNEY EVENT 3",
+          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+          "url": "https://la14hd.com/vivo/canales.php?stream=disney3",
+          "license_type": "webvideo"
+        },
+        {
+          "name": "DISNEY EVENT 4",
+          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+          "url": "https://la14hd.com/vivo/canales.php?stream=disney4",
+          "license_type": "webvideo"
+        },
+        {
+          "name": "DISNEY EVENT 5",
+          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+          "url": "https://la14hd.com/vivo/canales.php?stream=disney5",
+          "license_type": "webvideo"
+        }
+      ]
+    },
+    {
       "name": "⚽EVENTOS FLOW COPA DEL REY⚽",
       "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
       "stations": [
@@ -2598,6 +2634,16 @@
           "name": "Teledeporte ES",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/960px-Tve_teledeporte.png",
           "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
+        },
+        {
+          "name": "RTP POR",
+          "image": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png",
+          "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
+        },
+        {
+          "name": "RTP 2 POR",
+          "image": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png",
+          "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
         },
         {
           "name": "M+ Liga de Campeones",
