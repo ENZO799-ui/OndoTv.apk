@@ -1865,12 +1865,12 @@
           }
         },
         {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1GMhABNUiJJcHX6YlaJrmQ\",\"k\":\"HaR49oe4UMYcmvYZhdl8Fw\"}],\"type\":\"temporary\"}",
           "name": "Nickelodeon",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/400/400/0/0/70239189071229.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd",
-          "license_type": "widevine",
-          "license_key": "https://mrpw.pt.verspective.net/?deviceId=YzE2YzAyM2YtMzg2YS00YzhmLTllYmUtOGY0NTU3YmFiZDQ5\",  \"headers\": {    \"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36\",    \"Referer\":\"https://player.sensa.com.ar/&webtoken=1.0\"  }}",
-        "headers": {
+          "image": "https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/160/160/0/0/70239189071229.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd?",
+          "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
             "Referer": "https://webclient.ctcplus.com.ar/"
           }
@@ -1887,12 +1887,12 @@
           }
         },
         {
-          "name": "Cartoon Network",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/400/400/0/0/18422580072845.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"x-_mO79oKkEk-zTAHregpw\",\"k\":\"SGZ1Ebhmjflvo6uqYj5PaQ\"}],\"type\":\"temporary\"}",
-        "headers": {
+          "name": "Cartoon Network",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd?",
+          "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
             "Referer": "https://webclient.ctcplus.com.ar/"
           }
@@ -5028,6 +5028,17 @@
           "name": "Stingray iConcerts",
           "image": "https://i.postimg.cc/2ygd92x5/stingray-iconcerts.png",
           "url": "https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8"
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"UGEpH1RxQ7QLir7f3_WRdA\",\"k\":\"-woXh0mcvCLC7K8bQ91Npw\"}],\"type\":\"temporary\"}",
+          "name": "HTV",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/160/160/0/0/4926258407115.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/HTV/live_dash_cld/HTV.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
         },
         {
           "name": "Telehit",
