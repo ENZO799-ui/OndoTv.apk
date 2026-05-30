@@ -2586,18 +2586,18 @@
         },
         {
           "name": "1 ES",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/La_1_2026.svg",
-          "url": "https://la14hd.com/vivo/canales.php?stream=la1tve",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=la1tve",
-            "Origin": "https://la14hd.com"
-          }
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/960px-Logo_La_1.svg.png",
+          "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8"
         },
         {
-          "name": "1 ES HD",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/La_1_2026.svg",
-          "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8"
+          "name": "2 ES",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/960px-Logo_La_2.svg.png",
+          "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8"
+        },
+        {
+          "name": "Teledeporte ES",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/960px-Tve_teledeporte.png",
+          "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
         },
         {
           "name": "M+ Liga de Campeones",
@@ -2931,7 +2931,7 @@
         },
         {
           "name": "TNT SPORTS",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png",
+          "image": "https://i.postimg.cc/sxQ0rjgd/descarga-38.jpg",
           "url": "https://la14hd.com/vivo/canales.php?stream=tntsports",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
@@ -3901,10 +3901,25 @@
         },
         {
           "name": "Telemundo Miami",
-          "image": "https://i.ibb.co/8d3prMM/telemundo.png",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/70ef4b19ce0f5b973ff48dffd540d3d8.webp",
           "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wscv)/master.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7VqsNpGzOgKshthPiGqKBg\",\"k\":\"ayz23RUEFrdY0ij8OJgEcw\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "Telemundo Florida",
+          "image": "https://i.ibb.co/8d3prMM/telemundo.png",
+          "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8"
+        },
+        {
+          "name": "Telemundo California",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/432023d2bd3804224c262e0ac962cf45.webp",
+          "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8"
+        },
+        {
+          "name": "Telemundo Nueva Inglaterra",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/52745983b1a2da7414ed537d2511df9e.webp",
+          "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889716/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F148.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=418&ads._fw_player_width=743&ads._fw_site_page=https%253A%252F%252Fwww.telemundonuevainglaterra.com%252Fver%252F&ads._fw_us_privacy=1YYN&ads.afid=396655148&ads.caid=TelemundoNoticiasNoreste&ads.channelName=TelemundoNoticiasNoreste&ads.csid=tm_ots_alldevice_allos_web_wneu_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475399&ads.vcid=&ads.vip=181.94.227.184&ads.xumo_channelId=88889716a&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_ifa=&ads.xumo_ifaType=&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads.xumo_streamId=88889716&ads.site_name=TLMD&ads._fw_did="
         },
         {
           "name": "Telemundo Nueva York",
@@ -3912,6 +3927,11 @@
           "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wnju)/master.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"xx/nvILwN8avIf0pnWNBsA\",\"k\":\"EyI8mIhv9D08Xyce60V8xg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "Telemundo Filadelfia",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6636887a351de9ccd45d479f7eddbbc7.webp",
+          "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/d81e39d4-b88d-4371-bc87-5953c55bd63e/4.m3u8"
         },
         {
           "name": "Telemundo Los Angeles",
@@ -4220,7 +4240,7 @@
         },
         {
           "name": "TNT SPORTS 1 UK",
-          "image": "https://i.ibb.co/M2XfypX/tnt1.png",
+          "image": "https://i.postimg.cc/sxQ0rjgd/descarga-38.jpg",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"KUtXYc78ItDGMSk54T2CeA\",\"k\":\"UhSPEELSOISfCngT8dqKew\"}],\"type\":\"temporary\"}",
@@ -4232,7 +4252,7 @@
         },
         {
           "name": "TNT SPORTS 2 UK",
-          "image": "https://i.ibb.co/gFpYs4N/tnt2.png",
+          "image": "https://i.postimg.cc/sxQ0rjgd/descarga-38.jpg",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"8og4DKTO+a0/J6kqCOm7iw\",\"k\":\"nxjSYpHZIwgzUB9/gi9odQ\"}],\"type\":\"temporary\"}",
@@ -4244,7 +4264,7 @@
         },
         {
           "name": "TNT SPORTS 3 UK",
-          "image": "https://i.ibb.co/R6d05KZ/tnt3.png",
+          "image": "https://i.postimg.cc/sxQ0rjgd/descarga-38.jpg",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"HZarNmu+ZFHt90B7WOL6Fg\",\"k\":\"ARYgH0pjrFv1eH0sYQxBpw\"}],\"type\":\"temporary\"}",
@@ -4256,7 +4276,7 @@
         },
         {
           "name": "TNT SPORTS 4 UK",
-          "image": "https://i.ibb.co/52R1cbw/tnt4.png",
+          "image": "https://i.postimg.cc/sxQ0rjgd/descarga-38.jpg",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GSsRFdoEFYXHcgAShUnvoQ\",\"k\":\"Y04Q7+SruxS+QAo8y6wCWA\"}],\"type\":\"temporary\"}",
@@ -4271,7 +4291,12 @@
           "image": "https://i.postimg.cc/sxQ0rjgd/descarga-38.jpg",
           "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
           "license_type": "clearkey",
-          "license_key": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60c0d9b41475e01db4ffb91ed557fbcc&key=36ee40e58948ca15e3caba8d47b8f34b"
+          "license_key": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60c0d9b41475e01db4ffb91ed557fbcc&key=36ee40e58948ca15e3caba8d47b8f34b",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/",
+            "Origin": "https://www.primevideo.com"
+          }
         },
         {
           "name": "Premier Sports 1",
