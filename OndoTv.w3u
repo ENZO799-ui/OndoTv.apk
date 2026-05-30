@@ -616,7 +616,7 @@
           }
         },
         {
-          "name": "Telefe HD",
+          "name": "TELEFE Tendencias (VPN AR)",
           "image": "https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png",
           "url": "https://chromecast.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_enc_C/TELEFE.mpd",
           "license_type": "clearkey",
