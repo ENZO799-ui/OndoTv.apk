@@ -3975,6 +3975,16 @@
           "url": "https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_[PLATFORM]_telemundodeportesahora_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=es&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.channelId=99951459&ads._fw_ifa_type=[IFA_TYPE]"
         },
         {
+          "name": "CARACOL SPORTS",
+          "image": "https://i.postimg.cc/3RLsGcbY/caracol-depotes.png",
+          "url": "https://d332hctu9ygz9f.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/caracol-sports/out/v1/4dac3e236d354cd7b5ceddf8a4b999b1/index.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://dl.dropbox.com/scl/fi/g2lojd1i0zizlhenq7nte/caracol-sports.json?rlkey=2vmd3kvo9edk0gmnj3i2cop16&st=f74vrvsf&dl=0",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
           "name": "FOX",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUo4Idr7rD6IFueJARbXWdd5f7EzttEJ9bQ&s",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
@@ -3983,6 +3993,16 @@
           "headers": {
             "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
             "Referer": "https://www.primevideo.com/"
+          }
+        },
+        {
+          "name": "FOX+",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsg5Mhyv1ic0vowNu8DKcxwKvF0HrFRD2iqQ&s",
+          "url": "https://mega.z5cable.com/bpk-tv/fox_mas_hd/default/index.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"UXEMnCJ6RjeZFGbs4bNVDg\",\"k\":\"gxv64eFvTMLNpdYg5tHpag\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
           }
         },
         {
