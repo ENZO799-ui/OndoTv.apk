@@ -4153,44 +4153,45 @@
           }
         },
         {
-          "name": "Cazé TV BR",
-          "image": "https://i.ibb.co/W3XpzQy/cazetv.png",
-          "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-        },
-        {
-          "name": "N SPORTS BR",
-          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp",
-          "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8"
-        },
-        {
-          "name": "PLUTO FUTBOL",
-          "image": "https://i.imgur.com/yJlY9Rr.png",
-          "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8"
-        },
-        {
-          "name": "PLUTO DEPORTES",
-          "image": "https://i.imgur.com/0pDy6f4.png",
-          "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
-        },
-        {
-          "name": "CBS SPORTS USA",
-          "image": "https://i.imgur.com/A8CnA8g.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=cbs_sports_network",
+          "name": "CBS NEW YORK",
+          "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png",
+          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/8kmy1rjdu3/out/v1/53c15187903449e6971e0817d79d7cca/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Qht6JYpVfAcxENK9CqM1ug\",\"k\":\"TXSBJk/f+5t8wFv0kOYq0g\"}],\"type\":\"temporary\"}",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=cbs_sports_network",
-            "Origin": "https://la14hd.com"
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
           }
         },
         {
-          "name": "CBS SPORTS GOLAZO!",
-          "image": "https://i.imgur.com/eMjutHS.png",
-          "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8"
+          "name": "CBS CHICAGO",
+          "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png",
+          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/p04avr57rr/out/v1/25ec3c73680045ce86858d701763a70c/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"eAywk40TmfpjG9bAuGjlYA\",\"k\":\"+FKVJe1T9ULelmrVSMWfnA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+          }
         },
         {
-          "name": "CBS SPORTS HQ",
-          "image": "https://i.imgur.com/q8BENJg.png",
-          "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8"
+          "name": "CBS Sports Network",
+          "image": "https://i.imgur.com/A8CnA8g_d.webp?maxwidth=760&fidelity=grand",
+          "url": "http://23.237.104.106:8080/USA_CBS_SPORTS/index.m3u8",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+          }
+        },
+        {
+          "name": "CBS Sports Golazo!",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US100000704_20260421T142122SQUARE.png",
+          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2WI3dKxcjDUar+l8X+cCZw\",\"k\":\"UWTm0FFkotZfqPzJYqpIYQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+          }
         },
         {
           "name": "FIFA+",
