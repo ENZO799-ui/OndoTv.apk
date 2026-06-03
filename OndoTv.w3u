@@ -843,9 +843,14 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"guh/rBwzkVrV00T/rBu7tA\",\"k\":\"22C/qgF4BxpVcubm/7Ru0w\"}],\"type\":\"temporary\"}"
         },
         {
-          "name": "VS SPORTS EVENTOS PY",
+          "name": "VS SPORTS [YOUTUBE]",
           "image": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/vssports/logo.png",
-          "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8"
+          "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8",
+          "license_type": "clearkey",
+          "license_key": "https://no.gendigi.net/981d497f-a3bc-4bdb-a984-21949b63d91b",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+          }
         },
         {
           "name": "TIGO EVENTOS PY",
