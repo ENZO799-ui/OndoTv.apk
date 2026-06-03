@@ -650,7 +650,7 @@
         },
         {
           "name": "UNICANAL",
-          "image": "https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp",
+          "image": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
           "url": "https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8"
         },
         {
@@ -705,21 +705,21 @@
         },
         {
           "name": "5 DIAS",
-          "image": "https://i.imgur.com/AX25tmv.png",
+          "image": "https://i.ibb.co/Pg6v5zn/images.png",
           "url": "https://chromecast.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_C/5_Dias_PY.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dGCRxQLtzx6dADU1zgHz5A\",\"k\":\"KQgbX5LRo3yI+70OzlXIOQ\"}],\"type\":\"temporary\"}"
         },
         {
           "name": "SURTV",
-          "image": "https://i.postimg.cc/Kz08w35s/sur-tv-itapua.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
           "url": "https://chromecast.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_C/SUR_TV_C4.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"mIrk6ECJgWCd7Z+LI7v3nQ\",\"k\":\"uGfGZ5G8rWfuFCvh4hwldw\"}],\"type\":\"temporary\"}"
         },
         {
           "name": "ABC TV",
-          "image": "https://i.postimg.cc/B6wnmB42/abctv.png",
+          "image": "https://i.ibb.co/dGqjksf/descarga.png",
           "url": "https://chromecast.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_C/ABC_TV_C4.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"wL73VzOyZFRSQyvU52829Q\",\"k\":\"6hYkM2fYFMHVPx6vIfAF/w\"}],\"type\":\"temporary\"}"
@@ -845,12 +845,7 @@
         {
           "name": "VS SPORTS EVENTOS PY",
           "image": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/vssports/logo.png",
-          "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8",
-          "license_type": "clearkey",
-          "license_key": "https://no.gendigi.net/981d497f-a3bc-4bdb-a984-21949b63d91b",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
-          }
+          "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8"
         },
         {
           "name": "TIGO EVENTOS PY",
