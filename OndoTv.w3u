@@ -731,8 +731,8 @@
           "license_type": "clearkey",
           "license_key": "https://dl.dropbox.com/scl/fi/eg6t1cgrgakfa476cdqa8/tvcamara.json?rlkey=23dcy0jmclllnmm4xdyt0ib7h&st=fdqblgzn&dl=0",
           "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
           }
         },
