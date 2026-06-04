@@ -659,7 +659,6 @@
           "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium";v="148", "Brave";v="148", "Not/A)Brand";v="99"\",
             "Origin": "https://unicanal.com.py",
             "Referer": "https://unicanal.com.py/"
           }
