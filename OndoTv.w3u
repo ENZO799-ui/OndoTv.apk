@@ -348,9 +348,7 @@
         {
           "name": "PAR v NIC (CBS SPORTS GOLAZO!)",
           "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US100000704_20260602T091447SQUARE.png",
-          "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a2349cada/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd?cfi=qHxTWoossjzF39hkezH0BHSo&di=f4fb3e1430e5f81102995c94211761c6&em=em&ccur_pg=primary",
-          "license_type": "clearkey",
-          "license_key": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0"
+          "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a2349cada/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd?cfi=qHxTWoossjzF39hkezH0BHSo&di=f4fb3e1430e5f81102995c94211761c6&em=em&ccur_pg=primary"
         },
         {
           "name": "EVENTO 1 HD",
