@@ -346,6 +346,13 @@
       "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
       "stations": [
         {
+          "name": "PAR v NIC (CBS SPORTS GOLAZO!)",
+          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US100000704_20260602T091447SQUARE.png",
+          "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a2349cada/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd?cfi=qHxTWoossjzF39hkezH0BHSo&di=f4fb3e1430e5f81102995c94211761c6&em=em&ccur_pg=primary",
+          "license_type": "clearkey",
+          "license_key": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0"
+        },
+        {
           "name": "EVENTO 1 HD",
           "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
           "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
