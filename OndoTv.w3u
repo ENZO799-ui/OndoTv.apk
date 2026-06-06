@@ -346,11 +346,6 @@
       "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
       "stations": [
         {
-          "name": "PAR v NIC (CBS SPORTS GOLAZO!)",
-          "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US100000704_20260602T091447SQUARE.png",
-          "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a2349cada/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd?cfi=qHxTWoossjzF39hkezH0BHSo&di=f4fb3e1430e5f81102995c94211761c6&em=em&ccur_pg=primary"
-        },
-        {
           "name": "EVENTO 1 HD",
           "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
           "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
@@ -655,8 +650,8 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
             "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-            "Origin": "https://trece.com.py",
-            "Referer": "https://trece.com.py/"
+            "Origin": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
+            "Referer": "https://geo.dailymotion.com/"
           }
         },
         {
@@ -666,8 +661,8 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
             "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-            "Origin": "https://unicanal.com.py",
-            "Referer": "https://unicanal.com.py/"
+            "Origin": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
+            "Referer": "https://geo.dailymotion.com/"
           }
         },
         {
@@ -4533,7 +4528,7 @@
         },
         {
           "name": "FIFA+",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+          "image": "https://m.media-amazon.com/images/I/2185OD67t-L.png",
           "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8"
         },
         {
@@ -4562,21 +4557,6 @@
           "name": "CLARO SPORTS MX",
           "image": "https://i.imgur.com/61tSA6a.png",
           "url": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8"
-        },
-        {
-          "name": "CLARO SPORTS CH",
-          "image": "https://i.imgur.com/n0kd17r.png",
-          "url": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8"
-        },
-        {
-          "name": "REAL MADRID TV",
-          "image": "https://i.imgur.com/5pMo7dL.png",
-          "url": "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8"
-        },
-        {
-          "name": "TOP BARCA",
-          "image": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg",
-          "url": "https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8"
         },
         {
           "name": "TNT SPORTS 1 UK",
