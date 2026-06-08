@@ -190,21 +190,21 @@
         {
           "name": "TyC Sports FHD",
           "image": "https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=tycsports",
+          "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=tycsports",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=tycsports",
+            "Origin": "https://la18hd.com"
           }
         },
         {
           "name": "TyC Sports INTERNACIONAL",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=tycinternacional",
+          "url": "https://la18hd.com/vivo/canales.php?stream=tycinternacional",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=tycinternacional",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=tycinternacional",
+            "Origin": "https://la18hd.com"
           }
         },
         {
@@ -232,19 +232,19 @@
         {
           "name": "WIN SPORTS +",
           "image": "https://i.imgur.com/0UN87vB.png",
-          "url": "la14hd.com/vivo/canales.php?stream=winsportsplus",
+          "url": "https://la18hd.com/vivo/canales.php?stream=winsportsplus",
           "license_type": "webvideo"
         },
         {
           "name": "WIN SPORTS",
           "image": "https://i.imgur.com/DuSSrHV.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=winsports",
+          "url": "https://la18hd.com/vivo/canales.php?stream=winsports",
           "license_type": "webvideo"
         },
         {
           "name": "Win sports plus",
           "image": "https://images.seeklogo.com/logo-png/64/1/win-sports-logo-png_seeklogo-644046.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=winsportsplus",
+          "url": "https://la18hd.com/vivo/canales.php?stream=winsportsplus",
           "license_type": "webvideo"
         },
         {
@@ -2698,133 +2698,133 @@
         {
           "name": "ESPN",
           "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+          "url": "https://la18hd.com/vivo/canales.php?stream=espn",
           "license_type": "webvideo"
         },
         {
           "name": "ESPN 2",
           "image": "https://images.seeklogo.com/logo-png/4/1/espn-2-logo-png_seeklogo-49202.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
+          "url": "https://la18hd.com/vivo/canales.php?stream=espn2",
           "license_type": "webvideo"
         },
         {
           "name": "ESPN 3",
           "image": "https://logodix.com/logo/1599250.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=espn3",
+          "url": "https://la18hd.com/vivo/canales.php?stream=espn3",
           "license_type": "webvideo"
         },
         {
           "name": "ESPN 4",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=espn4",
+          "url": "https://la18hd.com/vivo/canales.php?stream=espn4",
           "license_type": "webvideo"
         },
         {
           "name": "ESPN 5",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
+          "url": "https://la18hd.com/vivo/canales.php?stream=espn5",
           "license_type": "webvideo"
         },
         {
           "name": "ESPN 6",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=espn6",
+          "url": "https://la18hd.com/vivo/canales.php?stream=espn6",
           "license_type": "webvideo"
         },
         {
           "name": "ESPN 7",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=espn7",
+          "url": "https://la18hd.com/vivo/canales.php?stream=espn7",
           "license_type": "webvideo"
         },
         {
           "name": "FOX SPORTS AR",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=foxsports",
+          "url": "https://la18hd.com/vivo/canales.php?stream=foxsports",
           "license_type": "webvideo"
         },
         {
           "name": "FOX SPORTS 2 AR",
           "image": "https://i.imgur.com/oG7HzEf.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2",
+          "url": "https://la18hd.com/vivo/canales.php?stream=foxsports2",
           "license_type": "webvideo"
         },
         {
           "name": "FOX SPORTS 3 AR",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=foxsports3",
+          "url": "https://la18hd.com/vivo/canales.php?stream=foxsports3",
           "license_type": "webvideo"
         },
         {
           "name": "WIN SPORTS +",
           "image": "https://i.imgur.com/0UN87vB.png",
-          "url": "la14hd.com/vivo/canales.php?stream=winsportsplus",
+          "url": "https://la18hd.com/vivo/canales.php?stream=winsportsplus",
           "license_type": "webvideo"
         },
         {
           "name": "WIN SPORTS",
           "image": "https://i.imgur.com/DuSSrHV.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=winsports",
+          "url": "https://la18hd.com/vivo/canales.php?stream=winsports",
           "license_type": "webvideo"
         },
         {
           "name": "Win sports plus",
           "image": "https://images.seeklogo.com/logo-png/64/1/win-sports-logo-png_seeklogo-644046.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=winsportsplus",
+          "url": "https://la18hd.com/vivo/canales.php?stream=winsportsplus",
           "license_type": "webvideo"
         },
         {
           "name": "Dsports",
           "image": "https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg",
-          "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
+          "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
           "license_type": "webvideo"
         },
         {
           "name": "Dsports 2",
           "image": "https://bestleague.world/img/dsports2.webp",
-          "url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
+          "url": "https://la18hd.com/vivo/canales.php?stream=dsports2",
           "license_type": "webvideo"
         },
         {
           "name": "DSPORTS +",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",
-          "url": "la14hd.com/vivo/canales.php?stream=dsportsplus",
+          "url": "https://la1hd.com/vivo/canales.php?stream=dsportsplus",
           "license_type": "webvideo"
         },
         {
           "name": "LIGA1 MAX",
           "image": "https://i.imgur.com/eRmXneK.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=liga1max",
+          "url": "https://la18hd.com/vivo/canales.php?stream=liga1max",
           "license_type": "webvideo"
         },
         {
           "name": "MOVISTAR DEPORTES",
           "image": "https://i.imgur.com/Zt3iE86.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=movistar",
+          "url": "https://la18hd.com/vivo/canales.php?stream=movistar",
           "license_type": "webvideo"
         },
         {
           "name": "TNT SPORTS",
           "image": "https://images.seeklogo.com/logo-png/48/1/tnt-sports-logo-png_seeklogo-486966.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=tntsports",
+          "url": "https://la18hd.com/vivo/canales.php?stream=tntsports",
           "license_type": "webvideo"
         },
         {
           "name": "ESPN PREMIUM",
           "image": "https://cdn.storage.foromedios.com/monthly_2022_05/837767101_ESPNPremium(10).thumb.png.7b760af4908388e4ef1e793583699676.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
+          "url": "https://la18hd.com/vivo/canales.php?stream=espnpremium",
           "license_type": "webvideo"
         },
         {
           "name": "TUDN",
           "image": "https://i.imgur.com/oT5CAvd.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=tudn",
+          "url": "https://la18hd.com/vivo/canales.php?stream=tudn",
           "license_type": "webvideo"
         },
         {
           "name": "UNIVISION",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=univision",
+          "url": "https://la18hd.com/vivo/canales.php?stream=univision",
           "license_type": "webvideo"
         }
       ]
@@ -2836,51 +2836,51 @@
         {
           "name": "DAZN",
           "image": "https://i.imgur.com/2Z2EmZF.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=dazn1",
+          "url": "https://la18hd.com/vivo/canales.php?stream=dazn1",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=dazn1",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=dazn1",
+            "Origin": "https://la18hd.com"
           }
         },
         {
           "name": "DAZN 2",
           "image": "https://i.imgur.com/OGj3qf5.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=dazn2",
+          "url": "https://la18hd.com/vivo/canales.php?stream=dazn2",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=dazn2",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=dazn2",
+            "Origin": "https://la18hd.com"
           }
         },
         {
           "name": "DAZN 3",
           "image": "https://i.imgur.com/2rXsq2m.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=dazn3",
+          "url": "https://la18hd.com/vivo/canales.php?stream=dazn3",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=dazn3",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=dazn3",
+            "Origin": "https://la18hd.com"
           }
         },
         {
           "name": "DAZN 4",
           "image": "https://i.imgur.com/m7ga8bU.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=dazn4",
+          "url": "https://la18hd.com/vivo/canales.php?stream=dazn4",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=dazn4",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=dazn4",
+            "Origin": "https://la18hd.com"
           }
         },
         {
           "name": "DAZN LALIGA",
           "image": "https://i.postimg.cc/qRkxSrkG/768px-DAZN-La-Liga-logo-svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=dazn_laliga",
+          "url": "https://la18hd.com/vivo/canales.php?stream=dazn_laliga",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=dazn_laliga",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=dazn_laliga",
+            "Origin": "https://la18hd.com"
           }
         },
         {
@@ -2911,71 +2911,71 @@
         {
           "name": "M+ Liga de Campeones",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/960px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=ligadecampeones1",
+          "url": "https://la18hd.com/vivo/canales.php?stream=ligadecampeones1",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=ligadecampeones1",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=ligadecampeones1",
+            "Origin": "https://la18hd.com"
           }
         },
         {
           "name": "M+ Liga de Campeones 2",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/960px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=ligadecampeones2",
+          "url": "https://la18hd.com/vivo/canales.php?stream=ligadecampeones2",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=ligadecampeones2",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=ligadecampeones2",
+            "Origin": "https://la18hd.com"
           }
         },
         {
           "name": "M+ Liga de Campeones 3",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/960px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=ligadecampeones3",
+          "url": "https://la18hd.com/vivo/canales.php?stream=ligadecampeones3",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=ligadecampeones3",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=ligadecampeones3",
+            "Origin": "https://la18hd.com"
           }
         },
         {
           "name": "LALIGA TV BAR",
           "image": "https://i.imgur.com/I8ldXf5.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=laligatvbar",
+          "url": "https://la18hd.com/vivo/canales.php?stream=laligatvbar",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=laligatvbar",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=laligatvbar",
+            "Origin": "https://la18hd.com"
           }
         },
         {
           "name": "DAZN DE",
           "image": "https://i.imgur.com/2Z2EmZF.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=dazn1_de",
+          "url": "https://la18hd.com/vivo/canales.php?stream=dazn1_de",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=dazn1_de",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=dazn1_de",
+            "Origin": "https://la18hd.com"
           }
         },
         {
           "name": "DAZN 2 DE",
           "image": "https://i.imgur.com/OGj3qf5.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=dazn2_de",
+          "url": "https://la18hd.com/vivo/canales.php?stream=dazn2_de",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=dazn2_de",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=dazn2_de",
+            "Origin": "https://la18hd.com"
           }
         },
         {
           "name": "DAZN ELEVEN PRO BE",
           "image": "https://i.imgur.com/ZZw6nwl.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=elevenpro1_be",
+          "url": "https://la18hd.com/vivo/canales.php?stream=elevenpro1_be",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=elevenpro1_be",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=elevenpro1_be",
+            "Origin": "https://la18hd.com"
           }
         }
       ]
@@ -3036,7 +3036,7 @@
         {
           "name": "TyC Sports FHD",
           "image": "https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=tycsports",
+          "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
             "Referer": "https://la14hd.com/vivo/canales.php?stream=tycsports",
@@ -3046,7 +3046,7 @@
         {
           "name": "TyC Sports INTERNACIONAL",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=tycinternacional",
+          "url": "https://la18hd.com/vivo/canales.php?stream=tycinternacional",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
             "Referer": "https://la14hd.com/vivo/canales.php?stream=tycinternacional",
@@ -3188,21 +3188,21 @@
         {
           "name": "GOLTV",
           "image": "https://i.imgur.com/pypul3s.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=goltv",
+          "url": "https://la18hd.com/vivo/canales.php?stream=goltv",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=goltv",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=goltv",
+            "Origin": "https://la18hd.com"
           }
         },
         {
           "name": "LIGAPRO EVENTOS",
           "image": "https://i.imgur.com/Wj5ZaJw.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro",
+          "url": "https://la18hd.com/vivo/canales.php?stream=ecdf_ligapro",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=ecdf_ligapro",
+            "Origin": "https://la18hd.com"
           }
         },
         {
@@ -3241,7 +3241,7 @@
         {
           "name": "TNT SPORTS",
           "image": "https://i.postimg.cc/sxQ0rjgd/descarga-38.jpg",
-          "url": "https://la14hd.com/vivo/canales.php?stream=tntsports",
+          "url": "https://la18hd.com/vivo/canales.php?stream=tntsports",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
             "Referer": "https://la14hd.com/vivo/canales.php?stream=tntsports",
@@ -3776,7 +3776,7 @@
           }
         },
         {
-          "name": "Las Estrellas 2",
+          "name": "Las Estrellas HD",
           "image": "https://i.imgur.com/g5ShxZ7.png",
           "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
         },
@@ -3915,7 +3915,7 @@
         {
           "name": "LALIGA TV",
           "image": "https://i.imgur.com/ilay5Jr.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga",
+          "url": "https://la18hd.com/vivo/canales.php?stream=sky_sports_laliga",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
             "Referer": "https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga",
@@ -3925,7 +3925,7 @@
         {
           "name": "BUNDESLIGA TV",
           "image": "https://i.imgur.com/UXtjFtd.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga_mx",
+          "url": "https://la18hd.com/vivo/canales.php?stream=sky_bundesliga_mx",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
             "Referer": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga_mx",
@@ -3991,16 +3991,6 @@
           "headers": {
             "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
           }
-        },
-        {
-          "name": "Sky Sports F1 UK",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png",
-          "url": "http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7342/index.m3u8"
-        },
-        {
-          "name": "Sky MAIN EVENT UK",
-          "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
-          "url": "http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7337/index.m3u8"
         },
         {
           "name": "Sky Live Event 1",
@@ -4334,16 +4324,6 @@
           }
         },
         {
-          "name": "FOX+",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsg5Mhyv1ic0vowNu8DKcxwKvF0HrFRD2iqQ&s",
-          "url": "https://mega.z5cable.com/bpk-tv/fox_mas_hd/default/index.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"UXEMnCJ6RjeZFGbs4bNVDg\",\"k\":\"gxv64eFvTMLNpdYg5tHpag\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
-          }
-        },
-        {
           "name": "FOX TUBI",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qVKfmwp8YJ8wct17HSC0-bVFeGFWPLJhKw&s",
           "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist576p.m3u8"
@@ -4367,11 +4347,11 @@
         {
           "name": "ESPN DEPORES",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
+          "url": "https://la18hd.com/vivo/canales.php?stream=espndeportes",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=espndeportes",
+            "Origin": "https://la18hd.com"
           }
         },
         {
@@ -4390,11 +4370,11 @@
         {
           "name": "beIN SPORTS Ñ",
           "image": "https://i.imgur.com/J5aurrb.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=beinsportes",
+          "url": "https://la18hd.com/vivo/canales.php?stream=beinsportes",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=beinsportes",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=beinsportes",
+            "Origin": "https://la18hd.com"
           }
         },
         {
