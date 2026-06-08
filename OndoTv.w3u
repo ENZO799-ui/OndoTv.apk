@@ -152,14 +152,9 @@
           }
         },
         {
-          "name": "Las Estrellas",
+          "name": "Las Estrellas HD",
           "image": "https://i.postimg.cc/Bt996SPz/las-estrellas.png",
-          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/LAS-ESTRELLAS-RDF-HD/default.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"3cmZlUHa1nn0yteLCn5CRw\",\"k\":\"upUUOStZDXwfOwwGoQ48iA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
-          }
+          "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
         },
         {
           "name": "TRECE",
