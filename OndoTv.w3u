@@ -2997,7 +2997,7 @@
         },
         {
           "name": "Claro Sports",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/160/160/0/0/61680399078962.png",
+          "image": "https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png",
           "url": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8"
         },
         {
@@ -3039,8 +3039,8 @@
           "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=tycsports",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=tycsports",
+            "Origin": "https://la18hd.com"
           }
         },
         {
@@ -3049,8 +3049,8 @@
           "url": "https://la18hd.com/vivo/canales.php?stream=tycinternacional",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=tycinternacional",
-            "Origin": "https://la14hd.com"
+            "Referer": "https://la18hd.com/vivo/canales.php?stream=tycinternacional",
+            "Origin": "https://la18hd.com"
           }
         },
         {
@@ -3063,6 +3063,16 @@
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
             "Referer": "https://webclient.ctcplus.com.ar/"
           }
+        },
+        {
+          "name": "PLTUO FUTBOL",
+          "image": "https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8"
+        },
+        {
+          "name": "PLTUO DEPORTES",
+          "image": "https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
         },
         {
           "license_type": "clearkey",
@@ -5105,6 +5115,50 @@
           }
         },
         {
+          "name": "MUSIC BOX HITS",
+          "image": "https://musicboxhits.com/music_box_hits_logo.png",
+          "url": "https://dash2.antik.sk/stream/hisi_mb_hits/playlist_cbcs.mpd",
+          "license_type": "widevine",
+          "license_key": "https://drm.antik.sk/widevine/key",
+          "headers": {
+            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
+            "Referer": "https://webtv.sk/"
+          }
+        },
+        {
+          "name": "MUSIC BOX DANCE",
+          "image": "https://musicboxdance.com/music_box_dance_logo.png",
+          "url": "https://dash2.antik.sk/stream/hisi_mb_dance/playlist_cbcs.mpd",
+          "license_type": "widevine",
+          "license_key": "https://drm.antik.sk/widevine/key",
+          "headers": {
+            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
+            "Referer": "https://webtv.sk/"
+          }
+        },
+        {
+          "name": "MUSIC BOX CLASSIC",
+          "image": "https://musicboxclassic.com/music_box_classic_logo.png",
+          "url": "https://dash2.antik.sk/stream/hisi_mb_classics/playlist_cbcs.mpd",
+          "license_type": "widevine",
+          "license_key": "https://drm.antik.sk/widevine/key",
+          "headers": {
+            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
+            "Referer": "https://webtv.sk/"
+          }
+        },
+        {
+          "name": "MUSIC BOX SEXY",
+          "image": "https://musicboxsexy.com/music_box_sexy_logo.png",
+          "url": "https://dash2.antik.sk/stream/hisi_mb_sexy/playlist_cbcs.mpd",
+          "license_type": "widevine",
+          "license_key": "https://drm.antik.sk/widevine/key",
+          "headers": {
+            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
+            "Referer": "https://webtv.sk/"
+          }
+        },
+        {
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"DxvhDQUZ4MRTEF8BMZ_kBw\",\"k\":\"mXbZG_zcfdIUjTaviQJ3Yg\"}],\"type\":\"temporary\"}",
           "name": "Mi Musica Romantica",
@@ -5557,7 +5611,7 @@
         },
         {
           "name": "XITE CELEBRATES",
-          "image": "",
+          "image": "https://i.imgur.com/coSrUwV.png",
           "url": "https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8"
         },
         {
@@ -5614,50 +5668,6 @@
           "name": "XITE COUNTRY TODAY",
           "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20260421T141848SQUARE.png",
           "url": "https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8"
-        },
-        {
-          "name": "MUSIC BOX HITS",
-          "image": "https://i.postimg.cc/zBFBc3vh/music-box-hits.png",
-          "url": "https://dash2.antik.sk/stream/hisi_mb_hits/playlist_cbcs.mpd",
-          "license_type": "widevine",
-          "license_key": "https://drm.antik.sk/widevine/key",
-          "headers": {
-            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
-            "Referer": "https://webtv.sk/"
-          }
-        },
-        {
-          "name": "MUSIC BOX DANCE",
-          "image": "https://i.postimg.cc/2jTydqP6/music-box-dance.png",
-          "url": "https://dash2.antik.sk/stream/hisi_mb_dance/playlist_cbcs.mpd",
-          "license_type": "widevine",
-          "license_key": "https://drm.antik.sk/widevine/key",
-          "headers": {
-            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
-            "Referer": "https://webtv.sk/"
-          }
-        },
-        {
-          "name": "MUSIC BOX CLASSIC",
-          "image": "https://i.postimg.cc/d0MVQGT4/music-box-classic.png",
-          "url": "https://dash2.antik.sk/stream/hisi_mb_classics/playlist_cbcs.mpd",
-          "license_type": "widevine",
-          "license_key": "https://drm.antik.sk/widevine/key",
-          "headers": {
-            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
-            "Referer": "https://webtv.sk/"
-          }
-        },
-        {
-          "name": "MUSIC BOX SEXY",
-          "image": "https://i.postimg.cc/CLPZ0ZN3/music-box-sexy.png",
-          "url": "https://dash2.antik.sk/stream/hisi_mb_sexy/playlist_cbcs.mpd",
-          "license_type": "widevine",
-          "license_key": "https://drm.antik.sk/widevine/key",
-          "headers": {
-            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
-            "Referer": "https://webtv.sk/"
-          }
         },
         {
           "name": "FREETV BANDA",
