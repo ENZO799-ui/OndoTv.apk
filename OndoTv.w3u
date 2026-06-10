@@ -45,12 +45,12 @@
       "image": "https://assets1.afa.com.ar/media/LUCAS-GAIO/Junio-2025/webfifa26.jpg",
       "stations": [
         {
-          "name": "TIGO SPORTS HD",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/500px-Tigo_Sports_2025.png",
+          "name": "EVENTOS DEL MUNDIAL [REOMENDADO]",
+          "image": "https://assets1.afa.com.ar/media/LUCAS-GAIO/Junio-2025/webfifa26.jpg",
           "url": ""
         },
         {
-          "name": "Telemundo Miami",
+          "name": "TELEMUNDO USA",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
           "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wscv)/master.mpd",
           "license_type": "clearkey",
@@ -200,6 +200,28 @@
           }
         },
         {
+          "name": "CDN",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b047c7970a115988f1fc9bab43305224.webp",
+          "url": "https://geo.dailymotion.com/player.html?video=x9lincs",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+            "Origin": "https://geo.dailymotion.com/player.html?video=x9lincs",
+            "Referer": "https://www.dailymotion.com/"
+          }
+        },
+        {
+          "name": "CDN DEPORTES",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f3e43d93669cee9c3a17d6456dbceeb5.webp",
+          "url": "https://geo.dailymotion.com/player.html?video=x9lntl6",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+            "Origin": "https://geo.dailymotion.com/player.html?video=x9lntl6",
+            "Referer": "https://www.dailymotion.com/"
+          }
+        },
+        {
           "name": "Red Uno",
           "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0459b48efe7ac7cace50a9fb44ac4cbb.webp",
           "url": "https://geo.dailymotion.com/player.html?video=x9n2qyk",
@@ -209,6 +231,11 @@
             "Origin": "https://geo.dailymotion.com/player.html?video=x9n2qyk",
             "Referer": "https://www.dailymotion.com/"
           }
+        },
+        {
+          "name": "UNITEL",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b4266bdc3b2eb45f8b04c8cfb20382a.webp",
+          "url": "https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8"
         },
         {
           "name": "TRECE",
@@ -284,7 +311,7 @@
           }
         },
         {
-          "name": "TUDN USA",
+          "name": "TUDN [YOUTUBE]",
           "image": "https://i.imgur.com/oT5CAvd.png",
           "url": "https://streaming.alwaysdata.net/tudn.php"
         },
@@ -329,6 +356,19 @@
           "headers": {
            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
           }
+        },
+        {
+          "name": "GE TV",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GE_TV.svg/960px-Logo_GE_TV.svg.png",
+          "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "N Sports",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp",
+          "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8"
         },
         {
           "name": "CAZE TV [YOUTUBE]",
