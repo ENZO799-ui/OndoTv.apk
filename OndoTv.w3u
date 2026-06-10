@@ -200,6 +200,22 @@
           }
         },
         {
+          "name": "Red Uno OPC1",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0459b48efe7ac7cace50a9fb44ac4cbb.webp",
+          "url": "https://geo.dailymotion.com/player.html?video=x9n2qyk",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+            "Origin": "https://geo.dailymotion.com/player.html?video=x9n2qyk",
+            "Referer": "https://www.dailymotion.com/"
+          }
+        },
+        {
+          "name": "Red Uno OPC2",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0459b48efe7ac7cace50a9fb44ac4cbb.webp",
+          "url": "https://www.dailymotion.com/video/x9n2qyk"
+        },
+        {
           "name": "TRECE",
           "image": "https://bestleague.world/img/trecepy.webp",
           "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
