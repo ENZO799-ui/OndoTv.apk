@@ -120,6 +120,33 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Bp80lTgPPSWowDR3Bn99Gw\",\"k\":\"fZ2/gTRTXhZl6RT7cTTORw\"}],\"type\":\"temporary\"}"
         },
         {
+          "name": "FOX",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUo4Idr7rD6IFueJARbXWdd5f7EzttEJ9bQ&s",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"jsLmJIq+LhDhbkOcm4X/2A\",\"k\":\"8SGwFcKlGXgoNV+2qHTClw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+          }
+        },
+        {
+          "name": "FOX TUBI",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qVKfmwp8YJ8wct17HSC0-bVFeGFWPLJhKw&s",
+          "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist576p.m3u8"
+        },
+        {
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"m7VPzP-t3TiRboXAjemMyQ\",\"k\":\"0G9QnEGOtvGy_Ct2ZEUyiw\"}],\"type\":\"temporary\"}",
+          "name": "TELEFE",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png",
+          "url": "https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?",
+          "headers": {
+           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
           "name": "TELEFE OP2",
           "image": "https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png",
           "url": "https://chromecast.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_enc_C/TELEFE.mpd",
@@ -137,7 +164,6 @@
             "Referer": "https://webclient.ctcplus.com.ar/"
           }
         },
-
         {
           "name": "Canal 5",
           "image": "https://i.ibb.co/V310Z0q/canal5.png",
@@ -159,29 +185,41 @@
           }
         },
         {
-          "name": "Azteca Uno",
-          "image": "https://i.imgur.com/rRxgBtI.png",
-          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/AZTECA-UNO-HD/default.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"bAFDXtToOZlvQPjuCJZTJA\",\"k\":\"dOt7VFEORj6lHcz/gKU/Pg\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
-          }
-        },
-        {
           "name": "Las Estrellas HD",
           "image": "https://i.postimg.cc/Bt996SPz/las-estrellas.png",
           "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
         },
         {
+          "name": "NU9VE Nacional",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/960px-Nueve_%282018_logo%29.png",
+          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/NUEVE-RDF-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"prYlF8pLtZ2e8LiIYWp2Wg\",\"k\":\"8YwIC6ydB05KW2QdV2cGXw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
           "name": "TRECE",
           "image": "https://bestleague.world/img/trecepy.webp",
-          "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8"
+          "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+            "Origin": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
+            "Referer": "https://geo.dailymotion.com/"
+          }
         },
         {
           "name": "UNICANAL",
-          "image": "https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp",
-          "url": "https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8"
+          "image": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
+          "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+            "Origin": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
+            "Referer": "https://geo.dailymotion.com/"
+          }
         },
         {
           "name": "GEN TV",
@@ -357,20 +395,6 @@
       "name": "🇵🇾LAND TV🇵🇾",
       "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
       "stations": [
-        {
-          "name": "EVENTO 1 HD",
-          "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-          "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0"
-        },
-        {
-          "name": "EVENTOS 2 HD",
-          "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-          "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
-        },
         {
           "name": "En Vivo",
           "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
@@ -961,7 +985,7 @@
           }
         },
         {
-          "name": "TELEFE Tendencias (VPN AR)",
+          "name": "TELEFE Tendencias",
           "image": "https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png",
           "url": "https://chromecast.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_enc_C/TELEFE.mpd",
           "license_type": "clearkey",
