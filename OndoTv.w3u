@@ -200,7 +200,7 @@
           }
         },
         {
-          "name": "Red Uno OPC1",
+          "name": "Red Uno",
           "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0459b48efe7ac7cace50a9fb44ac4cbb.webp",
           "url": "https://geo.dailymotion.com/player.html?video=x9n2qyk",
           "headers": {
@@ -209,11 +209,6 @@
             "Origin": "https://geo.dailymotion.com/player.html?video=x9n2qyk",
             "Referer": "https://www.dailymotion.com/"
           }
-        },
-        {
-          "name": "Red Uno OPC2",
-          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0459b48efe7ac7cace50a9fb44ac4cbb.webp",
-          "url": "https://www.dailymotion.com/video/x9n2qyk"
         },
         {
           "name": "TRECE",
