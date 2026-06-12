@@ -57,6 +57,52 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7VqsNpGzOgKshthPiGqKBg\",\"k\":\"ayz23RUEFrdY0ij8OJgEcw\"}],\"type\":\"temporary\"}"
         },
         {
+          "name": "USA VS PARAGUAY 3",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-580x290,f_auto,q_auto:best/rockcms/2026-05/TVEWCUSAvPAR1920x1080-16x9-Tile-All-Platforms-8b41b7.jpg",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RbvVgvIg9Dj4lkUNgwaj8g\",\"k\":\"WCxrp/ZLvA8tkcawwmV2DA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+          }
+        },
+        {
+          "name": "USA VS PARAGUAY 4",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-580x290,f_auto,q_auto:best/rockcms/2026-05/TVEWCUSAvPAR1920x1080-16x9-Tile-All-Platforms-8b41b7.jpg",
+          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"KowtUIg3f1H4Jdhx5Wi+GQ\",\"k\":\"61qNtkyhmSOJZy7blEfHEQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "USA VS PARAGUAY 5",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-580x290,f_auto,q_auto:best/rockcms/2026-05/TVEWCUSAvPAR1920x1080-16x9-Tile-All-Platforms-8b41b7.jpg",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"zo+G0vDRY4V0I3raisLoKg\",\"k\":\"ZCdy6/GDLx8vpYy36Pz9BQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
+          "name": "USA VS PARAGUAY 6",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-580x290,f_auto,q_auto:best/rockcms/2026-05/TVEWCUSAvPAR1920x1080-16x9-Tile-All-Platforms-8b41b7.jpg",
+          "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
+        },
+        {
+          "name": "USA VS PARAGUAY 7",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-580x290,f_auto,q_auto:best/rockcms/2026-05/TVEWCUSAvPAR1920x1080-16x9-Tile-All-Platforms-8b41b7.jpg",
+          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/NUEVE-RDF-HD/default.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"prYlF8pLtZ2e8LiIYWp2Wg\",\"k\":\"8YwIC6ydB05KW2QdV2cGXw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          }
+        },
+        {
           "name": "TELEMUNDO USA",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
           "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wscv)/master.mpd",
