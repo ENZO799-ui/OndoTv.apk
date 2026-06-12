@@ -96,7 +96,7 @@
         },
         {
           "name": "ESPN MX",
-          "image": "https://i.postimg.cc/TPKcqwGz/espn.png",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
           "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"OLY/mqp7fHqCLI4UyKchLg\",\"k\":\"1rH0WlnS2sGnMMf1bHSXGg\"}],\"type\":\"temporary\"}",
@@ -154,6 +154,17 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"QbiT6KevQ+mUPn1UoCxOYA\",\"k\":\"C5Z/C6m1Q7jayKuYFLeXDg\"}],\"type\":\"temporary\"}"
         },
         {
+          "name": "Telefe 2 (Cordoba)",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/588/CH_LOGO/400/400/0/0/887528030752.png",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"QOuaTUwtN0EjzaoUMl+ViQ\",\"k\":\"QyBZvOYWZMr/wGIjocCB4g\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
+          }
+        },
+        {
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"axdTiBDx3USF8XTcwgSHLA\",\"k\":\"PVuXN3JDPOB8iZmqZZ6kjA\"}],\"type\":\"temporary\"}",
           "name": "TV Publica",
@@ -200,17 +211,6 @@
           }
         },
         {
-          "name": "CDN",
-          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b047c7970a115988f1fc9bab43305224.webp",
-          "url": "https://geo.dailymotion.com/player.html?video=x9lincs",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-            "Origin": "https://geo.dailymotion.com/player.html?video=x9lincs",
-            "Referer": "https://www.dailymotion.com/"
-          }
-        },
-        {
           "name": "CDN DEPORTES",
           "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f3e43d93669cee9c3a17d6456dbceeb5.webp",
           "url": "https://geo.dailymotion.com/player.html?video=x9lntl6",
@@ -231,11 +231,6 @@
             "Origin": "https://geo.dailymotion.com/player.html?video=x9n2qyk",
             "Referer": "https://www.dailymotion.com/"
           }
-        },
-        {
-          "name": "UNITEL",
-          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b4266bdc3b2eb45f8b04c8cfb20382a.webp",
-          "url": "https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8"
         },
         {
           "name": "TRECE",
@@ -350,12 +345,7 @@
         {
           "name": "VS SPORTS [YOUTUBE]",
           "image": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/vssports/logo.png",
-          "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8",
-          "license_type": "clearkey",
-          "license_key": "https://no.gendigi.net/981d497f-a3bc-4bdb-a984-21949b63d91b",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
-          }
+          "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8"
         },
         {
           "name": "GE TV",
@@ -521,31 +511,31 @@
         {
           "name": "DISNEY EVENT  1",
           "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://la14hd.com/vivo/canales.php?stream=disney1",
+          "url": "https://la18hd.com/vivo/canales.php?stream=disney1",
           "license_type": "webvideo"
         },
         {
           "name": "DISNEY EVENT  2",
           "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://la14hd.com/vivo/canales.php?stream=disney2",
+          "url": "https://la18hd.com/vivo/canales.php?stream=disney2",
           "license_type": "webvideo"
         },
         {
           "name": "DISNEY EVENT 3",
           "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://la14hd.com/vivo/canales.php?stream=disney3",
+          "url": "https://la18hd.com/vivo/canales.php?stream=disney3",
           "license_type": "webvideo"
         },
         {
           "name": "DISNEY EVENT 4",
           "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://la14hd.com/vivo/canales.php?stream=disney4",
+          "url": "https://la18hd.com/vivo/canales.php?stream=disney4",
           "license_type": "webvideo"
         },
         {
           "name": "DISNEY EVENT 5",
           "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://la14hd.com/vivo/canales.php?stream=disney5",
+          "url": "https://la18hd.com/vivo/canales.php?stream=disney5",
           "license_type": "webvideo"
         }
       ]
