@@ -45,9 +45,16 @@
       "image": "https://assets1.afa.com.ar/media/LUCAS-GAIO/Junio-2025/webfifa26.jpg",
       "stations": [
         {
-          "name": "EVENTOS DEL MUNDIAL [REOMENDADO]",
-          "image": "https://assets1.afa.com.ar/media/LUCAS-GAIO/Junio-2025/webfifa26.jpg",
-          "url": ""
+          "name": "USA VS PARAGUAY 1",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-580x290,f_auto,q_auto:best/rockcms/2026-05/TVEWCUSAvPAR1920x1080-16x9-Tile-All-Platforms-8b41b7.jpg",
+          "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8"
+        },
+        {
+          "name": "USA VS PARAGUAY 2",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-580x290,f_auto,q_auto:best/rockcms/2026-05/TVEWCUSAvPAR1920x1080-16x9-Tile-All-Platforms-8b41b7.jpg",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wscv)/master.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7VqsNpGzOgKshthPiGqKBg\",\"k\":\"ayz23RUEFrdY0ij8OJgEcw\"}],\"type\":\"temporary\"}"
         },
         {
           "name": "TELEMUNDO USA",
