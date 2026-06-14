@@ -110,6 +110,14 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Bp80lTgPPSWowDR3Bn99Gw\",\"k\":\"fZ2/gTRTXhZl6RT7cTTORw\"}],\"type\":\"temporary\"}"
         },
         {
+          "name": "FOX USA",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+          "url": "http://84.17.50.102:80/fox/index.m3u8",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+          }
+        },
+        {
           "name": "FOX",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUo4Idr7rD6IFueJARbXWdd5f7EzttEJ9bQ&s",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
