@@ -96,6 +96,73 @@
           }
         },
         {
+          "name": "FOX SPORT 4K MUNDIAL",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+          "license_type": "clearkey",
+          "image": "https://i.ibb.co/CsngGzDW/Picsart-26-06-13-18-39-17-851.png",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9lZOwq7oGQRjKKDhU75XTQ\",\"k\":\"_0aooQMesn7yJXagd8mKtw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "referer": "https://www.primevideo.com/",
+            "user_agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+          }
+        },
+        {
+          "name": "TELEMUNDO MUNDIAL",
+          "url": "http://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+          "license_type": "clearkey",
+          "image": "https://i.ibb.co/Z1xqKrcH/052926-wc-logo.webp",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Hv5K3Y_fMnxfjSocGV5ccQ\",\"k\":\"T1Dm8BHmDKAe5WHycYfnjw\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "LA 1 MUNDIAL",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+          "license_type": "clearkey",
+          "image": "https://i.ibb.co/DHSH2L0y/Logo-La-1-UHD-2024.jpg",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_Ybd4K4-FP9RyPyPJIpQ2w\",\"k\":\"0QaueLCJPaLkOT7OmUILqg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "VIX EVENTOS",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+          "license_type": "clearkey",
+          "image": "https://i.ibb.co/1JQfXv7H/Picsart-26-06-10-22-34-47-607.png",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dQdKDL2D9bcvs-XBSVJSqQ\",\"k\":\"pKDfBLLSjyFgzq0uzetyAw\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "VIX EVENTOS 2",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-91-HD/default.mpd",
+          "license_type": "clearkey",
+          "image": "https://i.ibb.co/VpqqynNP/Picsart-26-06-10-22-34-20-290.png",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"EfSGyn3yDWP_Oq7PTYfRMg\",\"k\":\"knFQaVAxO6ss7XUiiRqgIg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "VIX EVENTOS 3",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-92-HD/default.mpd",
+          "license_type": "clearkey",
+          "image": "https://i.ibb.co/DDCpC84T/Picsart-26-06-10-22-54-30-928.png",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"eE1rVO_joT3B-82hflgE2w\",\"k\":\"tPSBTgGUP5ELYua_0MI3KA\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "VIX EVENTOS 4",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-93-HD/default.mpd",
+          "license_type": "clearkey",
+          "image": "https://i.ibb.co/xtwmd1xT/Picsart-26-06-10-22-58-19-559.png",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"fuGiPkC0Vuv9qkDFGiS4Vw\",\"k\":\"Rf-v9fMiGjVsgsPTm7MnrA\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "VIX EVENTOS 5",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-94-HD/default.mpd",
+          "license_type": "clearkey",
+          "image": "https://i.ibb.co/xNg3DgC/Picsart-26-06-10-23-02-36-613.png",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"iw3RxbWBJGBHmslK9P8GHQ\",\"k\":\"_FoMeM8q2Ls2NuARUFU0Jw\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "VIX EVENTOS 6",
+          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-95-HD/default.mpd",
+          "license_type": "clearkey",
+          "image": "https://i.ibb.co/v4vD3P3w/Picsart-26-06-10-23-09-10-236.png",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"lpbC8S5Ieq_h3JbRbQ22WA\",\"k\":\"FZ_V3DsNng11-FbpXiJYAQ\"}],\"type\":\"temporary\"}"
+        },
+        {
           "name": "Universo EAST",
           "image": "https://i.imgur.com/RZ8pIKe.png",
           "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
@@ -127,6 +194,13 @@
             "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
             "Referer": "https://www.primevideo.com/"
           }
+        },
+        {
+          "name": "FOX ONE MUNDIAL 4K",
+          "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+          "license_type": "clearkey",
+          "image": "Â»ÃŒ[_Ãœ &",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9lZOwq7oGQRjKKDhU75XTQ\",\"k\":\"_0aooQMesn7yJXagd8mKtw\"}],\"type\":\"temporary\"}"
         },
         {
           "name": "FOX TUBI",
@@ -304,6 +378,13 @@
           }
         },
         {
+          "name": "VIX DEPORTES",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+          "license_type": "clearkey",
+          "image": "https://i.ibb.co/zVYvXY2H/Picsart-26-06-11-15-18-55-176.png",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"FxCsK7_NMDLQ9lM4UJaPRw\",\"k\":\"0lSNrMjvzRzQrwNzBgyC3A\"}],\"type\":\"temporary\"}"
+        },
+        {
           "name": "TUDN [YOUTUBE]",
           "image": "https://i.imgur.com/oT5CAvd.png",
           "url": "https://streaming.alwaysdata.net/tudn.php"
@@ -362,6 +443,13 @@
           "name": "CAZE TV [YOUTUBE]",
           "image": "https://i.ibb.co/W3XpzQy/cazetv.png",
           "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+        },
+        {
+          "name": "CAZE TV 4K",
+          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+          "license_type": "clearkey",
+          "image": "https://i.ibb.co/MkQLZw3G/Picsart-26-06-10-23-19-14-029.jpg",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"NEde2rmRrV6SVIrr1xBBCg\",\"k\":\"UBsgnMzTI6wAv1rBW0BstA\"}],\"type\":\"temporary\"}"
         },
         {
           "name": "SPORTV",
