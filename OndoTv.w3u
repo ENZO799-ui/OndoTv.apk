@@ -306,24 +306,20 @@
         },
         {
           "name": "TRECE",
-          "image": "https://bestleague.world/img/trecepy.webp",
+          "image": "https://trece.com.py/favicon.ico",
           "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-            "Origin": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
-            "Referer": "https://geo.dailymotion.com/"
+            "User-Agent": "Mozilla/5.0 (Linux; Android 16; SM-A165M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.217 Mobile Safari/537.36",
+            "Referer": "https://trece.com.py/"
           }
         },
         {
           "name": "UNICANAL",
-          "image": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
+          "image": "https://www.unicanal.com.py/favicon.ico",
           "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-            "Origin": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
-            "Referer": "https://geo.dailymotion.com/"
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36",
+            "Referer": "https://unicanal.com.py/"
           }
         },
         {
