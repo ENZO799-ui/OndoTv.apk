@@ -3053,6 +3053,13 @@
           "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8"
         },
         {
+          "name": "LA 1 UHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+          "license_type": "clearkey",
+          "image": "https://i.ibb.co/DHSH2L0y/Logo-La-1-UHD-2024.jpg",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_Ybd4K4-FP9RyPyPJIpQ2w\",\"k\":\"0QaueLCJPaLkOT7OmUILqg\"}],\"type\":\"temporary\"}"
+        },
+        {
           "name": "2 ES",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/960px-Logo_La_2.svg.png",
           "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8"
