@@ -314,6 +314,18 @@
           }
         },
         {
+          "name": "TRECE OPC 2",
+          "image": "",
+          "url": "wCp5JJeT6GsuMla110cTCRFMBtTd3e1XuO/7oMv0XkYDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efRubPfymc7F6fI2As18DVJrQG3soMRdQ3N4DFOMFKsYqM3QqMgFo1Z1y5OBQDYXQIajPUpAHMKA5ApwQCk6iXtfHnbuSL6qRcW2oZeqcKkQrZWIKPjS1N9FS1OCoAYpBFfxb6zGZC7fz3XgblDnc5ZrOFdh2zCXQhhD5FzInOKTluByKIKmuClDWC2zgcUkJLS681jm+oC6STJ38nolgyw1L7lHByFs0PNCeheAq/hiAxErZXKYBP62SLo+OdiQ2CALX/+hpwJbqa7ZWSCtoASNzy6bGWeLYdgwHtf+w+GvZ0Ak13Ow6CXbCRZQt/YoFS8B4rEuRhPao/CGdagkgewDyH5uNbLnvcgUtUgx1RLlGek/DLAaGawXm3xRcG89mkcn92vgMIhPaisXdB2RWj5f5wJXPq0xKCfWN6TOI8VAWsbeb3In11pZWW/NDLBbB3l6/ESTFGsmRyTNodICAWFRsvPnBtDC0kdI9qZLRTc4cM6AbTelmlpAf0ERlPCmobKDxV3Nrw8/k2Iq3mTY7bUHLPi/V5M7ayIxBoKezr4sjRnHUJjx5LlzmgUPW87verB42VRcIM73IxmuD32C/jraHgYO2kV/NOQDGZ4uLFX6NRJlucve5HKedLuAi/apNLlNXxBYVLaeC2fvoLlcxAtIX9zju8ivqQ9rPce4WsXBvBocd8wR1SZHxVGnAyecHw=",
+          "license_type": "clearkey",
+          "license_key": "uoxw86wzAkg+WI6tFn2gLJB8QVCFTTI/X3qCGci10jUePcFmjBMN+EPx+FMGdg6V/+9kibePqzC04X48KJPn6ol+pQkq1oK4OecRbskN3BHpMVUY/Y38+hCp/QzofY7SD1K+wF8kKL9TC4AhKUlbvA==",
+          "headers": {
+            "Origin": "Ssz8pUSwuOOXrjMOfMcImdy+LX7CsX/P4UH+7ungukk=",
+            "Referer": "Ssz8pUSwuOOXrjMOfMcImWRAe/eRUEh0ITdxUuT/jcw=",
+            "User-Agent": "CZYMGsKUhZyTtU22JDSKU5qUB+Us5QxhZbwYSI5TQc29iL+RVhXwJD6aZvjTuwG4q0yawAkMednF98JK28UIbeIC7bRUvHNg9/11x+JXX5Wmvsyqoq8wlpNFCaFQ8cxH6K83/9t6sTWwHcl/sHhoNATp4r/rqAFy9bmfT/itINU="
+          }
+        },
+        {
           "name": "UNICANAL",
           "image": "https://www.unicanal.com.py/favicon.ico",
           "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
