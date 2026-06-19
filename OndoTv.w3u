@@ -1231,6 +1231,11 @@
           }
         },
         {
+          "name": "Canal 26 HD",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png",
+          "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/canal26/output.mpd"
+        },
+        {
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GU8GghgOFH95KAeNzHigGQ\",\"k\":\"3fwIVF50pr2IcPEYnNG-wA\"}],\"type\":\"temporary\"}",
           "name": "Cronica",
@@ -2379,9 +2384,14 @@
           }
         },
         {
+          "name": "Cartoon Network",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png",
+          "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cartoon/output.mpd"
+        },
+        {
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"x-_mO79oKkEk-zTAHregpw\",\"k\":\"SGZ1Ebhmjflvo6uqYj5PaQ\"}],\"type\":\"temporary\"}",
-          "name": "Cartoon Network",
+          "name": "Cartoon Network 2",
           "image": "https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png",
           "url": "https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd?",
           "headers": {
