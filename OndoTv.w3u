@@ -307,16 +307,6 @@
         {
           "name": "TRECE",
           "image": "https://trece.com.py/favicon.ico",
-          "url": "https://sudamericaplay2.com/canal_41/trecepy.php",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 16; SM-A165M Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.91 Mobile Safari/537.36",
-            "Origin": "https://sudamericaplay2.com",
-            "Referer": "https://sudamericaplay2.com/"
-          }
-        },
-        {
-          "name": "TRECE OPC 2",
-          "image": "https://trece.com.py/favicon.ico",
           "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 16; SM-A165M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.217 Mobile Safari/537.36",
@@ -813,14 +803,15 @@
           "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion"
         },
         {
+          "license_type": "clearkey",
+          "license_key": "{ "keys":[ { "kty":"oct", "k":"v887AztfC1rgIHUaZ0Yybw", "kid":"qAk83LLVBL048WdkvSG25Q" } ], "type":"temporary" }",
           "name": "TRECE",
-          "image": "https://bestleague.world/img/trecepy.webp",
-          "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLafLdhoUttWJF00EQjUvCeLe-KvSP664CJ5lyInv51Q&s=10",
+          "url": "https://edge-mix01-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyNDcxNDA2Iiwic2lwIjoiMTQ5LjUwLjE0OC42OCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiMWQ0NjI4YzRkYjA0MmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiODgiLCJzb3VyY2VzIjpbNjksODUsMTQ0LDg2LDg4XX0=.d8WBiU3jA3QzHuCsXNeQmh8mBhzUNjcL8B82XTVK6WzHeuw9BADiIAiHZy6eBInbPorawHaFGArVSPzLH50xwQ==/live/c4eds/RPC_C4/SA_Live_dash_enc_C/RPC_C4.mpd",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-            "Origin": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
-            "Referer": "https://geo.dailymotion.com/"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/"
           }
         },
         {
