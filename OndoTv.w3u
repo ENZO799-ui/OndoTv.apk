@@ -305,9 +305,32 @@
           }
         },
         {
+          "name": "TRECE",
+          "image": "https://trece.com.py/favicon.ico",
+          "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 16; SM-A165M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.217 Mobile Safari/537.36",
+            "Referer": "https://trece.com.py/"
+          }
+        },
+        {
+          "name": "UNICANAL",
+          "image": "https://www.unicanal.com.py/favicon.ico",
+          "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36",
+            "Referer": "https://unicanal.com.py/"
+          }
+        },
+        {
           "name": "GEN TV",
           "image": "https://bestleague.world/img/genpy.png",
           "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8"
+        },
+        {
+          "name": "POPU TV",
+          "image": "https://i.imgur.com/UqCogyZ.png",
+          "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion"
         },
         {
           "license_type": "clearkey",
@@ -780,15 +803,14 @@
           "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion"
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"k\\\":\\\"v887AztfC1rgIHUaZ0Yybw\\\",\\\"kid\\\":\\\"qAk83LLVBL048WdkvSG25Q\\\"}],\\\"type\\\":\\\"temporary\\\"}",
           "name": "TRECE",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLafLdhoUttWJF00EQjUvCeLe-KvSP664CJ5lyInv51Q&s=10",
-          "url": "https://edge-mix01-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyNDcxNDA2Iiwic2lwIjoiMTQ5LjUwLjE0OC42OCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiMWQ0NjI4YzRkYjA0MmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiODgiLCJzb3VyY2VzIjpbNjksODUsMTQ0LDg2LDg4XX0=.d8WBiU3jA3QzHuCsXNeQmh8mBhzUNjcL8B82XTVK6WzHeuw9BADiIAiHZy6eBInbPorawHaFGArVSPzLH50xwQ==/live/c4eds/RPC_C4/SA_Live_dash_enc_C/RPC_C4.mpd",
+          "image": "https://bestleague.world/img/trecepy.webp",
+          "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-            "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+            "Origin": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
+            "Referer": "https://geo.dailymotion.com/"
           }
         },
         {
@@ -857,7 +879,7 @@
           "image": "https://i.ibb.co/Pg6v5zn/images.png",
           "url": "https://edge-mix01-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyNDcxNDA2Iiwic2lwIjoiMTQ5LjUwLjE0OC42OCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiMWQ0NjI4YzRkYjA0MmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiODgiLCJzb3VyY2VzIjpbNjksODUsMTQ0LDg2LDg4XX0=.d8WBiU3jA3QzHuCsXNeQmh8mBhzUNjcL8B82XTVK6WzHeuw9BADiIAiHZy6eBInbPorawHaFGArVSPzLH50xwQ==/live/c4eds/5_Dias_PY/SA_Live_dash_enc_C/5_Dias_PY.mpd",
           "license_type": "clearkey",
-          "license_key": "{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"k\\\":\\\"KQgbX5LRo3yI+70OzlXIOQ\\\",\\\"kid\\\":\\\"dGCRxQLtzx6dADU1zgHz5A\\\"}],\\\"type\\\":\\\"temporary\\\"}",
+          "license_key": "https://dl.dropbox.com/scl/fi/s1b3862a8q8g2dp0t68lo/5dias.json?rlkey=jrma046phplkzdkkmmeymedmg&st=ffl1bilx&dl=0",
           "headers": {
             "Origin": "https://portal.app.flow.com.ar",
             "Referer": "https://portal.app.flow.com.ar/",
@@ -869,7 +891,7 @@
           "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
           "url": "https://edge-mix01-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyNDcxNDA2Iiwic2lwIjoiMTQ5LjUwLjE0OC42OCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiMWQ0NjI4YzRkYjA0MmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiODgiLCJzb3VyY2VzIjpbNjksODUsMTQ0LDg2LDg4XX0=.d8WBiU3jA3QzHuCsXNeQmh8mBhzUNjcL8B82XTVK6WzHeuw9BADiIAiHZy6eBInbPorawHaFGArVSPzLH50xwQ==/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_C/SUR_TV_C4.mpd",
           "license_type": "clearkey",
-          "license_key": "{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"k\\\":\\\"uGfGZ5G8rWfuFCvh4hwldw\\\",\\\"kid\\\":\\\"mIrk6ECJgWCd7Z+LI7v3nQ\\\"}],\\\"type\\\":\\\"temporary\\\"}",
+          "license_key": "https://dl.dropbox.com/scl/fi/a31oay4x7psi130hou2kx/surtv.json?rlkey=0x5izspqac7coo6r17w1n7jbj&st=ch0jhlr0&dl=0",
           "headers": {
             "Origin": "https://portal.app.flow.com.ar",
             "Referer": "https://portal.app.flow.com.ar/",
@@ -881,7 +903,7 @@
           "image": "https://i.ibb.co/dGqjksf/descarga.png",
           "url": "https://edge-mix01-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyNDcxNDA2Iiwic2lwIjoiMTQ5LjUwLjE0OC42OCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiMWQ0NjI4YzRkYjA0MmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiODgiLCJzb3VyY2VzIjpbNjksODUsMTQ0LDg2LDg4XX0=.d8WBiU3jA3QzHuCsXNeQmh8mBhzUNjcL8B82XTVK6WzHeuw9BADiIAiHZy6eBInbPorawHaFGArVSPzLH50xwQ==/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_C/ABC_TV_C4.mpd",
           "license_type": "clearkey",
-          "license_key": "{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"k\\\":\\\"6hYkM2fYFMHVPx6vIfAF/w\\\",\\\"kid\\\":\\\"wL73VzOyZFRSQyvU52829Q\\\"}],\\\"type\\\":\\\"temporary\\\"}",
+          "license_key": "https://dl.dropbox.com/scl/fi/g6fjr9lz122cxg5jdpk4l/abctv.json?rlkey=pshs3zb7eyw8s8y0k4v2yirf4&st=26ixju2q&dl=0",
           "headers": {
             "Origin": "https://portal.app.flow.com.ar",
             "Referer": "https://portal.app.flow.com.ar/",
@@ -893,7 +915,7 @@
           "image": "https://i.ibb.co/ZdsYJGJ/tvcamara.png",
           "url": "https://edge-mix01-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyNDcxNDA2Iiwic2lwIjoiMTQ5LjUwLjE0OC42OCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiMWQ0NjI4YzRkYjA0MmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiODgiLCJzb3VyY2VzIjpbNjksODUsMTQ0LDg2LDg4XX0=.d8WBiU3jA3QzHuCsXNeQmh8mBhzUNjcL8B82XTVK6WzHeuw9BADiIAiHZy6eBInbPorawHaFGArVSPzLH50xwQ==/live/c4eds/TV_Camara/SA_Live_dash_enc_C/TV_Camara.mpd",
           "license_type": "clearkey",
-          "license_key": "{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"k\\\":\\\"PQPgp52Pe3qiiXw9JL1Lag\\\",\\\"kid\\\":\\\"k1dwSt5ETcOyO+iYZa8vWA\\\"}],\\\"type\\\":\\\"temporary\\\"}",
+          "license_key": "https://dl.dropbox.com/scl/fi/eg6t1cgrgakfa476cdqa8/tvcamara.json?rlkey=23dcy0jmclllnmm4xdyt0ib7h&st=fdqblgzn&dl=0",
           "headers": {
             "Origin": "https://portal.app.flow.com.ar",
             "Referer": "https://portal.app.flow.com.ar/",
@@ -905,7 +927,7 @@
           "image": "https://bestleague.world/img/paravision.webp",
           "url": "https://edge-mix01-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyNDcxNDA2Iiwic2lwIjoiMTQ5LjUwLjE0OC42OCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiMWQ0NjI4YzRkYjA0MmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiODgiLCJzb3VyY2VzIjpbNjksODUsMTQ0LDg2LDg4XX0=.d8WBiU3jA3QzHuCsXNeQmh8mBhzUNjcL8B82XTVK6WzHeuw9BADiIAiHZy6eBInbPorawHaFGArVSPzLH50xwQ==/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_C/PARAVISION_C4.mpd",
           "license_type": "clearkey",
-          "license_key": "{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"k\\\":\\\"KRjpiTtXDD+h8hW1KhLMkQ\\\",\\\"kid\\\":\\\"vY6MmzLvAn6P9P8M/OhVpA\\\"}],\\\"type\\\":\\\"temporary\\\"}",
+          "license_key": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
           "headers": {
             "Origin": "https://portal.app.flow.com.ar",
             "Referer": "https://portal.app.flow.com.ar/",
