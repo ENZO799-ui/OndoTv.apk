@@ -909,7 +909,7 @@
         {
           "name": "TV CAMARA",
           "image": "https://i.ibb.co/ZdsYJGJ/tvcamara.png",
-          "url": "http://24.152.42.29:8000/play/a02a/index.m3u8!
+          "url": "http://24.152.42.29:8000/play/a02a/index.m3u8"
         },
         {
           "name": "PARAVISIÓN",
@@ -1025,6 +1025,41 @@
           "name": "TIGO EVENTOS PY",
           "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
           "url": "http://45.170.130.224:8000/play/a04k/index.m3u8"
+        },
+        {
+          "name": "ESPN PY",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
+          "url": "http://45.170.130.224:8000/play/a04l/index.m3u8"
+        },
+        {
+          "name": "ESPN 2 PY",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
+          "url": "http://45.170.130.224:8000/play/a034/index.m3u8"
+        },
+        {
+          "name": "ESPN 3 PY",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
+          "url": "http://45.170.130.224:8000/play/a01y/index.m3u8"
+        },
+        {
+          "name": "ESPN 4 PY",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163",
+          "url": "http://45.170.130.224:8000/play/a01p/index.m3u8"
+        },
+        {
+          "name": "ESPN 5 PY",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3180/3180WHORIZONTAL.jpg?size=290x163",
+          "url": "http://45.170.130.224:8000/play/a03s/index.m3u8"
+        },
+        {
+          "name": "ESPN 6 PY",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3899/3899WHORIZONTAL.jpg?size=290x163",
+          "url": "http://45.170.130.224:8000/play/a028/index.m3u8"
+        },
+        {
+          "name": "ESPN 7 PY",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3463/3463WHORIZONTAL.jpg?size=290x163",
+          "url": "http://24.152.42.29:8000/play/a05k/index.m3u8"
         },
         {
           "name": "FLOW EVENTOS PY",
