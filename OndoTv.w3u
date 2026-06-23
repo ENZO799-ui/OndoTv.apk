@@ -643,7 +643,7 @@
           "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
           "url": "https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
           "license_type": "clearkey",
-          "license_key": "https://dl.dropbox.com/scl/fi/bkm2nvvvwkf6jr1r0ymmi/clearkey_flow2.json?rlkey=tt9hei8jvhepijrzwphj29mv4&st=5ul69i2e&dl=0",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"5U6eqHpjRlj7ug44CqcBpw\",\"k\":\"TkhtJdfQ59ExdDsoWWPGQw\"}],\"type\":\"temporary\"}",
           "headers": {
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/",
@@ -3482,6 +3482,18 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6IS3EasRG+uKe6HnvL3Jvw\",\"k\":\"y4nuOWFZnj5kilqtYIlfNA\"}],\"type\":\"temporary\"}"
         },
         {
+          "name": "ESPN (VPN AR 2)",
+          "image": "https://i.ibb.co/s37NZCT/espn-1B.png",
+          "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6IS3EasRG+uKe6HnvL3Jvw\",\"k\":\"y4nuOWFZnj5kilqtYIlfNA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          }
+        },
+        {
           "name": "ESPN SUR (VPN AR)",
           "image": "https://i.ibb.co/s37NZCT/espn-1B.png",
           "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_cenc/ESPN_UY.mpd",
@@ -3494,6 +3506,18 @@
           "url": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_cenc/ESPN2_Arg.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ZaW/o8enLd5gvpsMdAbI/A\",\"k\":\"C0Cun3inusO1fsv3LTwIHg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "ESPN (VPN AR 2)",
+          "image": "https://i.ibb.co/RCMYFsv/espn-2B.png",
+          "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ZaW/o8enLd5gvpsMdAbI/A\",\"k\":\"C0Cun3inusO1fsv3LTwIHg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          }
         },
         {
           "name": "ESPN 2 SUR (VPN AR)",
@@ -3510,7 +3534,19 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9Mn5fio2/qsOUHfytEy8Tg\",\"k\":\"F0PNA9/jc2ssldqRp4OvOA\"}],\"type\":\"temporary\"}"
         },
         {
-          "name": "ESPN 3 SUR (VPN AR)",
+          "name": "ESPN 3 (VPN AR 2)",
+          "image": "https://i.ibb.co/TLcGvdv/espn-3B.png",
+          "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9Mn5fio2/qsOUHfytEy8Tg\",\"k\":\"F0PNA9/jc2ssldqRp4OvOA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "ESPN 3 SUR (VPN UR-PY)",
           "image": "https://i.ibb.co/TLcGvdv/espn-3B.png",
           "url": "https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_cenc/ESPN3_Uy-Py.mpd",
           "license_type": "clearkey",
@@ -3524,11 +3560,35 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"zI1EQG7WvxiYrZ96LWTyng\",\"k\":\"+4XQWWh6sPxngFgGIE7b3w\"}],\"type\":\"temporary\"}"
         },
         {
+          "name": "ESPN 4 (VPN AR 2)",
+          "image": "https://i.ibb.co/pJK6xQ0/espn-4B.png",
+          "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"zI1EQG7WvxiYrZ96LWTyng\",\"k\":\"+4XQWWh6sPxngFgGIE7b3w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          }
+        },
+        {
           "name": "ESPN 5 (VPN AR)",
           "image": "https://i.ibb.co/6bvjxGP/espn-5B.png",
           "url": "https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_cenc/ESPN4.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"JPKz50Hw2emo1Rb6/zi93A\",\"k\":\"u9P9AvsQThRjrFKKE/Z+Sg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "ESPN 5 (VPN AR 2)",
+          "image": "https://i.ibb.co/6bvjxGP/espn-5B.png",
+          "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"JPKz50Hw2emo1Rb6/zi93A\",\"k\":\"u9P9AvsQThRjrFKKE/Z+Sg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          }
         },
         {
           "name": "ESPN 6 (VPN AR)",
@@ -3538,6 +3598,18 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"X8e2YuacD7+NOWkRZrHJGQ\",\"k\":\"iRV83SXfJdVvHszO44UIiA\"}],\"type\":\"temporary\"}"
         },
         {
+          "name": "ESPN 6 (VPN AR 2)",
+          "image": "https://i.ibb.co/CsyhPz4/espn-6B.png",
+          "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"X8e2YuacD7+NOWkRZrHJGQ\",\"k\":\"iRV83SXfJdVvHszO44UIiA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          }
+        },
+        {
           "name": "ESPN 7 (VPN AR)",
           "image": "https://i.ibb.co/LSQFzkw/espn-7B.png",
           "url": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_cenc/FoxSports2_UY.mpd",
@@ -3545,11 +3617,35 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"X8e2YuacD7+NOWkRZrHJGQ\",\"k\":\"iRV83SXfJdVvHszO44UIiA\"}],\"type\":\"temporary\"}"
         },
         {
+          "name": "ESPN 7 (VPN AR 2)",
+          "image": "https://i.ibb.co/LSQFzkw/espn-7B.png",
+          "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"X8e2YuacD7+NOWkRZrHJGQ\",\"k\":\"iRV83SXfJdVvHszO44UIiA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          }
+        },
+        {
           "name": "ESPN PREMIUM HD (VPN AR)",
           "image": "https://i.ibb.co/LrNsJsP/espnpremium.png",
           "url": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_cenc/Fox_Sports_Premiun_HD.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"TCMNvH9qS/pq0Kpz/3kjdA\",\"k\":\"QYanwqFfWQqTmYhv6uxCVw\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "ESPN PREMIUM HD (VPN AR 2)",
+          "image": "https://i.ibb.co/LrNsJsP/espnpremium.png",
+          "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+          "license_type": "clearkey",
+          "license_key": "",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          }
         },
         {
           "name": "TYC SPORTS INTERNACIONAL",
@@ -3573,6 +3669,18 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"y8Kgx6ON8KozM81xhB07DQ\",\"k\":\"qsYbcw4qwd8j8ehy51QcGw\"}],\"type\":\"temporary\"}"
         },
         {
+          "name": "FOX SPORTS (VPN AR 2)",
+          "image": "https://static.flow.com.ar/images/-/-/0/0/5772683307979.png",
+          "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"y8Kgx6ON8KozM81xhB07DQ\",\"k\":\"qsYbcw4qwd8j8ehy51QcGw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          }
+        },
+        {
           "name": "FOX SPORTS 2 (VPN AR)",
           "image": "https://static.flow.com.ar/images/-/-/0/0/68625850072785.png",
           "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_cenc/FoxSports2HD.mpd",
@@ -3580,11 +3688,35 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"yY3f/EcP5EmuGo1kkhFpdg\",\"k\":\"UIbTcOhAAQIyz0UysW4Zfw\"}],\"type\":\"temporary\"}"
         },
         {
+          "name": "FOX SPORTS 2 (VPN AR 2)",
+          "image": "https://static.flow.com.ar/images/-/-/0/0/68625850072785.png",
+          "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"yY3f/EcP5EmuGo1kkhFpdg\",\"k\":\"UIbTcOhAAQIyz0UysW4Zfw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          }
+        },
+        {
           "name": "FOX SPORTS 3 (VPN AR)",
           "image": "https://static.flow.com.ar/images/-/-/0/0/33795984072366.png",
           "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_cenc/FoxSports3HD.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VbRzkM+eSZfa5trIXgV4dQ\",\"k\":\"+jnoVVQ8XXDzBgDVnl5MGw\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "FOX SPORTS 3 (VPN AR 2)",
+          "image": "https://static.flow.com.ar/images/-/-/0/0/33795984072366.png",
+          "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VbRzkM+eSZfa5trIXgV4dQ\",\"k\":\"+jnoVVQ8XXDzBgDVnl5MGw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          }
         },
         {
           "name": "PX SPORTS (VPN AR)",
