@@ -333,37 +333,6 @@
           "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion"
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"U9DPbB1JwW9RgPhuGHCwDw\",\"k\":\"frZ0O19EtSuifIginIx64g\"}],\"type\":\"temporary\"}",
-          "name": "TyC Sports",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
-        },
-        {
-          "name": "TyC Sports FHD",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png",
-          "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la18hd.com/vivo/canales.php?stream=tycsports",
-            "Origin": "https://la18hd.com"
-          }
-        },
-        {
-          "name": "TyC Sports INTERNACIONAL",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
-          "url": "https://la18hd.com/vivo/canales.php?stream=tycinternacional",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la18hd.com/vivo/canales.php?stream=tycinternacional",
-            "Origin": "https://la18hd.com"
-          }
-        },
-        {
           "name": "TUDN",
           "image": "https://i.imgur.com/oT5CAvd.png",
           "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd",
@@ -1027,41 +996,6 @@
           "url": "http://45.170.130.224:8000/play/a04k/index.m3u8"
         },
         {
-          "name": "ESPN PY",
-          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
-          "url": "http://45.170.130.224:8000/play/a04l/index.m3u8"
-        },
-        {
-          "name": "ESPN 2 PY",
-          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
-          "url": "http://45.170.130.224:8000/play/a034/index.m3u8"
-        },
-        {
-          "name": "ESPN 3 PY",
-          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
-          "url": "http://45.170.130.224:8000/play/a01y/index.m3u8"
-        },
-        {
-          "name": "ESPN 4 PY",
-          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163",
-          "url": "http://45.170.130.224:8000/play/a01p/index.m3u8"
-        },
-        {
-          "name": "ESPN 5 PY",
-          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3180/3180WHORIZONTAL.jpg?size=290x163",
-          "url": "http://45.170.130.224:8000/play/a03s/index.m3u8"
-        },
-        {
-          "name": "ESPN 6 PY",
-          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3899/3899WHORIZONTAL.jpg?size=290x163",
-          "url": "http://45.170.130.224:8000/play/a028/index.m3u8"
-        },
-        {
-          "name": "ESPN 7 PY",
-          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3463/3463WHORIZONTAL.jpg?size=290x163",
-          "url": "http://24.152.42.29:8000/play/a05k/index.m3u8"
-        },
-        {
           "name": "FLOW EVENTOS PY",
           "image": "https://i.postimg.cc/4dwrVjq5/flow.png",
           "url": "https://chromecast.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
@@ -1082,37 +1016,27 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSYqKpRLbw-DH9E4npkCCAGt4dYicbp4zByw&s",
       "stations": [
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"tWUYBrQvCHxYMysFLecnxQ\",\"k\":\"EZAbNcw-Wqc2GfZNAsOKDw\"}],\"type\":\"temporary\"}",
           "name": "America",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?",
+          "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
           "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
+           "User-Agent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
           }
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"axdTiBDx3USF8XTcwgSHLA\",\"k\":\"PVuXN3JDPOB8iZmqZZ6kjA\"}],\"type\":\"temporary\"}",
           "name": "TV Publica",
           "image": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "url": "http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8"
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"fB9Q4_USFr3R78yZ06JyFw\",\"k\":\"NEHJMCd9gkQCqv7kRrqPkA\"}],\"type\":\"temporary\"}",
+          "name": "TV Publica 2",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png",
+          "url": "https://ola1.com.ar/tvpublica/index.m3u8"
+        },
+        {
           "name": "El nueve",
           "image": "https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "url": "http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8"
         },
         {
           "license_type": "clearkey",
@@ -1143,44 +1067,29 @@
           }
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"57BcenN7fwpdVxuR3qomlw\",\"k\":\"QHmsIFtUSxwpTuFWiQb_WA\"}],\"type\":\"temporary\"}",
           "name": "El Trece",
           "image": "https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
         },
         {
           "name": "TN YOUTUBE",
           "image": "https://i.ibb.co/NLWRMrb/todo-noticias.png",
-          "url": "https://chromecast.cvattv.com.ar/out/v1/TN_Tend/SA_Live_dash_enc_C/TN.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"LwyBRhrfRSCXHPRe5QNtkQ\",\"k\":\"PmtXidCZzbPhkkhr6mJ6BQ\"}],\"type\":\"temporary\"}"
+          "url": "http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8"
         }, 
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"w9tpHH5FILey3IIquQVUWg\",\"k\":\"7ioevm_MLvOwGUPN2SVsxg\"}],\"type\":\"temporary\"}",
           "name": "Net TV",
           "image": "https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/160/160/0/0/30595173074646.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8"
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"HX0WCUd9Cw1RpbfRU55l6w\",\"k\":\"kLYbP6V36re1PvbxyuuCvw\"}],\"type\":\"temporary\"}",
+          "name": "Net TV 2",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/160/160/0/0/30595173074646.png",
+          "url": "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
+        },
+        {
           "name": "Bravo TV",
           "image": "https://geo.edge.pontiscloud.com:9002/images/2561/CH_LOGO/160/160/0/0/23653274077154.png",
-          "url": "https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8"
         },
         {
           "license_type": "clearkey",
@@ -1238,15 +1147,9 @@
           }
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"s1rsxVS4Wal88RuJJzGvHw\",\"k\":\"Ol2hp8alzG5Ii9u78JEy_w\"}],\"type\":\"temporary\"}",
           "name": "Canal 26",
           "image": "https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
         },
         {
           "name": "Canal 26 HD",
@@ -1265,26 +1168,14 @@
           }
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"oAIBC1BoVFmd_7uLkEjsfA\",\"k\":\"Fg7t-FIp2pGafF7sT774CQ\"}],\"type\":\"temporary\"}",
           "name": "La Nacion+",
           "image": "https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "url": "http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8"
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"S06-PGjEyVx2OQludsIz0A\",\"k\":\"DEjNXjKYt2KgmazcBaUYKg\"}],\"type\":\"temporary\"}",
           "name": "TN",
           "image": "https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "url": "http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8"
         },
         {
           "license_type": "clearkey",
@@ -1298,15 +1189,9 @@
           }
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rwVmxQ5zPDEb36ZzapXOUA\",\"k\":\"5N_RKZMJezw1rUdWLWG0zg\"}],\"type\":\"temporary\"}",
-          "name": "El Destape",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/4126/CH_LOGO/160/160/0/0/49015720078226.png",
-          "url": "https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "name": "TYC Sports",
+          "image": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/311/311WHORIZONTAL.jpg?size=290x163",
+          "url": "http://playcom.trapemn.tv:1935/transcoderip/tycsports.stream/playlist.m3u8"
         },
         {
           "license_type": "clearkey",
@@ -2273,18 +2158,7 @@
       "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/kids-logo-design-template-46b9961baa65f413cdc04949d473531a_screen.jpg?ts=1618238434",
       "stations": [
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_ZBOBL1APPqXt0gvP---oQ\",\"k\":\"YA8FUR6edD2N4FY4DiQxDw\"}],\"type\":\"temporary\"}",
-          "name": "Tooncast LA",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/160/160/0/0/5456596307880.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
-        },
-        {
-          "name": "Tooncast MX",
+          "name": "Tooncast",
           "image": "https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/800/542/0/0/5456596307880.png? worldtv2",
           "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/TOONCAST-SD/default.mpd",
           "license_type": "clearkey",
@@ -2314,18 +2188,7 @@
           }
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"TYsyIKww5cgUjUvMIl76Wg\",\"k\":\"62kY3-EX_EBTlqnDmGoEUA\"}],\"type\":\"temporary\"}",
-          "name": "Discovery Kids LA",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/67/CH_LOGO/160/160/0/0/43430600073531.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
-        },
-        {
-          "name": "Discovery Kids MX",
+          "name": "Discovery Kids",
           "image": "https://geo.edge.pontiscloud.com:9002/images/67/CH_LOGO/800/542/0/0/43430600073531.png? worldtv2",
           "url": "https://aca-live4-ott.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd",
           "license_type": "clearkey",
@@ -2336,15 +2199,9 @@
           }
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"cNkbFJNaNZnwLl2rce8h3A\",\"k\":\"gD6RUuna9xe3cjmal4Agdg\"}],\"type\":\"temporary\"}",
           "name": "Disney Channel LA",
           "image": "https://i.ibb.co/vdfh1bd/disney-channel.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8"
         },
         {
           "name": "Disney Channel MX",
@@ -2358,15 +2215,9 @@
           }
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GGVJRJU7Jai2OSciqD22Uw\",\"k\":\"QL9qnwW78OBnFe1XB_Dt0g\"}],\"type\":\"temporary\"}",
           "name": "Disney Jr. LA",
           "image": "https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/4140286707756.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "url": "http://179.60.51.134:8888/DISNEY-JR/index.m3u8"
         },
         {
           "name": "Disney Jr. MX",
@@ -2405,17 +2256,6 @@
           "name": "Cartoon Network",
           "image": "https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png",
           "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cartoon/output.mpd"
-        },
-        {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"x-_mO79oKkEk-zTAHregpw\",\"k\":\"SGZ1Ebhmjflvo6uqYj5PaQ\"}],\"type\":\"temporary\"}",
-          "name": "Cartoon Network 2",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
         },
         {
           "license_type": "clearkey",
