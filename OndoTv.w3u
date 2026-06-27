@@ -2168,17 +2168,6 @@
           }
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BwZgxKB6tkT7pi2rBzBtQw\",\"k\":\"Z4brVjN6MY_OC3-czPlkeA\"}],\"type\":\"temporary\"}",
-          "name": "ZooMoo",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/1812/CH_LOGO/160/160/0/0/10249036073271.png",
-          "url": "https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
-        },
-        {
           "name": "Clan ES",
           "image": "https://i.postimg.cc/cL8vJm6W/clan-2026-worldtv2.png",
           "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8",
@@ -2230,26 +2219,14 @@
           }
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1GMhABNUiJJcHX6YlaJrmQ\",\"k\":\"HaR49oe4UMYcmvYZhdl8Fw\"}],\"type\":\"temporary\"}",
-          "name": "Nickelodeon",
+          "name": "NICK",
           "image": "https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/160/160/0/0/70239189071229.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "url": "http://179.60.51.134:8888/NICK/index.m3u8"
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BA77SsgAgIXQnBfbYCsk-g\",\"k\":\"GUC4gRTeE9RgyxljJuY4pw\"}],\"type\":\"temporary\"}",
-          "name": "Nick Jr.",
+          "name": "NICK JR",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
+          "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8"
         },
         {
           "name": "Cartoon Network",
