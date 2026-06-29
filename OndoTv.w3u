@@ -6,41 +6,6 @@
   "info": "BUENAS NOTICIAS, YA TENGO CODIGO DOWNLOADER PARA QUE TODOS TENGAN LA LISTA W3U DESDE CLIPPY, EL CODIGO ES: 6421115, USAR LA APP \"1.1.1.1\" PORQUE SI NO, NO LES VA A CARGAR BIEN LOS CANALES",
   "groups": [
     {
-      "name": "Canales latam VPN AR",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
-      "url": "https://azzplay.pages.dev/lsts/ar.w3u"
-    },
-    {
-      "name": "Canales server 2",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
-      "url": "https://azzplay.pages.dev/lsts/ar2.w3u"
-    },
-    {
-      "name": "Canales server 3",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
-      "url": "https://azzplay.pages.dev/lsts/ar3.w3u"
-    },
-    {
-      "name": "Deportes GLOBALES",
-      "image": "https://img.icons8.com/bubbles/1200/football2.jpg",
-      "url": "https://azzplay.pages.dev/lsts/deportescloud.w3u"
-    },
-    {
-      "name": "Canales latam VPN US-MX",
-      "image": "https://images.icon-icons.com/2088/PNG/96/mx_icon_128060.png",
-      "url": "https://azzplay.pages.dev/lsts/mx.w3u"
-    },
-    {
-      "name": "LISTA GLOBAL",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
-      "url": "https://azzplay.pages.dev/lsts/global.w3u"
-    },
-    {
-      "name": "Canales latam GLOBALES",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
-      "url": "https://azzplay.pages.dev/lsts/tvx.w3u"
-    },
-    {
       "name": "Mundial 2026",
       "image": "https://assets1.afa.com.ar/media/LUCAS-GAIO/Junio-2025/webfifa26.jpg",
       "stations": [
