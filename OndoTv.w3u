@@ -154,13 +154,6 @@
           }
         },
         {
-          "name": "FOX ONE MUNDIAL 4K",
-          "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-          "license_type": "clearkey",
-          "image": "Â»ÃŒ[_Ãœ &",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9lZOwq7oGQRjKKDhU75XTQ\",\"k\":\"_0aooQMesn7yJXagd8mKtw\"}],\"type\":\"temporary\"}"
-        },
-        {
           "name": "FOX TUBI",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qVKfmwp8YJ8wct17HSC0-bVFeGFWPLJhKw&s",
           "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist576p.m3u8"
@@ -543,6 +536,7 @@
           "name": "UNICANAL",
           "image": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
           "url": "http://24.152.42.29:8000/play/a0bs/index.m3u8?hls"
+        },
         {
           "name": "MEGA TV",
           "image": "https://i.ibb.co/hfFmYXz/WW.jpg",
