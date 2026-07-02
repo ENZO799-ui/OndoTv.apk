@@ -72,13 +72,6 @@
           }
         },
         {
-          "name": "TELEMUNDO MUNDIAL",
-          "url": "http://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
-          "license_type": "clearkey",
-          "image": "https://i.ibb.co/Z1xqKrcH/052926-wc-logo.webp",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Hv5K3Y_fMnxfjSocGV5ccQ\",\"k\":\"T1Dm8BHmDKAe5WHycYfnjw\"}],\"type\":\"temporary\"}"
-        },
-        {
           "name": "LA 1 MUNDIAL",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
           "license_type": "clearkey",
@@ -173,46 +166,6 @@
           "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist576p.m3u8"
         },
         {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"m7VPzP-t3TiRboXAjemMyQ\",\"k\":\"0G9QnEGOtvGy_Ct2ZEUyiw\"}],\"type\":\"temporary\"}",
-          "name": "TELEFE",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
-        },
-        {
-          "name": "TELEFE OP2",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png",
-          "url": "https://chromecast.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_enc_C/TELEFE.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"QbiT6KevQ+mUPn1UoCxOYA\",\"k\":\"C5Z/C6m1Q7jayKuYFLeXDg\"}],\"type\":\"temporary\"}"
-        },
-        {
-          "name": "Telefe 2 (Cordoba)",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/588/CH_LOGO/400/400/0/0/887528030752.png",
-          "url": "https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"QOuaTUwtN0EjzaoUMl+ViQ\",\"k\":\"QyBZvOYWZMr/wGIjocCB4g\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
-        },
-        {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"axdTiBDx3USF8XTcwgSHLA\",\"k\":\"PVuXN3JDPOB8iZmqZZ6kjA\"}],\"type\":\"temporary\"}",
-          "name": "TV Publica",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?",
-          "headers": {
-           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
-        },
-        {
           "name": "Canal 5",
           "image": "https://i.ibb.co/V310Z0q/canal5.png",
           "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
@@ -238,64 +191,14 @@
           "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
         },
         {
-          "name": "NU9VE Nacional",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/960px-Nueve_%282018_logo%29.png",
-          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/NUEVE-RDF-HD/default.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"prYlF8pLtZ2e8LiIYWp2Wg\",\"k\":\"8YwIC6ydB05KW2QdV2cGXw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
-          }
-        },
-        {
-          "name": "CDN DEPORTES",
-          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f3e43d93669cee9c3a17d6456dbceeb5.webp",
-          "url": "https://geo.dailymotion.com/player.html?video=x9lntl6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-            "Origin": "https://geo.dailymotion.com/player.html?video=x9lntl6",
-            "Referer": "https://www.dailymotion.com/"
-          }
-        },
-        {
-          "name": "Red Uno",
-          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0459b48efe7ac7cace50a9fb44ac4cbb.webp",
-          "url": "https://geo.dailymotion.com/player.html?video=x9n2qyk",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-            "Origin": "https://geo.dailymotion.com/player.html?video=x9n2qyk",
-            "Referer": "https://www.dailymotion.com/"
-          }
-        },
-        {
-          "name": "TRECE",
-          "image": "https://trece.com.py/favicon.ico",
-          "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 16; SM-A165M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.217 Mobile Safari/537.36",
-            "Referer": "https://trece.com.py/"
-          }
-        },
-        {
-          "name": "UNICANAL",
-          "image": "https://www.unicanal.com.py/favicon.ico",
-          "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36",
-            "Referer": "https://unicanal.com.py/"
-          }
+          "name": "MEGAMAZONICA",
+          "image": "https://radiomegatv.com/wp-content/uploads/2021/11/casma-blanco1.png",
+          "url": "https://cors-proxy.cooks.fyi/https://ares.disfrutaenlared.com:1936/megatv/megatv/chunklist.m3u8"
         },
         {
           "name": "GEN TV",
           "image": "https://bestleague.world/img/genpy.png",
           "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8"
-        },
-        {
-          "name": "POPU TV",
-          "image": "https://i.imgur.com/UqCogyZ.png",
-          "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion"
         },
         {
           "name": "TUDN",
@@ -327,31 +230,6 @@
           "url": "https://requestrouter.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/__f/manifest.mpd"
         },
         {
-          "name": "WIN SPORTS +",
-          "image": "https://i.imgur.com/0UN87vB.png",
-          "url": "https://la18hd.com/vivo/canales.php?stream=winsportsplus",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "WIN SPORTS",
-          "image": "https://i.imgur.com/DuSSrHV.png",
-          "url": "https://la18hd.com/vivo/canales.php?stream=winsports",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "Win sports plus",
-          "image": "https://images.seeklogo.com/logo-png/64/1/win-sports-logo-png_seeklogo-644046.png",
-          "url": "https://la18hd.com/vivo/canales.php?stream=winsportsplus",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "CANAL 5 UY",
-          "image": "https://pbs.twimg.com/profile_images/1923331092339154944/euZMnOVL_400x400.png",
-          "url": "https://chromecast.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_C/TV_Nacional_Uy.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"xQUY1/WfTAqpowef4rAU/Q\",\"k\":\"lgOPdqK6M4ZupU60smBXPw\"}],\"type\":\"temporary\"}"
-        },
-        {
           "name": "VS SPORTS [YOUTUBE]",
           "image": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/vssports/logo.png",
           "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8"
@@ -370,12 +248,12 @@
           "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8"
         },
         {
-          "name": "CAZE TV [YOUTUBE]",
+          "name": "CAZE TV",
           "image": "https://i.ibb.co/W3XpzQy/cazetv.png",
           "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
         },
         {
-          "name": "CAZE TV 4K",
+          "name": "CAZE TV YOUTUBE",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
           "license_type": "clearkey",
           "image": "https://i.ibb.co/MkQLZw3G/Picsart-26-06-10-23-19-14-029.jpg",
