@@ -271,50 +271,6 @@
           }
         },
         {
-          "name": "SPORTV 2",
-          "image": "https://i.ibb.co/L6MdcHL/sportv2.png",
-          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd?aws.sessionId=a57b713d-66c0-4b39-9dea-987451b920b8&amznDtid=AOAGZA014O5RE&encoding=segmentBase",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"PeAo6vs7LK/+wDvhwcgYsw\",\"k\":\"j73Yqa5nSGlrsT5Ue7CT/A\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-          }
-        },
-        {
-          "name": "SPORTV 3",
-          "image": "https://i.ibb.co/db4L078/sportv3.png",
-          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"kC5ewOPQXmZdqjL8I/T1ng\",\"k\":\"eyMionOEOSGkPixh2sfK4w\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-          }
-        },
-        {
-          "name": "FS1",
-          "image": "https://i.imgur.com/O9BapV9.png",
-          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VGbr1wcEvetlfwq/PFyk7w\",\"k\":\"vdebctjkjtSDqmI8w4qKFg\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-          }
-        },
-        {
-          "name": "FS2",
-          "image": "https://i.imgur.com/LHtxKI8.png",
-          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CUU86CDWX7xnXeMYX55FTA\",\"k\":\"mM/5YAmV+jgcdv2s88ftrg\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-          }
-        },
-        {
           "name": "beIN SPORTS 1 AU",
           "image": "https://i.postimg.cc/PxVwNGgX/be-IN-SPORTS1-ENGLISH-Digital-Mono.png",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
@@ -333,7 +289,7 @@
         {
           "name": "En Vivo",
           "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
-          "url": "http://45.170.130.224:8000/play/a04i/index.m3u8"
+          "url": "http://45.170.130.224:8000/play/a04i/index.m3u8?hls"
         },
         {
           "name": "En Vivo 2",
@@ -395,42 +351,6 @@
             "Referer": "https://streamtp10.com/global1.php?stream=disney5",
             "Origin": "https://streamtp10.com"
           }
-        }
-      ]
-    },
-    {
-      "name": "DISNEY+ EVENTOS 2",
-      "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-      "stations": [
-        {
-          "name": "DISNEY EVENT  1",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://la18hd.com/vivo/canales.php?stream=disney1",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "DISNEY EVENT  2",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://la18hd.com/vivo/canales.php?stream=disney2",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "DISNEY EVENT 3",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://la18hd.com/vivo/canales.php?stream=disney3",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "DISNEY EVENT 4",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://la18hd.com/vivo/canales.php?stream=disney4",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "DISNEY EVENT 5",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://la18hd.com/vivo/canales.php?stream=disney5",
-          "license_type": "webvideo"
         }
       ]
     },
@@ -617,35 +537,12 @@
         {
           "name": "TRECE",
           "image": "https://bestleague.world/img/trecepy.webp",
-          "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-            "Origin": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
-            "Referer": "https://geo.dailymotion.com/"
-          }
-        },
-        {
-          "name": "TRECE 2",
-          "image": "https://bestleague.world/img/trecepy.webp",
-          "url": "http://24.152.42.29:8000/play/a03r/index.m3u8"
+          "url": "http://24.152.42.29:8000/play/a03r/index.m3u8?hls"
         },
         {
           "name": "UNICANAL",
           "image": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
-          "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"148\", \"Brave\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-            "Origin": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
-            "Referer": "https://geo.dailymotion.com/"
-          }
-        },
-        {
-          "name": "UNICANAL 2",
-          "image": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
-          "url": "http://24.152.42.29:8000/play/a0bs/index.m3u8"
-        },
+          "url": "http://24.152.42.29:8000/play/a0bs/index.m3u8?hls"
         {
           "name": "MEGA TV",
           "image": "https://i.ibb.co/hfFmYXz/WW.jpg",
@@ -699,34 +596,22 @@
         {
           "name": "5 DIAS",
           "image": "https://i.ibb.co/Pg6v5zn/images.png",
-          "url": "http://24.152.42.29:8000/play/a085/index.m3u8"
+          "url": "http://24.152.42.29:8000/play/a085/index.m3u8?hls"
         },
         {
           "name": "SURTV",
           "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
-          "url": "http://24.152.42.29:8000/play/a01w/index.m3u8"
-        },
-        {
-          "name": "ABC TV",
-          "image": "https://i.ibb.co/dGqjksf/descarga.png",
-          "url": "https://edge-mix01-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUyNDcxNDA2Iiwic2lwIjoiMTQ5LjUwLjE0OC42OCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiMWQ0NjI4YzRkYjA0MmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiODgiLCJzb3VyY2VzIjpbNjksODUsMTQ0LDg2LDg4XX0=.d8WBiU3jA3QzHuCsXNeQmh8mBhzUNjcL8B82XTVK6WzHeuw9BADiIAiHZy6eBInbPorawHaFGArVSPzLH50xwQ==/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_C/ABC_TV_C4.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://dl.dropbox.com/scl/fi/g6fjr9lz122cxg5jdpk4l/abctv.json?rlkey=pshs3zb7eyw8s8y0k4v2yirf4&st=26ixju2q&dl=0",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-          }
+          "url": "http://24.152.42.29:8000/play/a01w/index.m3u8?hls"
         },
         {
           "name": "TV CAMARA",
           "image": "https://i.ibb.co/ZdsYJGJ/tvcamara.png",
-          "url": "http://24.152.42.29:8000/play/a02a/index.m3u8"
+          "url": "http://24.152.42.29:8000/play/a02a/index.m3u8?hls"
         },
         {
           "name": "PARAVISIÓN",
           "image": "https://bestleague.world/img/paravision.webp",
-          "url": "http://24.152.42.29:8000/play/a01s/index.m3u8"
+          "url": "http://24.152.42.29:8000/play/a01s/index.m3u8?hls"
         },
         {
           "name": "POPU TV",
@@ -821,22 +706,22 @@
         {
           "name": "America Paraguay",
           "image": "https://i.ibb.co/cNXpgSJ/america.png",
-          "url": "http://24.152.42.29:8000/play/a08f/index.m3u8"
+          "url": "http://24.152.42.29:8000/play/a08f/index.m3u8?hls"
         },
         {
           "name": "A24 Paraguay",
           "image": "https://i.postimg.cc/3rPWMK45/america24.png",
-          "url": "http://24.152.42.29:8000/play/a06m/index.m3u8"
+          "url": "http://24.152.42.29:8000/play/a06m/index.m3u8?hls"
         },
         {
           "name": "VS SPORTS [YOUTUBE]",
           "image": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/vssports/logo.png",
-          "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8"
+          "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8?hls"
         },
         {
           "name": "TIGO EVENTOS PY",
           "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
-          "url": "http://45.170.130.224:8000/play/a04k/index.m3u8"
+          "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls"
         },
         {
           "name": "FLOW EVENTOS PY",
