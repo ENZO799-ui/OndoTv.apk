@@ -2330,13 +2330,13 @@
           "url": "https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8"
         },
         {
-          "name": "Canal 5",
+          "name": "EL 5",
           "image": "https://i.ibb.co/V310Z0q/canal5.png",
-          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"KowtUIg3f1H4Jdhx5Wi+GQ\",\"k\":\"61qNtkyhmSOJZy7blEfHEQ\"}],\"type\":\"temporary\"}",
+          "url": "https://bolaloca.my/player/2/107",
           "headers": {
-            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://bolaloca.my/player/2/107",
+            "Origin": "https://bolaloca.my"
           }
         },
         {
@@ -2411,138 +2411,6 @@
           "headers": {
             "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
           }
-        }
-      ]
-    },
-    {
-      "name": "DEPORTES LATINO",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEAO5oRlxrxyB_zGeylSJIP541y-6IQgUHg&s",
-      "stations": [
-        {
-          "name": "ESPN",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
-          "url": "https://skylivefu.com/live.php?stream=espn",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "ESPN 2",
-          "image": "https://images.seeklogo.com/logo-png/4/1/espn-2-logo-png_seeklogo-49202.png",
-          "url": "https://skylivefu.com/live.php?stream=espn2",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "ESPN 3",
-          "image": "https://logodix.com/logo/1599250.png",
-          "url": "https://skylivefu.com/live.php?stream=espn3",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "ESPN 4",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
-          "url": "https://skylivefu.com/live.php?stream=espn4",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "ESPN 5",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
-          "url": "https://skylivefu.com/live.php?stream=espn5",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "ESPN 6",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
-          "url": "https://skylivefu.com/live.php?stream=espn6",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "ESPN 7",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
-          "url": "https://skylivefu.com/live.php?stream=espn7",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "FOX SPORTS AR",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
-          "url": "https://skylivefu.com/live.php?stream=fox1ar",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "FOX SPORTS 2 AR",
-          "image": "https://i.imgur.com/oG7HzEf.png",
-          "url": "https://skylivefu.com/live.php?stream=fox2ar",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "FOX SPORTS 3 AR",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png",
-          "url": "https://skylivefu.com/live.php?stream=fox3ar",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "WIN SPORTS +",
-          "image": "https://i.imgur.com/0UN87vB.png",
-          "url": "https://skylivefu.com/live.php?stream=winplus",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "WIN SPORTS",
-          "image": "https://i.imgur.com/DuSSrHV.png",
-          "url": "https://skylivefu.com/live.php?stream=winsports",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "Win sports plus",
-          "image": "https://images.seeklogo.com/logo-png/64/1/win-sports-logo-png_seeklogo-644046.png",
-          "url": "https://skylivefu.com/live.php?stream=winplus2",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "Dsports",
-          "image": "https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg",
-          "url": "https://skylivefu.com/live.php?stream=dsports",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "Dsports 2",
-          "image": "https://bestleague.world/img/dsports2.webp",
-          "url": "https://skylivefu.com/live.php?stream=dsports2",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "DSPORTS +",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",
-          "url": "https://skylivefu.com/live.php?stream=dsportsplus",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "LIGA1 MAX",
-          "image": "https://i.imgur.com/eRmXneK.png",
-          "url": "https://skylivefu.com/live.php?stream=liga1max",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "MOVISTAR DEPORTES",
-          "image": "https://i.imgur.com/Zt3iE86.png",
-          "url": "https://skylivefu.com/live.php?stream=movistar_deportes_peru",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "TNT SPORTS",
-          "image": "https://images.seeklogo.com/logo-png/48/1/tnt-sports-logo-png_seeklogo-486966.png",
-          "url": "https://skylivefu.com/live.php?stream=tntsports",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "ESPN PREMIUM",
-          "image": "https://cdn.storage.foromedios.com/monthly_2022_05/837767101_ESPNPremium(10).thumb.png.7b760af4908388e4ef1e793583699676.png",
-          "url": "https://skylivefu.com/live.php?stream=espnpremium",
-          "license_type": "webvideo"
-        },
-        {
-          "name": "TUDN",
-          "image": "https://i.imgur.com/oT5CAvd.png",
-          "url": "https://skylivefu.com/live.php?stream=tudn_usa",
-          "license_type": "webvideo"
         }
       ]
     },
@@ -2693,14 +2561,6 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
             "Referer": "https://bolaloca.my/player/2/80",
             "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "TNT SPORTS",
-          "image": "https://images.seeklogo.com/logo-png/48/1/tnt-sports-logo-png_seeklogo-486966.png",
-          "url": "https://streamtp.sbs/global1.php?stream=tntsportschile",
-          "headers": {
-            "Referer": "https://streamtp.sbs/global1.php?stream=tntsportschile"
           }
         },
         {
@@ -3164,33 +3024,13 @@
           }
         },
         {
-          "name": "Canal 5",
+          "name": "EL 5",
           "image": "https://i.ibb.co/V310Z0q/canal5.png",
-          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/CANAL-5-HD/default.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"V493wuD7ezGxZ2t1tX/pIg\",\"k\":\"bl7iZrES5YoOJ+Q4SwPtdg\"}],\"type\":\"temporary\"}",
+          "url": "https://bolaloca.my/player/2/107",
           "headers": {
-            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
-          }
-        },
-        {
-          "name": "NU9VE Nacional",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/960px-Nueve_%282018_logo%29.png",
-          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/NUEVE-RDF-HD/default.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"prYlF8pLtZ2e8LiIYWp2Wg\",\"k\":\"8YwIC6ydB05KW2QdV2cGXw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
-          }
-        },
-        {
-          "name": "Las Estrellas",
-          "image": "https://i.imgur.com/g5ShxZ7.png",
-          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/LAS-ESTRELLAS-RDF-HD/default.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"3cmZlUHa1nn0yteLCn5CRw\",\"k\":\"upUUOStZDXwfOwwGoQ48iA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://bolaloca.my/player/2/107",
+            "Origin": "https://bolaloca.my"
           }
         },
         {
@@ -3199,13 +3039,13 @@
           "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
         },
         {
-          "name": "Azteca 7",
+          "name": "EL 7",
           "image": "https://www.izzigo.tv/images/ch/18/LOGO/m/0",
-          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"zo+G0vDRY4V0I3raisLoKg\",\"k\":\"ZCdy6/GDLx8vpYy36Pz9BQ\"}],\"type\":\"temporary\"}",
+          "url": "https://bolaloca.my/player/2/108",
           "headers": {
-            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://bolaloca.my/player/2/108",
+            "Origin": "https://bolaloca.my"
           }
         },
         {
