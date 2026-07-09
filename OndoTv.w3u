@@ -523,12 +523,27 @@
         {
           "name": "TRECE",
           "image": "https://bestleague.world/img/trecepy.webp",
-          "url": "http://24.152.42.29:8000/play/a03r/index.m3u8?hls"
+          "url": "https://edge-mix01-ird.cvattv.com.ar/tok_{token}/live/c4eds/RPC_C4/SA_Live_dash_enc_C/RPC_C4.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://dl.dropbox.com/scl/fi/wtweq3d3m1xib4lh1or3h/rpc.json?rlkey=xjk79wbidhrp8tfialjc2o5lr&st=cvlw27y2&dl=0",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+           }
         },
         {
           "name": "UNICANAL",
           "image": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
-          "url": "http://24.152.42.29:8000/play/a0bs/index.m3u8?hls"
+          "url": "https://edge-mix01-ird.cvattv.com.ar/tok_{token}/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_C/UNICANAL_C4.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://dl.dropbox.com/scl/fi/gufaliqatmwnfv3g7aeg1/unicanal.json?rlkey=5gsk99k8zpinbk8cc6r8hbj9t&st=4tfniuuj&dl=0",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+           }
+        },
         },
         {
           "name": "MEGA TV",
