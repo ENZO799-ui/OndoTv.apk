@@ -474,6 +474,70 @@
       ]
     },
     {
+      "name": "🇧🇷BRASIL",
+      "stations": [
+        {
+          "name": "BAND",
+          "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
+          "image": "https://i.pinimg.com/564x/61/d8/07/61d807daca7fb95995f174d67c6be4f9.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4yqqS2dDCztRvh785adKxQ\",\"k\":\"rWDF4dN4qXJxv4aI8JTQkg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "TV BAND",
+          "url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
+          "image": "https://i.pinimg.com/564x/61/d8/07/61d807daca7fb95995f174d67c6be4f9.jpg",
+          "license_type": "clearkey"
+        },
+        {
+          "name": "GLOBO SP",
+          "url": "https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8",
+          "image": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es"
+        },
+        {
+          "name": "GLOBO AMAZONICA",
+          "url": "https://agropesca.live/live/globoam/index.m3u8",
+          "image": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es"
+        },
+        {
+          "name": "SBT",
+          "url": "https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8",
+          "image": "https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&path-prefix=pt-br"
+        },
+        {
+          "name": "SBT 2",
+          "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+          "image": "https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&path-prefix=pt-br",
+          "license_type": "clearkey"
+        },
+        {
+          "name": "RECORD TV",
+          "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8",
+          "image": "https://static.wikia.nocookie.net/telenovelas/images/a/a5/Logorecord.png/revision/latest?cb=20181016064409&path-prefix=es"
+        },
+        {
+          "name": "REDE MINAS BR",
+          "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w115990305_b2771072.m3u8",
+          "image": "https://i.postimg.cc/85wczdN9/download-32.png"
+        },
+        {
+          "name": "TV MAIS BR",
+          "url": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
+          "image": "https://i.postimg.cc/tRwytvSP/download-70.jpg"
+        },
+        {
+          "name": "TV BRASIL",
+          "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
+          "image": "https://i.postimg.cc/65x9SxzP/TVBRASIL.png"
+        },
+        {
+          "name": "TV CULTURAL",
+          "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+          "image": "https://m.media-amazon.com/images/I/51yXxzQXi1L.png"
+        }
+      ]
+    },
+    {
       "name": "🇵🇾PARAGUAY🇵🇾",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Rm3PvLydpxUHNmjNqViEVmjgdKWvMlXwTA&s",
       "stations": [
