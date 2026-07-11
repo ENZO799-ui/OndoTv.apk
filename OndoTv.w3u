@@ -484,28 +484,12 @@
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4yqqS2dDCztRvh785adKxQ\",\"k\":\"rWDF4dN4qXJxv4aI8JTQkg\"}],\"type\":\"temporary\"}"
         },
         {
-          "name": "TV BAND",
-          "url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
-          "image": "https://i.pinimg.com/564x/61/d8/07/61d807daca7fb95995f174d67c6be4f9.jpg",
-          "license_type": "clearkey"
-        },
-        {
-          "name": "GLOBO SP",
+          "name": "GLOBO",
           "url": "https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8",
           "image": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es"
         },
         {
-          "name": "GLOBO AMAZONICA",
-          "url": "https://agropesca.live/live/globoam/index.m3u8",
-          "image": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es"
-        },
-        {
           "name": "SBT",
-          "url": "https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8",
-          "image": "https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&path-prefix=pt-br"
-        },
-        {
-          "name": "SBT 2",
           "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
           "image": "https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&path-prefix=pt-br",
           "license_type": "clearkey"
