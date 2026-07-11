@@ -6,6 +6,66 @@
   "info": "PERDON POR LAS MOLESTIAS, ES QUE COMO ESTOY AGREGANDO MAS CANALES, ME CUESTA CORREGIR UNAS SIMPLES COMAS, YA ESTA REPARADA AHORA",
   "groups": [
     {
+      "name": "AGENDA DEPORTIVA",
+      "image": "https://img.icons8.com",
+      "url": "https://eventosmundiales.pages.dev/agenda/index.w3u"
+    },
+    {
+      "name": "PlayTv",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/660/306/small/PLAY_COLORFUL_ABSTRACT_LOGO_Design.jpg",
+      "url": "https://akplay.pages.dev/global/latinos.w3u"
+    },
+    {
+      "name": "canales Fenix",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/011/014/594/small/phoenix-wing-flames-logo-design-free-vector.jpg",
+      "url": "https://akplay.pages.dev/dongle/mudi.w3u"
+    },
+    {
+      "name": "AKDeportes",
+      "image": "https://ih1.redbubble.net/image.3041402109.1438/st,small,507x507-pad,600x600,f8f8f8.jpg",
+      "url": "https://akdeportes.pages.dev/akdeportes.w3u"
+    },
+    {
+      "name": "CableCanales MX",
+      "image": "https://i.ibb.co/zHbSCLdT/mx.png",
+      "url": "https://azzplay.pages.dev/paises/mx.w3u"
+    },
+    {
+      "name": "Canales latam VPN AR",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
+      "url": "https://azzplay.pages.dev/lsts/ar.w3u"
+    },
+    {
+      "name": "Canales server 2",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
+      "url": "https://azzplay.pages.dev/lsts/ar2.w3u"
+    },
+    {
+      "name": "Canales server 3",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
+      "url": "https://azzplay.pages.dev/lsts/ar3.w3u"
+    },
+    {
+      "name": "Deportes GLOBALES",
+      "image": "https://img.icons8.com/bubbles/1200/football2.jpg",
+      "url": "https://azzplay.pages.dev/lsts/deportescloud.w3u"
+    },
+    {
+      "name": "Canales latam VPN US-MX",
+      "image": "https://images.icon-icons.com/2088/PNG/96/mx_icon_128060.png",
+      "url": "https://azzplay.pages.dev/lsts/mx.w3u"
+    },
+    {
+      "name": "LISTA GLOBAL",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
+      "url": "https://azzplay.pages.dev/lsts/global.w3u"
+    },
+    {
+      "name": "Canales latam GLOBALES",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
+      "url": "https://azzplay.pages.dev/lsts/CanalesLatam.w3u"
+    },
+    {
       "name": "Mundial 2026",
       "image": "https://assets1.afa.com.ar/media/LUCAS-GAIO/Junio-2025/webfifa26.jpg",
       "stations": [
