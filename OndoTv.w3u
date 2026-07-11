@@ -2286,13 +2286,8 @@
             {
               "name": "SPORTV",
               "image": "https://i.ibb.co/NKs6v0v/sportv.png",
-              "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"S7z/MonUV7TdXb3SEiHemg\",\"k\":\"xJBrmp+N2jwHJb3bjEl3Mw\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-                "Referer": "https://www.primevideo.com/"
-              }
+              "url": "https://sportzonline.st/channels/bra/br1.php",
+              "license_type": "webvideo"
             },
             {
               "name": "SPORTV 2",
