@@ -541,9 +541,9 @@
           "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion"
         },
         {
-          "name": "TRECE",
-          "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA4NjczIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImUzYWFmOWY5YzQ1ZTMyNDciLCJzZXNzaW9uX2lkIjoiNTNmYTk4MzQ0MTNmMTRkYzgwOTQxYmZiYjY2YWJlYjUtMTc4MzczNTg4Mi0zODkiLCJjbGllbnRfaWQiOiJmbG93OjQ0MDUyODEtLWZsb3c6NDQwNTI4MTpQOkJOdHZ6Um1TUnZXQTloNDRyRER1RmciLCJkZXZpY2VfaWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.CRGoPgyUtImXCy-FINHhP6We5me-HxX_gZ_Eqiqlbq3zZe1vePAsiOx1wv0kWFJPNnbyaEiQVPqBQ4qurVvNmA==/live//c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-          "image": "https://bestleague.world/img/trecepy.webp",
+          "name": "RPC🇵🇾",
+          "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA4NjczIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImUzYWFmOWY5YzQ1ZTMyNDciLCJzZXNzaW9uX2lkIjoiNTNmYTk4MzQ0MTNmMTRkYzgwOTQxYmZiYjY2YWJlYjUtMTc4MzczNTg4Mi0zODkiLCJjbGllbnRfaWQiOiJmbG93OjQ0MDUyODEtLWZsb3c6NDQwNTI4MTpQOkJOdHZ6Um1TUnZXQTloNDRyRER1RmciLCJkZXZpY2VfaWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.CRGoPgyUtImXCy-FINHhP6We5me-HxX_gZ_Eqiqlbq3zZe1vePAsiOx1wv0kWFJPNnbyaEiQVPqBQ4qurVvNmA==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+          "image": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qAk83LLVBL048WdkvSG25Q\",\"k\":\"v887AztfC1rgIHUaZ0Yybw\"}],\"type\":\"temporary\"}",
           "headers": {
@@ -552,8 +552,29 @@
           }
         },
         {
+          "name": "RPC 🇵🇾 2",
+          "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA4NjczIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImUzYWFmOWY5YzQ1ZTMyNDciLCJzZXNzaW9uX2lkIjoiNTNmYTk4MzQ0MTNmMTRkYzgwOTQxYmZiYjY2YWJlYjUtMTc4MzczNTg4Mi0zODkiLCJjbGllbnRfaWQiOiJmbG93OjQ0MDUyODEtLWZsb3c6NDQwNTI4MTpQOkJOdHZ6Um1TUnZXQTloNDRyRER1RmciLCJkZXZpY2VfaWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.CRGoPgyUtImXCy-FINHhP6We5me-HxX_gZ_Eqiqlbq3zZe1vePAsiOx1wv0kWFJPNnbyaEiQVPqBQ4qurVvNmA==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+          "image": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
+          "license_type": "clearkey",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+        },
+        {
           "name": "UNICANAL",
           "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA4NjczIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImUzYWFmOWY5YzQ1ZTMyNDciLCJzZXNzaW9uX2lkIjoiNTNmYTk4MzQ0MTNmMTRkYzgwOTQxYmZiYjY2YWJlYjUtMTc4MzczNTg4Mi0zODkiLCJjbGllbnRfaWQiOiJmbG93OjQ0MDUyODEtLWZsb3c6NDQwNTI4MTpQOkJOdHZ6Um1TUnZXQTloNDRyRER1RmciLCJkZXZpY2VfaWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.CRGoPgyUtImXCy-FINHhP6We5me-HxX_gZ_Eqiqlbq3zZe1vePAsiOx1wv0kWFJPNnbyaEiQVPqBQ4qurVvNmA==/live//c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+          "image": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Y6NynP1g8k9-Ema-5eygLA\",\"k\":\"y57QKK9AZU4apDk07ljbWA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+        },
+        {
+          "name": "UNICANAL opcion 2",
+          "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA4NjczIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImUzYWFmOWY5YzQ1ZTMyNDciLCJzZXNzaW9uX2lkIjoiNTNmYTk4MzQ0MTNmMTRkYzgwOTQxYmZiYjY2YWJlYjUtMTc4MzczNTg4Mi0zODkiLCJjbGllbnRfaWQiOiJmbG93OjQ0MDUyODEtLWZsb3c6NDQwNTI4MTpQOkJOdHZ6Um1TUnZXQTloNDRyRER1RmciLCJkZXZpY2VfaWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.CRGoPgyUtImXCy-FINHhP6We5me-HxX_gZ_Eqiqlbq3zZe1vePAsiOx1wv0kWFJPNnbyaEiQVPqBQ4qurVvNmA==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
           "image": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Y6NynP1g8k9-Ema-5eygLA\",\"k\":\"y57QKK9AZU4apDk07ljbWA\"}],\"type\":\"temporary\"}",
@@ -624,7 +645,7 @@
           "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion"
         },
         {
-          "name": "5 DIAS",
+          "name": "5 DIAS PY",
           "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA4NjczIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImUzYWFmOWY5YzQ1ZTMyNDciLCJzZXNzaW9uX2lkIjoiNTNmYTk4MzQ0MTNmMTRkYzgwOTQxYmZiYjY2YWJlYjUtMTc4MzczNTg4Mi0zODkiLCJjbGllbnRfaWQiOiJmbG93OjQ0MDUyODEtLWZsb3c6NDQwNTI4MTpQOkJOdHZ6Um1TUnZXQTloNDRyRER1RmciLCJkZXZpY2VfaWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.CRGoPgyUtImXCy-FINHhP6We5me-HxX_gZ_Eqiqlbq3zZe1vePAsiOx1wv0kWFJPNnbyaEiQVPqBQ4qurVvNmA==/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
           "image": "https://i.ibb.co/Pg6v5zn/images.png",
           "license_type": "clearkey",
@@ -657,9 +678,9 @@
           }
         },
         {
-          "name": "POPU TV",
+          "name": "UNIVERSO TV",
           "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA4NjczIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImUzYWFmOWY5YzQ1ZTMyNDciLCJzZXNzaW9uX2lkIjoiNTNmYTk4MzQ0MTNmMTRkYzgwOTQxYmZiYjY2YWJlYjUtMTc4MzczNTg4Mi0zODkiLCJjbGllbnRfaWQiOiJmbG93OjQ0MDUyODEtLWZsb3c6NDQwNTI4MTpQOkJOdHZ6Um1TUnZXQTloNDRyRER1RmciLCJkZXZpY2VfaWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.CRGoPgyUtImXCy-FINHhP6We5me-HxX_gZ_Eqiqlbq3zZe1vePAsiOx1wv0kWFJPNnbyaEiQVPqBQ4qurVvNmA==/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
-          "image": "https://www.popular.com.py/wp-content/themes/popu/assets/img/popu-tv.png",
+          "image": "https://i.postimg.cc/nrSXkZnY/descarga-2.png",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"QcpUd9swSNv3MfwSYEx1BA\",\"k\":\"bH6OlqhjM8v7R3HL_p9rSw\"}],\"type\":\"temporary\"}",
           "headers": {
