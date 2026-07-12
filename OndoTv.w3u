@@ -542,7 +542,7 @@
         },
         {
           "name": "TRECE",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA4NjczIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImUzYWFmOWY5YzQ1ZTMyNDciLCJzZXNzaW9uX2lkIjoiNTNmYTk4MzQ0MTNmMTRkYzgwOTQxYmZiYjY2YWJlYjUtMTc4MzczNTg4Mi0zODkiLCJjbGllbnRfaWQiOiJmbG93OjQ0MDUyODEtLWZsb3c6NDQwNTI4MTpQOkJOdHZ6Um1TUnZXQTloNDRyRER1RmciLCJkZXZpY2VfaWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.CRGoPgyUtImXCy-FINHhP6We5me-HxX_gZ_Eqiqlbq3zZe1vePAsiOx1wv0kWFJPNnbyaEiQVPqBQ4qurVvNmA==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+          "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA4NjczIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImUzYWFmOWY5YzQ1ZTMyNDciLCJzZXNzaW9uX2lkIjoiNTNmYTk4MzQ0MTNmMTRkYzgwOTQxYmZiYjY2YWJlYjUtMTc4MzczNTg4Mi0zODkiLCJjbGllbnRfaWQiOiJmbG93OjQ0MDUyODEtLWZsb3c6NDQwNTI4MTpQOkJOdHZ6Um1TUnZXQTloNDRyRER1RmciLCJkZXZpY2VfaWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.CRGoPgyUtImXCy-FINHhP6We5me-HxX_gZ_Eqiqlbq3zZe1vePAsiOx1wv0kWFJPNnbyaEiQVPqBQ4qurVvNmA==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
           "image": "https://bestleague.world/img/trecepy.webp",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qAk83LLVBL048WdkvSG25Q\",\"k\":\"v887AztfC1rgIHUaZ0Yybw\"}],\"type\":\"temporary\"}",
@@ -553,7 +553,7 @@
         },
         {
           "name": "UNICANAL",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA4NjczIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImUzYWFmOWY5YzQ1ZTMyNDciLCJzZXNzaW9uX2lkIjoiNTNmYTk4MzQ0MTNmMTRkYzgwOTQxYmZiYjY2YWJlYjUtMTc4MzczNTg4Mi0zODkiLCJjbGllbnRfaWQiOiJmbG93OjQ0MDUyODEtLWZsb3c6NDQwNTI4MTpQOkJOdHZ6Um1TUnZXQTloNDRyRER1RmciLCJkZXZpY2VfaWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.CRGoPgyUtImXCy-FINHhP6We5me-HxX_gZ_Eqiqlbq3zZe1vePAsiOx1wv0kWFJPNnbyaEiQVPqBQ4qurVvNmA==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+          "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA4NjczIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImUzYWFmOWY5YzQ1ZTMyNDciLCJzZXNzaW9uX2lkIjoiNTNmYTk4MzQ0MTNmMTRkYzgwOTQxYmZiYjY2YWJlYjUtMTc4MzczNTg4Mi0zODkiLCJjbGllbnRfaWQiOiJmbG93OjQ0MDUyODEtLWZsb3c6NDQwNTI4MTpQOkJOdHZ6Um1TUnZXQTloNDRyRER1RmciLCJkZXZpY2VfaWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.CRGoPgyUtImXCy-FINHhP6We5me-HxX_gZ_Eqiqlbq3zZe1vePAsiOx1wv0kWFJPNnbyaEiQVPqBQ4qurVvNmA==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
           "image": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Y6NynP1g8k9-Ema-5eygLA\",\"k\":\"y57QKK9AZU4apDk07ljbWA\"}],\"type\":\"temporary\"}",
@@ -1537,16 +1537,6 @@
           "image": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RrpAn7BOQPuGtGbZfjqViA\",\"k\":\"8Sn7m10hPiDiq-UpuM8llw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
-          "name": "DISCOVERY TURBO",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd",
-          "image": "https://iptvstudio.pages.dev/logos/argentina/discoveryturbo.png",
-          "license_type": "clearkey",
           "headers": {
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
