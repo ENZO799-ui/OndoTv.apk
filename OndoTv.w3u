@@ -70,22 +70,11 @@
       "image": "https://assets1.afa.com.ar/media/LUCAS-GAIO/Junio-2025/webfifa26.jpg",
       "stations": [
         {
-          "name": "DSports GEO",
+          "name": "DSports",
           "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RbvVgvIg9Dj4lkUNgwaj8g\",\"k\":\"WCxrp/ZLvA8tkcawwmV2DA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-          }
-        },
-        {
-          "name": "DSports Chile",
-          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"p9EdN6H3YR7ojU24gBcfMg\",\"k\":\"aPltYYsLlWsAjERYlqJaeQ\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
             "Referer": "https://www.primevideo.com/"
@@ -104,54 +93,18 @@
         },
         {
           "name": "LA 1 MUNDIAL",
-          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619",
-          "image": "https://i.ibb.co/DHSH2L0y/Logo-La-1-UHD-2024.jpg"
-        },
-        {
-          "name": "FOX",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUo4Idr7rD6IFueJARbXWdd5f7EzttEJ9bQ&s",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+          "image": "https://i.ibb.co/DHSH2L0y/Logo-La-1-UHD-2024.jpg",
           "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"jsLmJIq+LhDhbkOcm4X/2A\",\"k\":\"8SGwFcKlGXgoNV+2qHTClw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-          }
-        },
-        {
-          "name": "FOX TUBI",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qVKfmwp8YJ8wct17HSC0-bVFeGFWPLJhKw&s",
-          "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist576p.m3u8"
-        },
-        {
-          "name": "Canal 5",
-          "image": "https://i.ibb.co/V310Z0q/canal5.png",
-          "url": "https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"KowtUIg3f1H4Jdhx5Wi+GQ\",\"k\":\"61qNtkyhmSOJZy7blEfHEQ\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
-          }
-        },
-        {
-          "name": "Azteca 7",
-          "image": "https://i.imgur.com/UtFXjIn.png",
-          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"zo+G0vDRY4V0I3raisLoKg\",\"k\":\"ZCdy6/GDLx8vpYy36Pz9BQ\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dFzW7DSljy96wq813D2m0g\",\"k\":\"rgCPHkfmVn_kIBpv-PGuVA\"}],\"type\":\"temporary\"}",
+            "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
           }
         },
         {
           "name": "Las Estrellas HD",
           "image": "https://i.postimg.cc/Bt996SPz/las-estrellas.png",
           "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
-        },
-        {
-          "name": "MEGAMAZONICA",
-          "image": "https://radiomegatv.com/wp-content/uploads/2021/11/casma-blanco1.png",
-          "url": "https://cors-proxy.cooks.fyi/https://ares.disfrutaenlared.com:1936/megatv/megatv/chunklist.m3u8"
         },
         {
           "name": "GEN TV",
@@ -161,31 +114,12 @@
         {
           "name": "TUDN",
           "image": "https://i.imgur.com/oT5CAvd.png",
-          "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
           "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"AQ77FyQdL1DIDTylIYdw9A\",\"k\":\"7P7Cegoa1ABEiCY8M7Uenw\"}],\"type\":\"temporary\"}",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"djzh68ryNQLIzzV8bvQj4Q\",\"k\":\"DF5sCCCh6ih1NyHbACckEQ\"}],\"type\":\"temporary\"}",
           "headers": {
-            "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
           }
-        },
-        {
-          "name": "VIX DEPORTES",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
-          "license_type": "clearkey",
-          "image": "https://i.ibb.co/zVYvXY2H/Picsart-26-06-11-15-18-55-176.png",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"FxCsK7_NMDLQ9lM4UJaPRw\",\"k\":\"0lSNrMjvzRzQrwNzBgyC3A\"}],\"type\":\"temporary\"}"
-        },
-        {
-          "name": "TUDN [YOUTUBE]",
-          "image": "https://i.imgur.com/oT5CAvd.png",
-          "url": "https://streaming.alwaysdata.net/tudn.php"
-        },
-        {
-          "name": "Caracol TV",
-          "image": "https://i.postimg.cc/L6CW81Mb/caracol-tv.png",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ZocwjJyWkxXH7Hf2qcRq+w\",\"k\":\"tgWjs64u49SeksH2QktbqQ\"}],\"type\":\"temporary\"}",
-          "url": "https://requestrouter.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/__f/manifest.mpd"
         },
         {
           "name": "VS SPORTS [YOUTUBE]",
@@ -193,25 +127,7 @@
           "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8"
         },
         {
-          "name": "GE TV",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GE_TV.svg/960px-Logo_GE_TV.svg.png",
-          "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "N Sports",
-          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp",
-          "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8"
-        },
-        {
           "name": "CAZE TV",
-          "image": "https://i.ibb.co/W3XpzQy/cazetv.png",
-          "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-        },
-        {
-          "name": "CAZE TV YOUTUBE",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
           "license_type": "clearkey",
           "image": "https://i.ibb.co/MkQLZw3G/Picsart-26-06-10-23-19-14-029.jpg",
@@ -220,22 +136,11 @@
         {
           "name": "SPORTV",
           "image": "https://i.ibb.co/NKs6v0v/sportv.png",
-          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
           "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"S7z/MonUV7TdXb3SEiHemg\",\"k\":\"xJBrmp+N2jwHJb3bjEl3Mw\"}],\"type\":\"temporary\"}",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"UcDvI7Fyl-XAHNfzbdCmzg\",\"k\":\"iCP3E7pv25u-CirYLTCaSw\"}],\"type\":\"temporary\"}",
           "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-          }
-        },
-        {
-          "name": "beIN SPORTS 1 AU",
-          "image": "https://i.postimg.cc/PxVwNGgX/be-IN-SPORTS1-ENGLISH-Digital-Mono.png",
-          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"OLY/mqp7fHqCLI4UyKchLg\",\"k\":\"JL/XXUNsv3MWiiotzNQCgQ\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
           }
         }
       ]
