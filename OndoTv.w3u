@@ -1597,17 +1597,12 @@
       ]
     },
     {
-      "name": "DEPORTES SUR",
+      "name": "DEPORTES LATINO",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEAO5oRlxrxyB_zGeylSJIP541y-6IQgUHg&s",
       "stations": [
         {
-          "name": "Claro Sports",
-          "image": "https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png",
-          "url": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8"
-        },
-        {
           "name": "CLARO SPORTS LATAM EN VIVO",
-          "image": "https://i.postimg.cc/Zq1vfwP6/claro-sports1.png",
+          "image": "https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png",
           "url": "https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -1746,6 +1741,46 @@
           }
         },
         {
+          "name": "FOX SPORTS MX",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+          "url": "https://bolaloca.my/player/2/101",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://bolaloca.my/player/2/101",
+            "Origin": "https://bolaloca.my"
+          }
+        },
+        {
+          "name": "FOX SPORTS 2 MX",
+          "image": "https://i.imgur.com/oG7HzEf.png",
+          "url": "https://bolaloca.my/player/2/102",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://bolaloca.my/player/2/102",
+            "Origin": "https://bolaloca.my"
+          }
+        },
+        {
+          "name": "FOX SPORTS 3 MX",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png",
+          "url": "https://bolaloca.my/player/2/103",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://bolaloca.my/player/2/103",
+            "Origin": "https://bolaloca.my"
+          }
+        },
+        {
+          "name": "FOX DEPORTES USA",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
+          "url": "https://bolaloca.my/player/2/70",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://bolaloca.my/player/2/70",
+            "Origin": "https://bolaloca.my"
+          }
+        },
+        {
           "name": "TNT SPORTS AR",
           "image": "https://images.seeklogo.com/logo-png/48/1/tnt-sports-logo-png_seeklogo-486966.png",
           "url": "https://bolaloca.my/player/2/83",
@@ -1764,6 +1799,21 @@
             "Referer": "https://bolaloca.my/player/2/75",
             "Origin": "https://bolaloca.my"
           }
+        },
+        {
+          "name": "BEIN SPORTS Ñ",
+          "image": "https://i.imgur.com/J5aurrb.png",
+          "url": "https://bolaloca.my/player/2/69",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://bolaloca.my/player/2/69",
+            "Origin": "https://bolaloca.my"
+          }
+        },
+        {
+          "name": "BEIN SPORTS XTRA Ñ",
+          "image": "https://i.imgur.com/V562tpO.png",
+          "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
         },
         {
           "name": "WIN+",
@@ -1816,6 +1866,16 @@
           }
         },
         {
+          "name": "TUDN",
+          "image": "https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp",
+          "url": "https://bolaloca.my/player/2/106",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://bolaloca.my/player/2/106",
+            "Origin": "https://bolaloca.my"
+          }
+        },
+        {
           "name": "TUDN USA",
           "image": "https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp",
           "url": "https://bolaloca.my/player/2/68",
@@ -1836,6 +1896,16 @@
           }
         },
         {
+          "name": "TELEAMAZONAS",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png",
+          "url": "https://bolaloca.my/player/2/85",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://bolaloca.my/player/2/85",
+            "Origin": "https://bolaloca.my"
+          }
+        },
+        {
           "name": "LIGA 1 MAX",
           "image": "https://static.wikia.nocookie.net/logopedia/images/f/f6/L1_Max_logo_2024.svg/revision/latest/scale-to-width-down/334?cb=20240224044423&path-prefix=es",
           "url": "https://bolaloca.my/player/2/84",
@@ -1847,132 +1917,6 @@
         }
       ]
     },
-    {
-          "name": "DEPORTES ESPN & FOX SPORTS",
-          "stations": [
-            {
-              "name": "ESPN",
-              "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-              "image": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6IS3EasRG-uKe6HnvL3Jvw\",\"k\":\"y4nuOWFZnj5kilqtYIlfNA\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "Origin": "https://portal.app.flow.com.py",
-                "Referer": "https://portal.app.flow.com.py/"
-              }
-            },
-            {
-              "name": "ESPN 2",
-              "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
-              "image": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ZaW_o8enLd5gvpsMdAbI_A\",\"k\":\"C0Cun3inusO1fsv3LTwIHg\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "Origin": "https://portal.app.flow.com.py",
-                "Referer": "https://portal.app.flow.com.py/"
-              }
-            },
-            {
-              "name": "ESPN 3",
-              "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
-              "image": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9Mn5fio2_qsOUHfytEy8Tg\",\"k\":\"F0PNA9_jc2ssldqRp4OvOA\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "Origin": "https://portal.app.flow.com.py",
-                "Referer": "https://portal.app.flow.com.py/"
-              }
-            },
-            {
-              "name": "ESPN 4",
-              "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
-              "image": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"zI1EQG7WvxiYrZ96LWTyng\",\"k\":\"-4XQWWh6sPxngFgGIE7b3w\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "Origin": "https://portal.app.flow.com.py",
-                "Referer": "https://portal.app.flow.com.py/"
-              }
-            },
-            {
-              "name": "ESPN 5",
-              "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
-              "image": "https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"JPKz50Hw2emo1Rb6_zi93A\",\"k\":\"u9P9AvsQThRjrFKKE_Z-Sg\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "Origin": "https://portal.app.flow.com.py",
-                "Referer": "https://portal.app.flow.com.py/"
-              }
-            },
-            {
-              "name": "ESPN 6",
-              "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
-              "image": "https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"X8e2YuacD7-NOWkRZrHJGQ\",\"k\":\"iRV83SXfJdVvHszO44UIiA\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "Origin": "https://portal.app.flow.com.py",
-                "Referer": "https://portal.app.flow.com.py/"
-              }
-            },
-            {
-              "name": "ESPN 7",
-              "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
-              "image": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"X8e2YuacD7-NOWkRZrHJGQ\",\"k\":\"iRV83SXfJdVvHszO44UIiA\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "Origin": "https://portal.app.flow.com.py",
-                "Referer": "https://portal.app.flow.com.py/"
-              }
-            },
-            {
-              "name": "ESPN PREMIUM",
-              "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-              "image": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"TCMNvH9qS_pq0Kpz_3kjdA\",\"k\":\"QYanwqFfWQqTmYhv6uxCVw\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "Origin": "https://portal.app.flow.com.py",
-                "Referer": "https://portal.app.flow.com.py/"
-              }
-            },
-            {
-              "name": "FOX SPORTS",
-              "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
-              "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"y8Kgx6ON8KozM81xhB07DQ\",\"k\":\"qsYbcw4qwd8j8ehy51QcGw\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "Origin": "https://portal.app.flow.com.py",
-                "Referer": "https://portal.app.flow.com.py/"
-              }
-            },
-            {
-              "name": "FOX SPORTS 2",
-              "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
-              "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"yY3f_EcP5EmuGo1kkhFpdg\",\"k\":\"UIbTcOhAAQIyz0UysW4Zfw\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "Origin": "https://portal.app.flow.com.py",
-                "Referer": "https://portal.app.flow.com.py/"
-              }
-            },
-            {
-              "name": "FOX SPORTS 3",
-              "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
-              "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-3-ar.png",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VbRzkM-eSZfa5trIXgV4dQ\",\"k\":\"-jnoVVQ8XXDzBgDVnl5MGw\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "Origin": "https://portal.app.flow.com.py",
-                "Referer": "https://portal.app.flow.com.py/"
-              }
-            }
-          ]
-        },
         {
           "name": "DEPORTES BRASIL",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuoeH4jprGvbrizIDaPcZmkP3anewq-3JOw&s",
@@ -2020,14 +1964,13 @@
               }
             },
             {
-              "name": "CAZE TV LIVE EVENT 2",
+              "name": CAZE TV LIVE EVENT 2",
               "image": "https://i.ibb.co/W3XpzQy/cazetv.png",
-              "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+              "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
               "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"l1LvclkO9EH/o3MeBIb7wA\",\"k\":\"22Pse58RNIt8xoCKVMmUVw\"}],\"type\":\"temporary\"}",
+              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rHq6qclIGqz72sZPw-wzEg\",\"k\":\"wMUEou0ucLh5plC4dwo4xg\"}],\"type\":\"temporary\"}",
               "headers": {
-                "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-                "Referer": "https://www.primevideo.com/"
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
               }
             },
             {
@@ -2044,8 +1987,12 @@
             {
               "name": "SPORTV",
               "image": "https://i.ibb.co/NKs6v0v/sportv.png",
-              "url": "https://sportzonline.st/channels/bra/br1.php",
-              "license_type": "webvideo"
+              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+              "license_type": "clearkey",
+              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"UcDvI7Fyl-XAHNfzbdCmzg\",\"k\":\"iCP3E7pv25u-CirYLTCaSw\"}],\"type\":\"temporary\"}",
+              "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+              }
             },
             {
               "name": "SPORTV 2",
