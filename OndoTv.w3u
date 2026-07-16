@@ -152,7 +152,7 @@
         {
           "name": "En Vivo",
           "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
-          "url": "http://45.170.130.224:8000/play/a04i/index.m3u8?hls"
+          "url": "http://185.194.204.72:8260/live/CATV10/index.m3u8"
         },
         {
           "name": "En Vivo 2",
