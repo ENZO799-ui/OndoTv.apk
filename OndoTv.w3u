@@ -1611,6 +1611,60 @@
           }
         },
         {
+          "name": "DSports",
+          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RbvVgvIg9Dj4lkUNgwaj8g\",\"k\":\"WCxrp/ZLvA8tkcawwmV2DA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+          }
+        },
+        {
+          "name": "DSports DAZN",
+          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"-DaFPY6sGURu2VNfX8VosQ\",\"k\":\"s7xe8AYCspq6x-SC09n78w\"}],\"type\":\"temporary\"}",
+            "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "DSports GEO",
+          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"p9EdN6H3YR7ojU24gBcfMg\",\"k\":\"aPltYYsLlWsAjERYlqJaeQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+          }
+        },
+        {
+          "name": "DSports2",
+          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+          "url": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"A/Etaj2/06b6fdf2QX4MEQ\",\"k\":\"6ge4es3y5FvoJM3koc81BA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+          }
+        },
+        {
+          "name": "DSports+",
+          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+          "url": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"g/gcTMFEOZFUPeTiLup1hg\",\"k\":\"3f18plPW81VD2O2zxojiDw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+          }
+        },
+        {
           "name": "PLUTO FUTBOL",
           "image": "https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png",
           "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8"
@@ -2763,47 +2817,9 @@
               "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
             },
             {
-              "name": "Universo EAST",
-              "image": "https://i.imgur.com/RZ8pIKe.png",
-              "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"lrZ/oJFAMpqJt6Hq0TTtow\",\"k\":\"xhjTLFbNxsrYMw65hQfKPw\"}],\"type\":\"temporary\"}"
-            },
-            {
-              "name": "UNIVERSO WEST",
-              "image": "https://i.imgur.com/RZ8pIKe.png",
-              "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-west)/master.mpd",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Bp80lTgPPSWowDR3Bn99Gw\",\"k\":\"fZ2/gTRTXhZl6RT7cTTORw\"}],\"type\":\"temporary\"}"
-            },
-            {
               "name": "UNIVERSO HD",
               "image": "https://i.imgur.com/RZ8pIKe.png",
               "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8"
-            },
-            {
-              "name": "USA EAST",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
-              "url": "https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-oneapp-dash-primary-v1/Content/Channel/4e41f6af-4b86-2aac-c351-c1250b14b344/DASH_ENC/master_5m.mpd?aws.sessionId=4bd064c7-cf13-4eb7-a0ba-a9672b3cbc24",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"b+S1Z+ybRnqIigiWAMk/VQ\",\"k\":\"uGEiZUUcjEYvtrVa06a22A\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-                "Referer": "https://www.usanetwork.com/",
-                "Origin": "https://www.usanetwork.com"
-              }
-            },
-            {
-              "name": "USA WEST",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
-              "url": "https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-oneapp-dash-secondary-v1/Content/Channel/6770a110-2c6e-47fd-2fe3-1dc29b64f5b6/DASH_ENC/master_5m.mpd?aws.sessionId=c3fb30b2-ae4b-4a0e-ae00-b776f820d0bd",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"b+S1Z+ybRnqIigiWAMk/VQ\",\"k\":\"uGEiZUUcjEYvtrVa06a22A\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-                "Referer": "https://www.usanetwork.com/",
-                "Origin": "https://www.usanetwork.com"
-              }
             },
             {
               "name": "TELEMUNDO DEPORTES AHORA",
@@ -2853,50 +2869,59 @@
               }
             },
             {
-              "name": "ESPN DEPORES",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
-              "url": "https://la18hd.com/vivo/canales.php?stream=espndeportes",
-              "headers": {
-                "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-                "Referer": "https://la18hd.com/vivo/canales.php?stream=espndeportes",
-                "Origin": "https://la18hd.com"
-              }
-            },
-            {
               "name": "FUBO SPORTS NETWORK",
               "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c003630ad52514b4aea174660c1ef25e.webp",
               "url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8"
             },
             {
-              "name": "beIN SPORTS US",
-              "image": "https://i.postimg.cc/Tw1nb6qt/bein-sports.png",
-              "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
+              "name": "TSN",
+              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+              "image": "https://i.ibb.co/p0jRsyX/reduced-20240205-151202.jpg",
               "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-              }
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+              },
+              "license_type": "clearkey",
+              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"FO6r8wwUt_vzAIwDCZzgEQ\",\"k\":\"F9KsjbxUKb1wrzQzqhIVjQ\"}],\"type\":\"temporary\"}"
             },
             {
-              "name": "beIN SPORTS Ñ",
-              "image": "https://i.imgur.com/J5aurrb.png",
-              "url": "https://la18hd.com/vivo/canales.php?stream=beinsportes",
+              "name": "TSN 2",
+              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+              "image": "https://i.ibb.co/p0jRsyX/reduced-20240205-151202.jpg",
               "headers": {
-                "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-                "Referer": "https://la18hd.com/vivo/canales.php?stream=beinsportes",
-                "Origin": "https://la18hd.com"
-              }
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+              },
+              "license_type": "clearkey",
+              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"hbJ32vWq4Fgz_kOmj1h5aA\",\"k\":\"1S1-m8C82YeH79VHrJHsoA\"}],\"type\":\"temporary\"}"
             },
             {
-              "name": "beIN SPORTS XTRA",
-              "image": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
-              "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+              "name": "TSN 3",
+              "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+              "image": "https://i.ibb.co/p0jRsyX/reduced-20240205-151202.jpg",
               "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-              }
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+              },
+              "license_type": "clearkey",
+              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"0yUCUnZTR6DCYDxstIafjA\",\"k\":\"DBkxlGDafp7YFttGzoObNw\"}],\"type\":\"temporary\"}"
             },
             {
-              "name": "beIN SPORTS XTRA Ñ",
-              "image": "https://i.imgur.com/V562tpO.png",
-              "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
+              "name": "TSN 4",
+              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+              "image": "https://i.ibb.co/p0jRsyX/reduced-20240205-151202.jpg",
+              "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+              },
+              "license_type": "clearkey",
+              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"q8WyiDEhAShQ69oFtSjF7A\",\"k\":\"5SUJJPS3OJBfcWOgE0WHpw\"}],\"type\":\"temporary\"}"
+            },
+            {
+              "name": "TSN 5",
+              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+              "image": "https://i.ibb.co/p0jRsyX/reduced-20240205-151202.jpg",
+              "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+              },
+              "license_type": "clearkey",
+              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"OFzrlxS3XgzvYSVPgLMQAg\",\"k\":\"GNzpKiiR_uaNIe3lFzIw-A\"}],\"type\":\"temporary\"}"
             },
             {
               "name": "beIN SPORTS 1 AU",
