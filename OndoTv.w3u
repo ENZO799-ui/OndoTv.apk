@@ -224,7 +224,7 @@
         {
           "name": "EVENTOS FLOW 1",
           "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
-          "url": "https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
+          "url": "https://cdn.cvattv.com.ar/tok_{token}/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"XIbiNzF8IjGsG8Ew6ZX61g\",\"k\":\"3Kz3sjnua9PzacoR283k6w\"}],\"type\":\"temporary\"}",
           "headers": {
@@ -236,7 +236,7 @@
         {
           "name": "EVENTOS FLOW 2",
           "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
-          "url": "https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
+          "url": "https://cdn.cvattv.com.ar/tok_{token}/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"5U6eqHpjRlj7ug44CqcBpw\",\"k\":\"TkhtJdfQ59ExdDsoWWPGQw\"}],\"type\":\"temporary\"}",
           "headers": {
@@ -447,7 +447,7 @@
         },
         {
           "name": "TRECE",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+          "url": "https://cdn.cvattv.com.ar/tok_{token}/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
           "image": "https://bestleague.world/img/trecepy.webp",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qAk83LLVBL048WdkvSG25Q\",\"k\":\"v887AztfC1rgIHUaZ0Yybw\"}],\"type\":\"temporary\"}",
@@ -458,7 +458,7 @@
         },
         {
           "name": "UNICANAL",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+          "url": "https://cdn.cvattv.com.ar/tok_{token}/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
           "image": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Y6NynP1g8k9-Ema-5eygLA\",\"k\":\"y57QKK9AZU4apDk07ljbWA\"}],\"type\":\"temporary\"}",
@@ -530,7 +530,7 @@
         },
         {
           "name": "5 DIAS PY",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
+          "url": "https://cdn.cvattv.com.ar/tok_{token}/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
           "image": "https://i.ibb.co/Pg6v5zn/images.png",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dGCRxQLtzx6dADU1zgHz5A\",\"k\":\"KQgbX5LRo3yI-70OzlXIOQ\"}],\"type\":\"temporary\"}",
@@ -541,7 +541,7 @@
         },
         {
           "name": "SUR TV",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
+          "url": "https://cdn.cvattv.com.ar/tok_{token}/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
           "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"mIrk6ECJgWCd7Z-LI7v3nQ\",\"k\":\"uGfGZ5G8rWfuFCvh4hwldw\"}],\"type\":\"temporary\"}",
@@ -552,7 +552,7 @@
         },
         {
           "name": "PARAVISION",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+          "url": "https://cdn.cvattv.com.ar/tok_{token}/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
           "image": "https://iptvstudio.pages.dev/logos/paraguay/paravision.png",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vY6MmzLvAn6P9P8M_OhVpA\",\"k\":\"KRjpiTtXDD-h8hW1KhLMkQ\"}],\"type\":\"temporary\"}",
@@ -563,7 +563,7 @@
         },
         {
           "name": "POPU TV",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
+          "url": "https://cdn.cvattv.com.ar/tok_{token}/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
           "image": "https://www.popular.com.py/wp-content/themes/popu/assets/img/popu-tv.png",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"QcpUd9swSNv3MfwSYEx1BA\",\"k\":\"bH6OlqhjM8v7R3HL_p9rSw\"}],\"type\":\"temporary\"}",
@@ -675,7 +675,7 @@
         {
           "name": "FLOW EVENTOS PY",
           "image": "https://i.postimg.cc/4dwrVjq5/flow.png",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
+          "url": "https://cdn.cvattv.com.ar/tok_{token}/live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"K9/DDyp1keEH2MhEWMOV3Q\",\"k\":\"3O4NZCC2tZf7oV08RBGnHg\"}],\"type\":\"temporary\"}",
           "headers": {
@@ -686,7 +686,7 @@
         {
           "name": "FLOW EVENTOS 2 PY",
           "image": "https://i.postimg.cc/4dwrVjq5/flow.png",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c4eds/Eventos2_PY/SA_Live_dash_enc_C/Eventos2_PY.mpd",
+          "url": "https://cdn.cvattv.com.ar/tok_{token}/live/c4eds/Eventos2_PY/SA_Live_dash_enc_C/Eventos2_PY.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CQDOZrgt4P0Hqo8SpI8pog\",\"k\":\"5VVtumiP2mNzdKtch9fNpg\"}],\"type\":\"temporary\"}",
           "headers": {
