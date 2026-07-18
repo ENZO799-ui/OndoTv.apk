@@ -112,6 +112,13 @@
           "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8"
         },
         {
+          "name": "VIX TUDN MUNDIAL",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+          "license_type": "clearkey",
+          "image": "https://i.ibb.co/zVYvXY2H/Picsart-26-06-11-15-18-55-176.png",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"FxCsK7_NMDLQ9lM4UJaPRw\",\"k\":\"0lSNrMjvzRzQrwNzBgyC3A\"}],\"type\":\"temporary\"}"
+        },
+        {
           "name": "TUDN",
           "image": "https://i.imgur.com/oT5CAvd.png",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
