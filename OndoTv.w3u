@@ -1990,138 +1990,67 @@
       ]
     },
     {
-      "name": "DEPORTES VPN AR",
+      "name": "DEPORTES PREMIUN (SOLO SD)",
       "stations": [
         {
           "name": "TNT SPORTS PREMIUM",
           "image": "https://i.ibb.co/zGzJ3jw/tnt-sports-premium.png",
-          "url": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_cenc/TNT_Sports_HD.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vID6PaaW5QP5QP3l9oGhxQ\",\"k\":\"6kbk6fETLo3XH7d_fVUFig\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/tntsportschile.php"
         },
         {
-          "name": "TYC SPORTS",
+          "name": "TYC SPORTS SD",
           "image": "https://i.ibb.co/tK20mxz/tycsports.png",
-          "url": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_cenc/TyCSport.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"KyHI-poynM4xGkxKSqmWoQ\",\"k\":\"zCPqH7MmKfnh9IyN7q4-Ww\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/tycsports.php"
         },
         {
           "name": "TYC SPORTS INTERNACIONAL",
           "image": "https://i.ibb.co/tK20mxz/tycsports.png",
-          "url": "https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_cenc/TyC_Internacional.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"WOHr512UT2qY6mexx8Clcg\",\"k\":\"HDEbBp284xzo5ipufiQz6w\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/tycsports.php"
         },
         {
           "name": "ESPN PREMIUM",
           "image": "https://i.ibb.co/LrNsJsP/espnpremium.png",
-          "url": "https://cdn.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_cenc/Fox_Sports_Premiun_HD.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"TCMNvH9qS_pq0Kpz_3kjdA\",\"k\":\"QYanwqFfWQqTmYhv6uxCVw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/espnpremiumar.php"
+        },
+        {
+          "name": "ESPN PREMIUM LAT",
+          "image": "https://i.ibb.co/LrNsJsP/espnpremium.png",
+          "url": "https://embed.ksdjugfsddeports.com/embed2/espnpremiumlat.php"
         },
         {
           "name": "ESPN",
           "image": "https://i.ibb.co/s37NZCT/espn-1B.png",
-          "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_cenc/ESPN2HD.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6IS3EasRG-uKe6HnvL3Jvw\",\"k\":\"y4nuOWFZnj5kilqtYIlfNA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/espn.php"
         },
         {
           "name": "ESPN 2",
           "image": "https://i.ibb.co/RCMYFsv/espn-2B.png",
-          "url": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_cenc/ESPN2_Arg.mpd?*",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ZaW_o8enLd5gvpsMdAbI_A\",\"k\":\"C0Cun3inusO1fsv3LTwIHg\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/espn2.php"
         },
         {
           "name": "ESPN 3",
           "image": "https://i.ibb.co/TLcGvdv/espn-3B.png",
-          "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_cenc/ESPN3.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9Mn5fio2_qsOUHfytEy8Tg\",\"k\":\"F0PNA9_jc2ssldqRp4OvOA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/espn3.php"
         },
         {
           "name": "ESPN 4",
           "image": "https://i.ibb.co/pJK6xQ0/espn-4B.png",
-          "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_cenc/ESPNHD.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"zI1EQG7WvxiYrZ96LWTyng\",\"k\":\"-4XQWWh6sPxngFgGIE7b3w\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/espn4.php"
         },
         {
           "name": "ESPN 5",
           "image": "https://i.ibb.co/6bvjxGP/espn-5B.png",
-          "url": "https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_cenc/ESPN4.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"JPKz50Hw2emo1Rb6_zi93A\",\"k\":\"u9P9AvsQThRjrFKKE_Z-Sg\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/espn5.php"
         },
         {
           "name": "ESPN 6",
           "image": "https://i.ibb.co/CsyhPz4/espn-6B.png",
-          "url": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_cenc/FoxSports3_UY.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"X8e2YuacD7-NOWkRZrHJGQ\",\"k\":\"iRV83SXfJdVvHszO44UIiA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/espn6.php"
         },
         {
           "name": "ESPN 7",
           "image": "https://i.ibb.co/LSQFzkw/espn-7B.png",
-          "url": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_cenc/FoxSports2_UY.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"X8e2YuacD7-NOWkRZrHJGQ\",\"k\":\"iRV83SXfJdVvHszO44UIiA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/espn7.php"
         },
         {
           "name": "FOX SPORTS",
