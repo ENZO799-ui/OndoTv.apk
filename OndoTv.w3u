@@ -2055,123 +2055,27 @@
         {
           "name": "FOX SPORTS",
           "image": "https://i.ibb.co/zbWxZ95/fs1.png",
-          "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_cenc/FoxSports.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"y8Kgx6ON8KozM81xhB07DQ\",\"k\":\"qsYbcw4qwd8j8ehy51QcGw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports.php"
         },
         {
           "name": "FOX SPORTS 2",
           "image": "https://i.ibb.co/YjrQ0CQ/fs2.png",
-          "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_cenc/FoxSports2HD.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"yY3f_EcP5EmuGo1kkhFpdg\",\"k\":\"UIbTcOhAAQIyz0UysW4Zfw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports2.php"
         },
         {
           "name": "FOX SPORTS 3",
           "image": "https://i.ibb.co/SBkkDxq/fs3.png",
-          "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_cenc/FoxSports3HD.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VbRzkM-eSZfa5trIXgV4dQ\",\"k\":\"-jnoVVQ8XXDzBgDVnl5MGw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports3.php"
         },
         {
-          "name": "DEPORTV",
-          "image": "https://i.ibb.co/br0L72h/deportv.png",
-          "url": "https://cdn.cvattv.com.ar/tok_{token}/live/c3eds/DeporTVHD/SA_Live_dash_cenc/DeporTVHD.mpd",
-          "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_cenc/DeporTVHD.mpd",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"82IJeBWJKkuDlQ8dEG_wsg\",\"k\":\"Q0nkLoHDGoOJ9KQvzSmJKA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
-          "name": "AMERICA SPORTS",
-          "image": "https://i.ibb.co/LtCNCcJ/america-sports.png",
-          "url": "https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_cenc/America_Sports.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"oKoBM3ohSL2h4hhiKVrgNw\",\"k\":\"_uD4egUnSXNR_FTONq0d4g\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
-          "name": "GOLF CHANNEL",
-          "image": "https://i.ibb.co/PN7c3nL/golf-channel.png",
-          "url": "https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_cenc/Golf_Channel.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ONYia3zSz6hrS5zapFXn1w\",\"k\":\"JPDvK_eHZHzALfhwQX7tKw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
-          "name": "GARAGE TV",
-          "image": "https://i.ibb.co/Fw5WYjp/GarageTV.png",
-          "url": "https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_cenc/El_Garage.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"A9HfuN8DTYuB5XdT3wCjbQ\",\"k\":\"CNg2YNtKc7sdYdYLCd9fTQ\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
-          "name": "PX SPORTS",
-          "image": "https://i.ibb.co/LQPW5ny/pxsports-orig.png",
-          "url": "https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_cenc/PX_Sports.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"k5MyHa7xRj_H4uBgKY24Ug\",\"k\":\"vmvJHheBb2fmJZa-1GPFrQ\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "name": "TUDN",
+          "image": "https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp",
+          "url": "https://embed.ksdjugfsddeports.com/embed2/tudn.php"
         },
         {
           "name": "NBA",
           "image": "https://i.ibb.co/82QvHTH/ar-nba-tv.png",
-          "url": "https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_cenc/NBA_TV.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"0MON48mETk6fl13_s-_4rQ\",\"k\":\"FByg_fbrrfpxB1drjgnhFw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
-          "name": "SHOW SPORTS",
-          "image": "https://i.ibb.co/QnqdqBV/ss.png",
-          "url": "https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_cenc/Show_Sports.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"3z7WJFu5rxoDRjeejkdd_w\",\"k\":\"-G-EV0ONTkSdU7lWzBvmZA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://embed.ksdjugfsddeports.com/embed2/nba.php"
         }
       ]
     },
