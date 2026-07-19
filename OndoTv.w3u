@@ -1237,14 +1237,8 @@
       "stations": [
         {
           "name": "Tooncast",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYoLEgi4WLSAlC2OJodDQEJcYl22HSzFBrk3SD6eBZDQ&s=10",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"EGOKci61TGS_sOendINoag\",\"k\":\"QafT1SLhkhW36PYRtpAtYQ\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://regionales.saohgdasregions.fun/stream.php?canal=tooncast&target=1",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYoLEgi4WLSAlC2OJodDQEJcYl22HSzFBrk3SD6eBZDQ&s=10"
         },
         {
           "name": "Clan ES",
@@ -1255,23 +1249,12 @@
           }
         },
         {
-          "name": "Discovery Kids",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
-          "image": "https://lokos.pages.dev/webp/logos/diskids.webp",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_7Lw9jwjo1ktRlPpOLnKGQ\",\"k\":\"02Ya6IH8Vfx6FYFc1Dl0ew\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
           "name": "Disney Channel SD",
           "image": "https://i.ibb.co/vdfh1bd/disney-channel.png",
           "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8"
         },
         {
-          "name": "Disney Channel HDR",
+          "name": "Disney Channel HD",
           "url": "https://regionales.saohgdasregions.fun/stream.php?canal=disneychannel&target=1",
           "image": "https://i.ibb.co/vdfh1bd/disney-channel.png"
         },
@@ -1281,80 +1264,19 @@
           "url": "http://179.60.51.134:8888/DISNEY-JR/index.m3u8"
         },
         {
-          "name": "NICK SD",
+          "name": "NICKELODEON",
           "image": "https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/160/160/0/0/70239189071229.png",
           "url": "http://179.60.51.134:8888/NICK/index.m3u8"
         },
         {
-          "name": "NICK HD",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
-          "image": "https://lokos.pages.dev/webp/logos/nick.webp",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"YcGM7-zC0Ge-qp_xgTBTRQ\",\"k\":\"ONb2UMv5o4_Z81wB-Y5keg\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
-          "name": "NICK JR HD",
+          "name": "NICK JR",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
           "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8"
         },
         {
-          "name": "NICK JR HD",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
-          "image": "https://lokos.pages.dev/webp/logos/nickjr.webp",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6CSyJ3qG_WrfxAqpSOUGSg\",\"k\":\"KNotu-jhoUY7uyOJW5Iggw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
           "name": "Cartoon Network",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
-          "image": "https://1000marcas.net/wp-content/uploads/2020/03/Cartoon-Network-logo.jpg",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"199W76o2pxFB0jiFTMRtHQ\",\"k\":\"irsu6RUNiyr46-wN4PgzyA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
-          "name": "Cartoonito",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
-          "image": "https://iptvstudio.pages.dev/logos/brasil/cartoonito.png",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"V5LmE_zraZx5y8DnX-TNNw\",\"k\":\"pnJ5NzBHbtI-XBvOL_Vwxg\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
-          "name": "PAKA PAKA",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd",
-          "image": "https://iptvstudio.pages.dev/logos/argentina/pakapaka.png",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"M0ABsvJkTfm9816S0rifjw\",\"k\":\"R17IfYbtBjbbttbZ1KQ7tw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
-          "name": "PLIM PLIM",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
-          "image": "https://iptvstudio.pages.dev/logos/otros/plimplimtv.png",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"jojhVy3NKzGhACZmjWKNYQ\",\"k\":\"q5W9wmVa_09KjlEvtoyA3w\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://regionales.saohgdasregions.fun/stream.php?canal=cartoonnetwork&target=1",
+          "image": "https://1000marcas.net/wp-content/uploads/2020/03/Cartoon-Network-logo.jpg"
         },
         {
           "name": "CANELA KIDS",
@@ -2014,37 +1936,37 @@
         {
           "name": "ESPN",
           "image": "https://i.ibb.co/s37NZCT/espn-1B.png",
-          "url": "https://embed.ksdjugfsddeports.com/embed2/espn.php"
+          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=espn&target=1"
         },
         {
           "name": "ESPN 2",
           "image": "https://i.ibb.co/RCMYFsv/espn-2B.png",
-          "url": "https://embed.ksdjugfsddeports.com/embed2/espn2.php"
+          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=espn2&target=1"
         },
         {
           "name": "ESPN 3",
           "image": "https://i.ibb.co/TLcGvdv/espn-3B.png",
-          "url": "https://embed.ksdjugfsddeports.com/embed2/espn3.php"
+          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=espn3&target=1"
         },
         {
           "name": "ESPN 4",
           "image": "https://i.ibb.co/pJK6xQ0/espn-4B.png",
-          "url": "https://embed.ksdjugfsddeports.com/embed2/espn4.php"
+          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=espn4&target=1"
         },
         {
           "name": "ESPN 5",
           "image": "https://i.ibb.co/6bvjxGP/espn-5B.png",
-          "url": "https://embed.ksdjugfsddeports.com/embed2/espn5.php"
+          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=espn5&target=1"
         },
         {
           "name": "ESPN 6",
           "image": "https://i.ibb.co/CsyhPz4/espn-6B.png",
-          "url": "https://embed.ksdjugfsddeports.com/embed2/espn6.php"
+          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=espn6&target=1"
         },
         {
           "name": "ESPN 7",
           "image": "https://i.ibb.co/LSQFzkw/espn-7B.png",
-          "url": "https://embed.ksdjugfsddeports.com/embed2/espn7.php"
+          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=espn7&target=1"
         },
         {
           "name": "FOX SPORTS",
