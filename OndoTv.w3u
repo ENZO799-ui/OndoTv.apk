@@ -1271,15 +1271,9 @@
           "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8"
         },
         {
-          "name": "Disney Channel HD",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
-          "image": "https://i.ibb.co/vdfh1bd/disney-channel.png",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"SnQuR40UAj4Zk-AR2UFflA\",\"k\":\"Dfd-3pvHRDdoNtIa-hN92g\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "name": "Disney Channel HDR",
+          "url": "https://regionales.saohgdasregions.fun/stream.php?canal=disneychannel&target=1",
+          "image": "https://i.ibb.co/vdfh1bd/disney-channel.png"
         },
         {
           "name": "Disney Jr. ",
