@@ -2320,38 +2320,6 @@
               }
             },
             {
-              "name": "TVC DEPORTES",
-              "image": "https://static.wikia.nocookie.net/logopedia/images/7/7c/TVC_Deportes.png/revision/latest?cb=20151111050623",
-              "url": "https://mega.z5cable.com/bpk-tv/tvc_deportes_hd/default/index.mpd",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"UjWFGfiGRG2Cg0qAOzb3lg\",\"k\":\"WLasjgfTVLF4JV4DudD4GQ\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-                "Referer": "https://www.primevideo.com/"
-              }
-            },
-            {
-              "name": "TVC DEPORTES 2",
-              "image": "https://static.wikia.nocookie.net/logopedia/images/7/7b/TVC_Deportes_2_%282015-%29.png/revision/latest?cb=20151111050730",
-              "url": "https://mega.z5cable.com/bpk-tv/tvc_deportes_2_hd/default/index.mpd",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"EJ5/y0lwQ2qeRigJDCCEUQ\",\"k\":\"CrG8MIx3PWJ/WlEfD//A5A\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-                "Referer": "https://www.primevideo.com/"
-              }
-            },
-            {
-              "name": "SPACE",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",
-              "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/SPACE-HD/default.mpd",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"z/Y2oGNPRoM9DM2dUiVJkw\",\"k\":\"sx2iojNkkDs2lFVlhVbHTA\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
-              }
-            },
-            {
               "name": "EL 5",
               "image": "https://i.ibb.co/V310Z0q/canal5.png",
               "url": "https://bolaloca.my/player/2/107",
@@ -2378,12 +2346,12 @@
             },
             {
               "name": "TUDN",
-              "image": "https://i.imgur.com/oT5CAvd.png",
-              "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd",
+              "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
               "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"AQ77FyQdL1DIDTylIYdw9A\",\"k\":\"7P7Cegoa1ABEiCY8M7Uenw\"}],\"type\":\"temporary\"}",
+              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"djzh68ryNQLIzzV8bvQj4Q\",\"k\":\"DF5sCCCh6ih1NyHbACckEQ\"}],\"type\":\"temporary\"}",
               "headers": {
-                "User-Agent": "izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2"
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
               }
             },
             {
@@ -2501,12 +2469,7 @@
             {
               "name": "LALIGA TV",
               "image": "https://i.imgur.com/ilay5Jr.png",
-              "url": "https://la18hd.com/vivo/canales.php?stream=sky_sports_laliga",
-              "headers": {
-                "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-                "Referer": "https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga",
-                "Origin": "https://la14hd.com"
-              }
+              "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=skysportslaliga&target=1"
             },
             {
               "name": "BUNDESLIGA TV",
@@ -2774,66 +2737,9 @@
               }
             },
             {
-              "name": "Telemundo Area de la Bai­a",
+              "name": "Telemundo USA",
               "image": "https://i.ibb.co/8d3prMM/telemundo.png",
-              "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(ksts)/master.mpd",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"+naiy0FUO8ihsuv4dCiZNA\",\"k\":\"/ykuPRFZUPcMbYxVIUGlIA\"}],\"type\":\"temporary\"}"
-            },
-            {
-              "name": "Telemundo Chicago",
-              "image": "https://i.ibb.co/8d3prMM/telemundo.png",
-              "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wsns)/master.mpd",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"fWu5+G4TPkyzNEC0k7a2cg\",\"k\":\"WErShdy559Qs8+k/HMP+EQ\"}],\"type\":\"temporary\"}"
-            },
-            {
-              "name": "Telemundo Orlando",
-              "image": "https://i.ibb.co/8d3prMM/telemundo.png",
-              "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wtmo)/master.mpd",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"laUqEV7RNOiB0Ofc3UI7Pg\",\"k\":\"Wsti4kLf3x2n0EGmAOxi/Q\"}],\"type\":\"temporary\"}"
-            },
-            {
-              "name": "Telemundo Miami",
-              "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/70ef4b19ce0f5b973ff48dffd540d3d8.webp",
-              "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wscv)/master.mpd",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7VqsNpGzOgKshthPiGqKBg\",\"k\":\"ayz23RUEFrdY0ij8OJgEcw\"}],\"type\":\"temporary\"}"
-            },
-            {
-              "name": "Telemundo Florida",
-              "image": "https://i.ibb.co/8d3prMM/telemundo.png",
-              "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8"
-            },
-            {
-              "name": "Telemundo California",
-              "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/432023d2bd3804224c262e0ac962cf45.webp",
-              "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8"
-            },
-            {
-              "name": "Telemundo Nueva Inglaterra",
-              "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/52745983b1a2da7414ed537d2511df9e.webp",
-              "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889716/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F148.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=418&ads._fw_player_width=743&ads._fw_site_page=https%253A%252F%252Fwww.telemundonuevainglaterra.com%252Fver%252F&ads._fw_us_privacy=1YYN&ads.afid=396655148&ads.caid=TelemundoNoticiasNoreste&ads.channelName=TelemundoNoticiasNoreste&ads.csid=tm_ots_alldevice_allos_web_wneu_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475399&ads.vcid=&ads.vip=181.94.227.184&ads.xumo_channelId=88889716a&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_ifa=&ads.xumo_ifaType=&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads.xumo_streamId=88889716&ads.site_name=TLMD&ads._fw_did="
-            },
-            {
-              "name": "Telemundo Nueva York",
-              "image": "https://i.ibb.co/8d3prMM/telemundo.png",
-              "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wnju)/master.mpd",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"xx/nvILwN8avIf0pnWNBsA\",\"k\":\"EyI8mIhv9D08Xyce60V8xg\"}],\"type\":\"temporary\"}"
-            },
-            {
-              "name": "Telemundo Filadelfia",
-              "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6636887a351de9ccd45d479f7eddbbc7.webp",
-              "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/d81e39d4-b88d-4371-bc87-5953c55bd63e/4.m3u8"
-            },
-            {
-              "name": "Telemundo Los Angeles",
-              "image": "https://i.ibb.co/8d3prMM/telemundo.png",
-              "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"znqzAi51MweZf1iv4AG6xA\",\"k\":\"ctYxpm5jXGCCmg/ncFUWwQ\"}],\"type\":\"temporary\"}"
+              "url": "https://regionales.saohgdasregions.fun/stream.php?canal=telemundo51&target=1"
             },
             {
               "name": "TELEMUNDO PR",
