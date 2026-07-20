@@ -7,7 +7,7 @@
   "groups": [
     {
       "name": "AGENDA DEPORTIVA",
-      "image": "https://img.icons8.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyTuElHeWDzR_HbVMHJ7dyGxAUIn2xzxKjA2b23iUpTw&s=10",
       "url": "https://eventosmundiales.pages.dev/agenda/index.w3u"
     },
     {
@@ -16,12 +16,12 @@
       "url": "https://akplay.pages.dev/global/latinos.w3u"
     },
     {
-      "name": "canales Fenix",
+      "name": "CANALES FENIX SIN VPN",
       "image": "https://static.vecteezy.com/system/resources/thumbnails/011/014/594/small/phoenix-wing-flames-logo-design-free-vector.jpg",
       "url": "https://akplay.pages.dev/dongle/mudi.w3u"
     },
     {
-      "name": "AKDeportes",
+      "name": "AK47Deportes",
       "image": "https://ih1.redbubble.net/image.3041402109.1438/st,small,507x507-pad,600x600,f8f8f8.jpg",
       "url": "https://akdeportes.pages.dev/akdeportes.w3u"
     },
@@ -64,104 +64,6 @@
       "name": "Canales latam GLOBALES",
       "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
       "url": "https://azzplay.pages.dev/lsts/CanalesLatam.w3u"
-    },
-    {
-      "name": "Mundial 2026",
-      "image": "https://assets1.afa.com.ar/media/LUCAS-GAIO/Junio-2025/webfifa26.jpg",
-      "stations": [
-        {
-          "name": "DSports",
-          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RbvVgvIg9Dj4lkUNgwaj8g\",\"k\":\"WCxrp/ZLvA8tkcawwmV2DA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-          }
-        },
-        {
-         "name": "D SPORTS OP2",
-         "image": "https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg",
-         "url": "https://embed.ksdjugfsddeports.com/embed2/directvsports.php"
-        },
-        {
-          "name": "FOX SPORT 4K MUNDIAL",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-          "license_type": "clearkey",
-          "image": "https://i.ibb.co/CsngGzDW/Picsart-26-06-13-18-39-17-851.png",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9lZOwq7oGQRjKKDhU75XTQ\",\"k\":\"_0aooQMesn7yJXagd8mKtw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "referer": "https://www.primevideo.com/",
-            "user_agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
-          }
-        },
-        {
-          "name": "LA 1 MUNDIAL",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-          "image": "https://i.ibb.co/DHSH2L0y/Logo-La-1-UHD-2024.jpg",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dFzW7DSljy96wq813D2m0g\",\"k\":\"rgCPHkfmVn_kIBpv-PGuVA\"}],\"type\":\"temporary\"}",
-            "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "Las Estrellas HD",
-          "image": "https://i.postimg.cc/Bt996SPz/las-estrellas.png",
-          "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
-        },
-        {
-          "name": "MUNDIAL 4K",
-          "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-          "license_type": "HLS",
-          "image": "https://i.ibb.co/CsngGzDW/Picsart-26-06-13-18-39-17-851.png"
-        },
-        {
-          "name": "GEN TV",
-          "image": "https://bestleague.world/img/genpy.png",
-          "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8"
-        },
-        {
-          "name": "VIX TUDN MUNDIAL",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
-          "license_type": "clearkey",
-          "image": "https://i.ibb.co/zVYvXY2H/Picsart-26-06-11-15-18-55-176.png",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"FxCsK7_NMDLQ9lM4UJaPRw\",\"k\":\"0lSNrMjvzRzQrwNzBgyC3A\"}],\"type\":\"temporary\"}"
-        },
-        {
-          "name": "TUDN",
-          "image": "https://i.imgur.com/oT5CAvd.png",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"djzh68ryNQLIzzV8bvQj4Q\",\"k\":\"DF5sCCCh6ih1NyHbACckEQ\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "VS SPORTS [YOUTUBE]",
-          "image": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/vssports/logo.png",
-          "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8"
-        },
-        {
-          "name": "CAZE TV",
-          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
-          "license_type": "clearkey",
-          "image": "https://i.ibb.co/MkQLZw3G/Picsart-26-06-10-23-19-14-029.jpg",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"NEde2rmRrV6SVIrr1xBBCg\",\"k\":\"UBsgnMzTI6wAv1rBW0BstA\"}],\"type\":\"temporary\"}"
-        },
-        {
-          "name": "SPORTV",
-          "image": "https://i.ibb.co/NKs6v0v/sportv.png",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"UcDvI7Fyl-XAHNfzbdCmzg\",\"k\":\"iCP3E7pv25u-CirYLTCaSw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-          }
-        }
-      ]
     },
     {
       "name": "🇵🇾LAND TV🇵🇾",
@@ -231,36 +133,6 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
             "Referer": "https://streamtp.sbs/global1.php?stream=disney5",
             "Origin": "https://streamtp.sbs"
-          }
-        }
-      ]
-    },
-    {
-      "name": "⚽EVENTOS FLOW COPA DEL REY⚽",
-      "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
-      "stations": [
-        {
-          "name": "EVENTOS FLOW 1",
-          "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
-          "url": "https://cdn.cvattv.com.ar/tok_{token}/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"XIbiNzF8IjGsG8Ew6ZX61g\",\"k\":\"3Kz3sjnua9PzacoR283k6w\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "EVENTOS FLOW 2",
-          "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
-          "url": "https://cdn.cvattv.com.ar/tok_{token}/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"5U6eqHpjRlj7ug44CqcBpw\",\"k\":\"TkhtJdfQ59ExdDsoWWPGQw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
           }
         }
       ]
@@ -750,25 +622,13 @@
         },
         {
           "name": "TELEFE",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
-          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"POwbHql5ndpVluZPN-XtIA\",\"k\":\"xp86_eIIXcqq3b9VJGoDIw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/tracks-v1a1/mono.m3u8",
+          "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png"
         },
         {
           "name": "EL TRECE",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
-          "image": "https://www.adlatina.com/uploads/img/fotoNoticiaG38334.jpg",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"UXkBf0kybRSvCpzuyDGu5g\",\"k\":\"CbSkY7Ap68KKKIvtLacKdg\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+          "image": "https://www.adlatina.com/uploads/img/fotoNoticiaG38334.jpg"
         },
         {
           "name": "TN NOTICIAS",
@@ -831,14 +691,8 @@
         },
         {
           "name": "LN+",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
-          "image": "https://i.ibb.co/xSv4MBKr/NXKF436-PYFDRLJJB77-LJU7-JVQA.png",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9Oree7w5slQCrPowG7rQSg\",\"k\":\"p00d9CNadIeDJ6qNU_8oPA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+          "url": "http://200.91.32.158:8080/lnmas/index.m3u8",
+          "image": "https://i.ibb.co/xSv4MBKr/NXKF436-PYFDRLJJB77-LJU7-JVQA.png"
         },
         {
           "name": "Argentinisima Satelital",
@@ -2346,7 +2200,7 @@
             },
             {
               "name": "TUDN",
-              "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+              "image": "https://i.imgur.com/oT5CAvd.png",
               "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
               "license_type": "clearkey",
               "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"djzh68ryNQLIzzV8bvQj4Q\",\"k\":\"DF5sCCCh6ih1NyHbACckEQ\"}],\"type\":\"temporary\"}",
@@ -2756,16 +2610,16 @@
               "image": "https://img.nbc.com/files/2025-12/tda_stacked_logo_color_whitetext.png?impolicy=nbc_com&imwidth=340&imdensity=1",
               "url": "https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_[PLATFORM]_telemundodeportesahora_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=es&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.channelId=99951459&ads._fw_ifa_type=[IFA_TYPE]"
             },
-            {
-              "name": "CARACOL SPORTS",
-              "image": "https://i.postimg.cc/3RLsGcbY/caracol-depotes.png",
-              "url": "https://d332hctu9ygz9f.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/caracol-sports/out/v1/4dac3e236d354cd7b5ceddf8a4b999b1/index.mpd",
-              "license_type": "clearkey",
-              "license_key": "https://dl.dropbox.com/scl/fi/g2lojd1i0zizlhenq7nte/caracol-sports.json?rlkey=2vmd3kvo9edk0gmnj3i2cop16&st=f74vrvsf&dl=0",
-              "headers": {
-                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-              }
-            },
+        {
+          "name": "LA 1 MUNDIAL",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+          "image": "https://i.ibb.co/DHSH2L0y/Logo-La-1-UHD-2024.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dFzW7DSljy96wq813D2m0g\",\"k\":\"rgCPHkfmVn_kIBpv-PGuVA\"}],\"type\":\"temporary\"}",
+            "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
             {
               "name": "FOX",
               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUo4Idr7rD6IFueJARbXWdd5f7EzttEJ9bQ&s",
@@ -2931,6 +2785,17 @@
               "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"xIyOSNuiRCC13O+fW4R7Eg\",\"k\":\"2q0K6xZbmia3BvKiYbj6/g\"}],\"type\":\"temporary\"}",
               "headers": {
                 "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36"
+              }
+            },
+            {
+              "name": "FOX ONE USA",
+              "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+              "license_type": "clearkey",
+              "image": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9lZOwq7oGQRjKKDhU75XTQ\",\"k\":\"_0aooQMesn7yJXagd8mKtw\"}],\"type\":\"temporary\"}",
+              "headers": {
+                "referer": "https://www.primevideo.com/",
+                "user_agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
               }
             },
             {
