@@ -284,14 +284,33 @@
           "image": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es"
         },
         {
+          "name": "GLOBO NEWS",
+          "url": "http://177.52.24.163/GLOBO-NEWS-HD/tracks-v1a1/mono.m3u8",
+          "image": "https://i.imgur.com/3yZyaCm.png"
+        },
+        {
           "name": "SBT",
-          "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-          "image": "https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&path-prefix=pt-br",
-          "license_type": "clearkey"
+          "url": "http://45.190.28.50/SBT_HD/index.m3u8",
+          "image": "https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&path-prefix=pt-br"
+        },
+        {
+          "name": "SBT NACIONAL",
+          "url": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
+          "image": "https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&path-prefix=pt-br"
+        },
+        {
+          "name": "SBT INTERIOR",
+          "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+          "image": "https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&path-prefix=pt-br"
+        },
+        {
+          "name": "SBT NEWS",
+          "url": "http://45.190.156.152/SBT_NEWS/index.m3u8",
+          "image": "https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&path-prefix=pt-br"
         },
         {
           "name": "RECORD TV",
-          "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8",
+          "url": "http://45.190.28.50/RECORD/index.m3u8",
           "image": "https://static.wikia.nocookie.net/telenovelas/images/a/a5/Logorecord.png/revision/latest?cb=20181016064409&path-prefix=es"
         },
         {
@@ -1865,11 +1884,7 @@
             {
               "name": "BAND SPORTS",
               "image": "https://i.ibb.co/WWrRh4X/Band-Sports.png",
-              "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=bandsports",
-              "headers": {
-                "User-Agent": "2.18.4 (Linux;Android 15) ExoPlayerLib/2.18.4",
-                "Referer": "https://streamrdc.xyz/"
-              }
+              "url": "http://45.190.28.50/BAND_SPORTS_HD/index.m3u8"
             },
             {
               "name": "GE TV",
@@ -2583,17 +2598,12 @@
             {
               "name": "NBC USA",
               "image": "https://i.ibb.co/ZdhGKSh/nbc.png",
-              "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(khnl)/master.mpd",
-              "license_type": "clearkey",
-              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"AEUqzTbyJIOyIwjwR5lIVA\",\"k\":\"l3iqMEw8g4WAx8Rdo0vEWw\"}],\"type\":\"temporary\"}",
-              "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-              }
+              "url": "http://206.212.244.63/4244/tracks-v1a1/mono.m3u8"
             },
             {
               "name": "Telemundo USA",
               "image": "https://i.ibb.co/8d3prMM/telemundo.png",
-              "url": "https://regionales.saohgdasregions.fun/stream.php?canal=telemundo51&target=1"
+              "url": "https://streaming.cnetplay.com/TELEMUNDOHD/tracks-v1a1/mono.ts.m3u8"
             },
             {
               "name": "TELEMUNDO PR",
