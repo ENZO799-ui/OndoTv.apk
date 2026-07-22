@@ -2037,8 +2037,13 @@
               }
             },
             {
+              "name": "PREMIERE CLUBES",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+              "url": "http://45.190.156.152/PREMIERE_CLUBES/index.m3u8"
+            },
+            {
               "name": "PREMIERE",
-              "image": "https://i.postimg.cc/Gt4Ht2d8/91Gia-Azh7GL-UR688-387-FMpng.png",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
               "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
               "license_type": "clearkey",
               "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VrecF4KzDmtvyXOw6P1BBA\",\"k\":\"+jiqqGWlftp8d0RGl7qO0w\"}],\"type\":\"temporary\"}",
@@ -2050,7 +2055,7 @@
             },
             {
               "name": "PREMIERE 2",
-              "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
               "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
               "license_type": "clearkey",
               "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ncQEYMkwh66oTWMV8I7LZA\",\"k\":\"9pyNRiT93/TKib0LMb3Epw\"}],\"type\":\"temporary\"}",
@@ -2062,7 +2067,7 @@
             },
             {
               "name": "PREMIERE 3",
-              "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
               "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
               "license_type": "clearkey",
               "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"0j90M3mKZSp9T2eR2eEDbA\",\"k\":\"SULuvVmLVyfFzEhMxitS6A\"}],\"type\":\"temporary\"}",
@@ -2074,7 +2079,7 @@
             },
             {
               "name": "PREMIERE 4",
-              "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
               "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
               "license_type": "clearkey",
               "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4jNlwq2XhwyHFxK3Pw1hlQ\",\"k\":\"WHCccUMgu4YtvQcnDfgclA\"}],\"type\":\"temporary\"}",
@@ -2086,7 +2091,7 @@
             },
             {
               "name": "PREMIERE 5",
-              "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
               "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
               "license_type": "clearkey",
               "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"My9i6zyugk6YpBJNopp9MQ\",\"k\":\"0WmM2j0ED5BRElphdFtZaw\"}],\"type\":\"temporary\"}",
@@ -2098,7 +2103,7 @@
             },
             {
               "name": "PREMIERE 6",
-              "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
               "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd",
               "license_type": "clearkey",
               "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VhuqiWdsicHQR+GFK6AcCQ\",\"k\":\"qMFXgm398SmaMpt34qtqGg\"}],\"type\":\"temporary\"}",
@@ -2110,7 +2115,7 @@
             },
             {
               "name": "PREMIERE 7",
-              "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
               "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd",
               "license_type": "clearkey",
               "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"nuNSqsftjuHLQs/fMiscsA\",\"k\":\"BT1jX8kOF1iBvvJs0p83Hg\"}],\"type\":\"temporary\"}",
@@ -2122,7 +2127,7 @@
             },
             {
               "name": "PREMIERE 8",
-              "image": "https://i.postimg.cc/XvnqFxn0/917di-M0-74L-UR688-387-FMpng.png",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
               "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
               "license_type": "clearkey",
               "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GfuEZBNllM4MZv41ieiO9A\",\"k\":\"ag78SoKh4Ifwk8Pl3j4qPg\"}],\"type\":\"temporary\"}",
@@ -2130,15 +2135,6 @@
                 "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
                 "Referer": "https://embedcanais.com/",
                 "Origin": "https://embedcanais.com"
-              }
-            },
-            {
-              "name": "COMBATE",
-              "image": "https://i.imgur.com/ZPYK5jr.png",
-              "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=combate",
-              "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-                "Referer": "https://streamrdc.xyz/"
               }
             },
             {
