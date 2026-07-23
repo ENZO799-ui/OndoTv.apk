@@ -1622,12 +1622,12 @@
         {
           "name": "ESPN DEPORTES",
           "image": "https://images.seeklogo.com/logo-png/26/1/espn-deportes-logo-png_seeklogo-261968.png",
-          "url": "https://bolaloca.my/player/2/71",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/71",
-            "Origin": "https://bolaloca.my"
-          }
+          "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8"
+        },
+        {
+          "name": "ESPN DEPORTES 2",
+          "image": "https://images.seeklogo.com/logo-png/26/1/espn-deportes-logo-png_seeklogo-261968.png",
+          "url": "https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8"
         },
         {
           "name": "ESPN PREMIUM AR",
