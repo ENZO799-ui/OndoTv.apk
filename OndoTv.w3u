@@ -896,7 +896,7 @@
           "name": "Argentinisima Satelital",
           "image": "https://geo.edge.pontiscloud.com:9002/images/4027/CH_LOGO/160/160/0/0/480102480757.png",
           "url": "https://stream1.sersat.com/hls/argentinisima.m3u8"
-        }
+        },
         {
           "name": "VOLVER",
           "image": "https://i.ibb.co/JHyJb6g/volver.png",
