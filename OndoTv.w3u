@@ -422,7 +422,7 @@
         },
         {
           "name": "TRECE",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/RPC_C4/SA_Live_dash_cenc/RPC_C4.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
           "image": "https://bestleague.world/img/trecepy.webp",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_cenc/RPC_C4.mpd",
@@ -434,7 +434,7 @@
         },
         {
           "name": "UNICANAL",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/UNICANAL_C4/SA_Live_dash_cenc/UNICANAL_C4.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
           "image": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_cenc/UNICANAL_C4.mpd",
