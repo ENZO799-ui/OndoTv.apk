@@ -848,67 +848,105 @@
       "name": "🎥PACK-HBO",
       "stations": [
         {
-          "name": "HBO 1",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
-          "image": "https://i.ibb.co/zfmjcgb/HBO.png",
+          "name": "HBO",
+          "image": "https://i.ibb.co/VjjgVWW/hbo.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_cenc/HBOHD.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"UxcoP0EQ-sP7Ogvs2fZIvA\",\"k\":\"B1SgPJJrEkchbgHZ28-sKA\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "HBO 2",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
-          "image": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
+          "image": "https://i.ibb.co/mRXxtcT/hbo2.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_cenc/HBO_2.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"yQzFetLENuWnfbL42dsthQ\",\"k\":\"BPbHOYS9z_0BMFBghJeTXQ\"}],\"type\":\"temporary\"}",
           "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
-          "name": "HBO XTREME",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
-          "image": "https://iptvstudio.pages.dev/logos/argentina/hboxtreme.png",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1QQBG770Z8DeOnU04wKm1A\",\"k\":\"M0ED4qvhb6p_mrLjCXxaWA\"}],\"type\":\"temporary\"}",
-          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "HBO FAMILY",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
-          "image": "https://i.ibb.co/ynkwLW3/hbofam.webp",
+          "image": "https://i.ibb.co/bJYvCRv/hbofamily.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_cenc/HBO_Family.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"U1RzEy9oCCFgtIlILKNfjg\",\"k\":\"6Q_ZH80_yAm-0rHA039ylw\"}],\"type\":\"temporary\"}",
           "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        },
-        {
-          "name": "HBO SIGNATURE",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
-          "image": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6GZJn7wRSfSZiWcgdao6aA\",\"k\":\"0t1clWI8Y0MkCYHCIC_DEQ\"}],\"type\":\"temporary\"}",
-          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "HBO MUNDI",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
-          "image": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
+          "image": "https://i.ibb.co/ZXhsTTP/hbomundi.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd?*",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_cenc/HBO_Mundi.mpd?*",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"eCGyZiFI_jM9UZGsu4pcHw\",\"k\":\"rkPz4lRSN-vaWLE4E7XTKA\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+        },
+        {
+          "name": "HBO PLUS",
+          "image": "https://i.ibb.co/4RvrQtL/hbomas.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_cenc/HBO_Plus.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"8Of31FiZDt-re5i0ElZGFQ\",\"k\":\"eSBXVLf4SmJmHC2-neXdXQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+        },
+        {
+          "name": "HBO POP",
+          "image": "https://i.ibb.co/7p0mzQW/hbopop.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_cenc/HBO_POP.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9OHOXO9-mhEP6Wj4iBsh-g\",\"k\":\"a74gYrFQsRSWzdX73ZyJ1g\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+        },
+        {
+          "name": "HBO SIGNATURE",
+          "image": "https://i.ibb.co/1zvrLR0/hbosignature.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_cenc/HBO_Signature.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6GZJn7wRSfSZiWcgdao6aA\",\"k\":\"0t1clWI8Y0MkCYHCIC_DEQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+        },
+        {
+          "name": "HBO XTREME",
+          "image": "https://i.ibb.co/WsV16kp/hboxtreme.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_cenc/HBO_Extreme.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1QQBG770Z8DeOnU04wKm1A\",\"k\":\"M0ED4qvhb6p_mrLjCXxaWA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
@@ -920,44 +958,65 @@
       "stations": [
         {
           "name": "UNIVERSAL CINEMA",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_{token}/live/c6eds/Universal_Cinema/SA_Live_dash_enc/Universal_Cinema.mpd",
-          "image": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
+          "image": "https://i.ibb.co/7R9vphx/unicinema.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Universal_Cinema/SA_Live_dash_enc/Universal_Cinema.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9q4uFxcwVeTKadwYljQGrg\",\"k\":\"WpVcKeuIoLTJolOMxLOuog\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+        },
+        {
+          "name": "UNIVERSAL COMEDY",
+          "image": "https://i.ibb.co/YLq4CZk/unicomedy.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_cenc/Universal_Comedy.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BixdJRBaOpNbZ-NpI8c_KA\",\"k\":\"iMLUzsQg8Y0kdxUsZseHDQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "UNIVERSAL CRIME",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd",
-          "image": "https://i.ibb.co/bR7xSJJv/1684337272706-universal-crime.png",
+          "image": "https://i.ibb.co/Pj1z13N/unicrime.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_cenc/universal_Crime.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Hv1-32DhUU93XdE9BGrnCA\",\"k\":\"wu8au9lFxiwRsTdeqqUPDQ\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
-          "name": "UNIVERSAL",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd",
-          "image": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
+          "name": "UNIVERSAL PREMIERE",
+          "image": "https://i.ibb.co/TLfZbYS/unipremiere.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd?*",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_cenc/Universal_Premiere.mpd?*",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"DrILUa0TtYrUF_ETGOWIsw\",\"k\":\"rV0poz1z0hGHFXgC3o5glw\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "UNIVERSAL REALITY",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd",
-          "image": "https://i.ibb.co/LGyMZY7/universal-reality-logo-png-seeklogo-527123.png",
+          "image": "https://i.ibb.co/Zz9MB5Y/unireality.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_cenc/Universal_Reality.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"zt2cGlwq5D-A7jGXISAW1g\",\"k\":\"v0ejw54WSpfqatxMjdV0NQ\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
@@ -970,217 +1029,260 @@
       "stations": [
         {
           "name": "GOLDEN",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
           "image": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_cenc/Golden.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"t9CF29RTmvzGpVRF77KwTg\",\"k\":\"ClX74ET-03nRYytYkmW1cQ\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "WARNER CHANNEL",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
-          "image": "https://i.ibb.co/jyK3gPh/0000-all-l-warner-logo-warner-2018-blanco-1.png",
+          "image": "https://i.ibb.co/xGcXKj5/warner-tv.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_cenc/WarnerHD.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BpvT8LbCeUZ-CFSfF79b0A\",\"k\":\"Wvp-Nppt4Qk4GKha-RKndQ\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "UNIVERSAL CHANNEL",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
           "image": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_cenc/Universal_Channel_HD.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"bPmhPW_WWg8uHO45aaq59Q\",\"k\":\"6mHDwa3ucbXC6XROQdS3Xw\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "TCM",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd",
           "image": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_cenc/TCM.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"pfRKXjBxTPO87nx_FaCLTg\",\"k\":\"w8FBrpQauXUDOcOvRaZc4g\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "STUDIO UNIVERSAL",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
           "image": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_cenc/Studio_Universal.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2bVB480GTVaYQ9pCeI1CYw\",\"k\":\"u6XSatUFH7Pyz3492KSn2A\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "CINECANAL",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd",
-          "image": "https://i.ibb.co/cvghCHq/cinecanal.png",
+          "image": "https://i.ibb.co/2hxpkFN/ar-cinecanal-1-m.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_cenc/CinecanalHD.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"YAPpLdDZ9UgykBXJ4V3VeA\",\"k\":\"ITz4XLX5_laXVwBKd-BZSA\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
-          "name": "TNT HD",
-          "url": "https://edge-live19-hr.cvattv.com.ar/tok_{token}/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd",
-          "image": "https://i.ibb.co/r2gYhQb/tnt-fundo-escuro.png",
+          "name": "TNT",
+          "image": "https://i.ibb.co/ZHPqHRZ/tnthd.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_cenc/TNT_HD_Arg.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"-q0XIqV19Nnse3dNtjyHnA\",\"k\":\"zwGEgwNEujatL_753S3Z0A\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "TNT SERIES",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd",
-          "image": "https://i.ibb.co/pJGxSPx/unnamed.png",
+          "image": "https://i.ibb.co/1MfdpmM/tntseries.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_cenc/TNTSeries.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"XBTWrrGb8RPt-Rp7VEJTyw\",\"k\":\"jXdtb5xchA6-iNdn3XMWkg\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "TNT NOVELAS",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
           "image": "https://i.ibb.co/jVMmjN6/descarga-8.png",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"SaAXmwNK6JnLZ9ilg0GBqg\",\"k\":\"SG4sbWmt6n4X8pYOjjZmEg\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
-          "name": "CINEMAX",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
-          "image": "https://i.ibb.co/dmgX2Ww/Cinemax-LA.png",
+          "name": "CINEMAX HD",
+          "image": "https://i.ibb.co/wzZgvLD/cinemax.webp",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
           "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9q4uFxcwVeTKadwYljQGrg\",\"k\":\"WpVcKeuIoLTJolOMxLOuog\"}],\"type\":\"temporary\"}",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_cenc/Cinemax.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"l3koqSuCujeBdBpkcPj0Ww\",\"k\":\"UfTmKCfBKPchC3mhFYdmGg\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
-          "name": "FX HD",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
-          "image": "https://i.ibb.co/5LvDcdV/587595.png",
+          "name": "FX",
+          "image": "https://i.ibb.co/4MpBMnc/channels4-profile-4.jpg",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_cenc/FXHD.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"mrnELHE-D7VRfcd8wZ1nVQ\",\"k\":\"2MJxuCOH5gm2wZ5eeSQK_w\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
-          "name": "SPACE HD",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
-          "image": "https://i.ibb.co/cYXCsHG/Captura-de-pantalla-2017-03-23-a-las-12-53-24.png",
+          "name": "SPACE",
+          "image": "https://i.ibb.co/YtxhdTM/co-space-hd.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_cenc/Space.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CULk7NG9NWfo-UR_RcIKEg\",\"k\":\"78piZPBM9zc94MMOx5_pCQ\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "STAR CHANNEL",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
-          "image": "https://i.ibb.co/McNjFxY/bb50999fb2860f8760ef4b22ef8bf09e.jpg",
+          "image": "https://i.ibb.co/VHFMnkP/star-channel.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_cenc/FOXHD.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"gCPoXvnRdWHuG0JBebGxXg\",\"k\":\"R3rRifH80rrsAmBoEH-GLw\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "SONY CHANNEL",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
-          "image": "https://i.ibb.co/jzDc2Vs/6065f6e153054c65152bddd6-sony.png",
+          "image": "https://i.ibb.co/HgyS8tL/sony-channel.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_cenc/SonyHD.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_ZYZ-dfC1RFaM5lBJ54LSw\",\"k\":\"v1VjXmWR-QVln6J6s8ooEg\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "AXN",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
-          "image": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg",
+          "image": "https://i.ibb.co/N1nyvmH/axn.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_cenc/AXNHD.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"A-d7W79RNahdWHxa8vL3MA\",\"k\":\"HdGrGTinkdA_CeuIR4tIgA\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "A&E",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
           "image": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_cenc/AEHD.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2xIDVieks9cZi3YfNrSikA\",\"k\":\"gMp2GodZkqwOULCFHVVj_g\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "AMC",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
-          "image": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg",
+          "image": "https://i.ibb.co/1TGDyyn/amc.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_cenc/AMC.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"H6aob9gLbRQl3edEgrXcnA\",\"k\":\"dEw2NtV6ZRq0RM-f5flbMw\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
-          "name": "A3SERIES",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd",
-          "image": "https://i.ibb.co/L6NV6Dy/720x540.jpg",
+          "name": "ATRESERIES",
+          "image": "https://i.ibb.co/4R0WQfr/a3s.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_cenc/A3_Series.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"XjTgiuWuRA8BoD5QXdJKVw\",\"k\":\"7TDMf1BAp11z9hkyAkknKw\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "COMEDY CENTRAL",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
-          "image": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png",
+          "image": "https://i.ibb.co/GM5tY4R/comedy-central.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_cenc/ComedyCentral.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"QBP3hMXvQxitRwJOYesJTg\",\"k\":\"utQzpUf5fH9lzaXoO43UFg\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
-          "name": "A3CINE",
-          "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTA5MjQ1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjlmMzY3MmQxMjMyZTM1ZCIsInNlc3Npb25faWQiOiI1M2ZhOTgzNDQxM2YxNGRjODA5NDFiZmJiNjZhYmViNS0xNzgzNzM2NDQ1LTY1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjUzZmE5ODM0NDEzZjE0ZGM4MDk0MWJmYmI2NmFiZWI1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.B--t3k_TkIrPIZAhjD2m4AJAveK8zO-NCRHl9iAbdV5Wf6BUEto8AVp2KEpryiYsRHUgcJlIj7VOVdEvRUzdHg==/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd",
+          "name": "ATRESCINE",
           "image": "https://i.ibb.co/RgWH92w/720x540-1.jpg",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_cenc/A3_Cine.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1v-IGm8HmGqA1q1vBBtX1A\",\"k\":\"tAHIfCqxGhpIjuHEdLEJrg\"}],\"type\":\"temporary\"}",
           "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
@@ -1192,12 +1294,33 @@
       "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/kids-logo-design-template-46b9961baa65f413cdc04949d473531a_screen.jpg?ts=1618238434",
       "stations": [
         {
-          "name": "Tooncast",
+          "name": "TOONCAST SD",
           "url": "https://regionales.saohgdasregions.fun/stream.php?canal=tooncast&target=1",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYoLEgi4WLSAlC2OJodDQEJcYl22HSzFBrk3SD6eBZDQ&s=10"
         },
         {
+          "name": "TOONCAST HD",
+          "image": "https://i.ibb.co/8bgMYCy/tooncast.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_cenc/Tooncast.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"EGOKci61TGS_sOendINoag\",\"k\":\"QafT1SLhkhW36PYRtpAtYQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+        },
+        {
           "name": "Clan ES",
+          "image": "https://i.postimg.cc/cL8vJm6W/clan-2026-worldtv2.png",
+          "url": "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
+          }
+        },
+        {
+          "name": "Clan INT",
           "image": "https://i.postimg.cc/cL8vJm6W/clan-2026-worldtv2.png",
           "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8",
           "headers": {
@@ -1205,34 +1328,95 @@
           }
         },
         {
-          "name": "Disney Channel SD",
+          "name": "DISNEY CHANNEL",
           "image": "https://i.ibb.co/vdfh1bd/disney-channel.png",
-          "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8"
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_cenc/DisneyChannelHD.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"SnQuR40UAj4Zk-AR2UFflA\",\"k\":\"Dfd-3pvHRDdoNtIa-hN92g\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
-          "name": "Disney Channel HD",
-          "url": "https://regionales.saohgdasregions.fun/stream.php?canal=disneychannel&target=1",
-          "image": "https://i.ibb.co/vdfh1bd/disney-channel.png"
-        },
-        {
-          "name": "Disney Jr. ",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/4140286707756.png",
-          "url": "http://179.60.51.134:8888/DISNEY-JR/index.m3u8"
+          "name": "DISNEY JR.",
+          "image": "https://i.ibb.co/KjzPznS/Disney-Jr.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_cenc/DisneyJr.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vSnEpTjyiEXOM1gREXSUKA\",\"k\":\"RtlYn0GhHDY3wHxgSVberA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "NICKELODEON",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/160/160/0/0/70239189071229.png",
-          "url": "http://179.60.51.134:8888/NICK/index.m3u8"
+          "image": "https://i.ibb.co/KN9K9xN/nickelodeon.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_cenc/Nickelodeon.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"YcGM7-zC0Ge-qp_xgTBTRQ\",\"k\":\"ONb2UMv5o4_Z81wB-Y5keg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
-          "name": "NICK JR",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
-          "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8"
+          "name": "NICK JR.",
+          "image": "https://i.ibb.co/CQvYQWW/nick-jr.webp",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_cenc/Nick_Jr.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6CSyJ3qG_WrfxAqpSOUGSg\",\"k\":\"KNotu-jhoUY7uyOJW5Iggw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
-          "name": "Cartoon Network",
-          "url": "https://regionales.saohgdasregions.fun/stream.php?canal=cartoonnetwork&target=1",
-          "image": "https://1000marcas.net/wp-content/uploads/2020/03/Cartoon-Network-logo.jpg"
+          "name": "CARTOON NETWORK",
+          "image": "https://i.ibb.co/C2PTPBd/cartoon-network.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_cenc/CartoonNetwork.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"199W76o2pxFB0jiFTMRtHQ\",\"k\":\"irsu6RUNiyr46-wN4PgzyA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+        },
+        {
+          "name": "CARTOONITO",
+          "image": "https://i.ibb.co/rx04nzW/cartoonito.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_cenc/Boomerang.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"V5LmE_zraZx5y8DnX-TNNw\",\"k\":\"pnJ5NzBHbtI-XBvOL_Vwxg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+        },
+        {
+          "name": "DISCOVERY KIDS",
+          "image": "https://i.ibb.co/sQVsMMN/discovery-kids.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_cenc/Discovery_Kids.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_7Lw9jwjo1ktRlPpOLnKGQ\",\"k\":\"02Ya6IH8Vfx6FYFc1Dl0ew\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "CANELA KIDS",
