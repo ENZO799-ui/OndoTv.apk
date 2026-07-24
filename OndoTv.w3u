@@ -2578,7 +2578,7 @@
             {
               "name": "COMBATE",
               "image": "https://i.imgur.com/ZPYK5jr.png",
-              "url": "http://45.190.156.152/COMBATE/tracks-v1a1/mono.m3u8"
+              "url": "http://143.14.134.107/167/index.m3u8"
             },
             {
               "name": "CAZE TV",
@@ -2648,11 +2648,6 @@
                 "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
                 "Referer": "https://www.primevideo.com/"
               }
-            },
-            {
-              "name": "PREMIERE CLUBES",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-              "url": "http://45.190.156.152/PREMIERE_CLUBES/index.m3u8"
             },
             {
               "name": "PREMIERE",
