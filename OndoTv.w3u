@@ -70,6 +70,30 @@
       "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
       "stations": [
         {
+          "name": "Primera División, Clausura - CS 2 de Mayo Vs Rubio Ñu",
+          "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+          "options": [
+            {
+              "name": "HD STREAM ",
+              "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+              "url": "https://streamx488.sbs/global1.php?channel=fanatiz1",
+              "license_type": "webvideo"
+            }
+          ]
+        },
+        {
+          "name": "Primera División, Clausura - Cerro Porteño Vs Sportivo Trinidense",
+          "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+          "options": [
+            {
+              "name": "FANATIZ HD ",
+              "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+              "url": "https://streamx488.sbs/global1.php?channel=fanatiz4",
+              "license_type": "webvideo"
+            }
+          ]
+        },
+        {
           "name": "En Vivo",
           "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
           "url": "http://185.194.204.72:8260/live/CATV10/index.m3u8"
