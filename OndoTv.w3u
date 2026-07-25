@@ -2062,11 +2062,10 @@
       ]
     },
     {
-      "name": "DEPORTES LATINO",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEAO5oRlxrxyB_zGeylSJIP541y-6IQgUHg&s",
+      "name": "DEPORTES PREMIUN",
       "stations": [
         {
-          "name": "CLARO SPORTS LATAM EN VIVO",
+          "name": "CLARO SPORTS",
           "image": "https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png",
           "url": "https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd",
           "headers": {
@@ -2075,375 +2074,6 @@
             "Origin": "https://www.cdnclaroamx.com"
           }
         },
-        {
-          "name": "DSports",
-          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RbvVgvIg9Dj4lkUNgwaj8g\",\"k\":\"WCxrp/ZLvA8tkcawwmV2DA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-          }
-        },
-        {
-          "name": "DSports DAZN",
-          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"-DaFPY6sGURu2VNfX8VosQ\",\"k\":\"s7xe8AYCspq6x-SC09n78w\"}],\"type\":\"temporary\"}",
-            "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "DSports GEO",
-          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"p9EdN6H3YR7ojU24gBcfMg\",\"k\":\"aPltYYsLlWsAjERYlqJaeQ\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-          }
-        },
-        {
-          "name": "DSports2",
-          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
-          "url": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"A/Etaj2/06b6fdf2QX4MEQ\",\"k\":\"6ge4es3y5FvoJM3koc81BA\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-          }
-        },
-        {
-          "name": "DSports+",
-          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
-          "url": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"g/gcTMFEOZFUPeTiLup1hg\",\"k\":\"3f18plPW81VD2O2zxojiDw\"}],\"type\":\"temporary\"}",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-          }
-        },
-        {
-          "name": "PLUTO FUTBOL",
-          "image": "https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png",
-          "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8"
-        },
-        {
-          "name": "PLUTO DEPORTES",
-          "image": "https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png",
-          "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
-        },
-        {
-          "name": "ESPN",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
-          "url": "https://bolaloca.my/player/2/87",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/87",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "ESPN 2",
-          "image": "https://images.seeklogo.com/logo-png/4/1/espn-2-logo-png_seeklogo-49202.png",
-          "url": "https://bolaloca.my/player/2/88",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/88",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "ESPN 3",
-          "image": "https://logodix.com/logo/1599250.png",
-          "url": "https://bolaloca.my/player/2/89",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/89",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "ESPN 4",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
-          "url": "https://bolaloca.my/player/2/90",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/90",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "ESPN 5",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
-          "url": "https://bolaloca.my/player/2/91",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/91",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "ESPN 6",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
-          "url": "https://bolaloca.my/player/2/92",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/92",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "ESPN 7",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
-          "url": "https://bolaloca.my/player/2/93",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/93",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "ESPN DEPORTES",
-          "image": "https://images.seeklogo.com/logo-png/26/1/espn-deportes-logo-png_seeklogo-261968.png",
-          "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8"
-        },
-        {
-          "name": "ESPN DEPORTES 2",
-          "image": "https://images.seeklogo.com/logo-png/26/1/espn-deportes-logo-png_seeklogo-261968.png",
-          "url": "https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8"
-        },
-        {
-          "name": "ESPN PREMIUM AR",
-          "image": "https://cdn.storage.foromedios.com/monthly_2022_05/837767101_ESPNPremium(10).thumb.png.7b760af4908388e4ef1e793583699676.png",
-          "url": "https://bolaloca.my/player/2/76",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/76https://bolaloca.my/player/2/76",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "FOX SPORTS AR",
-          "image": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-          "url": "https://bolaloca.my/player/2/78",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/78",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "FOX SPORTS 2 AR",
-          "image": "https://images.seeklogo.com/logo-png/36/1/fox-sports-2-logo-png_seeklogo-369602.png",
-          "url": "https://bolaloca.my/player/2/79",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/79",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "FOX SPORTS 3",
-          "image": "https://images.seeklogo.com/logo-png/51/1/fox-sports-3-logo-png_seeklogo-510012.png",
-          "url": "https://bolaloca.my/player/2/80",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/80",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "FOX SPORTS MX",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
-          "url": "https://bolaloca.my/player/2/101",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/101",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "FOX SPORTS 2 MX",
-          "image": "https://i.imgur.com/oG7HzEf.png",
-          "url": "https://bolaloca.my/player/2/102",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/102",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "FOX SPORTS 3 MX",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png",
-          "url": "https://bolaloca.my/player/2/103",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/103",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "FOX DEPORTES USA",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
-          "url": "https://bolaloca.my/player/2/70",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/70",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "TNT SPORTS AR",
-          "image": "https://images.seeklogo.com/logo-png/48/1/tnt-sports-logo-png_seeklogo-486966.png",
-          "url": "https://bolaloca.my/player/2/83",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/83",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "TNT SPORTS AR OP2",
-          "image": "https://images.seeklogo.com/logo-png/48/1/tnt-sports-logo-png_seeklogo-486966.png",
-          "url": "https://bolaloca.my/player/2/75",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/75",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "TYC SPORTS",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ds2GmHN-BS49BRXK6uSGp3etxt-3hdWiMhdxewfaHA&s=10",
-          "url": "http://45.181.87.106/TYCSPORTSHD/index.m3u8"
-        },
-        {
-          "name": "TYC SPORTS FAN",
-          "image": "https://freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2Ff9ed6770-e2fe-4147-81f6-a083cf6390d4-1771856213.119908.256x256.jpg&w=128&q=75",
-          "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
-        },
-        {
-          "name": "BEIN SPORTS Ñ",
-          "image": "https://i.imgur.com/J5aurrb.png",
-          "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/69.m3u8"
-        },
-        {
-          "name": "BEIN SPORTS XTRA Ñ",
-          "image": "https://i.imgur.com/V562tpO.png",
-          "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
-        },
-        {
-          "name": "WIN+",
-          "image": "https://static.wikia.nocookie.net/logopedia/images/c/c1/Win%2BF%C3%BAtbol.png",
-          "url": "https://bolaloca.my/player/2/81",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/81",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "Win sports",
-          "image": "https://images.seeklogo.com/logo-png/64/1/win-sports-logo-png_seeklogo-644046.png",
-          "url": "https://bolaloca.my/player/2/82",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/82",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "Dsports",
-          "image": "https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg",
-          "url": "https://bolaloca.my/player/2/94",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/94",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "Dsports 2",
-          "image": "https://bestleague.world/img/dsports2.webp",
-          "url": "https://bolaloca.my/player/2/95",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/95",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "Dsports plus",
-          "image": "https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg",
-          "url": "https://bolaloca.my/player/2/96",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/96",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "TUDN",
-          "image": "https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp",
-          "url": "https://bolaloca.my/player/2/106",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/106",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "TUDN USA",
-          "image": "https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp",
-          "url": "https://bolaloca.my/player/2/68",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/68",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "UNIVERSO",
-          "image": "https://static.wikia.nocookie.net/logopedia/images/8/88/Universo_2017.svg/revision/latest/scale-to-width-down/300?cb=20221201134348&path-prefix=es",
-          "url": "https://bolaloca.my/player/2/72",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/72",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "TELEAMAZONAS",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png",
-          "url": "https://bolaloca.my/player/2/85",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/85",
-            "Origin": "https://bolaloca.my"
-          }
-        },
-        {
-          "name": "LIGA 1 MAX",
-          "image": "https://static.wikia.nocookie.net/logopedia/images/f/f6/L1_Max_logo_2024.svg/revision/latest/scale-to-width-down/334?cb=20240224044423&path-prefix=es",
-          "url": "https://bolaloca.my/player/2/84",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://bolaloca.my/player/2/84",
-            "Origin": "https://bolaloca.my"
-          }
-        }
-      ]
-    },
-    {
-      "name": "DEPORTES PREMIUN (AVECES NO ANDAN)",
-      "stations": [
         {
           "name": "TNT SPORTS PREMIUM",
           "image": "https://i.ibb.co/zGzJ3jw/tnt-sports-premium.png",
@@ -2481,6 +2111,21 @@
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
+        },
+        {
+          "name": "TYC SPORTS FAN",
+          "image": "https://freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2Ff9ed6770-e2fe-4147-81f6-a083cf6390d4-1771856213.119908.256x256.jpg&w=128&q=75",
+          "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+        },
+        {
+          "name": "PLUTO TV FUTBOL",
+          "image": "https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8"
+        },
+        {
+          "name": "PLUTO TV DEPORTES",
+          "image": "https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
         },
         {
           "name": "ESPN PREMIUM",
@@ -2626,14 +2271,32 @@
           }
         },
         {
+          "name": "BEIN SPORTS XTRA Ñ",
+          "image": "https://i.imgur.com/V562tpO.png",
+          "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
+        },
+        {
           "name": "TUDN",
-          "image": "https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp",
-          "url": "https://embed.ksdjugfsddeports.com/embed2/tudn.php"
+          "image": "https://i.imgur.com/oT5CAvd.png",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"djzh68ryNQLIzzV8bvQj4Q\",\"k\":\"DF5sCCCh6ih1NyHbACckEQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
         },
         {
           "name": "NBA",
-          "image": "https://i.ibb.co/82QvHTH/ar-nba-tv.png",
-          "url": "https://embed.ksdjugfsddeports.com/embed2/nba.php"
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_cenc/NBA_TV.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"0MON48mETk6fl13_s-_4rQ\",\"k\":\"FByg_fbrrfpxB1drjgnhFw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         }
       ]
     },
