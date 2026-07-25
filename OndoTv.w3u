@@ -786,7 +786,7 @@
         },
         {
           "name": "TELEFE NACIONAL",
-          "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/tracks-v1a1/mono.m3u8",
+          "url": "http://200.91.32.158:8080/telefehdvalle/tracks-v1a1/mono.ts.m3u8",
           "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png"
         },
         {
