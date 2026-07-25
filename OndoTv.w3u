@@ -1607,7 +1607,7 @@
         },
         {
           "name": "CARTOON NETWORK",
-          "image": "https://i.ibb.co/C2PTPBd/cartoon-network.png",
+          "image": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2845/2845WHORIZONTAL.jpg?size=290x163",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_cenc/CartoonNetwork.mpd",
@@ -2415,7 +2415,7 @@
         },
         {
           "name": "TYC SPORTS",
-          "image": "https://i.ibb.co/tK20mxz/tycsports.png",
+          "image": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/311/311WHORIZONTAL.jpg?size=290x163",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_cenc/TyCSport.mpd",
@@ -2428,7 +2428,7 @@
         },
         {
           "name": "TYC SPORTS INTERNACIONAL",
-          "image": "https://i.ibb.co/tK20mxz/tycsports.png",
+          "image": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/311/311WHORIZONTAL.jpg?size=290x163",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_cenc/TyC_Internacional.mpd",
