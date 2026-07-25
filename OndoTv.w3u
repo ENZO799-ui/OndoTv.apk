@@ -1379,7 +1379,7 @@
         },
         {
           "name": "SONY CHANNEL",
-          "image": "https://i.ibb.co/HgyS8tL/sony-channel.png",
+          "image": "https://pelisjuanita.com/tv/logos/sony-channel.png",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_cenc/SonyHD.mpd",
@@ -1389,6 +1389,16 @@
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
+        },
+        {
+          "name": "SONY CINE",
+          "image": "https://pelisjuanita.com/tv/logos/sony-cine.png",
+          "url": "https://a-cdn.klowdtv.com/803B48A/a-klowdtv.com/live1/cine_720p/playlist.m3u8"
+        },
+        {
+          "name": "SONY NOVELAS",
+          "image": "https://pelisjuanita.com/tv/logos/sony-novelas.png",
+          "url": "https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8"
         },
         {
           "name": "AXN",
