@@ -70,21 +70,27 @@
       "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
       "stations": [
         {
-          "name": "Primera División, Clausura - CS 2 de Mayo Vs Rubio Ñu",
+          "name": "Primera División",
           "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
           "options": [
             {
-              "name": "HD STREAM ",
+              "name": "HD STREAM",
               "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
               "url": "https://streamx488.sbs/global1.php?channel=fanatiz1",
               "license_type": "webvideo"
-            }
-          ]
-        },
-        {
-          "name": "Primera División, Clausura - Cerro Porteño Vs Sportivo Trinidense",
-          "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-          "options": [
+            },
+            {
+              "name": "HD STREAM 2",
+              "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+              "url": "https://streamx488.sbs/global1.php?channel=fanatiz2",
+              "license_type": "webvideo"
+            },
+            {
+              "name": "HD STREAM 3",
+              "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+              "url": "https://streamx488.sbs/global1.php?channel=fanatiz2",
+              "license_type": "webvideo"
+            },
             {
               "name": "FANATIZ HD ",
               "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
