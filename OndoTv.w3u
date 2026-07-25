@@ -88,13 +88,49 @@
             {
               "name": "HD STREAM 3",
               "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-              "url": "https://streamx488.sbs/global1.php?channel=fanatiz2",
+              "url": "https://streamx488.sbs/global1.php?channel=fanatiz3",
               "license_type": "webvideo"
             },
             {
-              "name": "FANATIZ HD ",
+              "name": "FANATIZ HD",
               "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
               "url": "https://streamx488.sbs/global1.php?channel=fanatiz4",
+              "license_type": "webvideo"
+            },
+            {
+              "name": "FANATIZ HD 2",
+              "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+              "url": "https://streamx488.sbs/global1.php?channel=fanatiz5",
+              "license_type": "webvideo"
+            },
+            {
+              "name": "FANATIZ HD 3",
+              "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+              "url": "https://streamx488.sbs/global1.php?channel=fanatiz6",
+              "license_type": "webvideo"
+            },
+            {
+              "name": "FANATIZ HD 4",
+              "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+              "url": "https://streamx488.sbs/global1.php?channel=fanatiz7",
+              "license_type": "webvideo"
+            },
+            {
+              "name": "HD STREAM 5",
+              "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+              "url": "https://streamx488.sbs/global1.php?channel=fanatiz8",
+              "license_type": "webvideo"
+            },
+            {
+              "name": "FANATIZ HD 6",
+              "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+              "url": "https://streamx488.sbs/global1.php?channel=fanatiz9",
+              "license_type": "webvideo"
+            },
+            {
+              "name": "FANATIZ HD 7",
+              "image": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+              "url": "https://streamx488.sbs/global1.php?channel=fanatiz10",
               "license_type": "webvideo"
             }
           ]
@@ -102,10 +138,17 @@
         {
           "name": "En Vivo",
           "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
-          "url": "http://185.194.204.72:8260/live/CATV10/index.m3u8"
+          "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
+          "license_type": "HLS"
         },
         {
           "name": "En Vivo 2",
+          "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
+          "url": "http://185.194.204.72:8260/live/CATV10/index.m3u8",
+          "license_type": "HLS"
+        },
+        {
+          "name": "En Vivo 3",
           "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
           "url": "https://live.enhdtv.com:8081/8160/index.m3u8"
         },
