@@ -2274,6 +2274,21 @@
           "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
         },
         {
+          "name": "DAZN LALIGA",
+          "image": "https://i.postimg.cc/qRkxSrkG/768px-DAZN-La-Liga-logo-svg.png",
+          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=daznlaliga&target=2"
+        },
+        {
+          "name": "M+ LALIGA",
+          "image": "http://www.movistarplus.es/recorte/m-DPBLAN/sammos/MLIGA",
+          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=movistarlaliga&target=2"
+        },
+        {
+          "name": "M+ LIGA DE CAMPEONES",
+          "image": "http://www.movistarplus.es/recorte/m-DPBLAN/sammos/CHAPIO",
+          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=movistarligadecampeones&target=2"
+        },
+        {
           "name": "TUDN",
           "image": "https://i.imgur.com/oT5CAvd.png",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
