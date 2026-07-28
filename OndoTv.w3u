@@ -596,10 +596,9 @@
         },
         {
           "name": "5 DIAS PY",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
+          "url": "https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_cenc/5_Dias_PY.mpd",
           "image": "https://i.ibb.co/Pg6v5zn/images.png",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_cenc/5_Dias_PY.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dGCRxQLtzx6dADU1zgHz5A\",\"k\":\"KQgbX5LRo3yI-70OzlXIOQ\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
