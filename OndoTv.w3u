@@ -493,7 +493,7 @@
         {
           "name": "SNT",
           "image": "https://bestleague.world/img/snt.webp",
-          "url": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8"
+          "url": "https://dp7xchau0hnq3.cloudfront.net/index.m3u8"
         },
         {
           "name": "TELEFUTURO",
@@ -581,7 +581,7 @@
         {
           "name": "C9N",
           "image": "https://bestleague.world/img/c9n.png",
-          "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8"
+          "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8"
         },
         {
           "name": "GEN TV",
