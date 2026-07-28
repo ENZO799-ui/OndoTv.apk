@@ -551,7 +551,7 @@
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
           "image": "https://i.ibb.co/dGqjksf/descarga.png",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_cenc/ABC_TV_C4.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"wL73VzOyZFRSQyvU52829Q\",\"k\":\"6hYkM2fYFMHVPx6vIfAF_w\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -599,7 +599,7 @@
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
           "image": "https://i.ibb.co/Pg6v5zn/images.png",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_cenc/5_Dias_PY.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dGCRxQLtzx6dADU1zgHz5A\",\"k\":\"KQgbX5LRo3yI-70OzlXIOQ\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -612,7 +612,7 @@
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
           "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_cenc/SUR_TV_C4.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"mIrk6ECJgWCd7Z-LI7v3nQ\",\"k\":\"uGfGZ5G8rWfuFCvh4hwldw\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -622,10 +622,10 @@
         },
         {
           "name": "PARAVISION",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/PARAVISION_C4/SA_Live_dash_cenc/PARAVISION_C4.mpd",
           "image": "https://iptvstudio.pages.dev/logos/paraguay/paravision.png",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_cenc/PARAVISION_C4.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vY6MmzLvAn6P9P8M_OhVpA\",\"k\":\"KRjpiTtXDD-h8hW1KhLMkQ\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -635,10 +635,10 @@
         },
         {
           "name": "POPU TV",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Universo/SA_Live_dash_cenc/Universo.mpd",
           "image": "https://www.popular.com.py/wp-content/themes/popu/assets/img/popu-tv.png",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_cenc/Universo.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"QcpUd9swSNv3MfwSYEx1BA\",\"k\":\"bH6OlqhjM8v7R3HL_p9rSw\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
