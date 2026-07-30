@@ -758,7 +758,7 @@
           "token": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_cenc/Eventos_PY.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"K9/DDyp1keEH2MhEWMOV3Q\",\"k\":\"3O4NZCC2tZf7oV08RBGnHg\"}],\"type\":\"temporary\"}",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 16; SM-A165M Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
@@ -771,7 +771,7 @@
           "token": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_cenc/Eventos2_PY.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CQDOZrgt4P0Hqo8SpI8pog\",\"k\":\"5VVtumiP2mNzdKtch9fNpg\"}],\"type\":\"temporary\"}",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 16; SM-A165M Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
