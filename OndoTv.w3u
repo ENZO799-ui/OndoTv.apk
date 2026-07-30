@@ -548,7 +548,7 @@
         },
         {
           "name": "ABC PY",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c5eds/ABC_TV_C4/SA_Live_dash_cenc/ABC_TV_C4.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
           "image": "https://i.ibb.co/dGqjksf/descarga.png",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_cenc/ABC_TV_C4.mpd",
@@ -596,39 +596,39 @@
         },
         {
           "name": "SUR TV",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/SUR_TV_C4/SA_Live_dash_cenc/SUR_TV_C4.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
           "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_cenc/SUR_TV_C4.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"mIrk6ECJgWCd7Z-LI7v3nQ\",\"k\":\"uGfGZ5G8rWfuFCvh4hwldw\"}],\"type\":\"temporary\"}",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 16; SM-A165M Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "PARAVISION",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/PARAVISION_C4/SA_Live_dash_cenc/PARAVISION_C4.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
           "image": "https://iptvstudio.pages.dev/logos/paraguay/paravision.png",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_cenc/PARAVISION_C4.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vY6MmzLvAn6P9P8M_OhVpA\",\"k\":\"KRjpiTtXDD-h8hW1KhLMkQ\"}],\"type\":\"temporary\"}",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 16; SM-A165M Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
         {
           "name": "POPU TV",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Universo/SA_Live_dash_cenc/Universo.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
           "image": "https://www.popular.com.py/wp-content/themes/popu/assets/img/popu-tv.png",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_cenc/Universo.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"QcpUd9swSNv3MfwSYEx1BA\",\"k\":\"bH6OlqhjM8v7R3HL_p9rSw\"}],\"type\":\"temporary\"}",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 16; SM-A165M Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
@@ -736,7 +736,7 @@
         {
           "name": "FLOW EVENTOS PY",
           "image": "https://i.postimg.cc/4dwrVjq5/flow.png",
-          "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd",
+          "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_cenc/Eventos_PY.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"K9/DDyp1keEH2MhEWMOV3Q\",\"k\":\"3O4NZCC2tZf7oV08RBGnHg\"}],\"type\":\"temporary\"}",
           "headers": {
@@ -748,7 +748,7 @@
         {
           "name": "FLOW EVENTOS 2 PY",
           "image": "https://i.postimg.cc/4dwrVjq5/flow.png",
-          "url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc_C/Eventos2_PY.mpd",
+          "url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_cenc/Eventos2_PY.mpd",
           "license_type": "clearkey",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CQDOZrgt4P0Hqo8SpI8pog\",\"k\":\"5VVtumiP2mNzdKtch9fNpg\"}],\"type\":\"temporary\"}",
           "headers": {
