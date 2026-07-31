@@ -517,7 +517,7 @@
         {
           "name": "SNT",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
-          "image": "https://bestleague.world/img/trecepy.webp",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_cenc/SNT_C4.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"n2HczoccxBrrIG0FAo_DCg\",\"k\":\"n2JIGUo79eNblrGU6GJGkw\"}],\"type\":\"temporary\"}",
