@@ -626,7 +626,7 @@
         },
         {
           "name": "GEN",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live//c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
           "image": "https://bestleague.world/img/genpy.png",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_cenc/GEN_TV.mpd",
