@@ -517,7 +517,7 @@
         {
           "name": "SNT",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
-          "image": "https://iptvstudio.pages.dev/logos/paraguay/snt.png",
+          "image": "https://bestleague.world/img/trecepy.webp",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_cenc/SNT_C4.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"n2HczoccxBrrIG0FAo_DCg\",\"k\":\"n2JIGUo79eNblrGU6GJGkw\"}],\"type\":\"temporary\"}",
@@ -613,13 +613,29 @@
         },
         {
           "name": "C9N",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
           "image": "https://bestleague.world/img/c9n.png",
-          "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8"
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_cenc/C9N_C4.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ZGcA7rFMrfoFQ6IM9BPTfg\",\"k\":\"T8A3xGICN2RiTYRGRCy7yg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
-          "name": "GEN TV",
+          "name": "GEN",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
           "image": "https://bestleague.world/img/genpy.png",
-          "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8"
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_cenc/GEN_TV.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"SeuSS6mYyn-7ruMNzvHstA\",\"k\":\"bhMbBLLodZj7WIrCBWc2mA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "LA TELE",
@@ -726,11 +742,6 @@
           "url": "https://rds3gen.desdeparaguay.net/caritastv/caritastv/chunklist.m3u8"
         },
         {
-          "name": "GOTV",
-          "image": "https://i.ibb.co/jkvYVyz/Captura.png",
-          "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
-        },
-        {
           "name": "BRUNO MASI TV",
           "image": "https://i.ibb.co/pK5SNMT/bruno-masi-tv.png",
           "url": "https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
@@ -763,7 +774,7 @@
         {
           "name": "FLOW EVENTOS PY",
           "image": "https://i.ibb.co/YLjMyFx/evento30hd.png",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Eventos_PY/SA_Live_dash_cenc/Eventos_PY.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_cenc/Eventos_PY.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"K9/DDyp1keEH2MhEWMOV3Q\",\"k\":\"3O4NZCC2tZf7oV08RBGnHg\"}],\"type\":\"temporary\"}",
@@ -776,7 +787,7 @@
         {
           "name": "FLOW EVENTOS 2 PY",
           "image": "https://i.ibb.co/C0xQZQ3/evento230hd.png",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Eventos2_PY/SA_Live_dash_cenc/Eventos2_PY.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_cenc/Eventos2_PY.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CQDOZrgt4P0Hqo8SpI8pog\",\"k\":\"5VVtumiP2mNzdKtch9fNpg\"}],\"type\":\"temporary\"}",
