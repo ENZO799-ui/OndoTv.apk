@@ -318,7 +318,15 @@
         {
           "name": "CANAL 5",
           "image": "https://pbs.twimg.com/profile_images/1923331092339154944/euZMnOVL_400x400.png",
-          "url": "https://tinyurl.com/canal5uy"
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_cenc/TV_Nacional_Uy.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"xQUY1/WfTAqpowef4rAU/Q\",\"k\":\"lgOPdqK6M4ZupU60smBXPw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "TV CIUDAD",
@@ -762,9 +770,17 @@
           "url": "https://stream.farra.com.py/live/farra_low.m3u8"
         },
         {
-          "name": "America Paraguay",
-          "image": "https://i.ibb.co/cNXpgSJ/america.png",
-          "url": "http://24.152.42.29:8000/play/a08f/index.m3u8?hls"
+          "name": "AMERICA PY",
+          "image": "https://i.imgur.com/rCEu3fM.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_cenc/America_PY.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"TkoYdHTejimoUH1JbIpZTw\",\"k\":\"2qtczzBtZ3SXQPfOAsB4UA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "A24 Paraguay",
