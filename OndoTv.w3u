@@ -224,6 +224,38 @@
       ]
     },
     {
+      "name": "⚽EVENTOS FLOW COPA DEL REY⚽",
+      "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
+      "stations": [
+        {
+          "name": "EVENTOS FLOW 1",
+          "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_cenc/Eventos1HD.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"XIbiNzF8IjGsG8Ew6ZX61g\",\"k\":\"3Kz3sjnua9PzacoR283k6w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+          }
+        },
+        {
+          "name": "EVENTOS FLOW 2",
+          "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_cenc/Eventos_2_HD.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"5U6eqHpjRlj7ug44CqcBpw\",\"k\":\"TkhtJdfQ59ExdDsoWWPGQw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+          }
+        }
+      ]
+    },
+    {
       "name": "URUGUAY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJJA4VvhUyIwYRfXwVnQrUbZVll98eBSuiJCeKw7W3pg&s",
       "stations": [
