@@ -2174,6 +2174,11 @@
           "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8"
         },
         {
+          "name": "CHILEVISION DEPORTES",
+          "image": "https://cdn.m3u.cl/logo/1763_CHV_Deportes.png",
+          "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8"
+        },
+        {
           "name": "PLUTO TV DEPORTES",
           "image": "https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png",
           "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
