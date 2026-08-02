@@ -168,62 +168,6 @@
       ]
     },
     {
-      "name": "DISNEY+ EVENTOS",
-      "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-      "stations": [
-        {
-          "name": "DISNEY EVENT  1",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://streamtp.sbs/global1.php?stream=disney1",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp.sbs/global1.php?stream=disney1",
-            "Origin": "https://streamtp.sbs"
-          }
-        },
-        {
-          "name": "DISNEY EVENT  2",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://streamtp.sbs/global1.php?stream=disney2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp.sbs/global1.php?stream=disney2",
-            "Origin": "https://streamtp.sbs"
-          }
-        },
-        {
-          "name": "DISNEY EVENT 3",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://streamtp.sbs/global1.php?stream=disney3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp.sbs/global1.php?stream=disney3",
-            "Origin": "https://streamtp.sbs"
-          }
-        },
-        {
-          "name": "DISNEY EVENT 4",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://streamtp.sbs/global1.php?stream=disney4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp.sbs/global1.php?stream=disney4",
-            "Origin": "https://streamtp.sbs"
-          }
-        },
-        {
-          "name": "DISNEY EVENT 5",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://streamtp.sbs/global1.php?stream=disney5",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp.sbs/global1.php?stream=disney5",
-            "Origin": "https://streamtp.sbs"
-          }
-        }
-      ]
-    },
-    {
       "name": "⚽EVENTOS FLOW COPA DEL REY⚽",
       "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
       "stations": [
