@@ -845,10 +845,10 @@
         {
           "name": "TELEFE",
           "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_cenc/Canal_8_CBA.mpd",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"EDziFLTQTI603UNnDpVtrQ\",\"k\":\"IOAwV2uNxN8NHGjhavO8Dw\"}],\"type\":\"temporary\"}",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_cenc/TelefeHD.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"POwbHql5ndpVluZPN-XtIA\",\"k\":\"xp86_eIIXcqq3b9VJGoDIw\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -864,6 +864,19 @@
           "name": "TELEFE INTERIOR",
           "url": "http://200.91.32.158:8080/telefehdvalle/index.m3u8",
           "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png"
+        },
+        {
+          "name": "TELEFE CORDOBA",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_cenc/Canal_8_CBA.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"EDziFLTQTI603UNnDpVtrQ\",\"k\":\"IOAwV2uNxN8NHGjhavO8Dw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "TELEFE SANTA FE",
