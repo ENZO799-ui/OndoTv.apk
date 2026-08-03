@@ -2174,11 +2174,6 @@
           "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8"
         },
         {
-          "name": "CHILEVISION DEPORTES",
-          "image": "https://cdn.m3u.cl/logo/1763_CHV_Deportes.png",
-          "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8"
-        },
-        {
           "name": "PLUTO TV DEPORTES",
           "image": "https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png",
           "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
@@ -2286,31 +2281,6 @@
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
-        },
-        {
-          "name": "ESPN MX",
-          "image": "https://www.librefutbol2.com/imge/espnmexico.webp",
-          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=espnmexico&target=1"
-        },
-        {
-          "name": "ESPN 2 MX",
-          "image": "https://www.librefutbol2.com/imge/espn2mexico.webp",
-          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=espn2mexico&target=1"
-        },
-        {
-          "name": "ESPN 3 MX",
-          "image": "https://www.librefutbol2.com/imge/espn3mexico.webp",
-          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=espn3mexico&target=1"
-        },
-        {
-          "name": "ESPN 4 MX",
-          "image": "https://www.librefutbol2.com/imge/espn4mexico.webp",
-          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=espn4mexico&target=1"
-        },
-        {
-          "name": "ESPN 5 MX",
-          "image": "https://www.librefutbol2.com/imge/espn5mexico.webp",
-          "url": "https://deportes.ksdjugfsddeports.com/stream.php?canal=espn5mexico&target=1"
         },
         {
           "name": "FOX SPORTS",
