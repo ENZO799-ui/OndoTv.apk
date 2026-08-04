@@ -630,7 +630,7 @@
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_cenc/TV_Camara.mpd",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"k1dwSt5ETcOyO iYZa8vWA\",\"k\":\"PQPgp52Pe3qiiXw9JL1Lag\"}],\"type\":\"temporary\"}",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"k1dwSt5ETcOyO+iYZa8vWA\",\"k\":\"PQPgp52Pe3qiiXw9JL1Lag\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -939,7 +939,7 @@
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/out/v1/Telefe_Tend/SA_Live_dash_enc/TELEFE.mpd",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"QbiT6KevQ mUPn1UoCxOYA\",\"k\":\"C5Z/C6m1Q7jayKuYFLeXDg\"}],\"type\":\"temporary\"}",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"QbiT6KevQ+mUPn1UoCxOYA\",\"k\":\"C5Z/C6m1Q7jayKuYFLeXDg\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -1060,7 +1060,7 @@
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/out/v1/C5N_Tend/SA_Live_dash_enc/C5N.mpd",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"j  9rceETkaVL7AyDHdpLQ\",\"k\":\"gXHsXCsEgzz8gc8qcQB1PQ\"}],\"type\":\"temporary\"}",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BQ31xueMd054w-me74obKQ\",\"k\":\"DkFB1qsho2y8Tad3qzCW1A\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -1169,7 +1169,7 @@
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_cenc/DNews.mpd",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"IVY9gs 3/dGLIT8L2SonTw\",\"k\":\"WUDY0LV7nmUz6ZzA578vjg\"}],\"type\":\"temporary\"}",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"IVY9gs+3/dGLIT8L2SonTw\",\"k\":\"WUDY0LV7nmUz6ZzA578vjg\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
