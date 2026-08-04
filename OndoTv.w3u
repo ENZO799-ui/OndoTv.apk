@@ -921,7 +921,7 @@
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/out/v1/Telefe_Tend/SA_Live_dash_enc/TELEFE.mpd",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"QbiT6KevQ mUPn1UoCxOYA\",\"k\":\"C5Z/C6m1Q7jayKuYFLeXDg\"}],\"type\":\"temporary\"}",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"QbiT6KevQ+mUPn1UoCxOYA\",\"k\":\"C5Z/C6m1Q7jayKuYFLeXDg\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -1057,9 +1057,8 @@
         {
           "name": "C5N YouTube",
           "image": "https://i.ibb.co/L6qCp0d/c5n.png",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/out/v1/C5N_Tend/SA_Live_dash_enc/C5N.mpd",
+          "url": "https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BQ31xueMd054w-me74obKQ\",\"k\":\"DkFB1qsho2y8Tad3qzCW1A\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
