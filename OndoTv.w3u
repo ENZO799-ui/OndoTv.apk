@@ -388,7 +388,7 @@
           "image": "",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_cenc/Bandeirantes.mpd",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"C09W1cGbRfs dac7bsBubA\",\"k\":\"xGTitt7StS4ed1OzqFmrzg\"}],\"type\":\"temporary\"}",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"C09W1cGbRfs+dac7bsBubA\",\"k\":\"xGTitt7StS4ed1OzqFmrzg\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -397,13 +397,33 @@
         },
         {
           "name": "GLOBO",
-          "url": "https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8",
-          "image": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es"
+          "url": "http://138.255.2.6:8084/GLOBOHD/index.m3u8",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png"
+        },
+        {
+          "name": "GLOBO R.D.J",
+          "url": "http://45.190.28.50/GLOBO_HD/index.m3u8",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png"
+        },
+        {
+          "name": "GLOBO SAO PAULO",
+          "url": "http://170.84.165.204/Globo_HD/index.m3u8",
+          "image": "https://i.imgur.com/OoSUg78.png"
         },
         {
           "name": "GLOBO NEWS",
           "url": "http://177.52.24.163/GLOBO-NEWS-HD/tracks-v1a1/mono.m3u8",
           "image": "https://i.imgur.com/3yZyaCm.png"
+        },
+        {
+          "name": "TV FRONTEIRA",
+          "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8",
+          "image": "https://i.imgur.com/NtcoW6G.png"
+        },
+        {
+          "name": "TV BAHIA",
+          "url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+          "image": "https://i.imgur.com/sJOrvHg.png"
         },
         {
           "name": "SBT",
@@ -456,7 +476,7 @@
           "image": "https://i.imgur.com/sz9gTTr.png",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c3eds/Rede_Record/SA_Live_dash_cenc/Rede_Record.mpd",
-          "license_key": "",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"sL2OoRs/TCGZAwhe8dRLDQ\",\"k\":\"miVwmnLCypPLc4Zlc2z6Wg\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -484,9 +504,24 @@
           "image": "https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoSVG.svg"
         },
         {
+          "name": "FUTURA",
+          "url": "http://168.197.104.22:80/FUTURA/index.m3u8",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png"
+        },
+        {
+          "name": "FUTURA HD",
+          "url": "http://170.83.49.66:8083/FUTURAHD/index.m3u8",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png"
+        },
+        {
           "name": "REDE MINAS BR",
           "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w115990305_b2771072.m3u8",
           "image": "https://i.postimg.cc/85wczdN9/download-32.png"
+        },
+        {
+          "name": "TV MORENA",
+          "url": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8",
+          "image": "https://i.imgur.com/AJ0xqPT.png"
         },
         {
           "name": "TV MAIS BR",
@@ -882,7 +917,7 @@
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/TV_Publica_Internacional/SA_Live_dash_enc/TV_Publica_Internacional.mpd",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/SA_Live_dash_cenc/TV_Publica_Internacional.mpd",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"LwyBRhrfRSCXHPRe5QNtkQ\",\"k\":\"PmtXidCZzbPhkkhr6mJ6BQ\"}],\"type\":\"temporary\"}",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CYM7v8h6zTpQmlfnW0037w\",\"k\":\"E5BsaEnAyB3kld3ZU5dl/g\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -1059,7 +1094,7 @@
           "image": "https://i.ibb.co/L6qCp0d/c5n.png",
           "url": "https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd",
           "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"BQ31xueMd054w-me74obKQ\",\"k\":\"DkFB1qsho2y8Tad3qzCW1A\"}],\"type\":\"temporary\"}",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"j++9rceETkaVL7AyDHdpLQ\",\"k\":\"gXHsXCsEgzz8gc8qcQB1PQ\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -1174,6 +1209,26 @@
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
+        },
+        {
+          "name": "EL PAIS",
+          "url": "https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8",
+          "image": "https://i.ytimg.com/vi/4MrSOuQGmeU/hqdefault.jpg"
+        },
+        {
+          "name": "TELEMUNDO NOTICIAS",
+          "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8",
+          "image": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png"
+        },
+        {
+          "name": "BBC News",
+          "url": "http://103.213.31.109:90/BBCNewsHD/playlist.m3u8",
+          "image": "https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "CNN EN ESPAÑOL",
+          "url": "http://200.125.170.122:8000/play/a0d7/index.m3u8",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png"
         },
         {
           "name": "LATAM RURAL",
