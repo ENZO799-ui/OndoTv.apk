@@ -1123,6 +1123,101 @@
       ]
     },
     {
+      "name": "CHILE",
+      "stations": [
+        {
+          "name": "CHILEVISION",
+          "url": "http://15.204.246.24:8080/CHVHD/index.m3u8",
+          "image": "https://i.ibb.co/B27gzhQd/R-3.png"
+        },
+        {
+          "name": "MEGA",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
+          "image": "https://i.ibb.co/kgdYmTbh/R-2.png"
+        },
+        {
+          "name": "MEGA 2",
+          "url": "http://15.204.246.24:8080/Mega2HD/index.m3u8",
+          "image": "https://i.ibb.co/kgdYmTbh/R-2.png"
+        },
+        {
+          "name": "EL TRECE",
+          "url": "http://179.57.171.184:8000/play/a00m",
+          "image": "https://i.ibb.co/bgkRhzM9/canal-13-chile-2018-logo-8-FA6-D195-CE-seeklogo-com.png"
+        },
+        {
+          "name": "24 HORAS",
+          "url": "http://38.156.13.106:8888/play/a05i/index.m3u8",
+          "image": "https://i.ibb.co/tTDmPhDv/dg8on2q-2167626c-4296-4dfa-8320-de9a9521b103.png"
+        },
+        {
+          "name": "TVN",
+          "url": "https://marine2.miplay.cl:443/tvnchile/tracks-v1a1/mono.m3u8",
+          "image": "https://i.ibb.co/qnw8XDw/Logotipo-de-Televisi-n-Nacional-de-Chile.png"
+        },
+        {
+          "name": "ANTOFAGASTA TV",
+          "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+          "image": "https://i.ibb.co/MxSnqF3D/Logos-canales-150x80-03-300x160.png"
+        },
+        {
+          "name": "CNN CHILE",
+          "url": "https://jireh-6-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8?dpssid=55d2a33681917e2f59e1c5892457ff6b&sid=ba5t1l1xb21675155147673ace6c9b300&ndvc=0",
+          "image": "https://i.ibb.co/znyk1NW/cnn.png"
+        },
+        {
+          "name": "BIO BIO TV",
+          "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?did=b21378984870673ace8b76a45",
+          "image": "https://i.ibb.co/gZ5BbRN9/radio-biobio-logo-dark.png"
+        },
+        {
+          "name": "PORTAL TV",
+          "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
+          "image": "https://i.ibb.co/PvpSWFpC/R-4.png"
+        },
+        {
+          "name": "STGO TV",
+          "url": "https://stv4.janus.cl/playlist/stream.m3u8",
+          "image": "https://i.ibb.co/G3ccB8xK/logo-Header.png"
+        },
+        {
+          "name": "TELETRAK",
+          "url": "https://teletraktv.janus.cl/playlist/stream.m3u8",
+          "image": "https://i.ibb.co/WvX3zcC/teletrack.png"
+        },
+        {
+          "name": "TV SENADO",
+          "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+          "image": "https://iptvstudio.pages.dev/logos/chile/tvsenado.png"
+        },
+        {
+          "name": "TVEX",
+          "url": "https://v2.tustreaming.cl/tevex/index.m3u8",
+          "image": "https://i.ibb.co/MDdFmxd7/logo-tevex-nuevo-2.png"
+        },
+        {
+          "name": "UESTV",
+          "url": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8",
+          "image": "https://i.ibb.co/d0p2B9TG/logo-UESTV-1080x1055.png"
+        },
+        {
+          "name": "TVR",
+          "url": "https://redirector.dps.live/hls/tvr/playlist.m3u8",
+          "image": "https://i.ibb.co/mrpXfL9m/R.png"
+        },
+        {
+          "name": "NUEVO TIEMPO",
+          "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
+          "image": "https://i.ibb.co/TMGJfpqN/Novo-Tempo-Logo-Vector-svg.png"
+        },
+        {
+          "name": "CLICKTV",
+          "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+          "image": "https://i.ibb.co/gZqHJMrp/clicktv.png"
+        }
+      ]
+    },
+    {
       "name": "INTERNACIONAL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VewDlI9FBpmGCCtPDesBWGlyyDpMxqJZWA&s",
       "stations": [
