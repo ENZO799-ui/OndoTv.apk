@@ -1142,8 +1142,13 @@
         },
         {
           "name": "EL TRECE",
-          "url": "http://179.57.171.184:8000/play/a00m",
+          "url": "https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8",
           "image": "https://i.ibb.co/bgkRhzM9/canal-13-chile-2018-logo-8-FA6-D195-CE-seeklogo-com.png"
+        },
+        {
+          "name": "T13",
+          "url": "https://redirector.dps.live/hls/t13/playlist.m3u8",
+          "image": "https://i.imgur.com/2Vlkl2x.png"
         },
         {
           "name": "24 HORAS",
