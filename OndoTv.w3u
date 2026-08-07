@@ -1129,6 +1129,10 @@
           "name": "CHILEVISION",
           "url": "http://15.204.246.24:8080/CHVHD/index.m3u8",
           "image": "https://i.ibb.co/B27gzhQd/R-3.png"
+        },        {
+          "name": "TV CHILE",
+          "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
+          "image": "https://i.imgur.com/oYFto0V.png"
         },
         {
           "name": "MEGA",
@@ -1157,7 +1161,7 @@
         },
         {
           "name": "TVN",
-          "url": "https://marine2.miplay.cl:443/tvnchile/tracks-v1a1/mono.m3u8",
+          "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8",
           "image": "https://i.ibb.co/qnw8XDw/Logotipo-de-Televisi-n-Nacional-de-Chile.png"
         },
         {
@@ -1172,7 +1176,7 @@
         },
         {
           "name": "BIO BIO TV",
-          "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?did=b21378984870673ace8b76a45",
+          "url": "https://redirector.dps.live/hls/bbtv/playlist.m3u8",
           "image": "https://i.ibb.co/gZ5BbRN9/radio-biobio-logo-dark.png"
         },
         {
@@ -1212,7 +1216,7 @@
         },
         {
           "name": "NUEVO TIEMPO",
-          "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
+          "url": "https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8",
           "image": "https://i.ibb.co/TMGJfpqN/Novo-Tempo-Logo-Vector-svg.png"
         },
         {
@@ -2415,6 +2419,11 @@
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
+        },
+        {
+          "name": "ESPN DEPORTES",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
+          "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8"
         },
         {
           "name": "ESPN",
