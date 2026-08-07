@@ -2380,6 +2380,16 @@
           "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
         },
         {
+          "name": "BEIN SPORTS Ñ",
+          "image": "https://i.imgur.com/J5aurrb.png",
+          "url": "https://la18hd.su/vivo/canales.php?stream=beinsportes",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://la18hd.su/vivo/canales.php?stream=beinsportes",
+            "Origin": "https://la18hd.su"
+          }
+        },
+        {
           "name": "BEIN SPORTS XTRA Ñ",
           "image": "https://i.imgur.com/V562tpO.png",
           "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
