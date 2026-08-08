@@ -77,12 +77,29 @@
           "license_key": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0"
         },
         {
+          "name": "EVENTOS 2 HD",
+          "image": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
+          "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://dl.dropboxusercontent.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0"
+        },
+        {
           "name": "En Vivo",
           "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
           "url": "http://45.170.130.224:8000/play/a04i/index.m3u8"
         },
         {
           "name": "En Vivo 2",
+          "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
+          "url": "https://live.enhdtv.com:8081/8222/index.m3u8"
+        },
+        {
+          "name": "En Vivo 3",
+          "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
+          "url": "https://live.enhdtv.com:8081/8266/index.m3u8"
+        },
+        {
+          "name": "En Vivo 4",
           "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
           "url": "https://live.enhdtv.com:8081/8160/index.m3u8"
         },
