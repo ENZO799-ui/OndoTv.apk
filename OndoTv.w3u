@@ -84,56 +84,6 @@
           "license_key": "https://dl.dropboxusercontent.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0"
         },
         {
-          "name": "EVENTOS 3 HD",
-          "image": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-          "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a7881cfd2/rolling-buffer/APP_CHN1/APP_CHN1/transmux/index.mpd?ccur_pg=primary",
-          "headers": {
-            "Origin": "https://www.tigosports.com.py",
-            "Referer": "https://www.tigosports.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "EVENTOS 4 HD",
-          "image": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-          "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a7881cfd2/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd?ccur_pg=primary",
-          "headers": {
-            "Origin": "https://www.tigosports.com.py",
-            "Referer": "https://www.tigosports.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "EVENTOS 5 HD",
-          "image": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-          "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a7881cfd2/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd?ccur_pg=primary",
-          "headers": {
-            "Origin": "https://www.tigosports.com.py",
-            "Referer": "https://www.tigosports.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "EVENTOS 6 HD",
-          "image": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-          "url": "https://opchannel01.tigosports.com.py/ccur-session/6a787cb0d0/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd?ccur_pg=primary",
-          "headers": {
-            "Origin": "https://www.tigosports.com.py",
-            "Referer": "https://www.tigosports.com.py/",
-            "User-Agent": "Mozilla//5.0 (Windows NT 10.0; Win64; x64) AppleWebKit//537.36 (KHTML, like Gecko) Chrome//147.0.0.0 Safari//537.36"
-          }
-        },
-        {
-          "name": "EVENTOS 7 HD",
-          "image": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-          "url": "https://opchannel01.tigosports.com.py/ccur-session/6a787cb0d0/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd?ccur_pg=primary",
-          "headers": {
-            "Origin": "https://www.tigosports.com.py",
-            "Referer": "https://www.tigosports.com.py/",
-            "User-Agent": "Mozilla//5.0 (Windows NT 10.0; Win64; x64) AppleWebKit//537.36 (KHTML, like Gecko) Chrome//147.0.0.0 Safari//537.36"
-          }
-        },
-        {
           "name": "En Vivo",
           "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
           "url": "http://45.170.130.224:8000/play/a04i/index.m3u8"
