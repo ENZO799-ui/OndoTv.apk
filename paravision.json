@@ -1,1 +1,1 @@
-{ "keys":[ { "kty":"oct", "k":"6hYkM2fYFMHVPx6vIfAF/w\", "kid":"wL73VzOyZFRSQyvU52829Q\" } ], "type":"temporary" }
+{\"keys\":[{\"kty\":\"oct\",\"kid\":\"wL73VzOyZFRSQyvU52829Q\",\"k\":\"6hYkM2fYFMHVPx6vIfAF/w\"}],\"type\":\"temporary\"}
