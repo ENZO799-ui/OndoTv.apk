@@ -96,11 +96,6 @@
         {
           "name": "En Vivo 3",
           "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
-          "url": "https://live.enhdtv.com:8081/8266/index.m3u8"
-        },
-        {
-          "name": "En Vivo 4",
-          "image": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
           "url": "https://live.enhdtv.com:8081/8160/index.m3u8"
         },
         {
