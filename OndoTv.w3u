@@ -4174,7 +4174,6 @@
         {
           "name": "FLOW MUSIC 2",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd",
-          "drm_scheme": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_cenc/Flow_Music_1.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"80zXcJ8JPSPU2wCRB9loYg\",\"k\":\"2KgpE42XC0XoZ8lzOjGy8A\"}],\"type\":\"temporary\"}",
           "image": "https://i.ibb.co/hB8Tgvz/flow-music-1.png",
@@ -4182,7 +4181,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "license_type": "clearkey"
         },
         {
           "name": "FLOW MUSIC 3",
@@ -4397,7 +4397,7 @@
           "url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
         },
         {
-          "name": " Karaoke Por Stingray",
+          "name": "Karaoke Por Stingray",
           "image": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
           "url": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8"
         },
