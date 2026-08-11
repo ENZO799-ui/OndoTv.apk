@@ -4175,6 +4175,7 @@
           "name": "FLOW MUSIC 2",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd",
           "drm_scheme": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_cenc/Flow_Music_1.mpd",
           "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"80zXcJ8JPSPU2wCRB9loYg\",\"k\":\"2KgpE42XC0XoZ8lzOjGy8A\"}],\"type\":\"temporary\"}",
           "image": "https://i.ibb.co/hB8Tgvz/flow-music-1.png",
           "headers": {
@@ -4182,7 +4183,6 @@
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           },
-          "token": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_cenc/Flow_Music_1.mpd"
         },
         {
           "name": "FLOW MUSIC 3",
@@ -4198,9 +4198,19 @@
           }
         },
         {
+          "name": "KBS WORLD K-POP",
+          "image": "https://yt3.ggpht.com/ytc/AIdro_kWAyYX8IuruW0YuQuEK6Jn-cfqZZ8oFZCcpy7HnzB3C_FA=s88-c-k-c0x00ffffff-no-rj",
+          "url": "https://www.youtube-nocookie.com/embed/F9wSag_AEnI?playlist=F9wSag_AEnI&autoplay=1&iv_load_policy=3&loop=1&start=",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
+            "Referer": "https://www.youtube.com/watch?v=F9wSag_AEnI",
+            "Origin": "https://www.youtube.com/"
+          }
+        },
+        {
           "name": "MTV LIVE",
-          "image": "https://is.gd/h4WXiH?.png",
-          "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_MTV_LIVE/tracks-v1a1/mono.m3u8"
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg",
+          "url": "http://23.237.104.106:8080/USA_MTV_LIVE/tracks-v1a1/mono.m3u8"
         },
         {
           "name": "MTV Biggest Pop",
@@ -4289,50 +4299,6 @@
           "headers": {
             "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2",
             "Referer": "https://webtv.sk/"
-          }
-        },
-        {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"DxvhDQUZ4MRTEF8BMZ_kBw\",\"k\":\"mXbZG_zcfdIUjTaviQJ3Yg\"}],\"type\":\"temporary\"}",
-          "name": "Mi Musica Romantica",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png",
-          "url": "https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd?",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
-        },
-        {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"0oj8LaAznJz6F4vkoHxM0g\",\"k\":\"wOJbXTC2gpsVJm6EgHoMpg\"}],\"type\":\"temporary\"}",
-          "name": "Mi Musica Reggaetoon",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/160/160/0/0/11385912076761.png",
-          "url": "https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd?",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
-        },
-        {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"IkbHR-X04dwFUFDReGGJNQ\",\"k\":\"xsKmaTvsBZ687XiNCdJx8w\"}],\"type\":\"temporary\"}",
-          "name": "Mi Musica Hits",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png",
-          "url": "https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
-        },
-        {
-          "license_type": "clearkey",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"xvCysBQgB7hiTeDC1TliyA\",\"k\":\"Rrj7cT_dCaHFW4W2-K2cnA\"}],\"type\":\"temporary\"}",
-          "name": "Mi Musica K-Pop",
-          "image": "https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png",
-          "url": "https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
           }
         },
         {
