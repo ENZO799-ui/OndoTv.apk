@@ -2749,8 +2749,7 @@
      {
       "name": "GPTV",
       "image": "https://i.ibb.co/5gR3ZQKg/image.png",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE].m3u8",
-      "type": "hls"
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE].m3u8"
     },
     {
       "name": "PLUS + TV",
@@ -2760,38 +2759,32 @@
     {
       "name": "Rally Tv",
       "image": "https://i.ibb.co/r1gcP2y/image.png",
-      "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
-      "type": "hls"
+      "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8"
     },
     {
       "name": "F1 Tv",
       "image": "https://i.ibb.co/M3Hd6vN/image.png",
-      "url": "https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8",
-      "type": "hls"
+      "url": "https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8"
     },
     {
       "name": "Nascar",
       "image": "https://i.ibb.co/200mKsrT/image.png",
-      "url": "https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8",
-      "type": "hls"
+      "url": "https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8"
     },
     {
       "name": "Speed Sport",
       "image": "https://i.ibb.co/RpXS2q5Y/image.png",
-      "url": "https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8",
-      "type": "hls"
+      "url": "https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8"
     },
     {
       "name": "Garage Tv",
       "image": "https://i.ibb.co/xKgNJsSr/image.png",
-      "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
-      "type": "hls"
+      "url": "https://stream1.sersat.com/hls/garagetv.m3u8"
     },
     {
       "name": "Motor Vision",
       "image": "https://i.ibb.co/0pT7WFQ2/image.png",
-      "url": "https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8",
-      "type": "hls"
+      "url": "https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8"
     }
    ]
   },
