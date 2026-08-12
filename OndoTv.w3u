@@ -101,10 +101,10 @@
         {
           "name": "VS SPORTS",
           "image": "https://yt3.googleusercontent.com/ocGBV0__RCpVxkRB6TljzVu0l2WLun9mzU_eVcvBAc3GoDYe6I0yCNrPN2dPdS4TrftmJYcl64Q=s160-c-k-c0x00ffffff-no-rj",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Nickmusic/SA_Live_dash_enc/Nickmusic.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_cenc/Nickmusic.mpd",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6ubBLMqzSeauZ1q27YpHbA\",\"k\":\"Sk_YbqnbRBfshsI30xEbGA\"}],\"type\":\"temporary\"}",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_cenc/GEN__CAM1.mpd",
+          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
