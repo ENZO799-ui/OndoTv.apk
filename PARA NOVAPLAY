@@ -30,14 +30,6 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         },
         {
-          "name": "TIGO SPORTS 3",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/004.webp",
-          "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-          "info": "EVENTOS 3",
-          "license_type": "clearkey",
-          "license_key": "https://dl.dropboxusercontent.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0"
-        },
-        {
           "name": "NOVASPORTS",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/003.webp",
           "url": "https://lbgo.bozztv.com/ssh101/ssh101/adadasdasda/playlist.m3u8",
@@ -63,9 +55,9 @@
         {
           "name": "GEN",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/006.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_cenc/GEN_TV.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_GenPY",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -74,9 +66,9 @@
         {
           "name": "POPU TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/007.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_cenc/Universo.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_PopuPY",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -85,9 +77,9 @@
         {
           "name": "TRECE PY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/008.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_cenc/RPC_C4.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -96,9 +88,9 @@
         {
           "name": "UNICANAL PY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/009.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_cenc/UNICANAL_C4.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -107,13 +99,11 @@
         {
           "name": "TELEFUTURO",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/010.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
           "url2": "https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
           "url3": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
-          "url4": "http://138.59.227.20:8000/play/a0fh/index.m3u8",
-          "url5": "http://138.59.227.20:8000/play/a0ff/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_cenc/TELEFUTURO_C4.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefuturoPY",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -122,10 +112,10 @@
         {
           "name": "SNT",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/011.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
-          "url2": "https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+          "url2": "",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_cenc/SNT_C4.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SNTPY",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -134,10 +124,10 @@
         {
           "name": "C9N",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/012.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
-          "url2": "https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/medialist_15609871089997455276_hls.m3u8",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+          "url2": "",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_cenc/C9N_C4.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_C9NPY",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -146,10 +136,9 @@
         {
           "name": "PARAVISION",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/013.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
-          "url2": "http://138.59.227.20:8000/play/a0e4/index.m3u8",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_cenc/PARAVISION_C4.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Paravision",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -159,9 +148,8 @@
           "name": "ABC COLOR PY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/014.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
-          "url2": "http://138.59.227.20:8000/play/a0g6/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_cenc/ABC_TV_C4.mpd",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ABCPY_ONLYPERSONAL",
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
@@ -170,11 +158,10 @@
         {
           "name": "LA TELE",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/015.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
-          "url2": "http://138.59.227.20:8000/play/a0fi/index.m3u8",
-          "url3": "http://138.59.227.20:8000/play/a0fg/index.m3u8",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
+          "url2": "",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_cenc/LA_TELE_C4.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_LaTelePY",
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
@@ -183,11 +170,9 @@
         {
           "name": "SUR TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/016.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
-          "url2": "http://138.59.227.20:8000/play/a0fi/index.m3u8",
-          "url3": "http://138.59.227.20:8000/play/a0fg/index.m3u8",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_cenc/SUR_TV_C4.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SurTVPY",
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
@@ -196,9 +181,9 @@
         {
           "name": "AMERICA PY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/017.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_cenc//America_PY.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_AmericaPY",
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
@@ -207,9 +192,9 @@
         {
           "name": "5DIAS PY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/018.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_cenc/5_Dias_PY.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_5diasPy",
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
@@ -218,10 +203,9 @@
         {
           "name": "NPY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/019.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
-          "url2": "http://138.59.227.20:8000/play/a0fm/index.m3u8",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_cenc/NOTICIAS_PY_C4.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_NPY",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -230,10 +214,9 @@
         {
           "name": "CANAL PRO",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/020.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
-          "url2": "http://138.59.227.20:8000/play/a0fn/index.m3u8",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_cenc/Canal_PRO.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_CANALPROPY",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -242,10 +225,9 @@
         {
           "name": "MEGATV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/021.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
-          "url2": "http://138.59.227.20:8000/play/a0fm/index.m3u8",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_cenc/Mega_TV.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_MEGATVPY",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -254,10 +236,9 @@
         {
           "name": "PARAGUAY TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/022.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
-          "url2": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_cenc/Paraguay_TV.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ParaguayTV",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -266,10 +247,9 @@
         {
           "name": "HEI NOW",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/023.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc/HEI_NOW.mpd",
-          "url2": "https://tigocloud.desdeparaguay.net/heitv/heitv_py_baja/playlist.m3u8?admin=nacion",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/HEI_NOW/SA_Live_dash_enc/HEI_NOW.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_cenc/HEI_NOW.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_HeiNow",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -278,10 +258,9 @@
         {
           "name": "ÑANDUTI TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/024.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_enc/Nanduti_Py.mpd",
-          "url2": "https://nanduti.b-cdn.net/480p.m3u8",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Nanduti_Py/SA_Live_dash_enc/Nanduti_Py.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_cenc/Nanduti_Py.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_-ANDUTIPY",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -290,11 +269,10 @@
         {
           "name": "VENUS MEDIA ",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/025.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Venus_Media/SA_Live_dash_enc/Venus_Media.mpd",
-          "url2": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w531747868.m3u8?admin=nacion",
-          "url3": "http://138.59.227.20:8000/play/a0fc/index.m3u8",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Venus_Media/SA_Live_dash_enc/Venus_Media.mpd",
+          "url2": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/chunklist.m3u8?admin=nacion",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Venus_Media/SA_Live_dash_cenc/Venus_Media.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VenusMedia",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -303,9 +281,9 @@
         {
           "name": "UNION TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/026.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/UnionTV/SA_Live_dash_enc/UnionTV.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/UnionTV/SA_Live_dash_enc/UnionTV.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/UnionTV/SA_Live_dash_cenc/UnionTV.mpd",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_UnionTv",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -314,9 +292,10 @@
         {
           "name": "TV CAMARA",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/027.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
           "flow": "yes",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live//SA_Live_dash_cenc/.mpd",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TvCamaraPy",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
@@ -331,7 +310,6 @@
           "name": "ROCK & POP PY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/029.webp",
           "url": "https://rockandpop.b-cdn.net/480p.m3u8",
-          "status": "false",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
         },
         {
@@ -363,8 +341,7 @@
         {
           "name": "FARRATV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/035.webp",
-          "url": "http://159.203.148.226/live/farra_src.m3u8",
-          "url2": "http://138.59.227.20:8000/play/a0gj/index.m3u8"
+          "url": "http://159.203.148.226/live/farra_src.m3u8"
         },
         {
           "name": "XPRESSTV",
@@ -379,8 +356,7 @@
         {
           "name": "REGIONAL TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/038.webp",
-          "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
-          "texto": "INTERCABLE - INTERFLASH"
+          "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8"
         },
         {
           "name": "ASPEN TV",
@@ -395,39 +371,32 @@
         {
           "name": "VISION TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/041.webp",
-          "url": "https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist_w1906112169.m3u8?admin=nacion",
-          "info": "97.5 FM"
+          "url": "https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion"
         },
         {
           "name": "REPUBLICA FM TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/042.webp",
-          "url": "https://tigocloud.desdeparaguay.net/republicatv/republicatv/index.m3u8",
-          "texto": "RADIO - TV 101.3 FM"
+          "url": "https://tigocloud.desdeparaguay.net/republicatv/republicatv/index.m3u8"
         },
         {
           "name": "CANAL 8",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/043.webp",
-          "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
-          "url2": "http://138.59.227.20:8000/play/a0fy/index.m3u8",
-          "texto": "Conectados con la Realidad"
+          "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8"
         },
         {
           "name": "RED DIGITAL",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/044.webp",
-          "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
-          "texto": "RADIO ONE - SAN PEDRO"
+          "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8"
         },
         {
           "name": "TV AIRE",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/045.webp",
-          "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-          "texto": "RADIO 104.3"
+          "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8"
         },
         {
           "name": "MONUMENTAL TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/046.webp",
-          "url": "https://tigocloud.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
-          "texto": "SEÑAL TV Y RADIO"
+          "url": "https://tigocloud.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion"
         },
         {
           "name": "COSMOS TV-RADIO",
