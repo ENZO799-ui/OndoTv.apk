@@ -47,7 +47,6 @@
           "name": "VS SPORTS",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/005.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY",
           "Origin": "https://portal.app.flow.com.ar",
