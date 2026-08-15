@@ -16,18 +16,22 @@
           "info": "EVENTOS 1",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TIGOSPORTSEVENTOS1",
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://www.tigosports.com.py",
+            "Referer": "https://www.tigosports.com.py/"
+          }
         },
         {
           "name": "TIGO SPORTS 2",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/002.webp",
           "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index.m3u8",
           "info": "EVENTOS 2",
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://www.tigosports.com.py",
+            "Referer": "https://www.tigosports.com.py/"
+          }
         },
         {
           "name": "NOVASPORTS",
@@ -355,8 +359,7 @@
         {
           "name": "ROCK & POP PY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/029.webp",
-          "url": "https://rockandpop.b-cdn.net/480p.m3u8",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+          "url": "https://rockandpop.b-cdn.net/480p.m3u8"
         },
         {
           "name": "TV MAX CNEL OVIEDO",
@@ -776,7 +779,6 @@
           "name": "CANAL 10",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/080.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Canal10Ur",
           "headers": {
@@ -789,7 +791,6 @@
           "name": "TELEDOCE",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/081.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TeledoceUy",
           "headers": {
@@ -802,7 +803,6 @@
           "name": "CANAL 4",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/082.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Canal04Ur",
           "headers": {
@@ -815,7 +815,6 @@
           "name": "CANAL 5",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/083.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Canal5Uy",
           "headers": {
@@ -1078,7 +1077,12 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/094.webp",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ep2x5rkrf5/out/v1/4e18b1b6cb5a48e19b5062e782008c4e/cenc.mpd",
           "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/lasestrellas002"
+          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/lasestrellas002",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "NU9VE",
@@ -1128,24 +1132,26 @@
           "name": "DeporTV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/100.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_DeportTVAr",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ESPN AR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/101.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-          "url2": "http://38.226.49.253:8000/play/a07l/index.m3u8",
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN1Ar",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ESPN SUR",
@@ -1154,9 +1160,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPNSUR",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ESPN 2 AR",
@@ -1166,9 +1174,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN2Ar",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ESPN 2 SUR",
@@ -1177,9 +1187,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN2SUR",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ESPN 3 AR",
@@ -1189,9 +1201,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN3Ar",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ESPN 3 SUR",
@@ -1200,9 +1214,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN3SUR",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ESPN 4 AR",
@@ -1212,9 +1228,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN4Ar",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ESPN 5 SUR",
@@ -1224,9 +1242,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN5SUR",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ESPN 6 SUR",
@@ -1237,9 +1257,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN6SUR",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ESPN 7 SUR",
@@ -1249,9 +1271,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN7SUR",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ESPN PREMIUM AR",
@@ -1261,9 +1285,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPNPREMIUNAR",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ESPN PREMIUM CL",
@@ -1275,23 +1301,19 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/113.webp",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
           "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FOXDEPORTES",
-          "Origin": "https://www.primevideo.com",
-          "Referer": "https://www.primevideo.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FOXDEPORTES"
         },
         {
           "name": "FOX SPORTS AR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/114.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
-          "url2": "http://138.59.227.20:8000/play/a085/index.m3u8",
-          "url3": "http://190.7.19.197:232/play/a05u/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FoxSportsAr",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "FOX SPORTS MX",
@@ -1304,14 +1326,13 @@
           "name": "FOX SPORTS 2 AR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/116.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
-          "url2": "http://138.59.227.20:8000/play/a09b/index.m3u8",
-          "url3": "http://190.7.19.197:232/play/a03p/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FoxSports2Ar",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "FOX SPORTS 2 MX",
@@ -1324,14 +1345,13 @@
           "name": "FOX SPORTS 3 AR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/118.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
-          "url2": "http://138.59.227.20:8000/play/a06y/index.m3u8",
-          "url3": "http://190.7.19.197:232/play/a04x/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FoxSports3Ar",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "FOX SPORTS 3 MX",
@@ -1358,16 +1378,14 @@
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
           "info": "TV HD o 4K",
           "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FOXSPORTSEVENTOS",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FOXSPORTSEVENTOS"
         },
         {
           "name": "TSN SPORTS",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/123.webp",
           "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
           "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TSNSPORTS",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TSNSPORTS"
         },
         {
           "name": "BEIN SPORTS XTRA Ñ",
@@ -1381,8 +1399,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/125.webp",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
           "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TUDNMX",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TUDNMX"
         },
         {
           "name": "TNT SPORTS PREMIUM AR",
@@ -1391,10 +1408,7 @@
           "url2": "http://138.59.227.20:8000/play/a06z/index.m3u8",
           "flow": "yes",
           "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNTSportsAr",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNTSportsAr"
         },
         {
           "name": "TYC SPORTS",
@@ -1403,9 +1417,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TyCSportsAr",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "TYC SPORTS INTERNACIONAL",
@@ -1414,15 +1430,16 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TyCSportsInternacionalAr",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DSPORTS ARGENTINA SD ",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/129.webp",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
-          "url2": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1SD"
         },
@@ -1440,9 +1457,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_DsportsAr",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DSPORTS OPC 3",
@@ -1456,19 +1475,19 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/133.webp",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
           "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_V2",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0"
+          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_V2"
         },
         {
           "name": "DSPORTS URUGUAY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/134.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Dsports_UY/SA_Live_dash_enc/Dsports_UY.mpd",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_DsportsUy",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DSPORTS COLOMBIA",
@@ -1476,11 +1495,6 @@
           "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_COL"
-        },
-        {
-          "name": "DSPORTS PERU",
-          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/136.webp",
-          "url": "http://190.108.83.69:8000/play/a05w/index.m3u8"
         },
         {
           "name": "DSPORTS 2 ARGENTINA",
@@ -1508,15 +1522,16 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Dsports2Uy",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DSPORTS PLUS",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/141.webp",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
-          "url2": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTPLUS"
         },
@@ -1527,9 +1542,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_DsportsPlusUy",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "LA LIGA HYPERMOTION",
@@ -1557,7 +1574,12 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/146.webp",
           "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
           "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CAZETV"
+          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CAZETV",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "SPORTV 2",
@@ -1587,9 +1609,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_NBATV",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "VIX TUDN",
@@ -1611,9 +1635,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_AdultSwim",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "HBO",
@@ -1622,9 +1648,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_HBO",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "MTV",
@@ -1633,9 +1661,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_MTV",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "Warner TV",
@@ -1644,9 +1674,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Warner",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "EUROPA EUROPA",
@@ -1656,9 +1688,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Europax2",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "AMC",
@@ -1667,9 +1701,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_AMC",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "NCIS Criminologia Naval",
@@ -1683,9 +1719,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_CINEMAX",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "CINECANAL",
@@ -1695,9 +1733,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_CINECANAL",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "RCN MÁS",
@@ -1719,9 +1759,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNTnovelas",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "STUDIO UNIVERSAL",
@@ -1731,21 +1773,23 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_StudioUniversal",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "STAR CHANNEL HD",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/165.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
-          "url2": "http://38.226.49.253:8000/play/a06q/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_StarChannel",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "SPACE HD",
@@ -1755,9 +1799,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Space",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "A&E",
@@ -1768,9 +1814,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_A-E",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "AXN",
@@ -1780,9 +1828,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_AXN",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "FX",
@@ -1792,9 +1842,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FX",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "SONY CHANNEL",
@@ -1804,9 +1856,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SonyChannel",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "SONY ONE EXITOS",
@@ -1832,53 +1886,53 @@
           "name": "HISTORY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/175.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
-          "url2": "http://38.226.49.253:8000/play/a0ge/index.m3u8",
-          "url3": "http://181.224.255.210:8001/play/a0m1/index.m3u8",
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_History",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "HISTORY 2",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/176.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd",
-          "url3": "http://38.188.48.83:8000/play/a0kp/index.m3u8",
-          "url4": "http://38.211.118.50:50002/play/a0ab/index.m3u8",
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_History2",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ANIMAL PLANET",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/177.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
-          "url2": "http://190.7.19.197:232/play/a081/index.m3u8",
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_AnimalPlanet",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DISCOVERY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/178.webp",
           "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd",
-          "url2": "http://38.226.49.253:8000/play/a05s/index.m3u8",
-          "url3": "http://181.224.255.210:8001/play/a0m0/index.m3u8",
-          "url4": "http://191.97.59.33:8000/play/a07h/index.m3u8",
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryChannel",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DISCOVERY H&H",
@@ -1890,9 +1944,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryH-H",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DISCOVERY THEATER",
@@ -1903,9 +1959,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryTheater",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DISCOVERY SCIENCE",
@@ -1915,9 +1973,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryScience",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DISCOVERY ID",
@@ -1927,9 +1987,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryID",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DISCOVERY TURBO",
@@ -1939,9 +2001,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryTurbo",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DISCOVERY WORLD",
@@ -1951,9 +2015,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryWorld",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DISCOVERY TLC",
@@ -1962,9 +2028,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryTLC",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "SUN CHANNEL",
@@ -1975,9 +2043,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_SUNCHANNEL",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "NATGEO",
@@ -1988,9 +2058,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_NationalGeographic",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "HGTV",
@@ -1999,9 +2071,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_HGTV",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "LIFETIME",
@@ -2011,9 +2085,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Lifetime",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         }
       ]
     },
@@ -2180,9 +2256,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_BabyTV",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "PLIM PLIM",
@@ -2192,9 +2270,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_PlimPlim",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "CARTOON NETWORK",
@@ -2204,9 +2284,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_CartoonNetwork",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "CARTOONITO",
@@ -2216,9 +2298,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Cartoonito",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DISCOVERY KIDS",
@@ -2228,9 +2312,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryKids",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DISNEY CHANNEL",
@@ -2240,9 +2326,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DisneyChannel",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DISNEY JR ",
@@ -2252,9 +2340,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DisneyJR",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "DREAMWORKS",
@@ -2263,9 +2353,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Dreamworks",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "EL REINO INFANTIL ⭐",
@@ -2274,9 +2366,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Elreinoinfantil",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "KIDOO",
@@ -2285,9 +2379,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Kidoo",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "NICK JR",
@@ -2297,9 +2393,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_NickJr",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "NICKELODEON",
@@ -2309,9 +2407,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Nickelodeon",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "PAKA PAKA",
@@ -2320,9 +2420,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_PakaPaka",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "TOONCAST",
@@ -2333,9 +2435,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Tooncast",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "BABY SHARK TV",
@@ -3498,9 +3602,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Playboy",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "VENUS",
@@ -3509,9 +3615,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VenusAr",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "SEXTREME",
@@ -3520,9 +3628,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SextremeAr",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "Hustler Mature",
@@ -3531,9 +3641,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_HustlerMature",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         }
       ]
     },
@@ -3548,9 +3660,11 @@
           "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Eventos",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "TIGO SPORTS CANAL 1 TEST",
