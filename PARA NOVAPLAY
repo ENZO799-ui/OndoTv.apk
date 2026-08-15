@@ -211,7 +211,7 @@
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/017.webp",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_cenc//America_PY.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_cenc/America_PY.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_AmericaPY",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -784,7 +784,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_cenc/Canal10_URU.mpd"
         },
         {
           "name": "TELEDOCE",
@@ -796,7 +797,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_cenc/Canal12URU.mpd"
         },
         {
           "name": "CANAL 4",
@@ -808,7 +810,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_cenc/Canal4_URU.mpd"
         },
         {
           "name": "CANAL 5",
@@ -820,7 +823,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_cenc/TV_Nacional_Uy.mpd"
         },
         {
           "name": "MEGA HD",
@@ -1137,7 +1141,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_cenc/DeporTVHD.mpd"
         },
         {
           "name": "ESPN AR",
@@ -1312,7 +1317,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_cenc/FoxSports.mpd"
         },
         {
           "name": "FOX SPORTS MX",
@@ -1331,7 +1337,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_cenc/FoxSports2HD.mpd"
         },
         {
           "name": "FOX SPORTS 2 MX",
@@ -1350,7 +1357,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_cenc/FoxSports3HD.mpd"
         },
         {
           "name": "FOX SPORTS 3 MX",
@@ -1419,7 +1427,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_cenc/TyCSport.mpd"
         },
         {
           "name": "TYC SPORTS INTERNACIONAL",
@@ -1458,7 +1467,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/DSports_1/SA_Live_dash_cenc/DSports_1.mpd"
         },
         {
           "name": "DSPORTS OPC 3",
@@ -1484,7 +1494,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Dsports_UY/SA_Live_dash_cenc/Dsports_UY.mpd"
         },
         {
           "name": "DSPORTS COLOMBIA",
@@ -1786,7 +1797,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_cenc/FOXHD.mpd"
         },
         {
           "name": "SPACE HD",
