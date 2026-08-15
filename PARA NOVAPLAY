@@ -169,7 +169,7 @@
         {
           "name": "ABC COLOR PY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/014.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
           "license_type": "clearkey",
           "token": "https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_cenc/ABC_TV_C4.mpd",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ABCPY_ONLYPERSONAL",
@@ -341,9 +341,8 @@
           "name": "TV CAMARA",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/027.webp",
           "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
-          "flow": "yes",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live//SA_Live_dash_cenc/.mpd",
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_cenc/TV_Camara.mpd",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TvCamaraPy",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -778,7 +777,7 @@
         {
           "name": "CANAL 10",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/080.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Canal10Ur",
           "headers": {
@@ -790,7 +789,7 @@
         {
           "name": "TELEDOCE",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/081.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TeledoceUy",
           "headers": {
@@ -802,7 +801,7 @@
         {
           "name": "CANAL 4",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/082.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Canal04Ur",
           "headers": {
@@ -814,7 +813,7 @@
         {
           "name": "CANAL 5",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/083.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Canal5Uy",
           "headers": {
@@ -1131,7 +1130,7 @@
         {
           "name": "DeporTV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/100.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_DeportTVAr",
           "headers": {
@@ -1143,153 +1142,153 @@
         {
           "name": "ESPN AR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/101.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN1Ar",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_cenc/ESPN2HD.mpd"
         },
         {
           "name": "ESPN SUR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/102.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPNSUR",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_cenc/ESPN_UY.mpd"
         },
         {
           "name": "ESPN 2 AR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/103.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
           "url2": "http://38.226.49.253:8000/play/a06g/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN2Ar",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_cenc/ESPN2_Arg.mpd"
         },
         {
           "name": "ESPN 2 SUR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/104.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN2SUR",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_cenc/ESPN2_UY.mpd"
         },
         {
           "name": "ESPN 3 AR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/105.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
           "url2": "http://38.226.49.253:8000/play/a07g/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN3Ar",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_cenc/ESPN3.mpd"
         },
         {
           "name": "ESPN 3 SUR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/106.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN3SUR",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_cenc/ESPN3_Uy-Py.mpd"
         },
         {
           "name": "ESPN 4 AR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/107.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
           "url2": "http://38.226.49.253:8000/play/a065/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN4Ar",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_cenc/ESPNHD.mpd"
         },
         {
           "name": "ESPN 5 SUR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/108.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
           "url2": "http://38.226.49.253:8000/play/a078/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN5SUR",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_cenc/ESPN4.mpd"
         },
         {
           "name": "ESPN 6 SUR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/109.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
           "url2": "http://38.226.49.253:8000/play/a05p/index.m3u8",
           "url3": "http://38.210.3.64:8090/play/a0dj/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN6SUR",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_cenc/FoxSports3_UY.mpd"
         },
         {
           "name": "ESPN 7 SUR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/110.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
           "url2": "http://38.226.49.253:8000/play/a087/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN7SUR",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_cenc/FoxSports2_UY.mpd"
         },
         {
           "name": "ESPN PREMIUM AR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/111.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
           "url2": "http://200.112.174.230/mtcast_espnpremiumhd/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPNPREMIUNAR",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_cenc/Fox_Sports_Premiun_HD.mpd"
         },
         {
           "name": "ESPN PREMIUM CL",
@@ -1306,7 +1305,7 @@
         {
           "name": "FOX SPORTS AR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/114.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FoxSportsAr",
           "headers": {
@@ -1325,7 +1324,7 @@
         {
           "name": "FOX SPORTS 2 AR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/116.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FoxSports2Ar",
           "headers": {
@@ -1344,7 +1343,7 @@
         {
           "name": "FOX SPORTS 3 AR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/118.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FoxSports3Ar",
           "headers": {
@@ -1404,17 +1403,16 @@
         {
           "name": "TNT SPORTS PREMIUM AR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/126.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
           "url2": "http://138.59.227.20:8000/play/a06z/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNTSportsAr"
+          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNTSportsAr",
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_cenc/TNT_Sports_HD.mpd"
         },
         {
           "name": "TYC SPORTS",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/127.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TyCSportsAr",
           "headers": {
@@ -1426,15 +1424,15 @@
         {
           "name": "TYC SPORTS INTERNACIONAL",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/128.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TyCSportsInternacionalAr",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_cenc/TyC_Internacional.mpd"
         },
         {
           "name": "DSPORTS ARGENTINA SD ",
@@ -1453,8 +1451,7 @@
         {
           "name": "DSPORTS OPC 2",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/131.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_DsportsAr",
           "headers": {
@@ -1480,7 +1477,7 @@
         {
           "name": "DSPORTS URUGUAY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/134.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Dsports_UY/SA_Live_dash_enc/Dsports_UY.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Dsports_UY/SA_Live_dash_enc/Dsports_UY.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_DsportsUy",
           "headers": {
@@ -1518,15 +1515,15 @@
         {
           "name": "DSPORTS 2 URUGUAY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/140.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Dsports2_UY/SA_Live_dash_enc/Dsports2_UY.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Dsports2_UY/SA_Live_dash_enc/Dsports2_UY.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Dsports2Uy",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Dsports2_UY/SA_Live_dash_cenc/Dsports2_UY.mpd"
         },
         {
           "name": "DSPORTS PLUS",
@@ -1538,15 +1535,15 @@
         {
           "name": "DSPORTS PLUS URUGUAY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/142.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Dsports_Plus_UY/SA_Live_dash_enc/Dsports_Plus_UY.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Dsports_Plus_UY/SA_Live_dash_enc/Dsports_Plus_UY.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_DsportsPlusUy",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Dsports_Plus_UY/SA_Live_dash_cenc/Dsports_Plus_UY.mpd"
         },
         {
           "name": "LA LIGA HYPERMOTION",
@@ -1605,15 +1602,15 @@
         {
           "name": "NBA TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/150.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_NBATV",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_cenc/NBA_TV.mpd"
         },
         {
           "name": "VIX TUDN",
@@ -1631,81 +1628,81 @@
         {
           "name": "Adult Swim",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/152.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_AdultSwim",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_cenc/Adult_Swim.mpd"
         },
         {
           "name": "HBO",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/153.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_HBO",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_cenc/HBOHD.mpd"
         },
         {
           "name": "MTV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/154.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_MTV",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_cenc/MTV_HD.mpd"
         },
         {
           "name": "Warner TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/155.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Warner",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_cenc/WarnerHD.mpd"
         },
         {
           "name": "EUROPA EUROPA",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/156.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
           "url2": "http://190.7.19.197:232/play/a01o/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Europax2",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_cenc/Europa_Europa.mpd"
         },
         {
           "name": "AMC",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/157.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_AMC",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_cenc/AMC.mpd"
         },
         {
           "name": "NCIS Criminologia Naval",
@@ -1715,29 +1712,29 @@
         {
           "name": "CINEMAX",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/159.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_CINEMAX",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_cenc/Cinemax.mpd"
         },
         {
           "name": "CINECANAL",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/160.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
           "url2": "http://38.226.49.253:8000/play/a05z/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_CINECANAL",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_cenc/Cinemax.mpd"
         },
         {
           "name": "RCN MÁS",
@@ -1754,35 +1751,35 @@
         {
           "name": "TNT NOVELAS",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/163.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
           "url2": "http://38.226.49.253:8000/play/a07f/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNTnovelas",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_cenc/TBS.mpd"
         },
         {
           "name": "STUDIO UNIVERSAL",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/164.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
           "url2": "http://38.97.240.11:8000/play/a0bl/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_StudioUniversal",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_cenc/Studio_Universal.mpd"
         },
         {
           "name": "STAR CHANNEL HD",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/165.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_StarChannel",
           "headers": {
@@ -1794,73 +1791,73 @@
         {
           "name": "SPACE HD",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/166.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
           "url2": "http://38.226.49.253:8000/play/a064/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Space",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_cenc/Space.mpd"
         },
         {
           "name": "A&E",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/167.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
           "url2": "http://38.226.49.253:8000/play/a05m/index.m3u8",
           "url3": "http://38.226.49.253:8000/play/a05u/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_A-E",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_cenc/AEHD.mpd"
         },
         {
           "name": "AXN",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/168.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
           "url2": "http://38.226.49.253:8000/play/a062/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_AXN",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_cenc/AXNHD.mpd"
         },
         {
           "name": "FX",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/169.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
           "url2": "http://38.226.49.253:8000/play/a07c/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FX",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_cenc/FXHD.mpd"
         },
         {
           "name": "SONY CHANNEL",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/170.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
           "url2": "http://38.226.49.253:8000/play/a060/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SonyChannel",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_cenc/SonyHD.mpd"
         },
         {
           "name": "SONY ONE EXITOS",
@@ -1885,211 +1882,211 @@
         {
           "name": "HISTORY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/175.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_History",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_cenc/HistoryHD.mpd"
         },
         {
           "name": "HISTORY 2",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/176.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_History2",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_cenc/History_2.mpd"
         },
         {
           "name": "ANIMAL PLANET",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/177.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_AnimalPlanet",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_cenc/AnimalPlanet.mpd"
         },
         {
           "name": "DISCOVERY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/178.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryChannel",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_cenc/DiscoveryHD.mpd"
         },
         {
           "name": "DISCOVERY H&H",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/179.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
           "url2": "http://38.226.49.253:8000/play/a0an/index.m3u8",
           "url3": "http://138.59.227.20:8000/play/a08f/index.m3u8",
           "url4": "http://190.7.19.197:232/play/a064/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryH-H",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_cenc/DiscoveryHomeHealthHD.mpd"
         },
         {
           "name": "DISCOVERY THEATER",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/180.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd",
           "url2": "http://38.226.49.253:8000/play/a06b/index.m3u8",
           "url3": "http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8?hls",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryTheater",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_cenc/Theater_HD.mpd"
         },
         {
           "name": "DISCOVERY SCIENCE",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/181.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd",
           "url2": "http://190.7.19.197:232/play/a04o/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryScience",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_cenc/Discovery_Science.mpd"
         },
         {
           "name": "DISCOVERY ID",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/182.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/ID/SA_Live_dash_enc/ID.mpd",
           "url2": "http://190.7.19.197:232/play/a083/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryID",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_cenc/ID.mpd"
         },
         {
           "name": "DISCOVERY TURBO",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/183.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd",
           "url2": "http://38.226.49.253:8000/play/a05i/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryTurbo",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_cenc/DiscoveryTurbo.mpd"
         },
         {
           "name": "DISCOVERY WORLD",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/184.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd",
           "url2": "http://190.7.19.197:232/play/a055/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryWorld",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_cenc/Discovery_World_HD.mpd"
         },
         {
           "name": "DISCOVERY TLC",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/185.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryTLC",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_cenc/TLC.mpd"
         },
         {
           "name": "SUN CHANNEL",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/186.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd",
           "url2": "http://38.226.49.253:8000/play/a06p/index.m3u8",
           "url3": "http://138.121.12.126:8000/play/a02u/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_SUNCHANNEL",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_cenc/Sun_Channel.mpd"
         },
         {
           "name": "NATGEO",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/187.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
           "url2": "http://38.226.49.253:8000/play/a05x/index.m3u8",
           "url3": "http://181.224.255.210:8001/play/a0m2/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_NationalGeographic",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_cenc/NatGeoHD.mpd"
         },
         {
           "name": "HGTV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/188.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_HGTV",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_cenc/Home_and_Garden.mpd"
         },
         {
           "name": "LIFETIME",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/189.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd",
           "url2": "http://38.226.49.253:8000/play/a043/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Lifetime",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_cenc/Lifetime.mpd"
         }
       ]
     },
@@ -2252,194 +2249,194 @@
         {
           "name": "BABY TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/214.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_BabyTV",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_cenc/BabyTV.mpd"
         },
         {
           "name": "PLIM PLIM",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/215.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
           "url2": "http://8.243.126.131:8000/play/a0od/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_PlimPlim",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_cenc/Plim_Plim.mpd"
         },
         {
           "name": "CARTOON NETWORK",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/216.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
           "url2": "http://8.243.126.131:8000/play/a0f2/index.m3u8?hls",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_CartoonNetwork",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_cenc/CartoonNetwork.mpd"
         },
         {
           "name": "CARTOONITO",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/217.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
           "url2": "http://8.243.126.131:8000/play/a05p/index.m3u8?hls",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Cartoonito",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_cenc/Boomerang.mpd"
         },
         {
           "name": "DISCOVERY KIDS",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/218.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
           "url2": "http://8.243.126.131:8000/play/a05n/index.m3u8?hls",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryKids",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_cenc/Discovery_Kids.mpd"
         },
         {
           "name": "DISNEY CHANNEL",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/219.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
           "url2": "http://190.7.19.197:232/play/a04v/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DisneyChannel",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_cenc/DisneyChannelHD.mpd"
         },
         {
           "name": "DISNEY JR ",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/220.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd",
           "url2": "http://38.226.49.253:8000/play/a05h/index.m3u8?hls",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DisneyJR",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_cenc/DisneyJr.mpd"
         },
         {
           "name": "DREAMWORKS",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/221.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Dreamworks",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_cenc/Dreamworks.mpd"
         },
         {
           "name": "EL REINO INFANTIL ⭐",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/222.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Reino_Infantil/SA_Live_dash_enc/Reino_Infantil.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Reino_Infantil/SA_Live_dash_enc/Reino_Infantil.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Elreinoinfantil",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Reino_Infantil/SA_Live_dash_cenc/Reino_Infantil.mpd"
         },
         {
           "name": "KIDOO",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/223.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Kidoo",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_cenc/Kidoo.mpd"
         },
         {
           "name": "NICK JR",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/224.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
           "url2": "http://190.7.19.197:232/play/a01n/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_NickJr",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_cenc/Nick_Jr.mpd"
         },
         {
           "name": "NICKELODEON",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/225.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
           "url2": "http://190.7.19.197:232/play/a03e/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Nickelodeon",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_cenc/Nickelodeon.mpd"
         },
         {
           "name": "PAKA PAKA",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/226.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_PakaPaka",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_cenc/PAKA_PAKA.mpd"
         },
         {
           "name": "TOONCAST",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/227.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
           "url2": "http://38.188.48.83:8000/play/a0qp/index.m3u8?hls",
           "url3": "http://38.226.49.253:8000/play/a03u/index.m3u8?hls",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Tooncast",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_cenc/Tooncast.mpd"
         },
         {
           "name": "BABY SHARK TV",
@@ -3597,55 +3594,55 @@
         {
           "name": "PLAYBOY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/437.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
           "url2": "http://38.226.49.253:8000/play/a0e6/index.m3u8",
-          "flow": "yes",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Playboy",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_cenc/Playboy.mpd"
         },
         {
           "name": "VENUS",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/438.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VenusAr",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_cenc/Venus.mpd"
         },
         {
           "name": "SEXTREME",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/439.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SextremeAr",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_cenc/Sextreme.mpd"
         },
         {
           "name": "Hustler Mature",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/440.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Hustler/SA_Live_dash_enc/Hustler.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Hustler/SA_Live_dash_enc/Hustler.mpd",
           "license_type": "clearkey",
           "license_key": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_HustlerMature",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_cenc/Hustler.mpd"
         }
       ]
     },
@@ -3656,15 +3653,15 @@
         {
           "name": "FLOW EVENTOS",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/441.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
-          "flow": "yes",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
           "license_type": "clearkey",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Eventos",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
-          }
+          },
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_cenc/GEN_CAM2.mpd"
         },
         {
           "name": "TIGO SPORTS CANAL 1 TEST",
