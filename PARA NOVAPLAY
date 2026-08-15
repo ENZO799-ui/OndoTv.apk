@@ -30,12 +30,18 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         },
         {
+          "name": "TIGO SPORTS 3",
+          "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/004.webp",
+          "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+          "info": "EVENTOS 3",
+          "license_type": "clearkey",
+          "license_key": "https://dl.dropboxusercontent.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0"
+        },
+        {
           "name": "NOVASPORTS",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/003.webp",
           "url": "https://lbgo.bozztv.com/ssh101/ssh101/adadasdasda/playlist.m3u8",
-          "info": "TIGOSPORTS EVENTOS",
-          "status": "false",
-          "evento": "evento1"
+          "info": "TIGOSPORTS EVENTOS"
         }
       ]
     },
@@ -46,8 +52,9 @@
         {
           "name": "VS SPORTS",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/005.webp",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
           "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_cenc/GEN__CAM1.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
