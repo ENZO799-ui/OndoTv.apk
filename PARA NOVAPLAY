@@ -46,11 +46,10 @@
       "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/005.webp",
       "stations": [
         {
-          "name": "VS SPORTS",
+          "name": "VS SPORTS HD",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/005.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_cenc/GEN__CAM1.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -61,9 +60,8 @@
         {
           "name": "GEN",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/006.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_cenc/GEN_TV.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_GenPY",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -74,9 +72,8 @@
         {
           "name": "POPU TV",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/007.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_cenc/Universo.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_PopuPY",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -87,9 +84,8 @@
         {
           "name": "TRECE PY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/008.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_cenc/RPC_C4.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -100,9 +96,8 @@
         {
           "name": "UNICANAL PY",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/009.webp",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_cenc/UNICANAL_C4.mpd",
           "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
