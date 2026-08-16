@@ -3676,6 +3676,18 @@
           "token": "https://cdn.cvattv.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_cenc/GEN_CAM2.mpd"
         },
         {
+          "name": "TELEFUTURO PRUEBA",
+          "image": "",
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefuturoPY",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+        },
+        {
           "name": "TIGO SPORTS CANAL 1 TEST",
           "image": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/001.webp",
           "url": "https://sam-py-edge03.tigo.com.py/ccur-session/01_887968539/rolling-buffer/APP_CHN1/APP_CHN1/transmux/index.mpd",
