@@ -3556,11 +3556,11 @@
           }
         },
         {
-          "name": "TELEFUTURO PRUEBA",
+          "name": "LT DEPORT PRUEBA",
           "image": "",
-          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+          "url": "https://geo.dailymotion.com/player.html?video=x9zl1hs",
           "license_type": "clearkey",
-          "license_key": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefuturoPY"
+          "license_key": "https://geo.dailymotion.com/video/x9zl1hs.json?legacy=true&geo=1&player-id=default&locale=es-ES"
         },
         {
           "name": "TIGO SPORTS CANAL 1 TEST",
