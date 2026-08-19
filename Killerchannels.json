@@ -576,6 +576,13 @@
             "Referer": "https://portal.app.flow.com.py/"
           }
       },
+	  {
+        "name": "FOX DEPORTES",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FOXDEPORTES",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/113.webp"
+      },
       {
         "name": "NBA",
         "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd",
