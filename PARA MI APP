@@ -3,6 +3,58 @@
     "name": "PARAGUAY",
     "samples": [
       {
+        "name": "EVENTOS",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Eventos1",
+        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png"
+      },
+      {
+        "name": "EVENTOS 2",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Eventos2",
+        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png"
+      },
+      {
+        "name": "EVENTOS 3",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Eventos",
+        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png"
+      },
+      {
+        "name": "TIGO SPORTS",
+        "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TIGOSPORTSEVENTOS1",
+        "icono": "https://i.postimg.cc/Y2D0DfR1/tigo-sports-2.png"
+      },
+      {
+        "name": "TIGO SPORTS 2",
+        "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index.m3u8",
+        "icono": "https://i.postimg.cc/vZ2db31z/tigo-sports-mas.png"
+      },
+      {
+        "name": "TIGO SPORTS 3",
+        "uri": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+        "icono": "https://i.postimg.cc/kMRNc4FX/tigo-sports-3.png"
+      },
+      {
+        "name": "VS SPORTS",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY",
+        "icono": "https://yt3.googleusercontent.com/ocGBV0__RCpVxkRB6TljzVu0l2WLun9mzU_eVcvBAc3GoDYe6I0yCNrPN2dPdS4TrftmJYcl64Q=s160-c-k-c0x00ffffff-no-rj",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+      },
+      {
         "name": "SNT",
         "uri": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"
@@ -25,7 +77,7 @@
           }
       },
       {
-        "name": "UNICANAL",
+        "name": "LA TRIBU NEWS",
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
@@ -156,50 +208,11 @@
           }
       },
       {
-        "name": "EVENTOS",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "LE FALTA UNO",
-        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png"
-      },
-      {
-        "name": "EVENTOS 2",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": " LE FALTA UNO",
-        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png"
-      },
-      {
-        "name": "EVENTOS 3",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Eventos",
-        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png"
-      },
-      {
         "name": "HEI",
         "uri": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "icono": "https://i.postimg.cc/fLShcZf6/hei.png"
       },
-      {
-        "name": "TIGO SPORTS",
-        "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TIGOSPORTSEVENTOS1",
-        "icono": "https://i.postimg.cc/Y2D0DfR1/tigo-sports-2.png"
-      },
-      {
-        "name": "TIGO SPORTS 2",
-        "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index.m3u8",
-        "icono": "https://i.postimg.cc/vZ2db31z/tigo-sports-mas.png"
-      },
-      {
-        "name": "TIGO SPORTS 3",
-        "uri": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.postimg.cc/kMRNc4FX/tigo-sports-3.png"
-      },
+
       {
         "name": "EDUCANAL",
         "uri": "https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8",
@@ -229,11 +242,6 @@
         "name": "E40",
         "uri": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://i.ibb.co/jz9XkvP/e40.png"
-      },
-      {
-        "name": "VERSUS",
-        "uri": "https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@somosversuspy/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=",
-        "icono": "https://i.postimg.cc/nzM0d2gz/versus.png"
       },
       {
         "name": "RADIO FARRA",
