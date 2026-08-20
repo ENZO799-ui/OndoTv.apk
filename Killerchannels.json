@@ -43,19 +43,19 @@
         "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TIGOSPORTSEVENTOS1",
-        "icono": "https://i.postimg.cc/Y2D0DfR1/tigo-sports-2.png"
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
         "name": "TIGO SPORTS 2",
         "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index.m3u8",
-        "icono": "https://i.postimg.cc/vZ2db31z/tigo-sports-mas.png"
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
         "name": "TIGO SPORTS 3",
         "uri": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
-        "icono": "https://i.postimg.cc/kMRNc4FX/tigo-sports-3.png"
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
         "name": "VS SPORTS",
@@ -82,14 +82,14 @@
       {
         "name": "TELEFUTURO",
         "uri": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
-        "icono": "https://i.postimg.cc/MKYL10dB/telefuturo.png"
+        "icono": "https://i.imgur.com/6lVrFvb.png"
       },
       {
         "name": "TRECE",
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
-        "icono": "https://i.postimg.cc/TPKH8zGj/trecepy.png",
+        "icono": "https://bestleague.world/img/trecepy.webp",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -101,7 +101,7 @@
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
-        "icono": "https://i.postimg.cc/DzRp7xy9/unicanal.png",
+        "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -111,7 +111,7 @@
       {
         "name": "MEGA TV",
         "uri": "https://www.desde-paraguay.com/mega.m3u8",
-        "icono": "https://i.postimg.cc/TYw8PvGR/mega-tv-py.png"
+        "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
       },
       {
         "name": "TV CÁMARA",
@@ -128,12 +128,12 @@
       {
         "name": "PARAGUAY TV",
         "uri": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
-        "icono": "https://i.postimg.cc/NMCj9tCy/py-tv.png"
+        "icono": "https://bestleague.world/img/pytv.png"
       },
       {
         "name": "CANAL PRO",
         "uri": "https://www.desde-paraguay.com/pro.m3u8",
-        "icono": "https://i.postimg.cc/XvpVRmY4/canalpropy.png"
+        "icono": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/pro.png"
       },
       {
         "name": "5 DÍAS",
@@ -152,7 +152,7 @@
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SurTVPY",
-        "icono": "https://i.postimg.cc/Kz08w35s/sur-tv-itapua.png",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -178,8 +178,15 @@
       },
       {
         "name": "C9N",
-        "uri": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
-        "icono": "https://i.postimg.cc/7hcYYvd3/c9n.png"
+        "uri": "https://cdn-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+		"drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_C9NPY",
+        "icono": "https://bestleague.world/img/c9n.png",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
       },
       {
         "name": "GEN TV",
@@ -198,7 +205,7 @@
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_PopuPY",
-        "icono": "https://i.postimg.cc/FKW1p83W/popu-tv.png",
+        "icono": "https://www.popular.com.py/wp-content/themes/popu/assets/img/popu-tv.png",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -220,7 +227,7 @@
         "uri": "https://cdn-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ABCPY_ONLYPERSONAL",
-        "icono": "https://i.postimg.cc/fyjHLrkr/abctv.png",
+        "icono": "https://i.ibb.co/dGqjksf/descarga.png",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -230,22 +237,22 @@
       {
         "name": "HEI",
         "uri": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
-        "icono": "https://i.postimg.cc/fLShcZf6/hei.png"
+        "icono": "https://i.imgur.com/oMHiGRN.png"
       },
       {
         "name": "EDUCANAL",
         "uri": "https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8",
-        "icono": "https://i.postimg.cc/g0M7nrJY/educanal.png"
+        "icono": "https://i.imgur.com/857OkFf.png"
       },
       {
         "name": "COSMOS TV",
         "uri": "https://rds3gen.desdeparaguay.net/cosmostv/cosmostv/playlist.m3u8",
-        "icono": "https://i.postimg.cc/N0hx4vKc/cosmostv.png"
+        "icono": "https://i.imgur.com/dAMyExY.jpg"
       },
       {
         "name": "VENUS MEDIA",
         "uri": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
-        "icono": "https://i.postimg.cc/C5Y3mDq9/venus-media.png"
+        "icono": "https://bestleague.world/img/venus.png"
       },
       {
         "name": "ROCK & POP",
@@ -255,7 +262,7 @@
       {
         "name": "MONUMENTAL 1080 AM",
         "uri": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
-        "icono": "https://i.postimg.cc/pr337ySq/monumental-am-1080.png"
+        "icono": "https://i.imgur.com/kEcOYML.png"
       },
       {
         "name": "E40",
@@ -278,14 +285,14 @@
         "icono": "https://i.ibb.co/Vw7gVWz/4d-noticias.png"
       },
 	    {
-        "name": "ASPEN CLASSIC",
+        "name": "ASPEN",
         "uri": "https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8",
         "icono": "https://i.ibb.co/sJRyc31/aspen-classic.png"
       },
       {
         "name": "UNIÓN TV",
         "uri": "https://rds3gen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
-        "icono": "https://i.postimg.cc/mDdfDkq9/union-tv.png"
+        "icono": "https://i.imgur.com/No9YzNC.png"
       },
       {
         "name": "RADIO/TV REPÚBLICA 101.3 FM",
