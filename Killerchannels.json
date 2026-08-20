@@ -584,6 +584,34 @@
           }
       },
 	  {
+        "name": "FOX SPORTS MX",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTSMX",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/115.webp"
+      },
+	  {
+        "name": "FOX SPORTS 2 MX",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTS2MX",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/117.webp"
+      },
+	  {
+        "name": "FOX SPORTS 3 MX",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTS3MX",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/119.webp"
+      },
+	  {
+        "name": "FS PREMIUM",
+        "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTSPREMIUMMX",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/121.webp"
+      },
+	  {
         "name": "FOX DEPORTES",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
         "drm_scheme": "clearkey",
