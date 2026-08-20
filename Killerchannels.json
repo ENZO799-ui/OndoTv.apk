@@ -415,6 +415,39 @@
             "Referer": "https://portal.app.flow.com.py/"
           }
       },
+	  {
+        "name": "DSPORTS",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT1",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png"
+      },
+	  {
+        "name": "DSPORTS 2",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT2",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png"
+      },
+	  {
+        "name": "DSPORTS +",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTPLUS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png"
+      },
+	  {
+        "name": "DSPORTS PREMIUM",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/DSports_Uruguay_Premium/SA_Live_dash_enc/DSports_Uruguay_Premium.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "kid:oVFNlgRHHPdH59KqhVlphg,k:2rNpnEwUdkNmp-qdWnVUHg",
+        "icono": "https://i.imgur.com/d2ZVpVo.png",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+	  },
       {
         "name": "ESPN PREMIUM",
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
