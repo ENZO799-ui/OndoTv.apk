@@ -781,21 +781,6 @@
         "uri": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992452",
         "icono": "https://i.postimg.cc/x8g16Jmn/mojitv.png"
       },
-      {
-        "name": "MONITV",
-        "uri": "https://tv.arkeo.cl:19360/8134/8134.m3u8",
-        "icono": "https://i.postimg.cc/pV9rN88B/moni-tv.png"
-      },
-      {
-        "name": "KIDS TV ES",
-        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8",
-        "icono": "https://i.ibb.co/z8ZJJKm/kids-tv-espanol-latino.webp"
-      },
-      {
-        "name": "TOONZ KIDS",
-        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8",
-        "icono": "https://i.ibb.co/8b4SSRB/toonz-kids.webp"
-      },
        {
         "name": "BABY SHARK",
         "uri": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
