@@ -445,7 +445,7 @@
         "name": "DSPORTS PREMIUM",
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/DSports_Uruguay_Premium/SA_Live_dash_enc/DSports_Uruguay_Premium.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "kid:oVFNlgRHHPdH59KqhVlphg,k:2rNpnEwUdkNmp-qdWnVUHg",
+        "drm_license_uri": "https://raw.githubusercontent.com/ENZO799-ui/OndoTv.apk/refs/heads/main/Dsports_premium",
         "icono": "https://i.imgur.com/d2ZVpVo.png",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
