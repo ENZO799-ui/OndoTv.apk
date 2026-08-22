@@ -45,18 +45,11 @@
       },
       {
         "name": "TIGO SPORTS",
-        "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TIGOSPORTSEVENTOS1",
-        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
-      },
-      {
-        "name": "TIGO SPORTS 2",
         "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index.m3u8",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
-        "name": "TIGO SPORTS 3",
+        "name": "TIGO SPORTS 2",
         "uri": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
