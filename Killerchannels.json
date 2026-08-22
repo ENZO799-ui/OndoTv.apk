@@ -454,7 +454,7 @@
           }
       },
       {
-        "name": "ESPN",
+        "name": "ESPN WEST",
         "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN1Ar",
@@ -466,7 +466,7 @@
           }
       },
       {
-        "name": "ESPN",
+        "name": "ESPN SOUTH",
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPNSUR",
@@ -478,7 +478,12 @@
           }
       },
       {
-        "name": "ESPN 2",
+        "name": "ESPN EAST",
+        "uri": "https://cdn1tlinkgo.tlink.cl/espnhd/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/s37NZCT/espn-1B.png"
+      },
+      {
+        "name": "ESPN 2 WEST",
         "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd?*",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN2Ar",
@@ -490,7 +495,7 @@
           }
       },
       {
-        "name": "ESPN 2",
+        "name": "ESPN 2 SOUTH",
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN2SUR",
@@ -502,7 +507,12 @@
           }
       },
       {
-        "name": "ESPN 3",
+        "name": "ESPN 2 EAST",
+        "uri": "https://cdn1tlinkgo.tlink.cl/espn2hd/tracks-v1a1/mono.m3u8",
+        "icono": ""
+      },
+      {
+        "name": "ESPN 3 WEST",
         "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN3Ar",
@@ -514,7 +524,7 @@
           }
       },
       {
-        "name": "ESPN 3",
+        "name": "ESPN 3 SOUTH",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN3SUR",
@@ -526,7 +536,12 @@
           }
       },
       {
-        "name": "ESPN 4",
+        "name": "ESPN 3 EAST",
+        "uri": "https://cdn1tlinkgo.tlink.cl/espn3hd/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/TLcGvdv/espn-3B.png"
+      },
+      {
+        "name": "ESPN 4 WEST",
         "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN4Ar",
@@ -538,7 +553,24 @@
           }
       },
       {
-        "name": "ESPN 5",
+        "name": "ESPN 4 SOUTH",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN4Ar",
+        "icono": "https://i.ibb.co/pJK6xQ0/espn-4B.png",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+      },
+	  {
+        "name": "ESPN 4 EAST",
+        "uri": "https://cdn1tlinkgo.tlink.cl/espn4hd/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/pJK6xQ0/espn-4B.png"
+      },
+      {
+        "name": "ESPN 5 WEST",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN5SUR",
@@ -550,7 +582,24 @@
           }
       },
       {
-        "name": "ESPN 6",
+        "name": "ESPN 5 SOUTH",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN5SUR",
+        "icono": "https://i.ibb.co/6bvjxGP/espn-5B.png",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+      },
+      {
+        "name": "ESPN 5 EAST",
+        "uri": "https://cdn1tlinkgo.tlink.cl/espn5hd/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/6bvjxGP/espn-5B.png"
+      },
+      {
+        "name": "ESPN 6 WEST",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN6SUR",
@@ -562,7 +611,24 @@
           }
       },
       {
-        "name": "ESPN 7",
+        "name": "ESPN 6 SOUTH",
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN6SUR",
+        "icono": "https://i.ibb.co/CsyhPz4/espn-6B.png",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+      },
+      {
+        "name": "ESPN 6 EAST",
+        "uri": "https://cdn1tlinkgo.tlink.cl/espn6hd/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/CsyhPz4/espn-6B.png"
+      },
+      {
+        "name": "ESPN 7 WEST",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN7SUR",
@@ -572,6 +638,23 @@
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
+      },
+      {
+        "name": "ESPN 7 SOUTH",
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN7SUR",
+        "icono": "https://i.ibb.co/LSQFzkw/espn-7B.png",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+      },
+      {
+        "name": "ESPN 7 EAST",
+        "uri": "https://cdn1tlinkgo.tlink.cl/espn7hd/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/LSQFzkw/espn-7B.png"
       },
       {
         "name": "FOX SPORTS",
