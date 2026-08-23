@@ -435,6 +435,18 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png"
       },
       {
+        "name": "DSPORTS PREMIUM",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/DSports_Uruguay_Premium/SA_Live_dash_enc/DSports_Uruguay_Premium.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "kid:oVFNlgRHHPdH59KqhVlphg,k:2rNpnEwUdkNmp-qdWnVUHg",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnP-k7Cm69smRzjNxuck0YaV66KoJ_4jyvGOzsnBwMg&s=10",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+      },
+      {
         "name": "ESPN PREMIUM",
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
