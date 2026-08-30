@@ -483,7 +483,7 @@
         "uri": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/manifest.mpd",
         "icono": "https://i.ibb.co/s37NZCT/espn-1B.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM1",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM1",
 		  "headers": { 
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
 		  }
@@ -514,8 +514,13 @@
       },
       {
         "name": "ESPN 2 EAST",
-        "uri": "https://cdn1tlinkgo.tlink.cl/espn2hd/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/RCMYFsv/espn-2B.png"
+        "uri": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/manifest.mpd",
+        "icono": "https://i.ibb.co/RCMYFsv/espn-2B.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM2",
+		  "headers": { 
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+		  }
       },
       {
         "name": "ESPN 3 WEST",
@@ -543,8 +548,13 @@
       },
       {
         "name": "ESPN 3 EAST",
-        "uri": "https://cdn1tlinkgo.tlink.cl/espn3hd/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/TLcGvdv/espn-3B.png"
+        "uri": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/manifest.mpd",
+        "icono": "https://i.ibb.co/TLcGvdv/espn-3B.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM3",
+		  "headers": { 
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+		  }
       },
       {
         "name": "ESPN 4 WEST",
@@ -570,10 +580,15 @@
             "Referer": "https://portal.app.flow.com.py/"
           }
       },
-	  {
+      {
         "name": "ESPN 4 EAST",
-        "uri": "https://cdn1tlinkgo.tlink.cl/espn4hd/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/pJK6xQ0/espn-4B.png"
+        "uri": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/manifest.mpd",
+        "icono": "https://i.ibb.co/pJK6xQ0/espn-4B.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM4",
+		  "headers": { 
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+		  }
       },
       {
         "name": "ESPN 5 WEST",
@@ -601,8 +616,13 @@
       },
       {
         "name": "ESPN 5 EAST",
-        "uri": "https://cdn1tlinkgo.tlink.cl/espn5hd/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/6bvjxGP/espn-5B.png"
+        "uri": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/manifest.mpd",
+        "icono": "https://i.ibb.co/6bvjxGP/espn-5B.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM5",
+		  "headers": { 
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+		  }
       },
       {
         "name": "ESPN 6 WEST",
@@ -630,8 +650,13 @@
       },
       {
         "name": "ESPN 6 EAST",
-        "uri": "https://cdn1tlinkgo.tlink.cl/espn6hd/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/CsyhPz4/espn-6B.png"
+        "uri": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/manifest.mpd",
+        "icono": "https://i.ibb.co/CsyhPz4/espn-6B.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "",
+		  "headers": { 
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+		  }
       },
       {
         "name": "ESPN 7 WEST",
@@ -659,8 +684,13 @@
       },
       {
         "name": "ESPN 7 EAST",
-        "uri": "https://cdn1tlinkgo.tlink.cl/espn7hd/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/LSQFzkw/espn-7B.png"
+        "uri": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/manifest.mpd",
+        "icono": "https://i.ibb.co/LSQFzkw/espn-7B.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "",
+		  "headers": { 
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+		  }
       },
       {
         "name": "FOX SPORTS",
