@@ -855,6 +855,107 @@
     ]
   },
   {
+    "name": "HBO",
+    "samples": [
+   {
+    "name": "HBO",
+    "uri": "https://live1-ott.izzigo.tv/7/out/u/dash/HBO-HD-H265/default.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBO_MX",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/800/542/0/0/228799490721.png",
+	 "headers": {
+      "origin": "https://www.izzigo.tv",
+      "referer": "https://www.izzigo.tv/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+    	}
+   },
+   {
+    "name": "HBO 2",
+    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO2-HD-H265/default.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBO2_MX",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/800/542/0/0/36093751072127.png",
+	 "headers": {
+      "origin": "https://www.izzigo.tv",
+      "referer": "https://www.izzigo.tv/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+    	 }
+   },
+   {
+    "name": "HBO Family",
+    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-FAMILY-HD-H265/default.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOFAMILY_MX",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/800/542/0/0/7354519807335.png",
+	 "headers": {
+      "origin": "https://www.izzigo.tv",
+      "referer": "https://www.izzigo.tv/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+	     }
+   },
+   {
+    "name": "HBO Mundi",
+    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-MUNDI-HD-H265/default.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOMUDI_MX",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/800/542/0/0/61157416071448.png",
+	 "headers": {
+      "origin": "https://www.izzigo.tv",
+      "referer": "https://www.izzigo.tv/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+	     }
+   },
+   {
+    "name": "HBO Plus",
+    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-PLUS-HD-H265/default.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPLUS_MX",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/800/542/0/0/10237380072165.png",
+	 "headers": {
+      "origin": "https://www.izzigo.tv",
+      "referer": "https://www.izzigo.tv/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+         }
+   },
+   {
+    "name": "HBO Pop",
+    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-POP-HD-H265/default.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPOP_MX",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/800/542/0/0/68908128073927.png",
+	 "headers": {
+      "origin": "https://www.izzigo.tv",
+      "referer": "https://www.izzigo.tv/",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+         }
+   },
+   {
+    "name": "HBO Signature",
+    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-SIGNATURE-HD-H265/default.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOSIGNATURE_MX",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/800/542/0/0/3657655307500.png",
+	 "headers": {
+      "origin": "https://www.izzigo.tv",
+      "referer": "https://www.izzigo.tv/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+         }
+   },
+   {
+    "name": "HBO Xtreme",
+    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-XTREME-HD-H265/default.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOEXTREME_MX",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/800/542/0/0/6041444607334.png",
+	 "headers": {
+      "origin": "https://www.izzigo.tv",
+      "referer": "https://www.izzigo.tv/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          }
+       }
+    ]
+  },
+  {
     "name": "INFANTILES",
     "samples": [
       {
