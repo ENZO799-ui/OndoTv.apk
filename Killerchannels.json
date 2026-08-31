@@ -653,7 +653,7 @@
         "uri": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/manifest.mpd",
         "icono": "https://i.ibb.co/CsyhPz4/espn-6B.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM6",
 		  "headers": { 
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
 		  }
@@ -687,7 +687,7 @@
         "uri": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/manifest.mpd",
         "icono": "https://i.ibb.co/LSQFzkw/espn-7B.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM7",
 		  "headers": { 
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
 		  }
