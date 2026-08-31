@@ -450,11 +450,6 @@
           }
       },
       {
-        "name": "ESPN+",
-        "uri": "https://streamer.metronethn.com/espn/index.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg"
-      },
-      {
         "name": "ESPN WEST",
         "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
@@ -689,7 +684,55 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM7",
 		  "headers": { 
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+		  }
+      },
+      {
+        "name": "ESPN+",
+        "uri": "http://147.78.1.28/xview/espn_hd.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_PLUS",
+        "icono": "https://wvusports.com/images/2024/8/12/ESPN_PLUS_FC_NEG_8_.png",
+		  "headers": { 
+            "origin": "https://www.izzigo.tv",
+            "referer": "https://www.izzigo.tv/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+		  }
+      },
+      {
+        "name": "ESPN+ 2",
+        "uri": "http://147.78.1.28/xview/espn_2_hd.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_PLUS",
+        "icono": "https://wvusports.com/images/2024/8/12/ESPN_PLUS_FC_NEG_8_.png",
+		  "headers": { 
+            "origin": "https://www.izzigo.tv",
+            "referer": "https://www.izzigo.tv/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+		  }
+      },
+      {
+        "name": "ESPN+ 3",
+        "uri": "http://147.78.1.28/xview/espn_3_hd.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_PLUS_2",
+        "icono": "https://wvusports.com/images/2024/8/12/ESPN_PLUS_FC_NEG_8_.png",
+		  "headers": { 
+            "origin": "https://www.izzigo.tv",
+            "referer": "https://www.izzigo.tv/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+		  }
+      },
+      {
+        "name": "ESPN+ 4",
+        "uri": "http://147.78.1.28/xview/espn_plus_hd.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_PLUS_2",
+        "icono": "https://wvusports.com/images/2024/8/12/ESPN_PLUS_FC_NEG_8_.png",
+		  "headers": { 
+            "origin": "https://www.izzigo.tv",
+            "referer": "https://www.izzigo.tv/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 		  }
       },
       {
@@ -729,35 +772,35 @@
           }
       },
 	  {
-        "name": "FOX SPORTS MX",
+        "name": "FOX SPORTS LAUMAN",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTSMX",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/115.webp"
       },
 	  {
-        "name": "FOX SPORTS 2 MX",
+        "name": "FOX SPORTS 2 MAUMAN",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTS2MX",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/117.webp"
       },
 	  {
-        "name": "FOX SPORTS 3 MX",
+        "name": "FOX SPORTS 3 MAUMAN",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTS3MX",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/119.webp"
       },
 	  {
-        "name": "FS PREMIUM",
+        "name": "FS PREMIUM LAUMAN",
         "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTSPREMIUMMX",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/121.webp"
       },
 	  {
-        "name": "FOX+",
+        "name": "FOX CALIENTE TV",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/KEY_FOX-",
@@ -765,6 +808,26 @@
           "headers": {
             "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
             "Referer": "https://www.primevideo.com/"
+          }
+      },
+	  {
+        "name": "FOX PAY TV",
+        "uri": "http://147.78.1.28/xview/fox_tvpay_hd.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_PAYTV",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjs0YUfFe2aSZ7aNVcVu18VzjQy-P2iAeFO-IDqY2rQ&s=10",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+          }
+      },
+	  {
+        "name": "FOX+",
+        "uri": "http://147.78.1.28/xview/fox_mas_hd.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_PLUSTV",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjs0YUfFe2aSZ7aNVcVu18VzjQy-P2iAeFO-IDqY2rQ&s=10",
+          "headers": {
+            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
           }
       },
 	  {
