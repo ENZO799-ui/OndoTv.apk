@@ -1068,7 +1068,7 @@
     "name": "Mi Música Reggaetón",
     "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d288fc2da0339c9cfa178be4a07c4cd2&key%5B%5D=c0e25b5d30b6829b15266e84807a0ca6",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_REGGAETON",
     "icono": "https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/320/320/0/0/11385912076761.png",
 	       "headers": {
     "referer": "https://webclient.ctcplus.com.ar/",
@@ -1079,7 +1079,7 @@
     "name": "Mi Música Romántica",
     "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0f1be10d0519e0c453105f01319fe407&key%5B%5D=9976d91bfcdc7dd2148d36af89027762",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_ROMANTICA",
     "icono": "https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/320/320/0/0/15712909076760.png",
 	       "headers": {
     "referer": "https://webclient.ctcplus.com.ar/",
@@ -1090,7 +1090,7 @@
     "name": "Mi Música Hits",
     "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2246c747e5f4e1dc055050d178618935&key%5B%5D=c6c2a6693bec059ebced788d09d271f3",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_HITS",
     "icono": "https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/320/320/0/0/82379535077403.png",
 	       "headers": {
     "referer": "https://webclient.ctcplus.com.ar/",
@@ -1101,7 +1101,7 @@
     "name": "Mi Música K-Pop",
     "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c6f0b2b0142007b8624de0c2d53962c8&key%5B%5D=46b8fb713fdd09a1c55b85b6f8ad9c9c",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_K-POP",
     "icono": "https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/320/320/0/0/50713419076833.png",
 	    "headers": {
     "referer": "https://webclient.ctcplus.com.ar/",
@@ -1130,7 +1130,7 @@
     "name": "CONCERT CHANNEL",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/labtefjwbn/out/v1/1b1ca0a8ecbb4e03ba9327fd099911d2/cenc.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=f4c71a56cd5df07d5a114f9668b114de&keyid%5B%5D=f03e699fb4603c8b1518936fc5c9c13a",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CONCERT_CHANNEL",
     "icono": "https://images.pluto.tv/channels/6868152657543d1f8be4ece3/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50",
 	    "headers": {
     "referer": "https://www.primevideo.com/",
@@ -1141,7 +1141,7 @@
     "name": "STINGRAY LOUD",
     "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004120/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=72e8220c83dab2d578d5872a4e4121c3&keyid%5B%5D=11111111111111118111000000000000",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_LOUD",
     "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104955_ld_h15_aa.png?w=400",
 	    "headers": {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
@@ -1151,7 +1151,7 @@
     "name": "STINGRAY VIBE",
     "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004119/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=f25c2a82230bd6670fd2e11ac61a7d6f&keyid%5B%5D=11111111111111118111000000000000",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_VIBE",
     "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104956_ld_h15_aa.png?w=400",
 	    "headers": {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
@@ -1159,13 +1159,8 @@
    },
    {
     "name": "STINGRAY iCONCERTS H.265",
-    "uri": "https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
-    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lrCNErQ3GVpyWZx0bZytQv5xIy1vOHjWpuNpX9qB2Q&s=10",
-	    "headers": {
-    "origin": "https://webtv.sk",
-    "referer": "https://webtv.sk/",
-    "user-agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2"
-		}
+    "uri": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lrCNErQ3GVpyWZx0bZytQv5xIy1vOHjWpuNpX9qB2Q&s=10"
    },
    {
     "name": "QELLO CONCERTS BY STINGRAY",
@@ -1199,7 +1194,7 @@
     "name": "Stingray iConcerts",
     "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-CONCERT-HD-H265/default.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=f0598f3147cfe6a63bedbaa51f5874e0&keyid%5B%5D=83c594956676633a47b16dc79cb41cdf",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_ICONCERTS",
     "icono": "https://i.postimg.cc/2ygd92x5/stingray-iconcerts.png",
 	    "headers": {
     "origin": "https://www.izzigo.tv",
@@ -1211,7 +1206,7 @@
     "name": "Stingray Classica",
     "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-CLASSICA-HD-H265/default.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=57e033bf857826b0d54451e56d92ebe6&keyid%5B%5D=fc71f5bd8cb052f3f41169d194891d91",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_CLASSICA",
     "icono": "https://i.postimg.cc/Fzk3S0Xx/stingray-classica.png",
 	    "headers": {
     "origin": "https://www.izzigo.tv",
@@ -1223,7 +1218,7 @@
     "name": "Stingray Juicebox",
     "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-JUICEBOX-HD-H265/default.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=20f9a557b58e37980370bbdc718a444e&keyid%5B%5D=dad7d94c86a19a01549e5aaf637ef967",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_JUICEBOX",
     "icono": "https://i.postimg.cc/MZcjG0DV/stingray-juicebox.png",
 	    "headers": {
     "origin": "https://www.izzigo.tv",
@@ -1235,7 +1230,7 @@
     "name": "Stingray Hits!",
     "uri": "https://live1-ott.izzigo.tv/6/out/u/dash/SKY-STINGRAY-HITS-HD-H265/default.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=973bb80c6d2eab41b83da0ebea7ca710&keyid%5B%5D=1c2efd84d8c2daeafaaf6b6cc38e43e9",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-",
     "icono": "https://i.postimg.cc/mZFt4LLJ/stingray-hits.png",
 	    "headers": {
     "origin": "https://www.izzigo.tv",
@@ -1247,7 +1242,7 @@
     "name": "Stingray Retro",
     "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/STINGRAY-RETRO-HD-H265/default.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=7d854e49b750c70f29ba9ed15e6b192a&keyid%5B%5D=21c43423bec433c52908824670ea11c9",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_RETRO",
     "icono": "https://i.postimg.cc/4yC4ycft/stingray-retro.png",
           "headers": {
     "origin": "https://www.izzigo.tv",
@@ -1257,15 +1252,8 @@
    },
    {
     "name": "RETRO MUSIC TELEVISION",
-    "uri": "https://dash2.antik.sk/stream/hisi_retro_music/playlist_cbcs.mpd",
-    "drm_scheme": "widevine",
-    "drm_license_uri": "https://drm.antik.sk/widevine/key",
-    "icono": "https://play-lh.googleusercontent.com/1DLP1wx7J-7mecGjQjtec9NVzkNxkG6Yv4LzyUf4ltjnoYCYucAYksREJWa5lwWS3BWc",
-	    "headers": {
-    "origin": "https://webtv.sk",
-    "referer": "https://webtv.sk/",
-    "user-agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2"
-		}
+    "uri": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+    "icono": "https://play-lh.googleusercontent.com/1DLP1wx7J-7mecGjQjtec9NVzkNxkG6Yv4LzyUf4ltjnoYCYucAYksREJWa5lwWS3BWc"
    },
    {
     "name": "TV REBEL",
@@ -1388,6 +1376,26 @@
     "icono": "https://images.plex.tv/photo?size=medium-360&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F4171a6a6-6d73-481a-ad91-15166befee06%2FChannel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png"
    },
    {
+    "name": "XITE HITS",
+    "uri": "https://xite-rakuten.amagi.tv/playlist.m3u8",
+    "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
+   },
+   {
+    "name": "XITE HITS DE",
+    "uri": "https://xite-germany-lg.amagi.tv/playlist.m3u8",
+    "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
+   },
+   {
+    "name": "XITE HITS UK",
+    "uri": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
+    "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
+   },
+   {
+    "name": "XITE CELEBRATES",
+    "uri": "https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8",
+    "icono": "https://i.postimg.cc/25SLNc9Z/xite-celebrates.png"
+   },
+   {
     "name": "XITE ROCK X METAL",
     "uri": "https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8",
     "icono": "https://i.postimg.cc/Fs7XJjdQ/xite-rock-x-metal.png"
@@ -1406,26 +1414,6 @@
     "name": "XITE 90s THROWBACK",
     "uri": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
     "icono": "https://i.postimg.cc/bwB20XRw/xite-90s.png"
-   },
-   {
-    "name": "XITE HITS NL",
-    "uri": "https://xite-rakuten.amagi.tv/playlist.m3u8",
-    "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
-   },
-   {
-    "name": "XITE HITS DE",
-    "uri": "https://xite-germany-lg.amagi.tv/playlist.m3u8",
-    "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
-   },
-   {
-    "name": "XITE HITS UK",
-    "uri": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
-    "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
-   },
-   {
-    "name": "XITE CELEBRATES",
-    "uri": "https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8",
-    "icono": "https://i.postimg.cc/25SLNc9Z/xite-celebrates.png"
    },
    {
     "name": "XITE JUST CHILL",
@@ -1521,60 +1509,53 @@
     "name": "Telehit ",
     "uri": "https://live1-ott.izzigo.tv/15/out/u/dash/TELEHIT-SD/default.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=654256cc5939f6d502969b4fbbc47286&keyid%5B%5D=6ed36c5f7d0775e21f0748dd17520bc9",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT",
     "icono": "https://i.ibb.co/5Y4C401/telehit.png",
 	    "headers": {
     "origin": "https://www.izzigo.tv",
     "referer": "https://www.izzigo.tv/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 		}
    },
    {
     "name": "Telehit Música",
     "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-SD/default.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=1ab459db1bacf63917df0d35a1107c94&keyid%5B%5D=ae7d810bd4b89d31487577fbef6b747a",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT_MUSICA",
     "icono": "https://i.ibb.co/p4243Nf/Telehit-M-sica.png",
 	    "headers": {
     "origin": "https://www.izzigo.tv",
     "referer": "https://www.izzigo.tv/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 		}
    },
    {
-    "name": "Telehit  Música Plus",
+    "name": "Telehit  Plus",
     "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-PLUS-HD/default.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=083b3cd8fd642e4ab7ac601fdc53bd6c&keyid%5B%5D=d6480d79dd3e68cd3fd2f0e57113aa74",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT_PLUS",
     "icono": "https://i.postimg.cc/G36X3gB3/telehit-musica-plus.png",
 	    "headers": {
     "origin": "https://www.izzigo.tv",
     "referer": "https://www.izzigo.tv/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 		}
    },
    {
     "name": "TeleRitmo",
-    "uri": "https://live1-ott.izzigo.tv/11/out/u/dash/TELERITMO-HD/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=f345e1b35c357fa7137e7325059d95b1&keyid%5B%5D=2cf2398fa903f300962a0771512a93f1",
-    "icono": "https://i.postimg.cc/bwscY8fp/tele-ritmo.png",
-	    "headers": {
-    "origin": "https://www.izzigo.tv",
-    "referer": "https://www.izzigo.tv/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		}
+    "uri": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
+    "icono": "https://i.postimg.cc/bwscY8fp/tele-ritmo.png"
    },
    {
     "name": " Bandamax",
     "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=69864ad4b98d06e9fcf2430ed67b6c33&keyid%5B%5D=d014b4c7f22d490f56e2d7d3fe125c15",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BANDAMAX",
     "icono": "https://i.ibb.co/0D7TMmZ/Bandamax.png",
 	    "headers": {
     "origin": "https://www.izzigo.tv",
     "referer": "https://www.izzigo.tv/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 		}
    },
    {
@@ -1582,7 +1563,7 @@
     "uri": "https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true",
     "icono": "https://i.postimg.cc/mD65XXc9/cm.png",
 	    "headers": {
-    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36  WebAppManager"
+    "user-agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36  WebAppManager"
 		}
    },
    {
