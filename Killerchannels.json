@@ -1065,6 +1065,50 @@
     "icono": "https://i.postimg.cc/5twQNNYy/freetvhits-png.png"
    },
    {
+    "name": "Mi Música Reggaetón",
+    "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d288fc2da0339c9cfa178be4a07c4cd2&key%5B%5D=c0e25b5d30b6829b15266e84807a0ca6",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/320/320/0/0/11385912076761.png",
+	       "headers": {
+    "referer": "https://webclient.ctcplus.com.ar/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+           }
+   },
+   {
+    "name": "Mi Música Romántica",
+    "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0f1be10d0519e0c453105f01319fe407&key%5B%5D=9976d91bfcdc7dd2148d36af89027762",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/320/320/0/0/15712909076760.png",
+	       "headers": {
+    "referer": "https://webclient.ctcplus.com.ar/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+		   }
+   },
+   {
+    "name": "Mi Música Hits",
+    "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2246c747e5f4e1dc055050d178618935&key%5B%5D=c6c2a6693bec059ebced788d09d271f3",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/320/320/0/0/82379535077403.png",
+	       "headers": {
+    "referer": "https://webclient.ctcplus.com.ar/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+		   }
+   },
+   {
+    "name": "Mi Música K-Pop",
+    "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c6f0b2b0142007b8624de0c2d53962c8&key%5B%5D=46b8fb713fdd09a1c55b85b6f8ad9c9c",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/320/320/0/0/50713419076833.png",
+	    "headers": {
+    "referer": "https://webclient.ctcplus.com.ar/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+		}
+   },
+   {
     "name": "MTV JP",
     "uri": "http://42.118.247.37:9394/stream/74.m3u8",
     "icono": "https://i.ibb.co/HqPNtN1/mtv.png"
@@ -1919,6 +1963,17 @@
         "name": "NICK REWIND",
         "uri": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
         "icono": "https://i.imgur.com/Bw8rdAb.png"
+      },
+	  {
+        "name": "Bitme",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BITME",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/9/9c/BitMe_Red_Logo.svg/revision/latest/scale-to-width-down/711?cb=20250307002717",
+		  "headers": {
+            "referer": "https://www.primevideo.com/",
+            "user-agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+	          }
       },
       {
         "name": "TOONCAST",
