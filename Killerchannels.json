@@ -916,6 +916,17 @@
 	     }
    },
    {
+    "name": "HBO Family",
+    "uri": "https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOFAMILY_AR",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/320/320/0/0/7354519807335.png",
+	 "headers": {
+      "referer": "https://webclient.ctcplus.com.ar/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+       }
+   },
+   {
     "name": "HBO Mundi",
     "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-MUNDI-HD-H265/default.mpd",
     "drm_scheme": "clearkey",
@@ -928,6 +939,17 @@
 	     }
    },
    {
+    "name": "HBO Mudi",
+    "uri": "https://cdn.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOMUDI_AR",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/320/320/0/0/61157416071448.png",
+	 "headers": {
+      "referer": "https://webclient.ctcplus.com.ar/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+         }
+   },	
+   {
     "name": "HBO Plus",
     "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-PLUS-HD-H265/default.mpd",
     "drm_scheme": "clearkey",
@@ -937,6 +959,17 @@
       "origin": "https://www.izzigo.tv",
       "referer": "https://www.izzigo.tv/",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+         }
+   },
+   {
+    "name": "HBO Plus",
+    "uri": "https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPLUS_AR",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/320/320/0/0/10237380072165.png",
+	 "headers": {
+      "referer": "https://webclient.ctcplus.com.ar/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
          }
    },
    {
@@ -952,6 +985,17 @@
          }
    },
    {
+    "name": "HBO Pop",
+    "uri": "https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPOP_AR",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/320/320/0/0/68908128073927.png",
+	 "headers": {
+      "referer": "https://webclient.ctcplus.com.ar/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+         }
+   },
+   {
     "name": "HBO Signature",
     "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-SIGNATURE-HD-H265/default.mpd",
     "drm_scheme": "clearkey",
@@ -964,6 +1008,17 @@
          }
    },
    {
+    "name": "HBO Signature",
+    "uri": "https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOSIGNATURE_AR",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/320/320/0/0/3657655307500.png",
+	 "headers": {
+      "referer": "https://webclient.ctcplus.com.ar/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+   },
+   {
     "name": "HBO Xtreme",
     "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-XTREME-HD-H265/default.mpd",
     "drm_scheme": "clearkey",
@@ -974,7 +1029,18 @@
       "referer": "https://www.izzigo.tv/",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
           }
-       }
+   },
+   {
+    "name": "HBO Xtreme",
+    "uri": "https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOEXTREME_MX",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/320/320/0/0/6041444607334.png",
+	 "headers": {
+      "referer": "https://webclient.ctcplus.com.ar/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+   }
     ]
   },
   {
